@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Singapore Examinations and Assessment Board
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
