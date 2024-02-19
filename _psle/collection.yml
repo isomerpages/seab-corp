@@ -1,4 +1,5 @@
 collections:
   psle:
     output: true
-    order: []
+    order:
+      - About PSLE.md
