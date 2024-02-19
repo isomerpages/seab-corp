@@ -1,0 +1,7 @@
+collections:
+  psle:
+    output: true
+    order:
+      - PSLE.md
+      - About PSLE.md
+      - Train Disruption Advice.md

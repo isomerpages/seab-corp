@@ -1,15 +1,76 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SEAB_logo_w_caption_in_color__PNG_.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Examinations
+    url: /permalink
+    sublinks:
+      - title: PSLE
+        url: /psle
+      - title: GCE N(T) Level
+        url: /permalink
+      - title: GCE N(A) Level
+        url: /permalink
+      - title: GCE O-Level
+        url: /permalink
+      - title: GCE A-Level
+        url: /permalink
+  - title: Services
+    url: /permalink
+    sublinks:
+      - title: SEAB In-House Workshops
+        url: /permalink
+      - title: SEAB Workshops at AST
+        url: /permalink
+      - title: Training & Consultancy
+        url: /permalink
+      - title: Academic Publications
+        url: /permalink
+      - title: Distributors of Past Years' QP
+        url: /permalink
+      - title: Past Years' Results in DF
+        url: /permalink
+      - title: AEIS
+        url: /permalink
+      - title: S-AEIS
+        url: /permalink
+      - title: SPERS-Sec
+        url: /permalink
+      - title: SPE
+        url: /permalink
+      - title: iPSLE
+        url: /permalink
+  - title: News
+    url: /permalink
+    sublinks:
+      - title: Announcements
+        url: /permalink
+      - title: Press Releases
+        url: /permalink
+      - title: Media Responses
+        url: /permalink
+      - title: SEAB-link Newsletter
+        url: /permalink
+      - title: Parliamentary Questions
+        url: /permalink
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: What we do
+        url: /permalink
+      - title: Board Members
+        url: /permalink
+      - title: Management Team
+        url: /permalink
+      - title: Annual Reports
+        url: /permalink
+      - title: Career Opportunities
+        url: /permalink
+      - title: Exam Personnel Openings
+        url: /permalink
+      - title: Resources
+        url: /permalink
+      - title: Contact Us
+        url: /permalink
+      - title: Heritage Gallery
+        url: /permalink
+  - title: FAQs
+    url: /permalink
