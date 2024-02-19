@@ -1,4 +1,4 @@
-title: Title
+title: Singapore Examinations and Assessment Board
 url: https://www.seab.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -53,6 +53,6 @@ staging: https://staging-lite.d3dfq8o8mki60o.amplifyapp.com
 prod: https://master.d3lmfx40ccc97d.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
