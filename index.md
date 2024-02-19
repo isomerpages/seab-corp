@@ -31,4 +31,21 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Release of Singapore-Cambridge 2023 GCE A-Level Results
+      subtitle: Press Release
+      id: infopic
+      description: "Date: 23 February 2024"
+      button: Learn more
+      url: http://www.seab.gov.sg/home/news/press-releases/release-of-2023-singapore-cambridge-gce-a-level-examination-results-on-23-february-2024
+      image: /images/test1.png
+      alt: Image alt text
+  - infopic:
+      title: 2024 Registration Exercise for Private Candidates
+      subtitle: Announcement
+      id: infopic
+      button: Learn more
+      url: http://www.seab.gov.sg/home/examinations/UpdatesforPrivateCandidates
+      image: /images/test2.png
+      alt: Image alt text
 ---
