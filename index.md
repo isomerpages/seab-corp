@@ -4,7 +4,7 @@ title: Singapore Examinations and Assessment Board
 description: An Isomer site of the Singapore Government
 image: /images/favicon-isomer.ico
 permalink: /
-notification: ""
+notification: There will be a system maintenance on 2 Mar 2024 from 0200 to 0259.
 sections:
   - hero:
       background: /images/herobanner.png
@@ -22,12 +22,6 @@ sections:
         - title: A-LEVEL
           description: ""
           url: https://www.seab.gov.sg/home/examinations/gce-a-level
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: Release of Singapore-Cambridge 2023 GCE A-Level Results
       subtitle: Press Release
