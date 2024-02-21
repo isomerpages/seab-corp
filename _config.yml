@@ -10,7 +10,7 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#d78740"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d3dfq8o8mki60o.amplifyapp.com
 prod: https://master.d3lmfx40ccc97d.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo2.PNG
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""

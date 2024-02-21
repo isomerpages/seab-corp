@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Examinations and Assessment Board
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/logo2.PNG
 permalink: /
 notification: There will be a system maintenance on XX Feb 2024 from 0200 to 0259.
 sections:
