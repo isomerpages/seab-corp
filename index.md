@@ -4,13 +4,10 @@ title: Singapore Examinations and Assessment Board
 description: An Isomer site of the Singapore Government
 image: /images/favicon-isomer.ico
 permalink: /
-notification: There will be a system maintenance on XX Feb 2024 from 0200 to 0259.
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/herobanner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: PSLE
