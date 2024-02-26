@@ -4,7 +4,10 @@ title: Singapore Examinations and Assessment Board
 description: An Isomer site of the Singapore Government
 image: /images/favicon-isomer.ico
 permalink: /
-notification: There will be a system maintenance on 2 Mar 2024 from 0200 to 0259.
+notification: SEAB Website is scheduled for maintenance from 2 March 2024
+  (Saturday) 10pm to 3 March 2024 (Sunday) 6am. Access to  the website will be
+  intermittently affected during this period. We apologise for the inconvenience
+  caused.
 sections:
   - hero:
       background: /images/herobanner.png
