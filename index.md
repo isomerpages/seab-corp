@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Examinations and Assessment Board
-description: An Isomer site of the Singapore Government
+description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
 notification: SEAB Website is scheduled for maintenance from 2 March 2024
