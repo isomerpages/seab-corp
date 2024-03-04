@@ -36,16 +36,16 @@ answers to your questions.</p>
 </tbody>
 </table>
 <h4><strong>Use Our Digital Services</strong></h4>
-<p><strong>Website Search</strong>
+<p><strong>Website Search</strong> 
 <br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="https://www.seab.gov.sg/search?search=&amp;examination_level=&amp;year=&amp;sort=alphabet&amp;page=1" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
 find answers to your queries.</p>
-<p><strong>Frequently Asked Questions (FAQs)</strong>
+<p><strong>Frequently Asked Questions (FAQs)</strong> 
 <br>Before contacting us, try our <strong><a href="https://www.seab.gov.sg/home/seab-web/faqs/faq" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
 You may be able to find the answers you need.</p>
-<p><strong>Candidates Portal</strong>
+<p><strong>Candidates Portal</strong> 
 <br>Register for the GCE-Level examinations and view your results online via
 the <strong><a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a></strong>.</p>
-<p><strong>Ask SEAB</strong>
+<p><strong>Ask SEAB</strong> 
 <br>Did you know that Ask SEAB can assist you with some of your enquiries?</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -136,17 +136,17 @@ email/phone if your request can be addressed via these channels.
 <br>We will aim to confirm your appointment within 2 business days.
 <br>
 </p>
-<p><strong>Locate Us</strong>
+<p><strong>Locate Us</strong> 
 <br>Singapore Examinations and Assessment Board (SEAB)
 <br>298 Jalan Bukit Ho Swee
 <br>Singapore 169565</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8108526269843!2d103.82785487461636!3d1.2876142617734683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da197f71e74c17%3A0x640155d629854ff7!2sSingapore%20Examinations%20and%20Assessment%20Board!5e0!3m2!1sen!2ssg!4v1709517945773!5m2!1sen!2ssg"></iframe>
 </div>
-<p><strong>Transport to SEAB</strong>
+<p><strong>Transport to SEAB</strong> 
 <br>Directions to SEAB by train, taxi or car, can be found via this <a href="https://www.seab.gov.sg/docs/default-source/documents/enhanced-guide-to-seab-bhs.pdf?sfvrsn=ccec0579_2" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.
 <br>Other public transport options near SEAB are listed below:
-<br><strong>Bus Services</strong>
+<br><strong>Bus Services</strong> 
 <br>Alight near Tiong Bahru MRT Station: 5, 16, 16M, 33, 33A, 63, 121, 122,
 123, 123M, 195, 195A, 851
 <br>Alight along Lower Delta Road, near Beo Crescent: 14, 32, 64, 65, 121,
