@@ -145,8 +145,8 @@ email/phone if your request can be addressed via these channels.
 </div>
 <p><strong>Transport to SEAB</strong> 
 <br>Directions to SEAB by train, taxi or car, can be found via this <a href="https://www.seab.gov.sg/docs/default-source/documents/enhanced-guide-to-seab-bhs.pdf?sfvrsn=ccec0579_2" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.
-<br>Other public transport options near SEAB are listed below:
-<br><strong>Bus Services</strong> 
+<br>Other public transport options near SEAB are listed below:</p>
+<p><strong>Bus Services</strong> 
 <br>Alight near Tiong Bahru MRT Station: 5, 16, 16M, 33, 33A, 63, 121, 122,
 123, 123M, 195, 195A, 851
 <br>Alight along Lower Delta Road, near Beo Crescent: 14, 32, 64, 65, 121,
