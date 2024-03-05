@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Testing.md
-      - Distributors of Past Years' Papers.md
       - Train Disruption Advice.md
       - About PSLE.md
