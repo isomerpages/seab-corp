@@ -2,8 +2,8 @@ collections:
   psle:
     output: true
     order:
-      - Distributors of Past Years' Papers.md
-      - Testing.md
       - PSLE.md
-      - About PSLE.md
+      - Testing.md
+      - Distributors of Past Years' Papers.md
       - Train Disruption Advice.md
+      - About PSLE.md
