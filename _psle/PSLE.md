@@ -44,8 +44,8 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">e-Exam Resources for School Candidates</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="approved-dictionaries" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Approved Dictionary List" src="/images/approveddict.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Approved Dictionary List</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/approved-calculator" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/list-of-dictionaries-for-examination" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Approved Dictionary List" src="/images/approveddict.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Approved Dictionary List</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/approved-calculators" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Approved Calculator" src="/images/approvedcal.png">
