@@ -25,8 +25,10 @@ sections:
           description: ""
           url: /gce-a-level
       variant: floating
-      title: Singapore Examinations and Assessment Board
-      subtitle: 298 Jalan Bukit Ho Swee, Singapore 169565
+      title: Singapore Examinations and Assessment Board (SEAB)
+      subtitle: A Statutory board establised on 1 Apr 2004 to be your Trusted
+        Authority in Examinations & Assessments to develop and conduct national
+        examinations in Singapore.
       backgroundColor: gray
       alignment: left
       size: md
