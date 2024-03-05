@@ -2,6 +2,7 @@ collections:
   psle:
     output: true
     order:
+      - Distributors of Past Years' Papers.md
       - Testing.md
       - PSLE.md
       - About PSLE.md
