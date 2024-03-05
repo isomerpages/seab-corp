@@ -14,7 +14,7 @@ education, in Singapore.&nbsp;
 <tr>
 <th rowspan="1" colspan="1">
 <blockquote>
-<p><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/2024-psle-examination-calendar-(tentative)_vf_25-01-2024.pdf?sfvrsn=6de6830d_2" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Tentative)</a>
+<p><a href="https://go.gov.sg/2024-psle-examination-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Tentative)</a>
 </p>
 </blockquote>
 </th>
