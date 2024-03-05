@@ -2,5 +2,4 @@ collections:
   psle:
     output: true
     order:
-      - PSLE.md
       - Testing.md
