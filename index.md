@@ -10,7 +10,7 @@ notification: SEAB Website is scheduled for maintenance from 2 March 2024
   caused.
 sections:
   - hero:
-      background: /images/herobanner2.png
+      background: /images/seab_building.png
       key_highlights:
         - title: PSLE
           description: ""
