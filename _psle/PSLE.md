@@ -56,10 +56,10 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/results-slips-and-certificates-for-psle-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Results Slips" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Results Slips and Certificates for PSLE Candidates</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="key-exam-processes" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="psle-key-exam-processes" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BTS" src="/images/Keyexamprocesses.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSLE Key Exam Processes" src="/images/Keyexamprocesses.png">
 </div>
 </div>
 <div class="isomer-card-body">
