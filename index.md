@@ -11,20 +11,25 @@ notification: SEAB Website is scheduled for maintenance from 2 March 2024
 sections:
   - hero:
       background: /images/herobanner2.png
-      url: /contact-us/
       key_highlights:
         - title: PSLE
           description: ""
-          url: https://www.seab.gov.sg/home/examinations/psle
+          url: /psle
         - title: N(T)/N(A)-LEVEL
           description: ""
-          url: https://www.seab.gov.sg/home/examinations/gce-n(a)-level
+          url: /gce-n-level
         - title: O-LEVEL
           description: ""
-          url: https://www.seab.gov.sg/home/examinations/gce-o-level
+          url: /gce-o-level
         - title: A-LEVEL
           description: ""
-          url: https://www.seab.gov.sg/home/examinations/gce-a-level
+          url: /gce-a-level
+      variant: floating
+      title: Singapore Examinations and Assessment Board
+      subtitle: 298 Jalan Bukit Ho Swee, Singapore 169565
+      backgroundColor: gray
+      alignment: left
+      size: md
   - infopic:
       title: Release of Singapore-Cambridge 2023 GCE A-Level Results
       subtitle: Press Release
