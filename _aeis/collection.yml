@@ -2,4 +2,5 @@ collections:
   aeis:
     output: true
     order:
+      - AEIS Key Activities and Milestones.md
       - About AEIS.md
