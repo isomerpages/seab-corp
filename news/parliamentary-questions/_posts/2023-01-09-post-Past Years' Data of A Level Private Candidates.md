@@ -7,13 +7,13 @@ description: Past Years' Data of A Level Private Candidates
 image: ""
 variant: tiptap
 ---
-<p><strong>NAME AND CONSTITUENCY OF MEMBER OF PARLIAMENT</strong>
+<p><strong>NAME AND CONSTITUENCY OF MEMBER OF PARLIAMENT</strong> 
 <br>Mr Patrick Tay Teck Guan, West Coast GRC</p>
 <p><strong>QUESTION<br></strong>To ask the Minister for Education for each
 year from 2012 to 2022, what is the breakdown of those who have sat for
 the GCE “A” level examinations as a private candidate by (i) age (ii) gender
 and (iii) subject respectively.</p>
-<p><strong>RESPONSE</strong>
+<p><strong>RESPONSE</strong> 
 <br>1.&nbsp;The number of private candidates who have registered for the GCE
 A-Level examination have declined over the past decade, from about 1,500
 private candidates in 2012 to about 1,100 in the past three years.</p>
