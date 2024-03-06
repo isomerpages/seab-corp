@@ -55,7 +55,7 @@ sections:
       id: resources
       button: More Resources
   - infobar:
-      title: 💬 Can't find what you are looking for?
+      title: 💬 Can't find what you are                looking for?
       id: infobar
       description: Try using our site-wide search of Frequently Asked Questions (FAQs)
         to find answers to your queries.
