@@ -50,8 +50,7 @@ description: AEIS Key Activities and Milestones
 </p>
 </li>
 </ul>
-<p>
-<br>Important Note: The applicant must take the relevant Cambridge English
+<p>Important Note: The applicant must take the relevant Cambridge English
 Qualifications (CEQ) test run by Cambridge Assessment English (CAE) and
 meet or exceed the required scores before they register for the AEIS-Primary
 Mathematics test appropriate for their age. CEQ must be taken within 12
@@ -69,7 +68,7 @@ Exams’ found on Candidates Portal.</p>
 if application has been approved</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><br>AEIS Tests (Primary Levels)</strong>
+<p><strong>AEIS Tests (Primary Levels)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,12 +80,9 @@ if application has been approved</p>
 </li>
 </ul>
 <p><strong><br>Reminders:&nbsp;</strong> 
-<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Arrive at least 45 minutes before the test.</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Instructions will be given 15 minutes before the test begins.</p>
 </li>
@@ -95,7 +91,6 @@ if application has been approved</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p></p>
 <p><strong>Release of School Offers</strong>
 </p>
 <ul data-tight="true" class="tight">
