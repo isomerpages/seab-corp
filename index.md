@@ -66,6 +66,11 @@ sections:
       url: http://www.seab.gov.sg/home/examinations/UpdatesforPrivateCandidates
       image: /images/test2.png
       alt: Image alt text
+  - resources:
+      title: Highlights & News
+      subtitle: TOP INFORMATION
+      id: resources
+      button: More Resources
   - infobar:
       title: Can't find what you are looking for?
       id: infobar
@@ -73,9 +78,4 @@ sections:
         to find answers to your queries.
       button: View More
       url: /faq
-  - resources:
-      title: Highlights & News
-      subtitle: TOP INFORMATION
-      id: resources
-      button: More Resources
 ---
