@@ -39,7 +39,7 @@ links:
       - title: 𝑖PSLE
         url: /permalink
   - title: News
-    url: /news-overview
+    url: /news/
     sublinks:
       - title: Announcements
         url: /news/announcements
