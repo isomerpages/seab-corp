@@ -73,4 +73,9 @@ sections:
         to find answers to your queries.
       button: View More
       url: /faq
+  - resources:
+      title: Highlights & News
+      subtitle: TOP INFORMATION
+      id: resources
+      button: More Resources
 ---
