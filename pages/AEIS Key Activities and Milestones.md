@@ -23,6 +23,10 @@ description: AEIS Key Activities and Milestones
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>
 </p>
 <ul data-tight="true" class="tight">
@@ -109,4 +113,6 @@ if application has been approved</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
