@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Singapore Examinations and Assessment Board
+title: SEAB - Singapore Examinations and Assessment Board
 description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
