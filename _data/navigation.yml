@@ -1,18 +1,18 @@
 logo: /images/HomePage/SEAB_logo_in_color__png_7.png
 links:
   - title: Examinations
-    url: /permalink
+    url: /examinations-overview
     sublinks:
       - title: PSLE
         url: /psle
       - title: GCE N(T) Level
-        url: /permalink
+        url: /gce-n(t)-level
       - title: GCE N(A) Level
-        url: /permalink
+        url: /gce-n(a)-level
       - title: GCE O-Level
-        url: /permalink
+        url: /gce-o-level
       - title: GCE A-Level
-        url: /permalink
+        url: /gce-a-level
   - title: Services
     url: /services/services-overview
     sublinks:
