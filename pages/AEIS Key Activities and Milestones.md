@@ -14,12 +14,15 @@ description: AEIS Key Activities and Milestones
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="aeis_milestones_primary_image" src="/images/aeis_key_activities_and_milestones_primary4.png">
+<img style="width: 100%" height="auto" width="100%" alt="aeis_key_activities_and_milestones_primary_image" src="/images/aeis_key_activities_and_milestones_primary6.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>
 </p>
 <ul data-tight="true" class="tight">
@@ -31,7 +34,7 @@ description: AEIS Key Activities and Milestones
 <p>This can be done before the AEIS-Secondary Application opens</p>
 </li>
 </ul>
-<p><strong><br><br>Apply for AEIS-Primary<br></strong>
+<p><strong><br>Apply for AEIS-Primary<br></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -88,8 +91,6 @@ if application has been approved</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p></p>
-<p></p>
 <p></p>
 <p><strong>Release of School Offers</strong>
 </p>
