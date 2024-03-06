@@ -22,6 +22,7 @@ description: AEIS Key Activities and Milestones
 <p></p>
 <p>
 <br>
+<br>
 </p>
 <p><strong>Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a> 
 <br>◾<a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-on-account-creation-in-cp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>User Guide on Account Creation</u></a> 
@@ -47,6 +48,9 @@ Exams’ found on Candidates Portal.</p>
 <p></p>
 <p>Receive an email to retrieve entry proof from&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>,
 if application has been approved<strong>&nbsp;</strong>
+<br>
+<br>
+<br>
 </p>
 <p><strong>AEIS Tests (Primary Levels)</strong> 
 <br>◾Applicant will sit for the Mathematics test
@@ -55,6 +59,7 @@ if application has been approved<strong>&nbsp;</strong>
 <br>Arrive at least 45 minutes before the test.
 <br>◾Instructions will be given 15 minutes before the test begins.
 <br>◾Bring along a copy of your passport data page and entry proof.
+<br>
 <br>
 <br><strong>Release of School Offers</strong> 
 <br><strong>◾There will no release of test results.</strong> 
