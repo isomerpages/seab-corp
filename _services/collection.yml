@@ -2,5 +2,5 @@ collections:
   services:
     output: true
     order:
-      - SEAB Workshops at AST.md
       - SEAB In House Workshops.md
+      - SEAB Workshops at AST.md
