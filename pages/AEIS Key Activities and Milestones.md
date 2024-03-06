@@ -15,7 +15,7 @@ description: AEIS Key Activities and Milestones
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="aeis key activities and milestones primary" src="/images/aeis_key_activities_and_milestones_primary12.png">
+<img style="width: 100%" height="auto" width="100%" alt="aeis key activities and milestones for primary" src="/images/aeis_key_activities_and_milestones_primary13.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -46,15 +46,15 @@ Exams’ found on Candidates Portal.</p>
 <p>Receive an email to retrieve entry proof from&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>,
 if application has been approved<strong>&nbsp;</strong>
 </p>
-<p><strong>AEIS Tests (Primary Levels)</strong>
+<p><strong>AEIS Tests (Primary Levels)</strong> 
 <br>◾Applicant will sit for the Mathematics test
-<br>◾<a href="https://www.seab.gov.sg/home/services/aeis/aeis-test-details" rel="noopener noreferrer nofollow" target="_blank"><u>Test details</u></a>
+<br>◾<a href="https://www.seab.gov.sg/home/services/aeis/aeis-test-details" rel="noopener noreferrer nofollow" target="_blank"><u>Test details</u></a> 
 <br><strong><br>Reminders:&nbsp;</strong> 
 <br>Arrive at least 45 minutes before the test.
 <br>◾Instructions will be given 15 minutes before the test begins.
 <br>◾Bring along a copy of your passport data page and entry proof.
 <br>
-<br><strong>Release of School Offers</strong>
+<br><strong>Release of School Offers</strong> 
 <br><strong>◾There will no release of test results.</strong> 
 <br>◾<strong>Please refer to this <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> on how you can check the release of school offers. Once you have received the outcome, you may report to the offered school.&nbsp;</strong>
 </p>
