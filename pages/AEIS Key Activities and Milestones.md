@@ -16,7 +16,7 @@ description: AEIS Key Activities and Milestones
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AEIS_keyactivities-milestones-primary" src="/images/aeis_key_activities_and_milestones_primary.png">
+<img style="width: 100%" height="auto" width="100%" alt="aeis_milestones_primary_image" src="/images/aeis_key_activities_and_milestones_primary4.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -73,7 +73,7 @@ if application has been approved</p>
 </p>
 </li>
 </ul>
-<p><strong><br>Reminders:&nbsp;</strong>
+<p><strong><br>Reminders:&nbsp;</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
