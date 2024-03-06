@@ -2,6 +2,7 @@ collections:
   aeis:
     output: true
     order:
+      - Admissions Exercise for International Students (AEIS).md
       - Eligibility Criteria.md
       - AEIS Key Activities and Milestones.md
       - About AEIS.md
