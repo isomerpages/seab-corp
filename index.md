@@ -32,14 +32,9 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
   - textcards:
       title: Persona
       id: textcards
-      description: Select your preferred Persona
       cards:
         - title: School Candidates
           description: ""
@@ -53,6 +48,7 @@ sections:
           description: ""
           linktext: Learn more
           url: ""
+      subtitle: Select your preferred
   - infopic:
       title: Release of Singapore-Cambridge 2023 GCE A-Level Results
       subtitle: Press Release
@@ -70,4 +66,11 @@ sections:
       url: http://www.seab.gov.sg/home/examinations/UpdatesforPrivateCandidates
       image: /images/test2.png
       alt: Image alt text
+  - infobar:
+      title: Can't find what you are looking for?
+      id: infobar
+      description: Try using our site-wide search of Frequently Asked Questions (FAQs)
+        to find answers to your queries.
+      button: View More
+      url: /faq
 ---
