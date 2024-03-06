@@ -1,4 +1,5 @@
 collections:
   services:
     output: true
-    order: []
+    order:
+      - SEAB In House Workshops.md
