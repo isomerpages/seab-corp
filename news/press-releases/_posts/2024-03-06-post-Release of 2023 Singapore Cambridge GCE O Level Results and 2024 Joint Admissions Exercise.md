@@ -86,7 +86,7 @@ course through the Polytechnic Early Admissions Exercise3 (EAE)&nbsp;in
 2023 will have their offers confirmed and will not be eligible to participate
 in the JAE, if they meet the following criteria:</p>
 <p>a. A net ELR2B24&nbsp;score of 26 points or lower for the GCE O-Level
-examinations5; <u>and</u>
+examinations5; <u>and</u> 
 <br>b. Minimum Entry Requirements for the respective polytechnic courses.</p>
 <p>14. Students who do not meet the above criteria may still apply for polytechnic
 admission via the JAE for courses which they are eligible for.</p>
