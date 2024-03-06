@@ -38,27 +38,27 @@ sections:
       cards:
         - title: 👩🏻‍🎓 School Candidates
           description: ""
-          linktext: Learn more
+          linktext: Learn More 🖱️
           url: ""
         - title: 👨🏻‍🎓 Private Candidates
           description: ""
-          linktext: Learn more
+          linktext: Learn More 🖱️
           url: ""
         - title: 👩🏻‍🏫 Teachers
           description: ""
-          linktext: Learn more
+          linktext: Learn More 🖱️
           url: /services/services-overview
       subtitle: Select your preferred
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
       id: resources
-      button: More
+      button: 🔎 More
   - infobar:
-      title: 💬 Can't find what you are                looking for?
+      title: 💬 Can't find what you are looking for?
       id: infobar
-      description: Try using our site-wide search of Frequently Asked Questions (FAQs)
+      description: Try using our site-wide search or Frequently Asked Questions (FAQs)
         to find answers to your queries.
-      button: View More
+      button: "🔎 More "
       url: /faq
 ---
