@@ -15,7 +15,7 @@ description: AEIS Key Activities and Milestones
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="aeis key activities and milestones for primary" src="/images/aeis_key_activities_and_milestones_primary13.png">
+<img style="width: 100%" height="auto" width="100%" alt="aeis key activities and milestones for primary" src="/images/aeis_key_activities_and_milestones_primary14.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
