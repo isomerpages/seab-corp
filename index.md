@@ -32,6 +32,27 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
+  - textcards:
+      title: Persona
+      id: textcards
+      description: Select your preferred Persona
+      cards:
+        - title: School Candidates
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Private Candidates
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Teachers
+          description: ""
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Release of Singapore-Cambridge 2023 GCE A-Level Results
       subtitle: Press Release
