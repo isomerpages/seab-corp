@@ -37,6 +37,8 @@ Mathematics test appropriate for their age. CEQ must be taken within 12
 months before the month the applicant registers for AEIS.&nbsp;Application
 will close when all places for the test are filled.
 <br>
+<br>
+<br>
 <br><strong>Login to Candidates Portal&nbsp;</strong> 
 <br>Note: Status of approved applications will update from “Pending” to “Registered”
 at least 4 weeks from day of application. Candidates who have successfully
