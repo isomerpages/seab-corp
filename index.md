@@ -51,9 +51,9 @@ sections:
       subtitle: Select your preferred
   - resources:
       title: 📰 Highlights & News
-      subtitle: TOP INFORMATION
+      subtitle: LATEST
       id: resources
-      button: More Resources
+      button: More
   - infobar:
       title: 💬 Can't find what you are                looking for?
       id: infobar
