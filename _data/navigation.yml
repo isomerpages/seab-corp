@@ -14,7 +14,7 @@ links:
       - title: GCE A-Level
         url: /permalink
   - title: Services
-    url: /services-overview
+    url: /services/services-overview
     sublinks:
       - title: SEAB In-House Workshops
         url: /seab-in-house-workshops
