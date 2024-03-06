@@ -14,11 +14,9 @@ description: AEIS Key Activities and Milestones
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="aeis key activities and milestones for primary" src="/images/aeis_key_activities_and_milestones_primary8.png">
+<img style="width: 100%" height="auto" width="100%" alt="aeis key activities and milestones primary" src="/images/aeis_key_activities_and_milestones_primary12.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
@@ -49,16 +47,15 @@ Exams’ found on Candidates Portal.</p>
 if application has been approved<strong>&nbsp;</strong>
 </p>
 <p><strong>AEIS Tests (Primary Levels)</strong>
-</p>
-<p>◾Applicant will sit for the Mathematics test
-<br>◾<a href="https://www.seab.gov.sg/home/services/aeis/aeis-test-details" rel="noopener noreferrer nofollow" target="_blank"><u>Test details</u></a><strong><br>Reminders:&nbsp;</strong> 
-<br>Arrive at least 45 minutes before the test.</p>
-<p>◾Instructions will be given 15 minutes before the test begins.
-<br>◾Bring along a copy of your passport data page and entry proof.</p>
-<p>&nbsp;</p>
-<p><strong>Release of School Offers</strong>
-</p>
-<p><strong>◾There will no release of test results.</strong> 
+<br>◾Applicant will sit for the Mathematics test
+<br>◾<a href="https://www.seab.gov.sg/home/services/aeis/aeis-test-details" rel="noopener noreferrer nofollow" target="_blank"><u>Test details</u></a>
+<br><strong><br>Reminders:&nbsp;</strong> 
+<br>Arrive at least 45 minutes before the test.
+<br>◾Instructions will be given 15 minutes before the test begins.
+<br>◾Bring along a copy of your passport data page and entry proof.
+<br>
+<br><strong>Release of School Offers</strong>
+<br><strong>◾There will no release of test results.</strong> 
 <br>◾<strong>Please refer to this <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> on how you can check the release of school offers. Once you have received the outcome, you may report to the offered school.&nbsp;</strong>
 </p>
 <p>&nbsp;</p>
