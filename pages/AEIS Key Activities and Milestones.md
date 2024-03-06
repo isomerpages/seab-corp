@@ -68,4 +68,3 @@ if application has been approved<strong>&nbsp;</strong>
 </table>
 <p></p>
 <p></p>
-<p></p>
