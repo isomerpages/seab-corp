@@ -14,10 +14,10 @@ links:
       - title: GCE A-Level
         url: /permalink
   - title: Services
-    url: /permalink
+    url: /services-overview
     sublinks:
       - title: SEAB In-House Workshops
-        url: /permalink
+        url: /seab-in-house-workshops
       - title: SEAB Workshops at AST
         url: /permalink
       - title: Training & Consultancy
