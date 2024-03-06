@@ -47,7 +47,9 @@ registered may also retrieve useful information from ‘Getting Ready for
 Exams’ found on Candidates Portal.</p>
 <p></p>
 <p>Receive an email to retrieve entry proof from&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>,
-if application has been approved<strong>&nbsp;</strong>
+if application has been approved<strong>&nbsp;</strong> 
+<br>
+<br>
 <br>
 <br>
 <br>
