@@ -33,29 +33,29 @@ sections:
       alignment: left
       size: md
   - textcards:
-      title: Persona
+      title: 👥 Persona
       id: textcards
       cards:
-        - title: School Candidates
+        - title: 👩🏻‍🎓 School Candidates
           description: ""
           linktext: Learn more
           url: ""
-        - title: Private Candidates
+        - title: 👨🏻‍🎓 Private Candidates
           description: ""
           linktext: Learn more
           url: ""
-        - title: Teachers
+        - title: 👩🏻‍🏫 Teachers
           description: ""
           linktext: Learn more
           url: /services/services-overview
       subtitle: Select your preferred
   - resources:
-      title: Highlights & News
+      title: 📰 Highlights & News
       subtitle: TOP INFORMATION
       id: resources
       button: More Resources
   - infobar:
-      title: Can't find what you are looking for?
+      title: 💬 Can't find what you are looking for?
       id: infobar
       description: Try using our site-wide search of Frequently Asked Questions (FAQs)
         to find answers to your queries.
