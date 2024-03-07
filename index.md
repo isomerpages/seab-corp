@@ -18,7 +18,7 @@ sections:
       alignment: left
       size: md
   - textcards:
-      title: d
+      title: " "
       id: textcards
       cards:
         - title: 👩🏻‍🎓 School Candidates
