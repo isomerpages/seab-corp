@@ -34,11 +34,11 @@ sections:
       title: Personas
       id: textcards
       cards:
-        - title: 👩🏻‍🎓 School Candidates
+        - title: 👨🏻‍🎓 School Candidates
           description: ""
           linktext: Learn More 🖱️
           url: ""
-        - title: 👨🏻‍🎓 Private Candidates
+        - title: 🙋🏻‍♀️ Private Candidates
           description: ""
           linktext: Learn More 🖱️
           url: ""
