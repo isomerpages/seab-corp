@@ -65,7 +65,7 @@ sections:
         - title: 📚 Approved Dictionaries
           description: ""
           linktext: ""
-          url: https://file.go.gov.sg/list-of-dictionaries-for-examination.pdf
+          url: https://go.gov.sg/list-of-dictionaries-for-examination
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
