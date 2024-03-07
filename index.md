@@ -18,7 +18,7 @@ sections:
       alignment: left
       size: md
       key_highlights:
-        - title: 🖥️ Candidates Portal
+        - title: 🖥️              Candidates Portal
           description: ""
           url: https://myexams.seab.gov.sg/auth/login
         - title: 📅 Important Dates
@@ -27,7 +27,7 @@ sections:
         - title: ➗ Approved Calculators
           description: ""
           url: https://go.gov.sg/approved-calculators
-        - title: 📚 Approved Dictionaries
+        - title: 📚               Approved Dictionaries
           description: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
   - textcards:
