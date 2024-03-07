@@ -17,19 +17,19 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
-      key_highlights:
-        - title: 🖥️              Candidates Portal
-          description: ""
-          url: https://myexams.seab.gov.sg/auth/login
-        - title: 📅 Important Dates
-          description: ""
-          url: /important-dates-for-candidates
-        - title: ➗ Approved Calculators
-          description: ""
-          url: https://go.gov.sg/approved-calculators
-        - title: 📚               Approved Dictionaries
-          description: ""
-          url: /files/Approved%20Cal%20and%20Dict%20Files/list_of_dictionaries_for_examination.pdf
+      dropdown:
+        title: I am interested in...
+        options:
+          - title: PSLE
+            url: /psle
+          - title: GCE N(T) Level
+            url: /gce-n(t)-level
+          - title: GCE N(A) Level
+            url: /gce-n(a)-level
+          - title: GCE O Level
+            url: /gce-o-level
+          - title: GCE A Level
+            url: /gce-a-level
   - textcards:
       title: 👥 Personas
       id: textcards
@@ -46,6 +46,26 @@ sections:
           description: ""
           linktext: ""
           url: /services/services-overview
+  - textcards:
+      title: 🔗 Quicklinks
+      id: textcards
+      cards:
+        - title: 🖥️ Candidates Portal
+          description: ""
+          linktext: ""
+          url: https://myexams.seab.gov.sg/auth/login
+        - title: 📅 Important Dates
+          description: ""
+          linktext: ""
+          url: /important-dates-for-candidates
+        - title: ➗ Approved Calculators
+          description: ""
+          linktext: ""
+          url: https://go.gov.sg/approved-calculators
+        - title: 📚 Approved Dictionaries
+          description: ""
+          linktext: ""
+          url: https://file.go.gov.sg/list-of-dictionaries-for-examination.pdf
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
@@ -58,24 +78,4 @@ sections:
         to find answers to your queries.
       button: 🔎 View FAQ
       url: /faq
-  - textcards:
-      title: 🔗 Quicklinks
-      id: textcards
-      cards:
-        - title: 🖥️ Candidates Portal
-          description: ""
-          linktext: " "
-          url: https://myexams.seab.gov.sg/auth/login
-        - title: 📅 Important Dates
-          description: ""
-          linktext: " "
-          url: /important-dates-for-candidates
-        - title: ➗ Approved Calculators
-          description: ""
-          linktext: " "
-          url: https://go.gov.sg/approved-calculators
-        - title: 📚 Approved Dictionaries
-          description: ""
-          linktext: " "
-          url: https://file.go.gov.sg/list-of-dictionaries-for-examination.pdf
 ---
