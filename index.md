@@ -17,11 +17,8 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
-      dropdown:
-        title: I am interested in...
-        options: []
   - textcards:
-      title: " "
+      title: d
       id: textcards
       cards:
         - title: 👩🏻‍🎓 School Candidates
