@@ -18,35 +18,34 @@ sections:
       alignment: left
       size: md
       key_highlights:
-        - title: 👨🏻‍🎓 School Candidates
-          description: ""
-          url: /examinations-overview
-        - title: 🙋🏻‍♀️ Private Candidates
-          description: ""
-          url: /examinations-overview
-        - title: 👨🏻‍🏫 Teachers
-          description: ""
-          url: /services/services-overview
-  - textcards:
-      title: 🔗 Quicklinks
-      id: textcards
-      cards:
         - title: 🖥️ Candidates Portal
           description: ""
-          linktext: ""
           url: https://myexams.seab.gov.sg/auth/login
         - title: 📅 Important Dates
           description: ""
-          linktext: ""
           url: /important-dates-for-candidates
         - title: ➗ Approved Calculators
           description: ""
-          linktext: ""
           url: https://go.gov.sg/approved-calculators
         - title: 📚 Approved Dictionaries
           description: ""
-          linktext: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
+  - textcards:
+      title: 👥 Personas
+      id: textcards
+      cards:
+        - title: 👨🏻‍🎓 School Candidates
+          description: ""
+          linktext: ""
+          url: /examinations-overview
+        - title: 🙋🏻‍♀️ Private Candidates
+          description: ""
+          linktext: ""
+          url: /important-dates-for-candidates
+        - title: 👨🏻‍🏫 Teachers
+          description: ""
+          linktext: ""
+          url: /services/services-overview
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
