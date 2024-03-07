@@ -17,19 +17,19 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
-      dropdown:
-        title: I am interested in...
-        options:
-          - title: PSLE
-            url: /psle
-          - title: GCE N(T) Level
-            url: /gce-n(t)-level
-          - title: GCE N(A) Level
-            url: /gce-n(a)-level
-          - title: GCE O Level
-            url: /gce-o-level
-          - title: GCE A Level
-            url: /gce-a-level
+      key_highlights:
+        - title: 🖥️ Candidates Portal
+          description: ""
+          url: https://myexams.seab.gov.sg/auth/login
+        - title: 📅 Important Dates
+          description: ""
+          url: /important-dates-for-candidates
+        - title: ➗ Approved Calculators
+          description: ""
+          url: ""
+        - title: 📚 Approved Dictionaries
+          description: ""
+          url: https://file.go.gov.sg/list-of-dictionaries-for-examination.pdf
   - textcards:
       title: 👥 Personas
       id: textcards
