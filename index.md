@@ -44,13 +44,8 @@ sections:
           url: /examinations-overview
         - title: 👨🏻‍🏫 Teachers
           description: ""
-          linktext: " "
+          linktext: ""
           url: /services/services-overview
-  - resources:
-      title: 📰 Highlights & News
-      subtitle: LATEST
-      id: resources
-      button: 🔎 View All
   - textcards:
       title: 🔗 Quicklinks
       id: textcards
@@ -71,6 +66,11 @@ sections:
           description: ""
           linktext: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
+  - resources:
+      title: 📰 Highlights & News
+      subtitle: LATEST
+      id: resources
+      button: 🔎 View All
   - infobar:
       title: 💬 Can't find what you are looking for?
       id: infobar
