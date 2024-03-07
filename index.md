@@ -52,24 +52,24 @@ sections:
       id: resources
       button: 🔎 View All
   - textcards:
-      title: Quicklinks
+      title: 🔗 Quicklinks
       id: textcards
       cards:
         - title: 🖥️ Candidates Portal
           description: ""
-          linktext: " "
+          linktext: ""
           url: https://myexams.seab.gov.sg/auth/login
         - title: 📅 Important Dates
           description: ""
-          linktext: " "
+          linktext: ""
           url: /important-dates-for-candidates
         - title: ➗ Approved Calculators
           description: ""
-          linktext: " "
+          linktext: ""
           url: https://go.gov.sg/approved-calculators
-        - title: 📗 Approved Dictionaries
+        - title: 📚 Approved Dictionaries
           description: ""
-          linktext: " "
+          linktext: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
   - infobar:
       title: 💬 Can't find what you are looking for?
