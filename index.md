@@ -22,8 +22,16 @@ sections:
         options:
           - title: PSLE
             url: /psle
+          - title: GCE N(T) Level
+            url: /gce-n(t)-level
+          - title: GCE N(A) Level
+            url: /gce-n(a)-level
+          - title: GCE O Level
+            url: /gce-o-level
+          - title: GCE A Level
+            url: /gce-a-level
   - textcards:
-      title: " "
+      title: Personas
       id: textcards
       cards:
         - title: 👩🏻‍🎓 School Candidates
