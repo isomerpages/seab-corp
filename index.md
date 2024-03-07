@@ -53,12 +53,12 @@ sections:
       title: 📰 Highlights & News
       subtitle: LATEST
       id: resources
-      button: 🔎 More
+      button: 🔎 View All
   - infobar:
       title: 💬 Can't find what you are looking for?
       id: infobar
       description: Try using our site-wide search or Frequently Asked Questions (FAQs)
         to find answers to your queries.
-      button: "🔎 More "
+      button: 🔎 View FAQ
       url: /faq
 ---
