@@ -11,29 +11,17 @@ notification: SEAB Website is scheduled for maintenance from 2 March 2024
 sections:
   - hero:
       background: /images/HomePage/seab_building4.png
-      key_highlights:
-        - title: PSLE
-          description: ""
-          url: /psle
-        - title: N(T)/N(A)-LEVEL
-          description: ""
-          url: /gce-n-level
-        - title: O-LEVEL
-          description: ""
-          url: /gce-o-level
-        - title: A-LEVEL
-          description: ""
-          url: /gce-a-level
       variant: floating
       title: Singapore Examinations and Assessment Board
-      subtitle: A Statutory board establised on 1 Apr 2004 to be your Trusted
-        Authority in Examinations & Assessments to develop and conduct national
-        examinations in Singapore.
+      subtitle: Your Trusted Authority in Examinations and Assessments
       backgroundColor: gray
       alignment: left
       size: md
+      dropdown:
+        title: I am interested in...
+        options: []
   - textcards:
-      title: 👥 Persona
+      title: " "
       id: textcards
       cards:
         - title: 👩🏻‍🎓 School Candidates
@@ -48,12 +36,31 @@ sections:
           description: ""
           linktext: Learn More 🖱️
           url: /services/services-overview
-      subtitle: Select your preferred
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
       id: resources
       button: 🔎 View All
+  - textcards:
+      title: Quicklinks
+      id: textcards
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infobar:
       title: 💬 Can't find what you are looking for?
       id: infobar
