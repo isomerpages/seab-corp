@@ -55,22 +55,22 @@ sections:
       title: Quicklinks
       id: textcards
       cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: 🖥️ Candidates Portal
+          description: ""
+          linktext: " "
+          url: https://myexams.seab.gov.sg/auth/login
+        - title: 📅 Important Dates
+          description: ""
+          linktext: " "
+          url: /important-dates-for-candidates
+        - title: ➗ Approved Calculators
+          description: ""
+          linktext: " "
+          url: https://go.gov.sg/approved-calculators
+        - title: 📗 Approved Dictionaries
+          description: ""
+          linktext: " "
+          url: https://go.gov.sg/list-of-dictionaries-for-examination
   - infobar:
       title: 💬 Can't find what you are looking for?
       id: infobar
