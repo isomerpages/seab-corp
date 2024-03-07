@@ -26,7 +26,7 @@ sections:
           url: /important-dates-for-candidates
         - title: ➗ Approved Calculators
           description: ""
-          url: /list_of_dictionaries_for_examination.pdf
+          url: /files/Approved%20Cal%20and%20Dict%20Files/approved_calculators.pdf
         - title: 📚               Approved Dictionaries
           description: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
