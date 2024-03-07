@@ -31,7 +31,7 @@ sections:
           - title: GCE A Level
             url: /gce-a-level
   - textcards:
-      title: Personas
+      title: 👥 Personas
       id: textcards
       cards:
         - title: 👨🏻‍🎓 School Candidates
@@ -42,7 +42,7 @@ sections:
           description: ""
           linktext: Learn More 🖱️
           url: ""
-        - title: 👩🏻‍🏫 Teachers
+        - title: 👨🏻‍🏫 Teachers
           description: ""
           linktext: Learn More 🖱️
           url: /services/services-overview
