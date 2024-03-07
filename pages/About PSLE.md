@@ -4,7 +4,7 @@ permalink: /about-psle/
 variant: tiptap
 description: about psle
 ---
-<p>1The Primary School Leaving Examination (PSLE) is an annual national examination
+<p>The Primary School Leaving Examination (PSLE) is an annual national examination
 that is taken by candidates at the end of their final year of primary school
 education, in Singapore.&nbsp;</p>
 <p>Offered since the 1960s, the PSLE is an annual placement exercise for
