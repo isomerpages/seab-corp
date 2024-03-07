@@ -29,7 +29,7 @@ sections:
           url: ""
         - title: 📚 Approved Dictionaries
           description: ""
-          url: https://file.go.gov.sg/list-of-dictionaries-for-examination.pdf
+          url: /approvedictionaries
   - textcards:
       title: 👥 Personas
       id: textcards
