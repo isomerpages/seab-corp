@@ -36,15 +36,15 @@ sections:
       cards:
         - title: 👨🏻‍🎓 School Candidates
           description: ""
-          linktext: " "
+          linktext: ""
           url: /examinations-overview
         - title: 🙋🏻‍♀️ Private Candidates
           description: ""
-          linktext: " "
+          linktext: ""
           url: /examinations-overview
         - title: 👨🏻‍🏫 Teachers
           description: ""
-          linktext: Learn More 🖱️
+          linktext: " "
           url: /services/services-overview
   - resources:
       title: 📰 Highlights & News
