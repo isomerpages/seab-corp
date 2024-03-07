@@ -72,5 +72,10 @@ links:
         url: /contactus
       - title: Heritage Gallery
         url: /permalink
+  - title: Quicklinks
+    url: /quicklinks
+    sublinks:
+      - title: Approved Calculators
+        url: /apporovedcalculators
   - title: FAQs
     url: /faq
