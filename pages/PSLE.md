@@ -22,7 +22,7 @@ education, in Singapore.&nbsp;
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/psle-formats-examined-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Format Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE Formats Examined in 2024</div><div class="isomer-card-link">Learn More 🖱️</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/psle-formats-examined-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Format Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE Formats Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
