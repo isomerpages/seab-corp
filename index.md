@@ -58,4 +58,24 @@ sections:
         to find answers to your queries.
       button: 🔎 View FAQ
       url: /faq
+  - textcards:
+      title: 🔗 Quicklinks
+      id: textcards
+      cards:
+        - title: 🖥️ Candidates Portal
+          description: ""
+          linktext: " "
+          url: https://myexams.seab.gov.sg/auth/login
+        - title: 📅 Important Dates
+          description: ""
+          linktext: " "
+          url: /important-dates-for-candidates
+        - title: ➗ Approved Calculators
+          description: ""
+          linktext: " "
+          url: https://go.gov.sg/approved-calculators
+        - title: 📚 Approved Dictionaries
+          description: ""
+          linktext: " "
+          url: https://file.go.gov.sg/list-of-dictionaries-for-examination.pdf
 ---
