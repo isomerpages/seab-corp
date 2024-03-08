@@ -23,9 +23,9 @@ sections:
           - title: PSLE
             url: /psle
           - title: GCE N(T) Level
-            url: /gce-n(t)-level
+            url: /gce-nt-level
           - title: GCE N(A) Level
-            url: /gce-n(a)-level
+            url: /gce-na-level
           - title: GCE O Level
             url: /gce-o-level
           - title: GCE A Level
