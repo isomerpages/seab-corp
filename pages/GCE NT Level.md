@@ -9,7 +9,7 @@ Level (GCE N(T)-Level) examination is an annual national examination that
 is taken by school and private candidates in Singapore.
 <br>More information about the GCE N(T)-Level examination is available below.</p>
 <blockquote>
-<h4><strong>Examination Calendar 2024 (Tentative)</strong></h4>
+<h4><strong><a href="https://go.gov.sg/2024-gce-na-nt-level-exam-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Tentative)</a></strong></h4>
 </blockquote>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/nt-level-syllabuses-examined-for-school-candidates-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(T)-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"></div></div></a>
