@@ -7,15 +7,15 @@ description: PSLE candidates on QO
 image: ""
 variant: tiptap
 ---
-<p><strong>NAME AND CONSTITUENCY OF MEMBER OF PARLIAMENT</strong>
+<p><strong>NAME AND CONSTITUENCY OF MEMBER OF PARLIAMENT</strong> 
 <br>Mr Darryl David, Ang Mo Kio GRC</p>
-<p><strong>QUESTION</strong>
+<p><strong>QUESTION</strong> 
 <br>To ask the Minister for Education (a) what is the number of students who
 either could not take the 2021 Primary School Leaving Exams (PSLE) or had
 to take their PSLE in special circumstances due to the COVID-19 situation;
 and (b) how does the Ministry ensure that the grades allocated to students
 who could not take their exams is a fair and appropriate one.</p>
-<p><strong>RESPONSE</strong>
+<p><strong>RESPONSE</strong> 
 <br>1. 39,281 students registered for the 2021 PSLE written examinations that
 were held from 30 September 2021 to 6 October 2021. The overall attendance
 rate was 99.5%. About 430 (1.1%) students missed at least one paper due
