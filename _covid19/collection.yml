@@ -1,4 +1,5 @@
 collections:
   covid19:
     output: true
-    order: []
+    order:
+      - "COVID19: Updates.md"
