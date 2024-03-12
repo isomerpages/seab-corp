@@ -17,19 +17,16 @@ sections:
       backgroundColor: gray
       alignment: left
       size: md
-      dropdown:
-        title: I am interested in...
-        options:
-          - title: PSLE
-            url: /psle
-          - title: GCE N(T) Level
-            url: /gce-nt-level
-          - title: GCE N(A) Level
-            url: /gce-na-level
-          - title: GCE O Level
-            url: /gce-o-level
-          - title: GCE A Level
-            url: /gce-a-level
+      key_highlights:
+        - title: School Candidates
+          description: ""
+          url: ""
+        - title: Private Candidates
+          description: ""
+          url: ""
+        - title: Teachers
+          description: Key Highlight description
+          url: ""
   - textcards:
       title: 👥 Personas
       id: textcards
