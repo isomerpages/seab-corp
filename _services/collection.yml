@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Past Years' Results in Digital Form.md
       - Services Overview.md
       - Distributors of Past Years' Papers.md
       - SEAB In House Workshops.md
