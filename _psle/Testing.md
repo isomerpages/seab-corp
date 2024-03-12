@@ -17,7 +17,7 @@ description: ""
 <p><a href="/files/Approved Cal and Dict Files/approved_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">approved calculators</a>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/approved_calculators.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">cal</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/approved_calculators.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">cal</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
