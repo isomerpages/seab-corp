@@ -15,22 +15,13 @@ answers to your questions.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="candidates portal faqs" src="/images/cp_btn.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/faq/"><img style="width: 70%;" height="auto" width="100%" alt="candidates portal" src="/images/cp_btn.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="past years' results" src="/images/pyr_btn.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/services/statements-of-results"><img style="width: 70%;" height="auto" width="100%" alt="past years' results" src="/images/pyr_btn.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="important dates" src="/images/important_dates_btn.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/important-dates-for-candidates/"><img style="width: 70%;" height="auto" width="100%" alt="important dates" src="/images/important_dates_btn.png"></a>
 </th>
 </tr>
 </tbody>
