@@ -50,7 +50,7 @@ sections:
       title: 2024 Assessment Seminar
       id: infopic
       description: "Assessment in the 21st Century: Nurturing Future-Ready Learners."
-      button: Register Now
+      button: VIEW PROGRAMME DETAILS
       alt: Image alt text
       url: /services/2024-assessment-seminar
       image: /images/assessment_seminar_image.png
