@@ -20,10 +20,10 @@ sections:
       key_highlights:
         - title: 🖥️ Candidates Portal
           description: ""
-          url: ""
+          url: https://myexams.seab.gov.sg/auth/login
         - title: 📅 Important Dates
           description: ""
-          url: ""
+          url: /important-dates-for-candidates
         - title: ➗ Approved Calculators
           description: ""
           url: https://go.gov.sg/approved-calculators
