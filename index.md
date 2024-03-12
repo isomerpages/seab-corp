@@ -42,7 +42,7 @@ sections:
         - title: ➗ Approved Calculators
           description: ""
           linktext: ""
-          url: https://go.gov.sg/approved-calculators
+          url: /files/approved_calculators.pdf
         - title: 📚 Approved Dictionaries
           description: ""
           linktext: ""
