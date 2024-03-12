@@ -17,24 +17,6 @@ of the Singapore PSLE.</p>
 </p>
 </blockquote>
 <p></p>
-<p> <a href="#!" class="sgds-accordion-header" rel="noopener noreferrer nofollow" target="_blank">            accordion bar 1         </a> 
-</p>
-<p></p>
-<p>your content 1</p>
-<p></p>
-<p></p>
-<p></p>
-<p> <a class="sgds-accordion-header is-active" rel="noopener noreferrer nofollow" target="_blank">            accordion bar 2         </a> 
-</p>
-<p></p>
-<p>This is an example of a open section</p>
-<p></p>
-<p></p>
-<p></p>
-<p> <a class="sgds-accordion-header" rel="noopener noreferrer nofollow" target="_blank">            accordion bar 3         </a> 
-</p>
-<p></p>
-<p>your content 3</p>
 <p></p>
 <p></p>
 <p></p>
