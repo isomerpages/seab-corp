@@ -55,27 +55,35 @@ links:
     url: /about-us/what-we-do
     sublinks:
       - title: What we do
-        url: /permalink
+        url: /about-us/what-we-do
       - title: Board Members
-        url: /permalink
+        url: /about-us/what-we-do
       - title: Management Team
-        url: /permalink
+        url: /about-us/what-we-do
       - title: Annual Reports
-        url: /permalink
+        url: /about-us/annual-reports
       - title: Career Opportunities
-        url: /careers/
+        url: /about-us/careers/
       - title: Exam Personnel Openings
-        url: /permalink
+        url: /about-us/exam-personnel-openings
       - title: Resources
-        url: /permalink
+        url: /about-us/resources
       - title: Contact Us
-        url: /contactus
+        url: /about-us/contactus
       - title: Heritage Gallery
-        url: /permalink
+        url: /about-us/heritage-gallery
   - title: Quicklinks
     url: /quicklinks
     sublinks:
+      - title: Candidates Portal
+        url: https://myexams.seab.gov.sg/auth/login
+      - title: Important Dates
+        url: https://staging.d3lmfx40ccc97d.amplifyapp.com/important-dates-for-candidates
+      - title: Past Years' Results
+        url: /services/statements-of-results
       - title: Approved Calculators
-        url: /apporovedcalculators
+        url: https://go.gov.sg/approved-calculators
+      - title: Approved Dictionaries
+        url: https://go.gov.sg/list-of-dictionaries-for-examination
   - title: FAQs
     url: /faq
