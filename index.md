@@ -46,6 +46,44 @@ sections:
           description: ""
           linktext: ""
           url: ""
+  - infopic:
+      title: 2024 Assessment Seminar
+      id: infopic
+      description: "Assessment in the 21st Century: Nurturing Future-Ready Learners."
+      button: Register Now
+      alt: Image alt text
+      url: /services/2024-assessment-seminar
+      image: /images/assessment_seminar_image.png
+  - infopic:
+      title: SEAB-link Newsletter
+      id: infopic
+      description: Featuring the digital initiatives of SEAB.
+      button: VIEW ALL
+      alt: seab-link_img
+      image: /images/seablink.png
+      url: /news/seab-link-newsletter/
+  - infopic:
+      title: Career Opportunities
+      id: infopic
+      description: We are looking for team players who enjoy working in a dynamic and
+        creative work environment. Join our team for a rewarding and challenging
+        career.
+      button: View all
+      alt: career_opportunities
+      url: /about-us/careers/
+      image: /images/career_Opp.png
+  - resources:
+      title: 📰 Highlights & News
+      subtitle: LATEST
+      id: resources
+      button: 🔎 View All
+  - infobar:
+      title: 💬 Can't find what you are looking for?
+      id: infobar
+      description: Try using our site-wide search or Frequently Asked Questions (FAQs)
+        to find answers to your queries.
+      button: 🔎 View FAQ
+      url: /faq
   - textcards:
       title: 🔗 Quicklinks
       id: textcards
@@ -66,35 +104,4 @@ sections:
           description: ""
           linktext: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
-  - infopic:
-      title: Assessment Seminar
-      subtitle: LATEST NEWS
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: SEAB-link
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Careers
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - resources:
-      title: 📰 Highlights & News
-      subtitle: LATEST
-      id: resources
-      button: 🔎 View All
-  - infobar:
-      title: 💬 Can't find what you are looking for?
-      id: infobar
-      description: Try using our site-wide search or Frequently Asked Questions (FAQs)
-        to find answers to your queries.
-      button: 🔎 View FAQ
-      url: /faq
 ---
