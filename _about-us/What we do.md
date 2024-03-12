@@ -31,3 +31,26 @@ improve our knowledge and skills.
 outcomes. Together, each achieves more.</p>
 <p></p>
 <p></p>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Trade Facilitator</label>
+    <div>
+      <p>We facilitate customs connectivity across borders for a seamless and resilient end-to-end international supply chain and work closely with local and international partners to advance Singapore’s economy. For example, through Free Trade Agreements (FTAs), we work with our FTA partners to reduce trade barriers, enable faster and efficient clearance of goods, and provide for preferential tariff treatment for Singapore origin goods. Through Digital Economy Agreements (DEAs) and other bilateral agreements, we connect digitally to other Customs administrations to exchange data and digital documents, providing time and cost savings to companies.</p>
+    </div>
+                </li> 
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Trade Regulator</label>
+    <div>
+      <p>We uphold the rules of trade and tariffs and keep a close watch on strategic goods and technologies to maintain an effective and robust regulatory regime. In doing so, we contribute to international efforts to prevent the proliferation of arms, missiles and weapons of mass destruction and safeguard Singapore’s reputation as a global trade hub trusted by foreign trading partners and businesses. We maintain a robust duty and tax collection regime, that contributes about close to 15% of total government annual tax revenue, hence contributing to nation building.</p>
+    </div>
+                </li> 
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Law Enforcer</label>
+    <div>
+      <p>Adopting a whole-of-government approach, we protect Singapore’s revenue and level the playing field for law-abiding businesses by working closely with other agencies to enforce against revenue-related and trade offences. We also contribute to efforts to safeguard the integrity and security of the global supply chain by partnering regional and international counterparts to enforce against different types of illicit trade.</p>
+    </div>
+                </li> 
+</ul>
