@@ -2,9 +2,6 @@ collections:
   services:
     output: true
     order:
-      - School Placement Exercise for Returning Singaporeans Secondary (SPERS
-        Sec).md
-      - Supplementary Placement Exercise (SPE).md
       - Services Overview.md
       - SEAB In House Workshops.md
       - SEAB Workshops at AST.md
@@ -12,4 +9,7 @@ collections:
       - Academic Publications.md
       - Distributors of Past Years' Papers.md
       - Past Years' Results in Digital Form.md
+      - School Placement Exercise for Returning Singaporeans Secondary (SPERS
+        Sec).md
+      - Supplementary Placement Exercise (SPE).md
       - 𝑖PSLE.md
