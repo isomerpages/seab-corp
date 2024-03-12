@@ -22,7 +22,7 @@ sections:
           description: ""
           url: ""
         - title: 📅 Important Dates
-          description: " "
+          description: ""
           url: ""
         - title: ➗ Approved Calculators
           description: ""
@@ -36,15 +36,15 @@ sections:
       cards:
         - title: 👨🏻‍🎓 School Candidates
           description: ""
-          linktext: " "
+          linktext: ""
           url: ""
         - title: 🙋🏻‍♀️ Private Candidates
           description: ""
-          linktext: "  "
+          linktext: ""
           url: ""
         - title: 👨🏻‍🏫 Teachers
           description: ""
-          linktext: " "
+          linktext: ""
           url: ""
   - textcards:
       title: 🔗 Quicklinks
