@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - What we do.md
       - Annual Reports.md
       - Career Opportunities.md
+      - Contact Us.md
       - Examination Personnel Openings.md
       - Resources.md
