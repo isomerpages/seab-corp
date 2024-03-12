@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Examination Personnel Openings.md
       - What we do.md
       - Annual Reports.md
       - Career Opportunities.md
+      - Examination Personnel Openings.md
