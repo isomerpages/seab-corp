@@ -18,14 +18,14 @@ sections:
       alignment: left
       size: md
       key_highlights:
-        - title: 👥School Candidates
+        - title: 👨🏻‍🎓 School Candidates
           description: ""
           url: ""
-        - title: 👥Private Candidates
+        - title: 🙋🏻‍♀️ Private Candidates
           description: ""
           url: ""
-        - title: 👥Teachers
-          description: Key Highlight description
+        - title: 👨🏻‍🏫 Teachers
+          description: ""
           url: ""
   - textcards:
       title: 🔗 Quicklinks
