@@ -2,7 +2,6 @@ collections:
   services:
     output: true
     order:
-      - 𝑖PSLE.md
       - Services Overview.md
       - SEAB In House Workshops.md
       - SEAB Workshops at AST.md
@@ -10,3 +9,4 @@ collections:
       - Academic Publications.md
       - Distributors of Past Years' Papers.md
       - Past Years' Results in Digital Form.md
+      - 𝑖PSLE.md
