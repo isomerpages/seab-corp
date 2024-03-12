@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Annual Reports.md
       - What we do.md
+      - Annual Reports.md
       - Career Opportunities.md
