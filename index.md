@@ -18,14 +18,33 @@ sections:
       alignment: left
       size: md
       key_highlights:
+        - title: 🖥️ Candidates Portal
+          description: ""
+          url: ""
+        - title: 📅 Important Dates
+          description: " "
+          url: ""
+        - title: ➗ Approved Calculators
+          description: ""
+          url: https://go.gov.sg/approved-calculators
+        - title: 📚 Approved Dictionaries
+          description: ""
+          url: https://go.gov.sg/list-of-dictionaries-for-examination
+  - textcards:
+      title: 👥 Personas
+      id: textcards
+      cards:
         - title: 👨🏻‍🎓 School Candidates
           description: ""
+          linktext: " "
           url: ""
         - title: 🙋🏻‍♀️ Private Candidates
           description: ""
+          linktext: "  "
           url: ""
         - title: 👨🏻‍🏫 Teachers
           description: ""
+          linktext: " "
           url: ""
   - textcards:
       title: 🔗 Quicklinks
