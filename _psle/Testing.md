@@ -14,4 +14,5 @@ description: ""
 </div>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/Approved Cal and Dict Files/approved_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">approved calculators</a>
+</p>
