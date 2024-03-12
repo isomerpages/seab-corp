@@ -31,7 +31,7 @@ sections:
           - title: GCE A Level
             url: /gce-a-level
   - textcards:
-      title: " "
+      title: 👥 Personas
       id: textcards
       cards:
         - title: 👨🏻‍🎓 School Candidates
@@ -66,6 +66,25 @@ sections:
           description: ""
           linktext: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
+  - infopic:
+      title: Assessment Seminar
+      subtitle: LATEST NEWS
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: SEAB-link
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Careers
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
