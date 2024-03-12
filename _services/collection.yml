@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Supplementary Placement Exercise (SPE).md
       - Services Overview.md
       - SEAB In House Workshops.md
       - SEAB Workshops at AST.md
