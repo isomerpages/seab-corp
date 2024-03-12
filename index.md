@@ -28,22 +28,6 @@ sections:
           description: Key Highlight description
           url: ""
   - textcards:
-      title: 👥 Personas
-      id: textcards
-      cards:
-        - title: 👨🏻‍🎓 School Candidates
-          description: ""
-          linktext: ""
-          url: /examinations-overview
-        - title: 🙋🏻‍♀️ Private Candidates
-          description: ""
-          linktext: ""
-          url: /important-dates-for-candidates
-        - title: 👨🏻‍🏫 Teachers
-          description: ""
-          linktext: ""
-          url: /services/services-overview
-  - textcards:
       title: 🔗 Quicklinks
       id: textcards
       cards:
