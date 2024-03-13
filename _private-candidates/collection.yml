@@ -2,4 +2,5 @@ collections:
   private-candidates:
     output: true
     order:
+      - GCE NT Level/Overview.md
       - GCE NT Level/.keep
