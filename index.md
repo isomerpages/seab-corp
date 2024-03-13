@@ -36,16 +36,16 @@ sections:
       cards:
         - title: 👨🏻‍🎓 School Candidates
           description: ""
-          linktext: ""
-          url: ""
+          linktext: " "
+          url: /school-candidates/
         - title: 🙋🏻‍♀️ Private Candidates
           description: ""
-          linktext: ""
-          url: ""
+          linktext: " "
+          url: /private-candidates/
         - title: 👨🏻‍🏫 Teachers
           description: ""
-          linktext: ""
-          url: ""
+          linktext: " "
+          url: /teachers/
   - infopic:
       title: 2024 Assessment Seminar
       id: infopic
