@@ -2,7 +2,6 @@ collections:
   school-candidates:
     output: true
     order:
-      - School Candidates.md
       - GCE NA Level/.keep
       - GCE A Level/.keep
       - GCE O Level/.keep
