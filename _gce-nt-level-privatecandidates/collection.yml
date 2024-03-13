@@ -1,5 +1,5 @@
 collections:
-  nt-level-private-candidates:
+  gce-nt-level-privatecandidates:
     output: true
     order:
       - GCE N(T) Level for Private Candidates.md
