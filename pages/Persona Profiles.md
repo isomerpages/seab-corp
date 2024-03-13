@@ -4,9 +4,11 @@ permalink: /choose-your-profile/
 variant: tiptap
 description: Persona Profiles
 ---
-<h2>Select your profile</h2>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/school-candidates/gce-nt-level/gce-nt-level-for-school-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="School Candidates Image" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Candidate</div><div class="isomer-card-link"> </div></div></a>
+<p>The Singapore-Cambridge General Certificate of Education Normal (Technical)
+Level (GCE N(T)-Level) examination is an annual national examination that
+is taken by school and private candidates in Singapore.</p>
+<p>More information about the GCE N(T)-Level examination is available below.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/school-candidates/gce-nt-level/gce-nt-level-for-school-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="School Candidates Image" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Candidate</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="/private-candidates/gce-nt-level/overview/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
