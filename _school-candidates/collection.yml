@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Candidates.md
-      - Overview.md
       - GCE NA Level/.keep
       - GCE A Level/.keep
       - GCE O Level/.keep
