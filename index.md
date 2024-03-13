@@ -36,15 +36,15 @@ sections:
       cards:
         - title: 👨🏻‍🎓 School Candidates
           description: ""
-          linktext: " "
+          linktext: ""
           url: /school-candidates/
         - title: 🙋🏻‍♀️ Private Candidates
           description: ""
-          linktext: " "
+          linktext: ""
           url: /private-candidates/
         - title: 👨🏻‍🏫 Teachers
           description: ""
-          linktext: " "
+          linktext: ""
           url: /teachers/
   - infopic:
       title: 2024 Assessment Seminar
@@ -71,7 +71,7 @@ sections:
       button: View all
       alt: career_opportunities
       url: /about-us/careers/
-      image: /images/MicrosoftTeams_image__3_.jpg
+      image: /images/careers.jpg
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
