@@ -1,0 +1,4 @@
+collections:
+  school-candidates:
+    output: true
+    order: []
