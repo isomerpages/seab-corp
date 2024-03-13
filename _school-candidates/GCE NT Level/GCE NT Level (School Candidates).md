@@ -10,9 +10,9 @@ Level (GCE N(T)-Level) examination is an annual national examination that
 is taken by school and private candidates in Singapore.
 <br>More information about the GCE N(T)-Level examination is available below.</p>
 <blockquote>
-<h4><strong><a href="https://go.gov.sg/2024-gce-na-nt-level-exam-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Tentative)</a></strong></h4>
-</blockquote>
+<p>Examination Calendar 2024 (Tentative)</p>
 <p></p>
+</blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/nt-level-syllabuses-examined-for-school-candidates-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N(T)-Level Syllabuses Examined in 2024" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(T)-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/nt-level-syllabuses-examined-for-school-candidates-2025" class="isomer-card">
 <div class="isomer-card-image">
@@ -68,6 +68,6 @@ is taken by school and private candidates in Singapore.
 <div class="isomer-card-title">Train Distruption Advice</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/about-gce-nt-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About GCE N(T)-Level" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About GCE N(T)-Level</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/school-candidates/gce-nt-level/about-gce-nt-level/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About GCE N(T)-Level" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About GCE N(T)-Level</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
