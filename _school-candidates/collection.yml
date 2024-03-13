@@ -1,4 +1,5 @@
 collections:
   school-candidates:
     output: true
-    order: []
+    order:
+      - GCE NT Level (School Candidates).md
