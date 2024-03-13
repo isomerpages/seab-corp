@@ -17,21 +17,21 @@ links:
     url: /services/services-overview
     sublinks:
       - title: SEAB In-House Workshops
-        url: /seab-in-house-workshops
+        url: /services/seab-in-house-workshops
       - title: SEAB Workshops at AST
-        url: /permalink
+        url: /services/seab-workshops-at-ast
       - title: Training & Consultancy
-        url: /permalink
+        url: /services/training-consultancy
       - title: Academic Publications
-        url: /permalink
+        url: /services/academic-publications
       - title: Distributors of Past Years' QP
-        url: /permalink
+        url: /services/distributors-of-past-years-question-papers
       - title: Past Years' Results in DF
         url: /services/statements-of-results
       - title: AEIS
         url: /aeis/aeis-overview
       - title: S-AEIS
-        url: /permalink
+        url: /s-aeis/
       - title: SPERS-Sec
         url: /permalink
       - title: SPE
