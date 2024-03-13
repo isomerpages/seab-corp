@@ -53,14 +53,14 @@ sections:
       button: VIEW PROGRAMME DETAILS
       alt: Image alt text
       url: /services/2024-assessment-seminar
-      image: /images/assessment_seminar_image.png
+      image: /images/assessment_seminar_image2.png
   - infopic:
       title: SEAB-link Newsletter
       id: infopic
       description: Featuring the digital initiatives of SEAB.
       button: VIEW ALL
       alt: seab-link_img
-      image: /images/seablink.png
+      image: /images/seab_link_image2.png
       url: /news/seab-link-newsletter/
   - infopic:
       title: Career Opportunities
@@ -71,7 +71,7 @@ sections:
       button: View all
       alt: career_opportunities
       url: /about-us/careers/
-      image: /images/career_Opp.png
+      image: /images/MicrosoftTeams_image__3_.jpg
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
