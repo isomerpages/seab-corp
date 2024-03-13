@@ -1,0 +1,4 @@
+collections:
+  gce-nt-level-schoolcandidates:
+    output: true
+    order: []
