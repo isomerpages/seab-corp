@@ -2,6 +2,7 @@ collections:
   school-candidates:
     output: true
     order:
+      - GCE O Level/.keep
       - GCE NT Level/.keep
       - GCE NT Level/GCE NT Level (School Candidates).md
       - GCE NT Level/About GCE NT Level.md
