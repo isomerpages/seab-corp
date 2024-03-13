@@ -4,10 +4,8 @@ permalink: /gce-nt-level/gce-nt-level-school-candidates/
 variant: tiptap
 description: GCE NT Level for School Candidates
 ---
-<p>The Singapore-Cambridge General Certificate of Education Normal (Technical)
-Level (GCE N(T)-Level) examination is an annual national examination that
-is taken by school and private candidates in Singapore.
-<br>More information about the GCE N(T)-Level examination is available below.</p>
+<p>More information about the GCE N(T)-Level examination for school candidates
+is available below.</p>
 <blockquote>
 <p><strong><a href="https://go.gov.sg/2024-gce-na-nt-level-exam-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
