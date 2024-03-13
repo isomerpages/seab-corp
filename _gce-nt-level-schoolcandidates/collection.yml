@@ -1,5 +1,4 @@
 collections:
   gce-nt-level-schoolcandidates:
     output: true
-    order:
-      - GCE N(T) Level for School Candidates.md
+    order: []
