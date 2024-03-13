@@ -1,0 +1,4 @@
+collections:
+  private-candidates:
+    output: true
+    order: []
