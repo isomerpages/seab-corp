@@ -60,7 +60,7 @@ sections:
       description: Featuring the digital initiatives of SEAB.
       button: VIEW ALL
       alt: seab-link_img
-      image: /images/seab_link_image2.png
+      image: /images/seab_link_img.png
       url: /news/seab-link-newsletter/
   - infopic:
       title: Career Opportunities
