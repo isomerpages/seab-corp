@@ -1,0 +1,4 @@
+collections:
+  nt-level-private-candidates:
+    output: true
+    order: []
