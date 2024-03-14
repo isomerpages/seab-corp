@@ -1,4 +1,5 @@
 collections:
   gce-a-level:
     output: true
-    order: []
+    order:
+      - GCE A Level for Private Candidates.md
