@@ -11,7 +11,7 @@ variant: markdown
 </div></li>  
   
 <li><input type="checkbox" id="accordion2">  
-<h3><label for="accordion2">Testing</label></h3><div>  
+<label for="accordion2">Testing</label><div>
 <h5>ABC</h5>  
 </div></li>  
   
