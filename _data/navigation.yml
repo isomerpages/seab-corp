@@ -85,5 +85,7 @@ links:
         url: https://go.gov.sg/approved-calculators
       - title: Approved Dictionaries
         url: https://go.gov.sg/list-of-dictionaries-for-examination
+      - title: Test
+        url: /example-page/
   - title: FAQs
     url: /faq
