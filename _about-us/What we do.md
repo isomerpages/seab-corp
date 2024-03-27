@@ -52,7 +52,7 @@ outcomes. Together, each achieves more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Wong_Siew_Hoong.png">
 </div>
-<p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong>
+<p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong> 
 <br>Advisor, Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,24 +65,24 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 51%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
 </div>
-<p><strong>Prof Tan Cheng Yian Bernard</strong>
+<p><strong>Prof Tan Cheng Yian Bernard</strong> 
 <br>Senior Vice-Provost (Undergraduate Education), National University of
 Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 59%;" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Juthika_Ramanathan.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Juthika_Ramanathan.png">
 </div>
-<p><strong>Ms Juthika Ramanathan</strong>
+<p><strong>Ms Juthika Ramanathan</strong> 
 <br>Chief Executive (Office of the Chief Justice), Supreme Court of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
+<img style="width: 37%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
 </div>
-<p><strong>Mr Chin Chi Leong</strong>
+<p><strong>Mr Chin Chi Leong</strong> 
 <br>Deputy Chief Executive Officer (Building Control)/Comissioner of Buildings,
 Building and Construction Authority (BCA)</p>
 </td>
