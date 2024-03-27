@@ -1,7 +1,7 @@
 ---
 title: What we do
 permalink: /about-us/what-we-do/
-variant: markdown
+variant: tiptap
 description: What we do
 ---
 <p>The Singapore Examinations and Assessment Board (SEAB) was established
@@ -29,28 +29,86 @@ one makes a unique contribution to our organisation.
 improve our knowledge and skills.
 <br><strong>Teamwork<br></strong>We combine our talents and effort for superior
 outcomes. Together, each achieves more.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Board Members</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Trade Facilitator</label>
-    <div>
-      <p>We facilitate customs connectivity across borders for a seamless and resilient end-to-end international supply chain and work closely with local and international partners to advance Singapore’s economy. For example, through Free Trade Agreements (FTAs), we work with our FTA partners to reduce trade barriers, enable faster and efficient clearance of goods, and provide for preferential tariff treatment for Singapore origin goods. Through Digital Economy Agreements (DEAs) and other bilateral agreements, we connect digitally to other Customs administrations to exchange data and digital documents, providing time and cost savings to companies.</p>
-    </div>
-                </li> 
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Trade Regulator</label>
-    <div>
-      <p>We uphold the rules of trade and tariffs and keep a close watch on strategic goods and technologies to maintain an effective and robust regulatory regime. In doing so, we contribute to international efforts to prevent the proliferation of arms, missiles and weapons of mass destruction and safeguard Singapore’s reputation as a global trade hub trusted by foreign trading partners and businesses. We maintain a robust duty and tax collection regime, that contributes about close to 15% of total government annual tax revenue, hence contributing to nation building.</p>
-    </div>
-                </li> 
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Law Enforcer</label>
-    <div>
-      <p>Adopting a whole-of-government approach, we protect Singapore’s revenue and level the playing field for law-abiding businesses by working closely with other agencies to enforce against revenue-related and trade offences. We also contribute to efforts to safeguard the integrity and security of the global supply chain by partnering regional and international counterparts to enforce against different types of illicit trade.</p>
-    </div>
-                </li> 
-</ul>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Wong_Siew_Hoong.png">
+</div>
+<p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong>
+</p>
+<p>Advisor, Ministry of Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
+</div>
+<p><strong>Prof Tan Cheng Yian Bernard</strong>
+</p>
+<p>Senior Vice-Provost (Undergraduate Education), National University of
+Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Juthika_Ramanathan.png">
+</div>
+<p><strong>Ms Juthika Ramanathan</strong> 
+</p>
+<p>Chief Executive (Office of the Chief Justice), Supreme Court of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dsa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>dsadas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dsa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Management Team</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
