@@ -65,7 +65,7 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
+<img style="width: 84%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
 </div>
 <p><strong>Prof Tan Cheng Yian Bernard</strong> 
 <br>Senior Vice-Provost (Undergraduate Education), National University of
