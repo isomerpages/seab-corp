@@ -50,7 +50,7 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Wong_Siew_Hoong.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Wong_Siew_Hoong.png">
 </div>
 <p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong> 
 <br>Advisor, Ministry of Education</p>
@@ -65,7 +65,7 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
+<img style="width: 85%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
 </div>
 <p><strong>Prof Tan Cheng Yian Bernard</strong> 
 <br>Senior Vice-Provost (Undergraduate Education), National University of
@@ -80,7 +80,7 @@ Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
 </div>
 <p><strong>Mr Chin Chi Leong</strong> 
 <br>Deputy Chief Executive Officer (Building Control)/Comissioner of Buildings,
