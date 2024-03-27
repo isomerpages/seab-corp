@@ -65,7 +65,7 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
 </div>
 <p><strong>Prof Tan Cheng Yian Bernard</strong> 
 <br>Senior Vice-Provost (Undergraduate Education), National University of
@@ -73,14 +73,14 @@ Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Juthika_Ramanathan.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Juthika_Ramanathan.png">
 </div>
 <p><strong>Ms Juthika Ramanathan</strong> 
 <br>Chief Executive (Office of the Chief Justice), Supreme Court of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 37%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
 </div>
 <p><strong>Mr Chin Chi Leong</strong> 
 <br>Deputy Chief Executive Officer (Building Control)/Comissioner of Buildings,
