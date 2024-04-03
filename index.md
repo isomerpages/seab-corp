@@ -18,18 +18,18 @@ sections:
       alignment: left
       size: md
       key_highlights:
-        - title: 🖥️ Candidates Portal
+        - title: PSLE
           description: ""
-          url: https://myexams.seab.gov.sg/auth/login
-        - title: 📅 Important Dates
+          url: /psle
+        - title: GCE N(T)/N(A)
           description: ""
-          url: /important-dates-for-candidates
-        - title: ➗ Approved Calculators
+          url: /gce-nt-na
+        - title: O-Level
           description: ""
-          url: https://go.gov.sg/approved-calculators
-        - title: 📚 Approved Dictionaries
+          url: /gce-o-level
+        - title: A-Level
           description: ""
-          url: https://go.gov.sg/list-of-dictionaries-for-examination
+          url: /gce-a-level
   - textcards:
       title: 👥 Personas
       id: textcards
@@ -46,6 +46,26 @@ sections:
           description: ""
           linktext: ""
           url: /teachers/
+  - textcards:
+      title: 🔗 Quicklinks
+      id: textcards
+      cards:
+        - title: 🖥️ Candidates Portal
+          description: ""
+          linktext: ""
+          url: https://myexams.seab.gov.sg/auth/login
+        - title: 📅 Important Dates
+          description: ""
+          linktext: ""
+          url: /important-dates-for-candidates
+        - title: ➗ Approved Calculators
+          description: ""
+          linktext: ""
+          url: https://go.gov.sg/approved-calculators
+        - title: 📚 Approved Dictionaries
+          description: ""
+          linktext: ""
+          url: https://go.gov.sg/list-of-dictionaries-for-examination
   - infopic:
       title: 2024 Assessment Seminar
       id: infopic
@@ -84,24 +104,4 @@ sections:
         to find answers to your queries.
       button: 🔎 View FAQ
       url: /faq
-  - textcards:
-      title: 🔗 Quicklinks
-      id: textcards
-      cards:
-        - title: 🖥️ Candidates Portal
-          description: ""
-          linktext: ""
-          url: https://myexams.seab.gov.sg/auth/login
-        - title: 📅 Important Dates
-          description: ""
-          linktext: ""
-          url: /important-dates-for-candidates
-        - title: ➗ Approved Calculators
-          description: ""
-          linktext: ""
-          url: https://go.gov.sg/approved-calculators
-        - title: 📚 Approved Dictionaries
-          description: ""
-          linktext: ""
-          url: https://go.gov.sg/list-of-dictionaries-for-examination
 ---
