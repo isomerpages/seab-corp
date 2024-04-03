@@ -23,7 +23,7 @@ sections:
           url: /psle
         - title: GCE N(T)/N(A)
           description: ""
-          url: /gce-nt-na
+          url: /gce-n-t-or-gce-n-a/
         - title: O-Level
           description: ""
           url: /gce-o-level
