@@ -86,10 +86,16 @@ PRACTICE</summary>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>IMAGE1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/book_vol2_tmb_medium.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>IMAGE2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="assessment in singapore vol2" src="/images/Services/Academic Publications/vol2b.jpg">
+</div>
 </th>
 </tr>
 </tbody>
@@ -123,10 +129,16 @@ for Classroom Practice.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>IMAGE1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/book_vol3_tmb_medium.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>IMAGE2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/vol3b_tmb_medium.jpg">
+</div>
 </th>
 </tr>
 </tbody>
@@ -152,6 +164,9 @@ into essays to broaden the reach to more educators.</p>
 <summary>ASSESSMENNT IN SINGAPORE VOLUME 4: GETTING READY FOR THE 2020S</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/vol4b_tmb_medium.jpg">
+</div>
 <p>Assessment in Singapore: Volume 4 - Getting Ready for the 2020s encapsulates
 new assessment concepts and methods developed by the Singapore Examinations
 and Assessment Board (SEAB) under the leadership of their newly-appointed
