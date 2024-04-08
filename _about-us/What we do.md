@@ -140,7 +140,7 @@ Minister's Office</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>Assessment and Exam Cluster</u></strong>
+<p><strong><u>Assessment and Exam Cluster</u></strong> 
 <br><strong>Assessment Planning and Development Division</strong>
 </p>
 <ul data-tight="true" class="tight">
