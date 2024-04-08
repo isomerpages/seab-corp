@@ -10,7 +10,7 @@ description: Academic Publications
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="6773" src="/images/Services/Academic Publications/6773_cover_tmb_medium.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="6773" src="/images/Services/Academic Publications/6773_cover_tmb_medium.jpg">
 </div>
 <p>The first book to explore the development of Singapore's much-talked-about
 education and examination system, this volume juxtaposes examinations with
@@ -41,19 +41,22 @@ new developments in examinations. (Description from <a href="https://www.worldsc
 <details class="isomer-details">
 <summary>ASSESSMENT IN SINGAPORE VOLUME 1: PERSPECTIVES FOR CLASSROOM PRACTICE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/assessmentsingapore_tmb_medium.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/assessmentsingapore_tmb_medium.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Assessment in Singapore Vol1" src="/images/Services/Academic Publications/vol1b__003__tmb_medium.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/vol1b__003__tmb_medium.jpg">
 </div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
@@ -162,7 +165,7 @@ on item demands for various subjects and some generic assessment topics.</p>
 involving the use of technologies in assessment.</p>
 <p>There are a total of 18 essays in this book.</p>
 <p>The hardcopy book and the e-book can be purchased by completing this
-<a href="https://form.gov.sg/65375fc7c7af710012b3e385" rel="noopener noreferrer nofollow" target="_blank"><u>form</u>
+<a href="https://form.gov.sg/65375fc7c7af710012b3e385" rel="noopener noreferrer nofollow" target="_blank"><u>form</u> 
 </a>.</p>
 </div>
 </details>
