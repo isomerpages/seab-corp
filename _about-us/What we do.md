@@ -50,7 +50,7 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong.png">
+<img style="width: 86%;" height="auto" width="100%" alt="Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong.png">
 </div>
 <p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong> 
 <br>Advisor, Ministry of Education</p>
