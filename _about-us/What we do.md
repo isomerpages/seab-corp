@@ -69,7 +69,6 @@ outcomes. Together, each achieves more.</p>
 </div>
 <p><strong>Prof Tan Cheng Yian Bernard</strong> 
 <br>Senior Vice-Provost
-<br>
 <br>(Undergraduate Education), National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +77,6 @@ outcomes. Together, each achieves more.</p>
 </div>
 <p><strong>Ms Juthika Ramanathan</strong> 
 <br>Chief Executive
-<br>
 <br>(Office of the Chief Justice), Supreme Court of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,8 +85,7 @@ outcomes. Together, each achieves more.</p>
 </div>
 <p><strong>Mr Chin Chi Leong</strong> 
 <br>Deputy Chief Executive Officer</p>
-<p>
-<br>(Building Control)/Comissioner of Buildings, Building and Construction
+<p>(Building Control)/Comissioner of Buildings, Building and Construction
 Authority (BCA)</p>
 </td>
 </tr>
