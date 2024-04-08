@@ -74,7 +74,7 @@ outcomes. Together, each achieves more.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Juthika Ramanathan" src="/images/Board Members/Juthika_Ramanathan.png">
+<img style="width: 97%;" height="auto" width="100%" alt="Juthika Ramanathan" src="/images/Board Members/Juthika_Ramanathan.png">
 </div>
 <p><strong>Ms Juthika Ramanathan</strong> 
 <br>Chief Executive
@@ -83,7 +83,7 @@ outcomes. Together, each achieves more.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 64%;" height="auto" width="100%" alt="Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
+<img style="width: 66%;" height="auto" width="100%" alt="Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
 </div>
 <p>
 <br><strong>Mr Chin Chi Leong</strong> 
@@ -113,7 +113,7 @@ Minister's Office</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
+<img style="width: 68%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
 </div>
 <p><strong>Ms Jodie Choo Teck Woan </strong>
 <br>Executive Director &amp; Group Head of Human Resources, Information Technology
@@ -130,7 +130,7 @@ Minister's Office</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/mr_yue_lip_sin.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/mr_yue_lip_sin.jpg">
 </div>
 <p><strong>Mr Yue Lip Sin <br></strong>Chief Executive, Singapore Examinations
 and Assessment Board</p>
