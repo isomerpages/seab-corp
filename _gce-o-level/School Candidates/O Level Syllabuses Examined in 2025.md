@@ -523,10 +523,10 @@ from SEAB.</p>
 <p>6093</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1</p>
-<p>Paper 2</p>
-<p>[2023]</p>
-<p>There is no specimen for Paper 3.</p>
+<p>Paper 1
+<br>Paper 2
+<br>[2023]
+<br>There is no specimen for Paper 3.</p>
 </td>
 </tr>
 <tr>
@@ -714,8 +714,8 @@ agencies.</p>
 <p>1116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1</p>
-<p>Paper 2
+<p>Paper 1
+<br>Paper 2
 <br>Paper 3
 <br>[2023]</p>
 </td>
@@ -876,8 +876,8 @@ agencies.</p>
 <p>1147</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1</p>
-<p>Paper 2
+<p>Paper 1
+<br>Paper 2
 <br>Paper 3
 <br>[2023]</p>
 </td>
