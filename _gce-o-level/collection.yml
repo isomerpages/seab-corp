@@ -2,7 +2,6 @@ collections:
   gce-o-level:
     output: true
     order:
-      - GCE O Level for School Candidates.md
       - School Candidates/.keep
       - School Candidates/O Level Syllabuses Examined in 2025.md
       - GCE O Level for Private Candidates.md
