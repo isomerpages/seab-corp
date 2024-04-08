@@ -50,7 +50,7 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Wong_Siew_Hoong.png">
+<img style="width: 100%" height="auto" width="100%" alt="Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong.png">
 </div>
 <p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong> 
 <br>Advisor, Ministry of Education</p>
@@ -65,7 +65,7 @@ outcomes. Together, each achieves more.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
+<img style="width: 85%;" height="auto" width="100%" alt="Tan Cheng Yian Bernard" src="/images/Board Members/Tan_Cheng_Yian_Bernard.png">
 </div>
 <p><strong>Prof Tan Cheng Yian Bernard</strong> 
 <br>Senior Vice-Provost
@@ -74,7 +74,7 @@ outcomes. Together, each achieves more.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Juthika_Ramanathan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Juthika Ramanathan" src="/images/Board Members/Juthika_Ramanathan.png">
 </div>
 <p><strong>Ms Juthika Ramanathan</strong> 
 <br>Chief Executive
@@ -83,7 +83,7 @@ outcomes. Together, each achieves more.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
+<img style="width: 64%;" height="auto" width="100%" alt="Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
 </div>
 <p><strong>Mr Chin Chi Leong</strong> 
 <br>Deputy Chief Executive Officer
@@ -95,16 +95,25 @@ Authority (BCA)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/ms_loo_siew_yeeeb7ac05f76ae4667a4e6f3dd59f784c2.jpg">
+</div>
 <p>Ms Loo Siew Yee
 <br>Assistant Managing Director (Policy, Payments &amp; Financial Crime),
 Monetary Authority of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/ms_lee_cher_farn84a8441a532a490db08e9a48f2864175.jpg">
+</div>
 <p>Ms Lee Cher Farn
 <br>Principal Private Secretary to Deputy Prime Minister Heng Swee Keat, Prime
 Minister's Office</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 64%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
+</div>
 <p>Ms Jodie Choo Teck Woan
 <br>Executive Director &amp; Group Head of Human Resources, Information Technology
 &amp; Administration, Far East Organisation</p>
@@ -112,12 +121,18 @@ Minister's Office</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/mr_sng_chern_wei48f54b2b325644a8820156edc5d0c231.jpg">
+</div>
 <p>Mr Sng Chern Wei
 <br>Deputy Director-General of Education (Curriculum), Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/mr_yue_lip_sin.jpg">
+</div>
 <p>Mr Yue Lip Sin
-<br>Cheif Executive, Singapore Examinations and Assessment Board</p>
+<br>Chief Executive, Singapore Examinations and Assessment Board</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
