@@ -2,6 +2,7 @@ collections:
   gce-o-level:
     output: true
     order:
+      - Private Candidates/GCE O Level for Private Candidates.md
       - Private Candidates/.keep
       - School Candidates/GCE O Level for School Candidates.md
       - School Candidates/.keep
