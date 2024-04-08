@@ -98,7 +98,7 @@ Authority (BCA)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/ms_loo_siew_yeeeb7ac05f76ae4667a4e6f3dd59f784c2.jpg">
 </div>
-<p>Ms Loo Siew Yee
+<p><strong>Ms Loo Siew Yee</strong> 
 <br>Assistant Managing Director (Policy, Payments &amp; Financial Crime),
 Monetary Authority of Singapore</p>
 </td>
@@ -106,7 +106,7 @@ Monetary Authority of Singapore</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/ms_lee_cher_farn84a8441a532a490db08e9a48f2864175.jpg">
 </div>
-<p>Ms Lee Cher Farn
+<p><strong>Ms Lee Cher Farn </strong>
 <br>Principal Private Secretary to Deputy Prime Minister Heng Swee Keat, Prime
 Minister's Office</p>
 </td>
@@ -114,7 +114,7 @@ Minister's Office</p>
 <div class="isomer-image-wrapper">
 <img style="width: 64%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
 </div>
-<p>Ms Jodie Choo Teck Woan
+<p><strong>Ms Jodie Choo Teck Woan </strong>
 <br>Executive Director &amp; Group Head of Human Resources, Information Technology
 &amp; Administration, Far East Organisation</p>
 </td>
@@ -124,15 +124,15 @@ Minister's Office</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/mr_sng_chern_wei48f54b2b325644a8820156edc5d0c231.jpg">
 </div>
-<p>Mr Sng Chern Wei
+<p><strong>Mr Sng Chern Wei </strong>
 <br>Deputy Director-General of Education (Curriculum), Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/mr_yue_lip_sin.jpg">
 </div>
-<p>Mr Yue Lip Sin
-<br>Chief Executive, Singapore Examinations and Assessment Board</p>
+<p><strong>Mr Yue Lip Sin <br>Chief</strong> Executive, Singapore Examinations
+and Assessment Board</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
