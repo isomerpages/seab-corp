@@ -68,31 +68,56 @@ outcomes. Together, each achieves more.</p>
 <img style="width: 84%;" height="auto" width="100%" alt="Prof Tan Cheng Yian Bernard" src="/images/Tan_Cheng_Yian_Bernard.png">
 </div>
 <p><strong>Prof Tan Cheng Yian Bernard</strong> 
-<br>Senior Vice-Provost (Undergraduate Education), National University of
-Singapore</p>
+<br>Senior Vice-Provost
+<br>
+<br>(Undergraduate Education), National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Juthika_Ramanathan.png">
 </div>
 <p><strong>Ms Juthika Ramanathan</strong> 
-<br>Chief Executive (Office of the Chief Justice), Supreme Court of Singapore</p>
+<br>Chief Executive
+<br>
+<br>(Office of the Chief Justice), Supreme Court of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Chin_Chi_Leong.png">
 </div>
 <p><strong>Mr Chin Chi Leong</strong> 
-<br>Deputy Chief Executive Officer (Building Control)/Comissioner of Buildings,
-Building and Construction Authority (BCA)</p>
+<br>Deputy Chief Executive Officer
+<br>
+<br>
+<br>(Building Control)/Comissioner of Buildings, Building and Construction
+Authority (BCA)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>dsadas</p>
+<p>Ms Loo Siew Yee
+<br>Assistant Managing Director (Policy, Payments &amp; Financial Crime),
+Monetary Authority of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dsa</p>
+<p>Ms Lee Cher Farn
+<br>Principal Private Secretary to Deputy Prime Minister Heng Swee Keat, Prime
+Minister's Office</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jodie Choo Teck Woan
+<br>Executive Director &amp; Group Head of Human Resources, Information Technology
+&amp; Administration, Far East Organisation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Chern Wei
+<br>Deputy Director-General of Education (Curriculum), Ministry of Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yue Lip Sin
+<br>Cheif Executive, Singapore Examinations and Assessment Board</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,6 +132,130 @@ Building and Construction Authority (BCA)</p>
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Chief Executive</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Yue Lip Sin</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Assessment and Exam Cluster</u></strong>
+<br><strong>Assessment Planning and Development Division</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Tan Kuo Cheang
+<br>Director, Assessment Planning and Development</p>
+</li>
+<li>
+<p>Mr Pek Wee Haur
+<br>Director, Assessment Planning and Development</p>
+</li>
+<li>
+<p>Ms Karen Chong Kwei Kuen
+<br>Deputy Director, Assessment Planning and Development</p>
+</li>
+<li>
+<p>Mdm Toh Hoon Sin
+<br>Deputy Director, Assessment Planning and Development</p>
+</li>
+<li>
+<p>Mr Yan Yee Kan
+<br>Deputy DIrector, Assessment Planning and Development</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Exam Operations Division</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Pang Chong Han
+<br>Director, Exam Operations</p>
+</li>
+<li>
+<p>Ms Santhakumari Seranjeevi
+<br>Deputy Director, Exam Planning and Administration</p>
+</li>
+<li>
+<p>Mr Oliver Osman Junus
+<br>Deputy Director, Exam Systems and Digitalisation</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Research and Development Division</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Thong May Teng
+<br>Director, Research and Development</p>
+</li>
+<li>
+<p>Dr Tay Poh Hua
+<br>Deputy Director, Research and Development</p>
+</li>
+<li>
+<p>Ms Karen Yaw Li Ling
+<br>Deputy Director, Research and Development</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Corporate Cluster</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Yeo Su-Lin Selena
+<br>Senior Director, Corporate Cluster</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Corporate Services Division</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Leow Yin Li Grace
+<br>Assistant Director, Human Resource and Organisation Capability</p>
+</li>
+<li>
+<p>Ms Seng Yuwei, Stacy
+<br>Assistant Director, Office and Estate Management</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Planning and Finance Division</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Ee Yuen Hui
+<br>Deputy Director, Planning and Finance</p>
+</li>
+<li>
+<p>Mr Lee Kien Meng
+<br>Assistant Director, Finance and Procurement</p>
+</li>
+<li>
+<p>Ms Teng Mei Ling Adeline
+<br>Senior Assessment Specialist, Assessment Services</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Information Technology</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Woon Tien Kim Louis
+<br>Senior Assistant Director, Information Technology</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Corporate Communications</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Wong Hui Woon Irene
+<br>Senior Assistant Director, Corporate Communications</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
