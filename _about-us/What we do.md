@@ -123,7 +123,7 @@ Minister's Office</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/mr_sng_chern_wei48f54b2b325644a8820156edc5d0c231.jpg">
+<img style="width: 86%;" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/mr_sng_chern_wei48f54b2b325644a8820156edc5d0c231.jpg">
 </div>
 <p><strong>Mr Sng Chern Wei </strong>
 <br>Deputy Director-General of Education (Curriculum), Ministry of Education</p>
@@ -132,7 +132,7 @@ Minister's Office</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/mr_yue_lip_sin.jpg">
 </div>
-<p><strong>Mr Yue Lip Sin <br>Chief</strong> Executive, Singapore Examinations
+<p><strong>Mr Yue Lip Sin <br></strong>Chief Executive, Singapore Examinations
 and Assessment Board</p>
 </td>
 <td rowspan="1" colspan="1">
