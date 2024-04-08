@@ -85,7 +85,8 @@ outcomes. Together, each achieves more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 64%;" height="auto" width="100%" alt="Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
 </div>
-<p><strong>Mr Chin Chi Leong</strong> 
+<p>
+<br><strong>Mr Chin Chi Leong</strong> 
 <br>Deputy Chief Executive Officer
 <br>
 <br>
