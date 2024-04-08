@@ -104,7 +104,7 @@ Monetary Authority of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/ms_lee_cher_farn84a8441a532a490db08e9a48f2864175.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/ms_lee_cher_farn84a8441a532a490db08e9a48f2864175.jpg">
 </div>
 <p><strong>Ms Lee Cher Farn </strong>
 <br>Principal Private Secretary to Deputy Prime Minister Heng Swee Keat, Prime
@@ -112,7 +112,7 @@ Minister's Office</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 64%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
 </div>
 <p><strong>Ms Jodie Choo Teck Woan </strong>
 <br>Executive Director &amp; Group Head of Human Resources, Information Technology
