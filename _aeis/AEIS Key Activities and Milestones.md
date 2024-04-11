@@ -13,22 +13,20 @@ description: AEIS Key Activities and Milestones
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="aeis key activities and milestones for primary" src="/images/aeis_key_activities_and_milestones_primary14.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
-<p>
-<br>
-<br>
-</p>
 <p><strong>Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a> 
 <br>◾<a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-on-account-creation-in-cp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>User Guide on Account Creation</u></a> 
-<br>◾This can be done before the AEIS-Secondary Application opens
-<br>
-<br><strong>Apply for AEIS-Primary<br>◾Check <a href="https://www.seab.gov.sg/home/services/aeis/aeis-eligibility-criteria" rel="noopener noreferrer nofollow" target="_blank"><u>eligibility</u></a></strong> 
+<br>◾This can be done before the AEIS-Secondary Application opens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Apply for AEIS-Primary<br>◾Check <a href="https://www.seab.gov.sg/home/services/aeis/aeis-eligibility-criteria" rel="noopener noreferrer nofollow" target="_blank"><u>eligibility</u></a></strong> 
 <br>◾<strong>How to&nbsp;<a href="https://www.seab.gov.sg/home/services/aeis/aeis-application-procedures" rel="noopener noreferrer nofollow" target="_blank"><u>apply</u></a></strong> 
 <br>
 <br>Important Note: The applicant must take the relevant Cambridge English
