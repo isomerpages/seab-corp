@@ -18,8 +18,8 @@ locally and internationally.</p>
 <p>We assess educational performance so as to certify individuals, uphold
 national standards and advance quality in assessment worldwide.</p>
 <h3><strong>Our Values</strong></h3>
-<p><strong>Integrity</strong> 
-<br>We act with honesty at all times. </p>
+<strong>Integrity</strong><br>
+We act with honesty at all times. <p></p>
 <strong>Value people<br></strong>We respect and care for our people. Each
 one makes a unique contribution to our organisation.<br>
 <br><strong>Commitment</strong> 
