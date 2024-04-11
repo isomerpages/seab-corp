@@ -19,16 +19,16 @@ locally and internationally.</p>
 national standards and advance quality in assessment worldwide.</p>
 <h3><strong>Our Values</strong></h3>
 <p><strong>Integrity</strong> 
-<br>We act with honesty at all times.
-<br><strong>Value people<br></strong>We respect and care for our people. Each
-one makes a unique contribution to our organisation.
+<br>We act with honesty at all times. </p>
+<strong>Value people<br></strong>We respect and care for our people. Each
+one makes a unique contribution to our organisation.<br>
 <br><strong>Commitment</strong> 
-<br>We give our best at all times to meet the needs of our customers.
+<br>We give our best at all times to meet the needs of our customers.<br>
 <br><strong>Professionalism</strong> 
 <br>We live by high standards of work and conduct. We learn continuously to
-improve our knowledge and skills.
+improve our knowledge and skills.<br>
 <br><strong>Teamwork<br></strong>We combine our talents and effort for superior
-outcomes. Together, each achieves more.</p>
+outcomes. Together, each achieves more.<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Board Members</summary><section id="board-members">  
