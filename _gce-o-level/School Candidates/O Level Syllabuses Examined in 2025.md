@@ -94,7 +94,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>History</p>
+<p><a href="/files/2174_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">History</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
