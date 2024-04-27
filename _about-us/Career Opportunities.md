@@ -16,76 +16,10 @@ forward to working with you to continue achieving excellence in assessment
 services.</p>
 <p>If you are interested, please refer to <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>&nbsp;for further
 information.</p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH - 2-YEAR CONTRACT</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>RESPONSIBILITIES</strong>
-</p>
-<p>Successful applicant will play an active role in handling, analysing and
-mining data to provide meaning analysis and visualisation for decision
-making. The key responsibilities include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Analyse large amount of data for trends and patterns, and build predictive
-models and machine learning algorithms</p>
-</li>
-<li>
-<p>Apply sound methodologies in data science, statistical analysis and data
-mining</p>
-</li>
-<li>
-<p>Perform data visualisation to derive insights and value-add to decision
-making</p>
-</li>
-<li>
-<p>Develop automated marking models for different subjects with constructed
-responses ranging from answers that are one sentence in length to complex
-answers requiring an essay or analysis&nbsp;</p>
-</li>
-</ul>
-<p><strong>REQUIREMENTS</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Trained in the field of Data Science, or Computer Science, or Statistics,
-with a minimum of 2-3 years’ experience in manipulating data sets, building
-statistical models and hands-on experience in machine learning applications</p>
-</li>
-<li>
-<p>Fresh graduates with relevant exposure can be considered</p>
-</li>
-<li>
-<p>Strong in programming experience and proficient in Python/R/C++</p>
-</li>
-<li>
-<p>Possess knowledge of a variety of machine learning techniques, such as
-clustering, recommender systems, Natural Language Processing, Deep learning
-etc., and their real-world applications</p>
-</li>
-<li>
-<p>Possess knowledge of advanced statistical techniques and concepts, such
-as regression, properties of distributions, statistical tests and proper
-usage, etc.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2-YEAR CONTRACT</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>RESEARCH OFFICER, ASSESSMENT RESEARCH – 2-YEAR CONTRACT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>RESPONSIBILITIES</strong>
 </p>
 <p>Successful applicant will play an active role in conducting research on
@@ -105,10 +39,10 @@ complex competencies for 21st Century education&nbsp;</p>
 </li>
 <li>
 <p>Develop assessment services and products that are fit for purpose, educationally
-sound and positively transforming for stakeholders&nbsp;<strong>&nbsp;</strong>
-</p>
+sound and positively transforming for stakeholders&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <p><strong>REQUIREMENTS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -137,24 +71,19 @@ to obtain buy-in from stakeholder groups</p>
 <p>Enjoy working in teams, in a dynamic and creative work environment</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>SENIOR MANAGER, ORGANISATION CAPABILITY - 2-YEAR CONTRACT</strong>
+</div>
+</details>
+<details class="isomer-details">
+<summary>SENIOR MANAGER, ORGANISATION CAPABILITY – 2-YEAR CONTRACT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>RESPONSIBILITIES<br></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>RESPONSIBILITIES</strong>
-</p>
-<p>Successful applicant will&nbsp;serve as the team lead for the Organisation
+<p>Successful applicant will serve as the team lead for the Organisation
 Capability Department, to oversee the capability building of staff, innovation
 and staff recognition initiatives, while having a key role in planning
 and leading initiatives to enhance employee engagement and employee well-being,
-and strengthen the culture of the organisation.</p>
-<p>&nbsp;The key responsibilities include:&nbsp;&nbsp;</p>
+and strengthen the culture of the organisation. The key responsibilities
+include:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Plan and implement relevant initiatives to enhance employee engagement,
@@ -171,6 +100,12 @@ Learning and Growth of staff, Awards, Knowledge Management and building
 of Data and Digital competencies.</p>
 </li>
 </ul>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
 <p><strong>REQUIREMENTS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -179,7 +114,7 @@ of Data and Digital competencies.</p>
 Engagement, with at least 3 years of experience in supervising a team.</p>
 </li>
 <li>
-<p>Able to conduct facilitation, and communicate and engage different levels
+<p>Able to conduct facilitation, and communicate and engage different level
 of stakeholders.</p>
 </li>
 <li>
@@ -202,89 +137,150 @@ Development concepts. Knowledge of Design Thinking would be advantageous.</p>
 <p>Possess an outgoing and pleasant personality.</p>
 </li>
 <li>
-<p>Is resourceful and self-motivated.</p>
+<p>Resourceful and self-motivated.​</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>SENIOR MANAGER, HUMAN RESOURCE - 2-YEAR CONTRACT</strong>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ASSISTANT MANAGER / MANAGER, ORGANISATION CAPABILITY – 2-YEAR CONTRACT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>RESPONSIBILITIES<br></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>RESPONSIBILITIES</strong>
-</p>
-<p>Successful applicant will oversee the Human Resources (HR) unit to drive
-the implementation of HR policies and strategies, talent acquisition efforts,
-rewards and recognition initiatives, workforce planning and career development
-of staff, performance management, succession planning, deployment of HR
-data analytics, and manage HR administrative matters such as manpower budgeting
-and reporting.&nbsp;&nbsp;</p>
-<p>&nbsp;The key responsibilities include:&nbsp;&nbsp;</p>
+<p>Successful applicant will be responsible for initiatives to build organisational
+capability and to support the learning and growth of staff. The key responsibilities
+include:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Talent attraction and retention.</p>
+<p>Support the engagement and collaboration with key stakeholders to identify
+divisional learning needs and provide the relevant follow-up.</p>
 </li>
 <li>
-<p>Overseeing compensation and benefits policies and procedures.</p>
+<p>Manage the conduct of in-house learning programmes, which include workshops
+and learning journeys.</p>
 </li>
 <li>
-<p>Curating and developing various career development initiatives.</p>
+<p>Design and implement effective communications initiatives to engage staff
+on learning initiatives, advocate the adoption and building of relevant
+competencies, as well as to strengthen the learning culture in the organisation.</p>
 </li>
 <li>
-<p>Developing staff engagement and welfare programmes and benefits.</p>
+<p>Conduct data analysis and prepare relevant learning reports to support
+the learning and growth of staff, and for the purpose of formulating future
+learning strategies.</p>
 </li>
 <li>
-<p>Deployment of HR data analytics to identify and forecast workforce trends,
-to derive meaningful insights to facilitate decision making and make recommendations.</p>
+<p>Maintain and update the functional competencies of staff in the HRP system.</p>
 </li>
 <li>
-<p>Providing guidance on processes in relation to staff performance appraisal,
-and conduct and discipline.</p>
-</li>
-<li>
-<p>Partnering internal recreation club on the implementation of employee
-well-being programmes.</p>
-</li>
-<li>
-<p>Administering the day-to-day operations of the HR unit.</p>
+<p>Administer and provide support for other initiatives which include internal
+awards and official travel arrangements.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>REQUIREMENTS</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>At least 5 years of HR practitioner experience, preferably in the public
-service.</p>
+<p>Tertiary qualification in Human Resource, or related disciplines.</p>
 </li>
 <li>
-<p>Good understanding of the Public Service’s HR policy and Employment Act.</p>
+<p>At least 3 years of relevant HR experience.</p>
 </li>
 <li>
-<p>Good communication and stakeholder engagement skills.</p>
+<p>Familiarity with the public service Human Resource and Payroll (HRP) system,
+LEARN system and Functional Competencies would be advantageous.</p>
 </li>
 <li>
-<p>Strong analytical thinking and problem-solving skills.</p>
+<p>Meticulous and comfortable with managing data and detailed information.</p>
 </li>
 <li>
-<p>Ability to handle multiple priorities and navigate in a fast-paced, dynamic
-environment.</p>
+<p>Excellent communication and interpersonal skills, and comfortable with
+conducting presentations, and engagement with different levels of stakeholders.</p>
 </li>
 <li>
-<p>Experience in data analytics and having the ability to use appropriate
-tools to streamline work processes for better efficiency are added advantages.</p>
-</li>
-<li>
-<p>Possess high level of integrity and work ethics.&nbsp;</p>
+<p>Self-motivated with strong analytical and problem-solving skills.</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ASSISTANT MANAGER / MANAGER, OFFICE &amp; ESTATE MANAGEMENT – 2-YEAR CONTRACT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>RESPONSIBILITIES<br></strong>
+</p>
+<p>Successful applicant will play an active role in managing the Integrated
+Facilities Management (IFM) team to work with a range of stakeholders as
+well as the relevant authorities to maintain and upkeep of building assets,
+facilities, and resources in accordance with the regulatory requirements.
+The key responsibilities include:&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oversee the day-to-day facilities, operations, repair, maintenance, and
+relevant processes/procedures with service providers to ensure that the
+service delivery and contractual obligations were achieved for soft FM
+and hard FM services.</p>
+</li>
+<li>
+<p>Conduct regular independent checks on building services, identify service
+lapses and propose solutions for areas of improvement.</p>
+</li>
+<li>
+<p>Manage room bookings and event setup to support the exam operations with
+short turnaround time and assist in the review of existing processes to
+improve its effectiveness.</p>
+</li>
+<li>
+<p>Assist in the development of smart FM, energy and water management policy,
+workplace sustainability strategies, including the implementation of sustainability
+plans and initiatives and promote sustainability awareness in the organisation.</p>
+</li>
+<li>
+<p>Assist in the development, review and execution of Standard Operating
+Procedures, workplace safety and health requirements, fire safety and security
+exercise.</p>
+</li>
+<li>
+<p>Assist in the development of building data base and utilisation of data
+analytic and leverage on IoT sensors to identify areas of improvement on
+IFM services delivery, energy performance and evaluate sustainability proposal
+to optimise the building performance and service delivery to the internal
+stakeholders and recommend continuous improvement.</p>
+</li>
+<li>
+<p>Conduct cost analysis, budgeting, develop specifications for work orders,
+quotations and tender, and procure services in accordance with procurement
+guidelines.&nbsp;​</p>
+</li>
+</ul>
+<p></p>
+<p><strong>REQUIREMENTS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tertiary qualification in facilities management/engineering with at least
+5 years of relevant experience in commerical building.</p>
+</li>
+<li>
+<p>Certified Singapore Certified Energy Managers (Professional), Greenmark
+Accrediated Professional equivalent will have added advantage.</p>
+</li>
+<li>
+<p>Experience in data collection and analytic for smart FM technologies and
+preventive and predictive building maintenance work.</p>
+</li>
+<li>
+<p>Technically sound with good knowledge of handling escalations, M&amp;E
+maintenance work, soft and hard facilities management, vendor management
+and building regulation compliance etc.</p>
+</li>
+<li>
+<p>Good communication, writing and presentation skills.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <h4><strong>APPLICATION PROCEDURE</strong></h4>
 <p>If you are interested in any of the above position, please submit your
 application with your educational certificates to&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
