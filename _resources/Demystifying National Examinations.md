@@ -30,7 +30,7 @@ examinations. Click on the individual cards to find out more.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a href="/files/Resources/Demystifying%20National%20Exam/osm.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Onscreen Marking" src="/images/Resources/onscreen_marking_infographic.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Onscreen Marking</div><div class="isomer-card-link"> </div></div></a>
-<a href="https://www.isomer.gov.sg" class="isomer-card">
+<a href="/images/Resources/psle_poster_17jan2019.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSLE 2021: Standards Referenced Assessment" src="/images/Resources/psle_poster_17jan2019.jpg">
