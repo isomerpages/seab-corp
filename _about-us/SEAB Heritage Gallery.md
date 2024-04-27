@@ -4,7 +4,7 @@ permalink: /about-us/heritage-gallery/
 variant: markdown
 description: SEAB Heritage Gallery
 ---
-<p></p><h2>SEAB Heritage Gallery - A Story of Exams</h2><p></p>
+<p></p><h2>A Story of Exams</h2><p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Heritage Gallery" src="/images/Heritage Gallery/heritagegallery1.png">
 </div>
