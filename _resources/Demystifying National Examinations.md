@@ -18,11 +18,11 @@ examinations. Click on the individual cards to find out more.</p>
 <div class="isomer-card-title">Commemorative Video on Pen-Based Marking</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/MKoQztyk8l4" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Video on Transforming Examinations and Assessment" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Video on Transforming Examinations and Assessment</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/MKoQztyk8l4" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Video on Transforming Examinations and Assessment" src="/images/Resources/transformexaminations.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Video on Transforming Examinations and Assessment</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/JSfhi249WWw" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Video on Onscreen Marking in Singapore" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Video on Onscreen Marking in Singapore" src="/images/Resources/onscreen.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -98,7 +98,7 @@ examinations. Click on the individual cards to find out more.</p>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources/Demystifying%20National%20Exam/comic_11__train_disruption.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#11 Train Disruption" src="/images/Resources/comic_115e3f7a9a96f4469ba0d22215e076b725.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#11 Train Disruption</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources/Demystifying%20National%20Exam/comic_11__train_disruption.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#11 Train Disruption" src="/images/Resources/comic_115e3f7a9a96f4469ba0d22215e076b725.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#11 Train Disruption</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Resources/Demystifying%20National%20Exam/comic_12_progression_to_secondary_school.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -109,6 +109,6 @@ examinations. Click on the individual cards to find out more.</p>
 <div class="isomer-card-title">#12 Progression to Secondary School</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/files/Resources/Demystifying%20National%20Exam/comic_13_model_answers.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#13 Model Answers" src="/images/Resources/comic_131f90f654284a40148fdcf5c888121f09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#13 Model Answers</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/files/Resources/Demystifying%20National%20Exam/comic_13_model_answers.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#13 Model Answers" src="/images/Resources/comic_131f90f654284a40148fdcf5c888121f09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#13 Model Answers</div><div class="isomer-card-link"></div></div></a>
 </div>
 <p></p>
