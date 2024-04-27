@@ -4,42 +4,41 @@ permalink: /heritage-gallery/
 variant: markdown
 description: SEAB Heritage Gallery
 ---
-<p>SEAB Heritage Gallery - A Story of Exams</p>
+<p></p><h2>SEAB Heritage Gallery - A Story of Exams</h2><p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Heritage Gallery" src="/images/Heritage Gallery/heritagegallery1.png">
 </div>
-<p><strong>The SEAB Heritage Gallery is located in our building at 298 Jalan Bukit Ho Swee.</strong> 
-<br><strong>The specially curated exhibition is divided into five sections and tells the rich history and heritage of examinations in Singapore.</strong>
-</p>
+<p></p><center><strong>The SEAB Heritage Gallery is located in our building at 298 Jalan Bukit Ho Swee.</strong> 
+<br><strong>The specially curated exhibition is divided into five sections and tells the rich history and heritage of examinations in Singapore.</strong></center>
+<p></p>
 <p>The Gallery describes</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>how exams were administered during the British colonial period and the
-Japanese Occupation;</p>
+how exams were administered during the British colonial period and the
+Japanese Occupation;
 </li>
 <li>
-<p>the evolution the system underwent over the years since our independence;
-and</p>
+the evolution the system underwent over the years since our independence;
+and
 </li>
 <li>
-<p>how exams are now designed for the needs of Singapore and Singaporeans.</p>
+how exams are now designed for the needs of Singapore and Singaporeans.
 </li>
 </ul>
-<p>Admission to the Gallery is free.</p>
-<h4>Gallery Etiquette</h4>
-<p>To ensure you and other visitors have an enjoyable experience at the Gallery,
-please note the following:</p>
+Admission to the Gallery is free.
+<h5><b>Gallery Etiquette</b></h5>
+To ensure you and other visitors have an enjoyable experience at the Gallery, please note the following:
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Gallery Care</p>
+	<p></p><center>Gallery Care<p></p></center>
 </th>
 <th rowspan="1" colspan="1">
-<p>Visitor Care</p>
+	<p></p><center>Visitor Care</center><p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Visitor Experience</p>
+	<p></p><center>Visitor Experience</center><p></p>
 </th>
 </tr>
 <tr>
