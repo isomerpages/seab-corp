@@ -44,13 +44,13 @@ to the Singapore PSLE.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Subject Title</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Language Medium</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
 </tr>
@@ -117,13 +117,13 @@ Thailand and Vietnam).</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Entry Requirements</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Singapore Citizen &amp; Permanent Resident</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Foreigner</p>
 </th>
 </tr>
@@ -156,19 +156,19 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>S/N</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Exam Centre</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Country</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>City</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 <p>Contact Person</p>
 </th>
 </tr>
@@ -547,8 +547,7 @@ admission tests refer to&nbsp;AEIS, S-AEIS, SPERS-Sec and SPE.</p>
 year and the results will be reported in the form of Achievement Levels:
 1, 2, 3, 4, 5, 6, 7, 8.</p>
 <h4><strong>Result Slip</strong></h4>
-<p>You will receive your result slip from your examination centre when the
-examination results are released.</p>
+<p>You will receive your result slip from your examination centre when the examination results are released.</p>
 <h4><strong>Examination Certificate</strong></h4>
 <p>You will receive an 𝑖PSLE&nbsp;certificate if you are awarded a grade
 for at least one 𝑖PSLE subject.</p>
@@ -566,7 +565,3 @@ may complete an online application form via this link: <a href="https://go.gov.s
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
