@@ -4,14 +4,13 @@ permalink: /about-us/heritage-gallery/
 variant: markdown
 description: SEAB Heritage Gallery
 ---
-<p></p><h2>A Story of Exams</h2><p></p>
+<p></p><b></b><h3><b>A Story of Exams</b></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Heritage Gallery" src="/images/Heritage Gallery/heritagegallery1.png">
 </div>
-<p></p><center><strong>The SEAB Heritage Gallery is located in our building at 298 Jalan Bukit Ho Swee.</strong> 
+<center><strong>The SEAB Heritage Gallery is located in our building at 298 Jalan Bukit Ho Swee.</strong> 
 <br><strong>The specially curated exhibition is divided into five sections and tells the rich history and heritage of examinations in Singapore.</strong></center>
-<p></p>
-<p>The Gallery describes</p>
+The Gallery describes
 <ul data-tight="true" class="tight">
 <li>
 how exams were administered during the British colonial period and the
