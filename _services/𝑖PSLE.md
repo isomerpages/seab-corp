@@ -92,7 +92,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0909_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0909_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
