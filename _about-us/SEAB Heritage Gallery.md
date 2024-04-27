@@ -31,13 +31,13 @@ To ensure you and other visitors have an enjoyable experience at the Gallery, pl
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 	<p></p><center>Gallery Care<p></p></center>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 	<p></p><center>Visitor Care</center><p></p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
 	<p></p><center>Visitor Experience</center><p></p>
 </th>
 </tr>
