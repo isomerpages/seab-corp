@@ -56,43 +56,43 @@ against users found to have infringed the copyright of the materials.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/1-english-language-oral-assessment-in-singapore-a-responsive-approach.pdf?sfvrsn=efb40dac_2" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Oral Assessment in Singapore: A Responsive Approach</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/1_english_language_oral_assessment_in_singapore_a_responsive_approach.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Oral Assessment in Singapore: A Responsive Approach</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/2-computer-based-examination-in-singapore---the-journey-so-far.pdf?sfvrsn=83e63a6e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Computer-based Examination in Singapore: The Journey So Far</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/2_computer_based_examination_in_singapore___the_journey_so_far.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computer-based Examination in Singapore: The Journey So Far</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/3-using-ict-for-the-assessment-of-writing-in-chinese-language.pdf?sfvrsn=b38c2cb0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Using Information and Communication Technology for the Assessment of Writing in Chinese Language</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/3_using_ict_for_the_assessment_of_writing_in_chinese_language.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Using Information and Communication Technology for the Assessment of Writing in Chinese Language</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/4-use-of-video-as-stimulus-in-assessing-oral-skills-in-mtl.pdf?sfvrsn=db73f857_2" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Video as Stimulus in Assessing Oral skills in Mother Tongue Languages</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/4_use_of_video_as_stimulus_in_assessing_oral_skills_in_mtl.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Video as Stimulus in Assessing Oral skills in Mother Tongue Languages</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/5-studies-on-use-of-ict-in-english-language-testing.pdf?sfvrsn=adfafbee_2" rel="noopener noreferrer nofollow" target="_blank"><u>Studies on Use of ICT in English Language Testing</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/5_studies_on_use_of_ict_in_english_language_testing.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Studies on Use of ICT in English Language Testing</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/6-assessment-of-21st-century-skills-at-grade-11-the-singapore-experience.pdf?sfvrsn=a628046e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Assessment of 21st century skills at Grade 11 – the Singapore Experience</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/6_assessment_of_21st_century_skills_at_grade_11_the_singapore_experience.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Assessment of 21st century skills at Grade 11 – the Singapore Experience</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/7-innovative-school-based-english-language-assessment-practices-in-singapore.pdf?sfvrsn=99397c8_2" rel="noopener noreferrer nofollow" target="_blank"><u>Innovative school-based English Language assessment practices in Singapore</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/7_innovative_school_based_english_language_assessment_practices_in_singapore.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Innovative school-based English Language assessment practices in Singapore</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/8-an-exploratory-study-on-the-use-of-two-standard-setting-methods.pdf?sfvrsn=764fdc78_2" rel="noopener noreferrer nofollow" target="_blank"><u>An Exploratory Study on the use of Two Standard Setting Methods in the Validation of Mother Tongue Language Descriptors – The Singapore Experience</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/8_an_exploratory_study_on_the_use_of_two_standard_setting_methods.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>An Exploratory Study on the use of Two Standard Setting Methods in the Validation of Mother Tongue Language Descriptors – The Singapore Experience</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/9-english-language-oral-assessment-in-singapore---a-responsive-approach.pdf?sfvrsn=ba097c78_2" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Oral Assessment in Singapore: A Responsive Approach</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/9_english_language_oral_assessment_in_singapore___a_responsive_approach.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Oral Assessment in Singapore: A Responsive Approach</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2014/10-asymptotic-standard-errors-for-true-score-equating-of-polytomous-items.pdf?sfvrsn=f83360d9_2" rel="noopener noreferrer nofollow" target="_blank"><u>Asymptotic Standard Errors for Item Response Theory True Score Equating of Polytomous Items</u></a>
+<p><a href="/files/Resources/2014 Presentation Articles/10_asymptotic_standard_errors_for_true_score_equating_of_polytomous_items.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Asymptotic Standard Errors for Item Response Theory True Score Equating of Polytomous Items</u></a>
 </p>
 </li>
 </ul>
