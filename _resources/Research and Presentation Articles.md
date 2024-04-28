@@ -48,7 +48,36 @@ against users found to have infringed the copyright of the materials.</p>
 <details class="isomer-details">
 <summary>2015</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Resources/2015 Presentation Articles/1_pw_and_language_oral_skills_assessment.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Work and Language Oral Skills Assessment: The Singapore Experience</u></a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resources/2015 Presentation Articles/2_using_ict_for_the_assessment_of_writing_in_cl.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Using Information and Communication Technology for the Assessment of Writing in Chinese Language</u></a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resources/2015 Presentation Articles/3_studies_on_use_of_video_stimulus_in_oral_test.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Studies on Use of Video Stimulus in Oral Test</u></a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resources/2015 Presentation Articles/4_the_4_skill_english_language_test_in_the_singapore_education_system.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The 4-Skill English Language Test in the Singapore Education System</u></a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resources/2015 Presentation Articles/5_nlmixed_procedure_to_derive_the_standard_errors_for_partial_credit_tests.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NLMixed Procedure to Derive the Standard Errors for Partial Credit Tests</u></a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resources/2015 Presentation Articles/6_are_existing_assessment_modes_for_eng_lit_still_relevant_in_today_world.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Are Existing Assessment Modes for English Literature Still Relevant in Today’s World</u></a>
+</p>
+</li>
+<li>
+<p><a href="/files/Resources/2015 Presentation Articles/7_redesigning_el_pedagogical_practices.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Redesigning English Language pedagogical practices: Expanding assessment constructs to broaden students’ learning</u></a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
