@@ -15,7 +15,7 @@ to conduct the registration and test administration of this exercise.
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
 <p>Important information for overseas applicants
 <br>
 <br>MOE will not issue permits for entry into Singapore for applicants to
