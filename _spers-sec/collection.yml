@@ -2,6 +2,7 @@ collections:
   spers-sec:
     output: true
     order:
+      - SPERS Key Activities and Milestones.md
       - About SPERS Sec.md
       - Application Procedures.md
       - Test Details.md
