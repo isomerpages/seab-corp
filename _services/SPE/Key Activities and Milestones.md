@@ -18,6 +18,7 @@ third_nav_title: SPE
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="SPE_Registration_Image" src="/images/SPE/Key Activities and Milestones/Registration_SPE_title.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
