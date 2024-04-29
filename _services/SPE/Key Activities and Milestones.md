@@ -23,6 +23,7 @@ third_nav_title: SPE
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
+<p></p>
 <p><strong>◼ Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>
 </p>
 <ul data-tight="true" class="tight">
@@ -65,6 +66,7 @@ from 'Getting Ready for Exams'</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
+<p></p>
 <p><strong>SPE Tests&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -100,6 +102,7 @@ birth certificate)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p></p>
 <p><strong>Select preferred schools</strong>
