@@ -18,51 +18,51 @@ against users found to have infringed the copyright of the materials.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/1-2018-scientific-reasoning-of-primary-school-children_rasch-modelling_eras-apera.pdf?sfvrsn=98d6f336_2" rel="noopener noreferrer nofollow" target="_blank"><u>Scientific reasoning of primary school children - Construct validation using Rasch modelling</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/1_2018_scientific_reasoning_of_primary_school_children_rasch_modelling_eras_apera.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Scientific reasoning of primary school children - Construct validation using Rasch modelling</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/2-capitalising-on-technology-for-el-oral-assessment_change-management.pdf?sfvrsn=3de54af4_2" rel="noopener noreferrer nofollow" target="_blank"><u>Capitalising on Technology for EL Oral Assessment: Change Management</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/2_capitalising_on_technology_for_el_oral_assessment_change_management.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Capitalising on Technology for EL Oral Assessment: Change Management</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/3-use-of-data-from-an-online-assessment-tool-for-primary-maths.pdf?sfvrsn=ffc6e56d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Data from an Online Assessment Tool for Primary Mathematics</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/3_use_of_data_from_an_online_assessment_tool_for_primary_maths.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Data from an Online Assessment Tool for Primary Mathematics</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/4-aig_experiences-and-learning-points-from-seab.pdf?sfvrsn=22f866e0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Automatic Item Generation: Experiences and Learning Points from SEAB</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/4_aig_experiences_and_learning_points_from_seab.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Automatic Item Generation: Experiences and Learning Points from SEAB</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/5-using-computerised-adaptive-tests-in-assessment-for-learning.pdf?sfvrsn=1830463a_2" rel="noopener noreferrer nofollow" target="_blank"><u>Using Computerised Adaptive Tests in Assessment for Learning</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/5_using_computerised_adaptive_tests_in_assessment_for_learning.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Using Computerised Adaptive Tests in Assessment for Learning</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/6-using-osm-data-for-markers-marking-performance.pdf?sfvrsn=a18503d1_2" rel="noopener noreferrer nofollow" target="_blank"><u>Using On-screen Marking (OSM) Data Parameters to Gauge Markers' Marking Performance</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/6_using_osm_data_for_markers_marking_performance.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Using On-screen Marking (OSM) Data Parameters to Gauge Markers' Marking Performance</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/7-content-validity-of-the-primary-scientific-reasoning-test.pdf?sfvrsn=db4edf6d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Content Validity of the Primary Scientific Reasoning Test - Evidence from the Experts</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/7_content_validity_of_the_primary_scientific_reasoning_test.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Content Validity of the Primary Scientific Reasoning Test - Evidence from the Experts</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/8-use-of-video-stimulus-in-assessment-of-oral-communicaiton-skills.pdf?sfvrsn=e4bd915f_2" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Video Stimulus in the Assessment of Oral Communication Skills in Singapore’s National Level Tamil Language Examinations</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/8_use_of_video_stimulus_in_assessment_of_oral_communicaiton_skills.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Video Stimulus in the Assessment of Oral Communication Skills in Singapore’s National Level Tamil Language Examinations</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/9-use-of-ict-in-the-assessment-of-oral-communications-skills.pdf?sfvrsn=8f9477cc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Use of ICT in the Assessment of Oral Communication Skills in Singapore’s National Level Tamil Language Examinations</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/9_use_of_ict_in_the_assessment_of_oral_communications_skills.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Use of ICT in the Assessment of Oral Communication Skills in Singapore’s National Level Tamil Language Examinations</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/10-study-on-the-mode-of-computer-text-input-in-cl.pdf?sfvrsn=1c3e7db5_2" rel="noopener noreferrer nofollow" target="_blank"><u>A Study on the Mode of Computer Text Input and Pen-based Writing in Chinese Language</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/10_study_on_the_mode_of_computer_text_input_in_cl.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>A Study on the Mode of Computer Text Input and Pen-based Writing in Chinese Language</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/11-demand-of-writing-tasks.pdf?sfvrsn=37b5dbea_2" rel="noopener noreferrer nofollow" target="_blank"><u>The Demand of Writing Tasks: A Multimodal Perspective</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/11_demand_of_writing_tasks.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The Demand of Writing Tasks: A Multimodal Perspective</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/research-and-presentation-articles/research-and-presentation-articles/2018/12-use-of-video-to-assess-oral-and-listening.pdf?sfvrsn=218331b1_2" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Video to Assess Oral and Listening Skills</u></a>
+<p><a href="/files/Resources/2018 Presentation Articles/12_use_of_video_to_assess_oral_and_listening.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Use of Video to Assess Oral and Listening Skills</u></a>
 </p>
 </li>
 </ul>
