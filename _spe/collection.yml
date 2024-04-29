@@ -1,4 +1,5 @@
 collections:
   spe:
     output: true
-    order: []
+    order:
+      - Supplementary Placement Exercise (SPE).md
