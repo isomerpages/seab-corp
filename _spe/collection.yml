@@ -1,5 +1,4 @@
 collections:
   spe:
     output: true
-    order:
-      - Key Activities and Milestones.md
+    order: []
