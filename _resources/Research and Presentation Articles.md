@@ -177,5 +177,4 @@ against users found to have infringed the copyright of the materials.</p>
 </div>
 </details>
 </div>
-<p><a href="/files/Resources/2018 Presentation Articles/12_use_of_video_to_assess_oral_and_listening.pdf" rel="noopener noreferrer nofollow" target="_blank">Use of Video to Assess Oral and Listening Skills</a>
-</p>
+<p></p>
