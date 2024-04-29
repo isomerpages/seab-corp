@@ -16,14 +16,14 @@ test begins. The following documents are required for verification of identity:<
 <p>The applicant's entry proof issued by SEAB.</p>
 </li>
 </ul>
-<p>The test venues will be found on the applicants' entry proofs.</p>
+The test venues will be found on the applicants' entry proofs.
 <h4><strong>Preparing for SPERS-Sec test</strong></h4>
 <p>The applicant needs to be familiar with the English and Mathematics topics
-taught in mainstream secondary schools, such as:</p>
-<p>Topics in Primary 6 for Secondary 1 admission.</p>
-<p>Topics in Secondary 1 for Secondary 2 admission.</p>
-<p>Topics in Secondary 2 for Secondary 3 admission.</p>
-<p>Refer to our&nbsp;<a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener noreferrer nofollow" target="_blank"><u>primary school syllabus</u></a>&nbsp;or&nbsp;
+taught in mainstream secondary schools, such as:
+<br>Topics in Primary 6 for Secondary 1 admission.
+<br>Topics in Secondary 1 for Secondary 2 admission.
+<br>Topics in Secondary 2 for Secondary 3 admission.
+</p><p>Refer to our&nbsp;<a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener noreferrer nofollow" target="_blank"><u>primary school syllabus</u></a>&nbsp;or&nbsp;
 <a href="https://www.moe.gov.sg/secondary/courses/express/electives" rel="noopener noreferrer nofollow" target="_blank"><u>secondary school syllabus</u>
 </a>&nbsp;for more information.</p>
 <h4><strong>Test Details</strong></h4>
@@ -83,7 +83,7 @@ minutes to complete Part 1, and 1 hour and 45 minutes to complete Part
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade the answers on the <strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong> provided.</p>
 </td>
 </tr>
@@ -103,9 +103,6 @@ the method of solution clearly by writing their working steps in the spaces
 provided in addition to providing the final answers.</p>
 <p>Generally, open-ended questions require longer and more complex method
 of solutions as compared to short-answer questions.</p>
-<p></p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
