@@ -2,6 +2,6 @@ collections:
   s-aeis:
     output: true
     order:
-      - Application Procedures.md
       - About S AEIS.md
       - Eligibility Criteria.md
+      - Application Procedures.md
