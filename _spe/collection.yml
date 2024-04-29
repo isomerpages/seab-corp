@@ -2,5 +2,4 @@ collections:
   spe:
     output: true
     order:
-      - School Selections and Postings.md
       - Key Activities and Milestones.md
