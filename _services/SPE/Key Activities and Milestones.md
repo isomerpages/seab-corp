@@ -21,10 +21,11 @@ third_nav_title: SPE
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Key Activities and Milestone SPE Registration" src="/images/SPE/Key Activities and Milestones/Registration_SPE3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Registration SPE Image" src="/images/SPE/Key Activities and Milestones/Registration_SPE3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>◼ Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>
 </p>
 <ul data-tight="true" class="tight">
