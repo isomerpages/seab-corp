@@ -2,9 +2,9 @@ collections:
   spe:
     output: true
     order:
-      - SPE School Selections and Postings.md
       - Supplementary Placement Exercise (SPE).md
       - About SPE.md
       - Application Procedures.md
       - Test Details.md
+      - SPE School Selections and Postings.md
       - Key Activities and Milestones.md
