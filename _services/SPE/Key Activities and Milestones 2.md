@@ -22,9 +22,8 @@ third_nav_title: SPE
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p><strong>◼ Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>
+<p>
+<br><strong>◼ Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,14 +59,13 @@ from 'Getting Ready for Exams'</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Take the Tests Milestone Image" src="/images/SPE/Key Activities and Milestones/Take_the_Tests_SPE3.png">
+<img style="width: 100%" height="auto" width="100%" alt="take the test milestone image" src="/images/SPE/Key Activities and Milestones/Take_the_Tests_SPE3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p><strong>SPE Tests&nbsp;</strong>
+<p>
+<br><strong>SPE Tests&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -98,14 +96,13 @@ birth certificate)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="After the Tests Milestone Image" src="/images/SPE/Key Activities and Milestones/After_the_Tests_SPE3.png">
+<img style="width: 100%" height="auto" width="100%" alt="after the tests image" src="/images/SPE/Key Activities and Milestones/After_the_Tests_SPE3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Select preferred schools</strong>
+<p>
+<br>
+<br><strong>Select preferred schools</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
