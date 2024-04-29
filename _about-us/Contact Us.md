@@ -63,29 +63,19 @@ respect and professionalism. We ask that you treat our staff in the same
 manner you expect to be treated. Indecent, abusive or insulting behaviour
 will not be tolerated. We may refuse service to anyone who is disrespectful
 towards our staff.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>MESSAGE US</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>MESSAGE US</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>You can send us your enquiry via the online <strong><a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong>.
 <br>You can report technical issues faced in Candidates Portal, such as system
 errors, payment issues, and the updating of your registration details via
 this <strong><a href="https://form.gov.sg/#!/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>CALL US</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+</div>
+</details>
+<details class="isomer-details">
+<summary>CALL US</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Our operating hours:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -109,24 +99,17 @@ and 21 December 2023.</p>
 </li>
 </ul>
 <p>You can call us at 6970 6255.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>VISIT US</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+</div>
+</details>
+<details class="isomer-details">
+<summary>VISIT US</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Counter services at SEAB's Visitor Centre are available by appointment
 only. Make an&nbsp;<strong><a href="https://form.gov.sg/#!/5ded051777515a0012069a05" rel="noopener noreferrer nofollow" target="_blank"><u>appointment</u></a></strong>&nbsp;at
 least 2 business days in advance to visit us at your preferred timeslot.
 <br>We will assess your request for an appointment and may contact you via
 email/phone if your request can be addressed via these channels.
-<br>We will aim to confirm your appointment within 2 business days.
-<br>
-</p>
+<br>We will aim to confirm your appointment within 2 business days.</p>
 <p><strong>Locate Us</strong> 
 <br>Singapore Examinations and Assessment Board (SEAB)
 <br>298 Jalan Bukit Ho Swee
@@ -144,8 +127,7 @@ email/phone if your request can be addressed via these channels.
 122
 <br>Alight along Zion Road, near Block 2B: 5, 16, 16M, 75, 121, 123, 175,
 195, 970</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <p></p>
