@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - SPE Page.md
       - Services Overview.md
       - SEAB In House Workshops.md
       - SEAB Workshops at AST.md
