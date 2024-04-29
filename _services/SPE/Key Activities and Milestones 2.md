@@ -65,7 +65,7 @@ from 'Getting Ready for Exams'</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>
-<br><strong>SPE Tests&nbsp;</strong>
+<br><strong>◼ SPE Tests&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,7 +102,7 @@ birth certificate)</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><strong>Select preferred schools</strong>
+<br><strong>◼ Select preferred schools</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,7 +113,7 @@ with the list of schools that they are eligible for.</p>
 <p>Submit your child's school choices through the SPE Internet System (SPE-IS).</p>
 </li>
 </ul>
-<p><strong>Receive posting results</strong>
+<p><strong>◼ Receive posting results</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
