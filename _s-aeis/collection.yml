@@ -2,6 +2,7 @@ collections:
   s-aeis:
     output: true
     order:
+      - Release of School Offers.md
       - About S AEIS.md
       - Eligibility Criteria.md
       - Application Procedures.md
