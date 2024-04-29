@@ -21,7 +21,7 @@ third_nav_title: SPE
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPE Registration Key Activities Image" src="/images/SPE/Key Activities and Milestones/Registration_SPE2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Key Activities and Milestone SPE Registration" src="/images/SPE/Key Activities and Milestones/Registration_SPE3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
