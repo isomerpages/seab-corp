@@ -21,7 +21,7 @@ third_nav_title: SPE
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPE Registration" src="/images/SPE/Key Activities and Milestones/Registration_SPE.png">
+<img style="width: 100%" height="auto" width="100%" alt="SPE Registration Key Activities Image" src="/images/SPE/Key Activities and Milestones/Registration_SPE2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,12 +48,12 @@ Birth Certificate Number to create an account.</p>
 </p>
 </li>
 </ul>
-<p><strong>◼ Login to Candidates Portal&nbsp;</strong>
+<p><strong>◼ Login to Candidates Portal&nbsp;</strong> 
 <br>Note: Status of approved applications will update from “Pending” to “Registered”
 at least 4 weeks from day of application; Useful Information can be retrieved
 from 'Getting Ready for Exams'</p>
 <p><strong>◼ Receive an email to retrieve entry proof from</strong>&nbsp;
-<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u>
+<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u> 
 </a>, <strong>after application has been verified</strong>
 </p>
 </td>
