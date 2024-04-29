@@ -14,11 +14,6 @@ third_nav_title: SPE
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Key Activities and Milestones</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="SPE_Registration_Image" src="/images/SPE/Key Activities and Milestones/Registration_SPE_title.png">
