@@ -2,7 +2,6 @@ collections:
   spe:
     output: true
     order:
-      - Application Procedures.md
       - Test Details.md
       - School Selections and Postings.md
       - Key Activities and Milestones.md
