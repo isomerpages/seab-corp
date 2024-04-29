@@ -2,4 +2,4 @@ collections:
   spers-sec:
     output: true
     order:
-      - About SPERS.md
+      - About SPERS Sec.md
