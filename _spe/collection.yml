@@ -2,6 +2,7 @@ collections:
   spe:
     output: true
     order:
+      - SPE Application Procedures.md
       - Supplementary Placement Exercise (SPE).md
       - About SPE.md
       - Key Activities and Milestones.md
