@@ -2,5 +2,5 @@ collections:
   s-aeis:
     output: true
     order:
-      - Eligibility Criteria.md
       - About S AEIS.md
+      - Eligibility Criteria.md
