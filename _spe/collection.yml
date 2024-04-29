@@ -2,7 +2,6 @@ collections:
   spe:
     output: true
     order:
-      - Supplementary Placement Exercise (SPE).md
       - About SPE.md
       - Application Procedures.md
       - Test Details.md
