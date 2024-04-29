@@ -21,10 +21,11 @@ third_nav_title: SPE
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Registration SPE Image" src="/images/SPE/Key Activities and Milestones/Registration_SPE3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="SPE_Registration_Image" src="/images/SPE/Key Activities and Milestones/Registration_SPE_title.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p><strong>◼ Create account on the&nbsp;</strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>
 </p>
@@ -54,7 +55,7 @@ Birth Certificate Number to create an account.</p>
 at least 4 weeks from day of application; Useful Information can be retrieved
 from 'Getting Ready for Exams'</p>
 <p><strong>◼ Receive an email to retrieve entry proof from</strong>&nbsp;
-<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u> 
+<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u>
 </a>, <strong>after application has been verified</strong>
 </p>
 </td>
