@@ -2,5 +2,6 @@ collections:
   spers-sec:
     output: true
     order:
+      - Test Details.md
       - About SPERS Sec.md
       - Application Procedures.md
