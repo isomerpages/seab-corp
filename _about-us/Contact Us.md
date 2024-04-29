@@ -66,7 +66,8 @@ towards our staff.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>MESSAGE US</summary>
+<summary><strong>MESSAGE US</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can send us your enquiry via the online <strong><a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong>.
 <br>You can report technical issues faced in Candidates Portal, such as system
@@ -75,7 +76,8 @@ this <strong><a href="https://form.gov.sg/#!/6221cad04dfe5a0013d73387" rel="noop
 </div>
 </details>
 <details class="isomer-details">
-<summary>CALL US</summary>
+<summary><strong>CALL US</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Our operating hours:</p>
 <ul data-tight="true" class="tight">
@@ -103,7 +105,8 @@ and 21 December 2023.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>VISIT US</summary>
+<summary><strong>VISIT US</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Counter services at SEAB's Visitor Centre are available by appointment
 only. Make an&nbsp;<strong><a href="https://form.gov.sg/#!/5ded051777515a0012069a05" rel="noopener noreferrer nofollow" target="_blank"><u>appointment</u></a></strong>&nbsp;at
