@@ -63,6 +63,7 @@ respect and professionalism. We ask that you treat our staff in the same
 manner you expect to be treated. Indecent, abusive or insulting behaviour
 will not be tolerated. We may refuse service to anyone who is disrespectful
 towards our staff.</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>MESSAGE US</summary>
