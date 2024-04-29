@@ -69,7 +69,7 @@ from 'Getting Ready for Exams'</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>SPE Tests&nbsp;</strong>
+<p><strong>◼ SPE Tests&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,7 +81,7 @@ topics taught in mainstream secondary schools</p>
 </p>
 </li>
 </ul>
-<p><strong>Reminders:&nbsp;</strong>
+<p><strong>◼ Reminders:&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -108,7 +108,7 @@ birth certificate)</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>Select preferred schools</strong>
+<p><strong>◼ Select preferred schools</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -119,7 +119,7 @@ with the list of schools that they are eligible for.</p>
 <p>Submit your child's school choices through the SPE Internet System (SPE-IS).</p>
 </li>
 </ul>
-<p><strong>Receive posting results</strong>
+<p><strong>◼ Receive posting results</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
