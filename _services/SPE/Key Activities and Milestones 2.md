@@ -77,7 +77,7 @@ topics taught in mainstream secondary schools</p>
 </p>
 </li>
 </ul>
-<p><strong>Reminders:&nbsp;</strong>
+<p><strong>◼ Reminders:&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
