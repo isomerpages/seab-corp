@@ -2,7 +2,6 @@ collections:
   services:
     output: true
     order:
-      - Admissions Exercise for International Students (AEIS).md
       - Services Overview.md
       - SEAB In House Workshops.md
       - SEAB Workshops at AST.md
@@ -10,6 +9,7 @@ collections:
       - Academic Publications.md
       - Distributors of Past Years' Papers.md
       - Past Years' Results in Digital Form.md
+      - Admissions Exercise for International Students (AEIS).md
       - Supplementary Admissions Exercise for International Students (S AEIS).md
       - School Placement Exercise for Returning Singaporeans Secondary (SPERS
         Sec).md
