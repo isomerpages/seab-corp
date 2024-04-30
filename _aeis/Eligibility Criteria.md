@@ -44,7 +44,7 @@ Mathematics test appropriate for their age.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Relevant Tests</strong>
+<p><strong>Relevant Tests</strong> 
 <br>The applicant must generally be of the age listed below as at 1 January
 of the year of admission.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
