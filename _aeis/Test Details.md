@@ -56,10 +56,10 @@ minutes to complete Part 1 and 40 minutes to complete Part 2:</p>
 the applicant will have to show the method of solution clearly by writing
 his/her working steps in the spaces provided in addition to providing the
 final answers.&nbsp;</p>
-<table>
+<p>
+</p><table>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<tr><td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade his/her answers for the multiple-choice
 questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
 </td>
@@ -94,7 +94,7 @@ of solutions as compared to short-answer questions.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade their answers for the multiple-choice
 questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
 </td>
@@ -147,7 +147,7 @@ of solutions as compared to short-answer questions.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade their answers for the multiple-choice
 questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
 </td>
