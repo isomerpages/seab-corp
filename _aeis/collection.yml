@@ -2,7 +2,7 @@ collections:
   aeis:
     output: true
     order:
-      - Application Procedures.md
       - About AEIS.md
       - Eligibility Criteria.md
+      - Application Procedures.md
       - AEIS Key Activities and Milestones.md
