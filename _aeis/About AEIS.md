@@ -13,23 +13,12 @@ of this exercise.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
-<p><strong>Important information for overseas applicants</strong>
+<p><strong>Important information for overseas applicants</strong> 
 <br>MOE will not issue permits for entry into Singapore for applicants to
 sit for the AEIS tests. The applicant should only submit his/her registration
 if he/she is able to enter Singapore. Applicants should refer to the&nbsp;
-<a href="https://safetravel.ica.gov.sg/" rel="noopener noreferrer" target="_blank"><u>Immigration &amp; Checkpoints Authority (ICA)</u>
+<a href="https://safetravel.ica.gov.sg/" rel="noopener noreferrer" target="_blank"><u>Immigration &amp; Checkpoints Authority (ICA)</u> 
 </a>&nbsp;and the&nbsp; <a href="https://www.moh.gov.sg/covid-19" rel="noopener noreferrer" target="_blank"><u>Ministry of Health (MOH)</u></a>&nbsp;websites
 for the latest travel and health measures.
 <br>
