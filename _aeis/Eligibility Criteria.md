@@ -40,10 +40,151 @@ August 2021.
 <li>
 <p>Meet or exceed the required Cambridge English Scale (CES) score (listed
 below) in the CEQ test before the applicant applies to take the AEIS-Primary
-Mathematics test appropriate for their age.&nbsp;</p>
+Mathematics test appropriate for their age.</p>
 </li>
 </ul>
 <p></p>
+<p><strong>Relevant Tests</strong>
+<br>The applicant must generally be of the age listed below as at 1 January
+of the year of admission.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>7 TO 7+ YEARS OLD</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>CEQ test to sit for: A2 Key for Schools</p>
+</li>
+<li>
+<p>Required CES score: 100 and above</p>
+</li>
+<li>
+<p>AEIS test to apply for: Pri 2 Math</p>
+</li>
+<li>
+<p>Content tested: Pri 1 Math</p>
+</li>
+<li>
+<p>Possible outcomes: Pri 2, Pri 1 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>8 TO 8+ YEARS OLD</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>CEQ test to sit for: A2 Key for Schools</p>
+</li>
+<li>
+<p>Required CES score: 120 and above</p>
+</li>
+<li>
+<p>AEIS test to apply for: Pri 3 Math</p>
+</li>
+<li>
+<p>Content tested: Pri 2 Math</p>
+</li>
+<li>
+<p>Possible outcomes: Pri 3, Pri 2, Pri 1 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>9 TO 9+ YEARS OLD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>CEQ test to sit for: A2 Key for Schools</p>
+</li>
+<li>
+<p>Required CES score: 130 and above</p>
+</li>
+<li>
+<p>AEIS test to apply for: Pri 4 Math</p>
+</li>
+<li>
+<p>Content tested: Pri 3 Math</p>
+</li>
+<li>
+<p>Possible outcomes: Pri 4, Pri 3, Pri 2 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>10 TO 10+ YEARS OLD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>CEQ test to sit for:&nbsp;B1 Preliminary for Schools</p>
+</li>
+<li>
+<p>Required CES score: 140 and above</p>
+</li>
+<li>
+<p>AEIS test to apply for: Pri 5 Math</p>
+</li>
+<li>
+<p>Content tested: Pri 4 Math</p>
+</li>
+<li>
+<p>Possible outcomes: Pri 5, Pri 4, Pri 3 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>11 TO 11+ YEARS OLD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>CEQ test for IS to sit for: B1 Preliminary for Schools</p>
+</li>
+<li>
+<p>Required CES score: 140 and above</p>
+</li>
+<li>
+<p>AEIS test to apply for: Pri 5 Math</p>
+</li>
+<li>
+<p>Content tested: Pri 4 Math</p>
+</li>
+<li>
+<p>Possible outcomes: Pri 5, Pri 4 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>12 TO 12+ YEARS OLD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>CEQ test to sit for: B1 Preliminary for Schools</p>
+</li>
+<li>
+<p>Required CES score: 140 and above</p>
+</li>
+<li>
+<p>AEIS test to apply for: Pri 5 Math</p>
+</li>
+<li>
+<p>Content tested: Pri 4 Math</p>
+</li>
+<li>
+<p>Possible outcomes: Pri 5 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
@@ -58,6 +199,59 @@ Mathematics test appropriate for their age.&nbsp;</p>
 for the Secondary 1, Secondary 2 or Secondary 3 test.</p>
 <p>The applicant should not be more than 2 years older than the appropriate
 age for that level.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>12 to 14+ YEARS OLD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Test to apply for:&nbsp;Sec 1</p>
+</li>
+<li>
+<p>Content tested: Pri 6</p>
+</li>
+<li>
+<p>Possible outcomes: Sec 1 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>13 TO 15+ YEARS OLD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Test to apply for: Sec 2</p>
+</li>
+<li>
+<p>Content tested: Sec 1</p>
+</li>
+<li>
+<p>Possible outcomes: Sec 2 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>14 TO 16+ YEARS OLD</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Test to apply for: Sec 3</p>
+</li>
+<li>
+<p>Content tested: Sec 2</p>
+</li>
+<li>
+<p>Possible outcomes: Sec 3 or unsuccessful</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
