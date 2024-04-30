@@ -2,8 +2,8 @@ collections:
   aeis:
     output: true
     order:
-      - Test Details.md
       - About AEIS.md
       - Eligibility Criteria.md
       - Application Procedures.md
+      - Test Details.md
       - AEIS Key Activities and Milestones.md
