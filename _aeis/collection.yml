@@ -2,9 +2,9 @@ collections:
   aeis:
     output: true
     order:
-      - Release of School Offers.md
       - About AEIS.md
       - Eligibility Criteria.md
       - Application Procedures.md
       - Test Details.md
+      - Release of School Offers.md
       - AEIS Key Activities and Milestones.md
