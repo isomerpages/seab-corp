@@ -13,7 +13,7 @@ of this exercise.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="3">
 <p><strong>Important information for overseas applicants</strong> 
 <br>MOE will not issue permits for entry into Singapore for applicants to
 sit for the AEIS tests. The applicant should only submit his/her registration
