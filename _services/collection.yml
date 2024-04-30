@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Admissions Exercise for International Students (AEIS).md
       - Services Overview.md
       - SEAB In House Workshops.md
       - SEAB Workshops at AST.md
