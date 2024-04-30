@@ -93,8 +93,7 @@ of the year of admission.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>9 TO 9+ YEARS OLD</strong>
-</summary>
+<summary>9 TO 9+ YEARS OLD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -116,8 +115,7 @@ of the year of admission.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>10 TO 10+ YEARS OLD</strong>
-</summary>
+<summary>10 TO 10+ YEARS OLD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -139,8 +137,7 @@ of the year of admission.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>11 TO 11+ YEARS OLD</strong>
-</summary>
+<summary>11 TO 11+ YEARS OLD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -162,8 +159,7 @@ of the year of admission.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>12 TO 12+ YEARS OLD</strong>
-</summary>
+<summary>12 TO 12+ YEARS OLD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -201,8 +197,7 @@ for the Secondary 1, Secondary 2 or Secondary 3 test.</p>
 age for that level.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>12 to 14+ YEARS OLD</strong>
-</summary>
+<summary>12 to 14+ YEARS OLD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -218,8 +213,7 @@ age for that level.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>13 TO 15+ YEARS OLD</strong>
-</summary>
+<summary>13 TO 15+ YEARS OLD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -235,8 +229,7 @@ age for that level.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>14 TO 16+ YEARS OLD</strong>
-</summary>
+<summary>14 TO 16+ YEARS OLD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
