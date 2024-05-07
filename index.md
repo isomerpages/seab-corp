@@ -30,8 +30,6 @@ sections:
         - title: A-Level
           description: ""
           url: /gce-a-level
-      button: Contact Us
-      url: /about-us/contact-us
   - textcards:
       title: 👥 Personas
       id: textcards
