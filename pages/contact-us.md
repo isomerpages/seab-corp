@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: SEAB
 locations:
   - address:
       - 298 Jalan Bukit Ho Swee
@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 9.00am - 5.00pm
         description: Closed on Public Holidays
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/?lat=1.28791896949746&lng=103.830348932408
     title: Main Office
 contacts:
   - content:

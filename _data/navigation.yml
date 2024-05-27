@@ -1,76 +1,91 @@
-logo: /images/logo3.png
+logo: /images/HomePage/SEAB_logo_in_color__png_7.png
 links:
   - title: Examinations
-    url: /permalink
+    url: /examinations-overview
     sublinks:
       - title: PSLE
         url: /psle
       - title: GCE N(T) Level
-        url: /permalink
+        url: /gce-nt-level/
       - title: GCE N(A) Level
-        url: /permalink
+        url: /gce-na-level
       - title: GCE O-Level
-        url: /permalink
+        url: /gce-o-level
       - title: GCE A-Level
-        url: /permalink
+        url: /gce-a-level
   - title: Services
-    url: /permalink
+    url: /services/services-overview
     sublinks:
       - title: SEAB In-House Workshops
-        url: /permalink
+        url: /services/seab-in-house-workshops
       - title: SEAB Workshops at AST
-        url: /permalink
+        url: /services/seab-workshops-at-ast
       - title: Training & Consultancy
-        url: /permalink
+        url: /services/training-consultancy
       - title: Academic Publications
-        url: /permalink
+        url: /services/academic-publications
       - title: Distributors of Past Years' QP
-        url: /permalink
+        url: /services/distributors-of-past-years-question-papers
       - title: Past Years' Results in DF
-        url: /permalink
+        url: /services/statements-of-results
       - title: AEIS
-        url: /permalink
+        url: /services/aeis/
       - title: S-AEIS
-        url: /permalink
+        url: /services/s-aeis/
       - title: SPERS-Sec
-        url: /permalink
+        url: /services/spers-sec
       - title: SPE
-        url: /permalink
-      - title: iPSLE
-        url: /permalink
+        url: /services/spe/
+      - title: 𝑖PSLE
+        url: /services/ipsle
   - title: News
-    url: /permalink
+    url: /news/
     sublinks:
       - title: Announcements
-        url: /permalink
+        url: /news/announcements
       - title: Press Releases
-        url: /permalink
+        url: /news/press-releases
       - title: Media Responses
-        url: /permalink
+        url: /news/media-responses
       - title: SEAB-link Newsletter
-        url: /permalink
+        url: /news/seab-link-newsletter/
       - title: Parliamentary Questions
-        url: /permalink
+        url: /news/parliamentary-questions/
   - title: About Us
-    url: /permalink
+    url: /about-us/what-we-do
     sublinks:
       - title: What we do
-        url: /permalink
+        url: /about-us/what-we-do
       - title: Board Members
-        url: /permalink
+        url: /about-us/what-we-do#board-members
       - title: Management Team
-        url: /permalink
+        url: /about-us/what-we-do/#management-team
       - title: Annual Reports
-        url: /permalink
+        url: /about-us/annual-reports
       - title: Career Opportunities
-        url: /permalink
+        url: /about-us/careers/
       - title: Exam Personnel Openings
-        url: /permalink
+        url: /about-us/exam-personnel-openings
       - title: Resources
-        url: /permalink
+        url: /about-us/resources
       - title: Contact Us
-        url: /permalink
+        url: /about-us/contact-us
       - title: Heritage Gallery
-        url: /permalink
+        url: /about-us/heritage-gallery
+  - title: Quicklinks
+    url: /quicklinks
+    sublinks:
+      - title: Candidates Portal
+        url: https://myexams.seab.gov.sg/auth/login
+      - title: Important Dates
+        url: https://staging.d3lmfx40ccc97d.amplifyapp.com/important-dates-for-candidates
+      - title: Past Years' Results
+        url: /services/statements-of-results
+      - title: Approved Calculators
+        url: https://go.gov.sg/approved-calculators
+      - title: Approved Dictionaries
+        url: https://go.gov.sg/list-of-dictionaries-for-examination
+      - title: Test
+        url: /example-page/
   - title: FAQs
-    url: /permalink
+    url: /faq

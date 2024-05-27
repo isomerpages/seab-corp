@@ -1,0 +1,24 @@
+collections:
+  services:
+    output: true
+    order:
+      - Services Overview.md
+      - SEAB In House Workshops.md
+      - SEAB Workshops at AST.md
+      - Training & Consultancy.md
+      - Academic Publications.md
+      - Distributors of Past Years' Question Papers.md
+      - Past Years' Results in Digital Form.md
+      - Admissions Exercise for International Students (AEIS).md
+      - Supplementary Admissions Exercise for International Students (S AEIS).md
+      - School Placement Exercise for Returning Singaporeans Secondary (SPERS
+        Sec).md
+      - SPE/.keep
+      - SPE/Supplementary Placement Exercise (SPE).md
+      - SPE/About SPE.md
+      - SPE/Application Procedures.md
+      - SPE/Test Details.md
+      - SPE/School Selections and Postings.md
+      - SPE/Key Activities and Milestones.md
+      - SPE/Key Activities and Milestones 2.md
+      - 𝑖PSLE.md

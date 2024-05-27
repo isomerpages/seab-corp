@@ -1,21 +1,21 @@
-title: Singapore Examinations and Assessment Board
+title: SEAB - Singapore Examinations and Assessment Board
 url: https://www.isomer.seab.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/HomePage/SEAB_logo_topbar.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#837030"
+  secondary-color: "#063d90"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#0458ab"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#04247c"
     - title: media-color-three
-      color: "#d78740"
+      color: "#051537"
     - title: media-color-four
-      color: "#00838f"
+      color: "#003d7a"
     - title: media-color-five
-      color: "#00838f"
-description: An Isomer site of the Singapore Government
+      color: "#183c57"
+description: An Isomer site of Singapore Examinations and Assessment Board
 permalink: none
 baseurl: ""
 exclude:
@@ -54,5 +54,6 @@ prod: https://master.d3lmfx40ccc97d.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/favicon-isomer.ico
 is_government: true
-google_analytics_ga4: ""
+google_analytics_ga4: G-0NNZF4HG00
 linkedin-insights: ""
+resources_name: news

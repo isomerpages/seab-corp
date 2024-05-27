@@ -3,6 +3,3 @@ collections:
     output: true
     order:
       - Testing.md
-      - PSLE.md
-      - About PSLE.md
-      - Train Disruption Advice.md
