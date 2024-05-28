@@ -8,3 +8,5 @@ description: Examination Personnel Openings
 <br>Only shortlisted applicants will be invited for an interview by end of
 February 2024.&nbsp;</p>
 <p>Thank you.</p>
+<p><a href="/files/approved_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">approved calculators</a>
+</p>

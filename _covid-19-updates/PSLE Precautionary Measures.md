@@ -1,6 +1,6 @@
 ---
 title: PSLE Precautionary Measures
-permalink: /covid19/psle-precautionary-measures/
+permalink: /covid-19-updates/psle-precautionary-measures/
 variant: tiptap
 description: PSLE Precautionary Measures
 ---
