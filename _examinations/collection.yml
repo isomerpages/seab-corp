@@ -1,5 +1,4 @@
 collections:
   examinations:
     output: true
-    order:
-      - e Exam Resources.md
+    order: []
