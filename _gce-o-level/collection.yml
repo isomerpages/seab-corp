@@ -2,6 +2,7 @@ collections:
   gce-o-level:
     output: true
     order:
+      - About GCE O Level.md
       - School Candidates/FAQ page.md
       - School Candidates/.keep
       - School Candidates/GCE O Level for School Candidates.md
