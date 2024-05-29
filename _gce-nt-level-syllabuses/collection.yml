@@ -1,4 +1,5 @@
 collections:
   gce-nt-level-syllabuses:
     output: true
-    order: []
+    order:
+      - N(T) Level Syllabuses Examined in 2024 for Private Candidates.md
