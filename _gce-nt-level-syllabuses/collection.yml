@@ -2,5 +2,5 @@ collections:
   gce-nt-level-syllabuses:
     output: true
     order:
-      - N(T) Level Syllabuses Examined in 2025 for Private Candidates.md
       - N(T) Level Syllabuses Examined in 2024 for Private Candidates.md
+      - N(T) Level Syllabuses Examined in 2025 for Private Candidates.md
