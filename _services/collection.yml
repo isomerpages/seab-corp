@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - AEIS/Test Details.md
       - AEIS/Application Procedures.md
       - AEIS/Eligibility Criteria.md
       - AEIS/.keep
