@@ -5,16 +5,15 @@ variant: tiptap
 description: Important Dates for Candidates
 image: /images/HomePage/SEAB_logo_topbar.png
 ---
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>PSLE</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="3">
-<table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>PSLE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,109 +25,85 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Examination Calendar 2024 (Tentative)</p>
+<p>Examination Calendar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Calendar</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/2024-psle-exam-timetable.pdf?sfvrsn=5ef9c2bc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Calendar</u></a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Examination Timetable 2023</p>
+<p>2024 Marking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Timetable</p>
+<p>Mon, 14 October&nbsp;– Wed, 16 October 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marking Exercise</p>
+<p>Date of 2024 Result Release^</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 16 Oct – Wed, 18 Oct 2023</p>
+<p>Wed, 20 November – Fri, 22 November 2024</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Date of 2023 Result Release</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed, 22 Nov 2023</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr></tr>
 </tbody>
 </table>
 <p></p>
-<table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>GCE-LEVEL</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p>GCE-LEVEL</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="3">
-<p>Table</p>
-<table>
-<tbody>
-<tr>
 <th rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
+<p>Event</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>GCE N(A)-<br>and<br>N(T)- Levels</strong>
-</p>
+<p>GCE N(A)-
+<br>and
+<br>N(T)- Levels</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>GCE O-Level</strong>
-</p>
+<p>GCE O-Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>GCE A-Level</strong>
-</p>
+<p>GCE A-Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>(Applicable to GCE O- and A-Levels only)<br>Mid-Year MTL/MTLB</strong>
-</p>
+<p>(Applicable to GCE O- and A-Levels only)
+<br>Mid-Year MTL/MTLB</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Examination Calendar 2024 (Tentative)</strong>
+<p><strong>Examination Timetable 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Calendar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Calendar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Calendar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Examination Timetable 2023</strong>
+<p><a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/examination-timetable/gce-n-level-exam-timetable-for-publication-as-at-24-may.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
 </p>
+<p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Timetable</p>
+<p><a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/examination-timetable/gce-o-level-exam-timetable-as-at-24-may-2024-for-publication.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+</p>
+<p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Timetable</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Timetable</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/gce-a-level-timetable-26-april-2024-for-publication.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+</p>
+<p>(Updated as at 26 April 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -187,27 +162,35 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2023 Result Release^</strong>
+<p><strong>Date of 2024 Result Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 December 2023</p>
+<p>16&nbsp;– 18 December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 January 2024</p>
+<p>10 – 14 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 February 2024</p>
+<p>21&nbsp;– 25 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Aug 2023</p>
+<p>22 – 26 August 2024</p>
 </td>
 </tr>
 </tbody>
 </table>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
+<p>*<a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>Contact SEAB</u></a>&nbsp;if
+you have not received your Entry Proofs by the following dates:
+<br><strong>Mid-Year examination</strong> - 21 May 2024
+<br><strong>Science Practical examination</strong> - 7 days before the examination
+date
+<br><strong>Year-End examination</strong> - 27 June 2024
+<br>
+<br>^The actual date of the results release can only be confirmed when all
+processes have been completed. Once the date has been confirmed, it would
+be announced through the media.</p>
+</div>
+</details>
+</div>
 <p></p>
