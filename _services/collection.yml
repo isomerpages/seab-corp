@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - S AEIS/Eligibility Criteria.md
       - S AEIS/Application Procedures.md
       - S AEIS/Test Details.md
       - S AEIS/Release of School Offers.md
