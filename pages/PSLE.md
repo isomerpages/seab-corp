@@ -9,7 +9,10 @@ that is taken by candidates at the end of their final year of primary school
 education, in Singapore.&nbsp;
 <br>
 <br>More information about the PSLE is available below.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,8 +58,8 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">Approved Calculator List</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/result-slips-examination-certificates-for-psle-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Results Slips" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Results Slips and Certificates for PSLE Candidates</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/psle-key-exam-processes" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/psle-result-slips" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Results Slips" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Results Slips and Certificates for PSLE Candidates</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/psle/behind-the-scene" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSLE Key Exam Processes" src="/images/Keyexamprocesses.png">
