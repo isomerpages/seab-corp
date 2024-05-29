@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Training and Consultancy/.keep
-      - Customised Assessment Services.md
       - Training and Consultancy.md
       - AEIS/About AEIS.md
       - AEIS/.keep
