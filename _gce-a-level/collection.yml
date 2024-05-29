@@ -2,6 +2,8 @@ collections:
   gce-a-level:
     output: true
     order:
+      - GCE A Level Syllabus/A Level Syllabuses Examined in 2024 for Private
+        Candidates.md
       - GCE A Level Syllabus/.keep
       - About GCE A Level.md
       - GCE A Level for School Candidates.md
