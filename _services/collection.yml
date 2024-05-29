@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - AEIS/Eligibility Criteria.md
       - AEIS/.keep
       - Services Overview.md
       - SEAB In House Workshops.md
