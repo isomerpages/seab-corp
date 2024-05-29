@@ -2,6 +2,7 @@ collections:
   psle:
     output: true
     order:
+      - Result Slips and Examination Certificates for PSLE Candidates.md
       - PSLE Formats Examined in 2024.md
       - "Behind The Scene: Key Exam Processes.md"
       - About PSLE.md
