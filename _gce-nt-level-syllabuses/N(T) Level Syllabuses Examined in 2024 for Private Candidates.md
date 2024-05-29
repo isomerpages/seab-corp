@@ -124,15 +124,15 @@ format.</p>
 <p>1195</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> 
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u> 
 </a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_st_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Texts</u>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_st_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Texts</u> 
 </a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>|
-<a href="https://www.seab.gov.sg/videos/default-source/syllabuses-videos/1195_y23_p4_sv.mp4" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u>
+<a href="https://www.seab.gov.sg/videos/default-source/syllabuses-videos/1195_y23_p4_sv.mp4" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u> 
 </a>
 <br>[2022]</p>
 </td>
@@ -192,10 +192,10 @@ format.</p>
 <p>1202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Listening Comprehension</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Listening Comprehension</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a> 
 <br>[2023]</p>
 </td>
 </tr>
@@ -210,9 +210,9 @@ format.</p>
 <p>1203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Listening Comprehension</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Listening Comprehension</u></a> 
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral<br></u></a>[2023]</p>
 </td>
 </tr>
@@ -227,10 +227,10 @@ format.</p>
 <p>1204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sp1.pdf?sfvrsn=7f9f200d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sp2.pdf?sfvrsn=36ef0ee_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sp3lc.pdf?sfvrsn=79511d0e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Listening Comprehension</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sporal.pdf?sfvrsn=b47ac04_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sp1.pdf?sfvrsn=7f9f200d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sp2.pdf?sfvrsn=36ef0ee_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sp3lc.pdf?sfvrsn=79511d0e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Listening Comprehension</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1204_y24_sporal.pdf?sfvrsn=b47ac04_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a> 
 <br>[2023]</p>
 </td>
 </tr>
@@ -245,9 +245,9 @@ format.</p>
 <p>5148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/videos/default-source/science-syllabus-video/5148_y24_p1_video.mp4?sfvrsn=f13428d3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> 
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> 
+<br><a href="https://www.seab.gov.sg/videos/default-source/science-syllabus-video/5148_y24_p1_video.mp4?sfvrsn=f13428d3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a> 
 <br><a href="https://www.seab.gov.sg/videos/default-source/science-syllabus-video/5148_y24_p1_animation.mp4?sfvrsn=b5df17a7_2" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip<br></u></a>
 </p>
 <p>[2023]</p>
