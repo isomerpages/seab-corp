@@ -47,12 +47,31 @@ have any questions.</p>
 </ul>
 <p>Click <a href="https://go.gov.sg/registration-ast-online-workshops" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="primary_level_img" src="/images/Services/Training and Consultancy/ast_sponsored_workshops_pri.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>SECONDARY LEVEL / PRE-U</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Assessment – Chemistry</p>
+</li>
+<li>
+<p>Assessment – Physics</p>
+</li>
+<li>
+<p>Assessment – Biology</p>
+</li>
+</ul>
+<p>Click <a href="https://go.gov.sg/registration-ast-online-workshops" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="secondary_level_img" src="/images/Services/Training and Consultancy/ast_sponsored_workshops_sec.png">
+</div>
 </div>
 </details>
 </div>
