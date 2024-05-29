@@ -2,12 +2,12 @@ collections:
   services:
     output: true
     order:
-      - AEIS/AEIS Key Activities and Milestones.md
-      - AEIS/Release of School Offers.md
-      - AEIS/Test Details.md
-      - AEIS/Application Procedures.md
-      - AEIS/Eligibility Criteria.md
       - AEIS/.keep
+      - AEIS/Eligibility Criteria.md
+      - AEIS/Application Procedures.md
+      - AEIS/Test Details.md
+      - AEIS/Release of School Offers.md
+      - AEIS/AEIS Key Activities and Milestones.md
       - Services Overview.md
       - SEAB In House Workshops.md
       - SEAB Workshops at AST.md
