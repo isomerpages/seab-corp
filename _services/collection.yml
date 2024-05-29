@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - AEIS/AEIS Key Activities and Milestones.md
       - AEIS/Release of School Offers.md
       - AEIS/Test Details.md
       - AEIS/Application Procedures.md
