@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Training and Consultancy/Training and Consultancy.md
       - Training and Consultancy/Customised Assessment Services.md
       - Training and Consultancy/.keep
       - AEIS/About AEIS.md
