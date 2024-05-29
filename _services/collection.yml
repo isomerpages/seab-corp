@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - S AEIS/Test Details.md
       - S AEIS/Release of School Offers.md
       - S AEIS/Key Activities and Milestones.md
       - S AEIS/.keep
