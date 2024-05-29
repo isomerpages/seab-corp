@@ -1,5 +1,4 @@
 collections:
   s-aeis:
     output: true
-    order:
-      - About S AEIS.md
+    order: []
