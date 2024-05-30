@@ -380,6 +380,10 @@ assessment purpose.&nbsp;</p>
 <p>Click <a href="https://form.gov.sg/65af18a40fa3b700119aeff5" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Design and use of rubrics and rating scales in assessing 21st century competencies" src="/images/Services/Training and Consultancy/Design_and_use_of_rubrics_and_rating_scales_in_assessing_21st_century_competencies.jpg">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0.5</p>
@@ -398,6 +402,10 @@ with different proficiency level</p>
 <p>&nbsp;</p>
 <p>Click <a href="https://form.gov.sg/6567e18e43f269001121bfa1" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Tasks including Video Stimulus for Conversation (CL Pri)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Tasks_including_Video_Stimulus_for_Conversation__CL_Pri_.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -420,6 +428,10 @@ use items of the appropriate levels</p>
 <p>Click <a href="https://form.gov.sg/655c5a9fa2294500125c5b88" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Writing and Language Use Items for NTCL and OCL (Secondary CL)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Writing_and_Language_Use_Items_for_NTCL_and_OCL__Secondary_CL_.jpg">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0.5</p>
@@ -438,6 +450,9 @@ scan the QR code to register now!</p>
 <p>Click <a href="https://form.gov.sg/655e9dbcfeeec4001244296e" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Design of Oral Presentation and Discussion Tasks in Higher Chinese Language (Sec)" src="/images/Services/Training and Consultancy/Design_of_Oral_Presentation_and_Discussion_Tasks_in_Higher_Chinese_Language__Sec_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>0.5</p>
@@ -456,6 +471,9 @@ scan the QR code to register now!</p>
 <p>Click <a href="https://form.gov.sg/6567e2e29aeafd00126a0156" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Design of Oral Presentation and Discussion Tasks in H1 Chinese Language (JC/MI)" src="/images/Services/Training and Consultancy/Design_of_Oral_Presentation_and_Discussion_Tasks_in_H1_Chinese_Language__JCMI_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>0.5</p>
@@ -473,6 +491,9 @@ scan the QR code to register now!</p>
 <p>Click <a href="https://form.gov.sg/6567e38401ba2500111e13f3" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Assessment of 21 CC Communication Skills in Chinese Language" src="/images/Services/Training and Consultancy/Assessment_of_21_CC_Communication_Skills_in_Chinese_Language.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
@@ -493,6 +514,9 @@ for participants to demonstrate their attainment of the programme objectives.&nb
 <p>Click <a href="https://form.gov.sg/655e9a3afeeec4001243f959" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Writing and Language Use Items (Secondary ML)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Writing_and_Language_Use_Items__Secondary_TL_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
@@ -513,6 +537,9 @@ for participants to demonstrate their attainment of the programme objectives.&nb
 <p>Click <a href="https://form.gov.sg/6567e454142db20011bfe9a6" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
 scan the QR code to register now!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Writing and Language Use Items (Secondary TL)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Writing_and_Language_Use_Items__Secondary_TL_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
