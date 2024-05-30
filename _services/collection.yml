@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Training and Consultancy/SEAB Workshops at AST.md
-      - Training and Consultancy/Training and Consultancy.md
       - Training and Consultancy/Customised Assessment Services.md
       - Training and Consultancy/.keep
       - Services Overview.md
