@@ -1,4 +1,5 @@
 collections:
   aeis:
     output: true
-    order: []
+    order:
+      - AEIS Key Activities and Milestones.md
