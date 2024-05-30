@@ -2,4 +2,5 @@ collections:
   aeis:
     output: true
     order:
+      - Release of School Offers.md
       - AEIS Key Activities and Milestones.md
