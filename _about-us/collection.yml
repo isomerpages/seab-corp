@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Resources.md
       - What we do.md
       - Annual Reports.md
       - Career Opportunities.md
       - Examination Personnel Openings.md
+      - Resources.md
       - Contact Us.md
       - SEAB Heritage Gallery.md
