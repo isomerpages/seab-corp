@@ -2,4 +2,5 @@ collections:
   training-and-consultancy:
     output: true
     order:
+      - SEAB Workshops at AST.md
       - Customised Assessment Services.md
