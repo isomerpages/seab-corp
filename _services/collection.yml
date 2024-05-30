@@ -2,6 +2,8 @@ collections:
   services:
     output: true
     order:
+      - SPERS Sec/School Placement Exercise for Returning Singaporeans Secondary
+        (SPERS Sec).md
       - SPERS Sec/.keep
       - Training and Consultancy.md
       - Services Overview.md
