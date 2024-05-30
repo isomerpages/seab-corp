@@ -2,6 +2,6 @@ collections:
   training-and-consultancy:
     output: true
     order:
-      - AST Sponsored Workshops.md
       - SEAB Workshops at AST.md
+      - AST Sponsored Workshops.md
       - Customised Assessment Services.md
