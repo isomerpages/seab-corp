@@ -338,7 +338,7 @@ scan the QR code to register now!</p>
 scan the QR code to register now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="elective-modules" src="/images/Services/Training and Consultancy/elective_modules.png">
+<img style="width: 20%;" height="auto" width="100%" alt="elective-modules" src="/images/Services/Training and Consultancy/elective_modules.png">
 </div>
 <p></p>
 </div>
@@ -346,7 +346,180 @@ scan the QR code to register now!</p>
 <details class="isomer-details">
 <summary>SEAB-Initiated Workshops</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Workshop Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Outline</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Number of Days</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design and use of rubrics and rating scales in assessing 21st century
+competencies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The workshop focuses on developing rating scales and rubrics which could
+be used for assessing 21st century competencies. Participants will learn
+about principles of developing rating scales and rubrics, understand the
+use of different rubrics for different assessment purposes and apply the
+concepts to develop or improvise a rubric or rating scale for their school’s
+assessment purpose.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/65af18a40fa3b700119aeff5" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design of Interactive Tasks including Video Stimulus for Conversation
+<br>(CL Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Understand the criteria and guidelines of using video as stimulus for
+oral assessment</p>
+<p>2. Be equipped with skills to develop oral assessment items for learners
+with different proficiency level</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/6567e18e43f269001121bfa1" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design of Interactive Writing and Language Use Items for NTCL and OCL
+(Secondary CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Understand the assessment criteria of Interactive Writing Task for
+N(T)-Level Basic Chinese</p>
+<p>2. Understand the assessment criteria of Language use items (word replacement)
+for O-level Chinese</p>
+<p>3. be equipped with skills to design interactive writing task and language
+use items of the appropriate levels</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/655c5a9fa2294500125c5b88" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design of Oral Presentation and Discussion Tasks in Higher Chinese Language
+(Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Understanding key assessment objectives of O-level Higher Chinese Oral</p>
+<p>2. Design of an oral presentation task</p>
+<p>3. Conducting discussion based on oral presentation&nbsp;</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/655e9dbcfeeec4001244296e" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design of Oral Presentation and Discussion Tasks in H1 Chinese Language
+(JC/MI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Understanding key assessment objectives of A-level H1 Chinese Oral</p>
+<p>2. Design of an oral presentation task</p>
+<p>3. Conducting discussion based on oral presentation</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/6567e2e29aeafd00126a0156" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assessment of 21 CC Communication Skills in Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Assessment tasks to enhance communication skills&nbsp;</p>
+<p>2. Use of AfL and AaL in assessment of communication skills</p>
+<p>3. Design of assessment rubrics for AfL and AaL</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/6567e38401ba2500111e13f3" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design of Interactive Writing and Language Use Items (Secondary ML)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This course aims to equip Secondary School Malay Language teachers with
+the knowledge and skills to develop interactive writing tasks and language
+use items based on the Secondary Malay Language curriculum. The workshop
+comprises topics on assessment of writing and reading skills, and item
+development.&nbsp; The full day workshop will also include hands-on sessions
+for participants to demonstrate their attainment of the programme objectives.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/655e9a3afeeec4001243f959" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design of Interactive Writing and Language Use Items (Secondary TL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This course aims to equip Secondary School Tamil Language teachers with
+the knowledge and skills to develop interactive writing tasks and language
+use items based on the Secondary Tamil Language curriculum. The workshop
+comprises topics on assessment of writing and reading skills, and item
+development.&nbsp; The full day workshop will also include hands-on sessions
+for participants to demonstrate their attainment of the programme objectives.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Click <a href="https://form.gov.sg/6567e454142db20011bfe9a6" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
+scan the QR code to register now!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
