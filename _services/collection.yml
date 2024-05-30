@@ -2,6 +2,8 @@ collections:
   services:
     output: true
     order:
+      - SAEIS/Supplementary Admissions Exercise for International Students (S
+        AEIS).md
       - SAEIS/.keep
       - Training and Consultancy.md
       - Services Overview.md
