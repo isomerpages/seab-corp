@@ -1,0 +1,4 @@
+collections:
+  training-and-consultancy:
+    output: true
+    order: []
