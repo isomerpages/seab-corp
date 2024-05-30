@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Training and Consultancy.md
-      - Training and Consultancy/.keep
       - Services Overview.md
       - SEAB In House Workshops.md
       - Academic Publications.md
