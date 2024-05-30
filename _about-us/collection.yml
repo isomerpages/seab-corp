@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Resources.md
-      - Resources/Research and Presentation Articles.md
       - Resources/Demystifying National Examinations.md
       - Resources/.keep
       - What we do.md
