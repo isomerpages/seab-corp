@@ -2,18 +2,10 @@ collections:
   services:
     output: true
     order:
-      - S AEIS/About S AEIS.md
-      - S AEIS/Eligibility Criteria.md
-      - S AEIS/Application Procedures.md
-      - S AEIS/Test Details.md
-      - S AEIS/Release of School Offers.md
-      - S AEIS/Key Activities and Milestones.md
-      - S AEIS/.keep
       - Training and Consultancy/SEAB Workshops at AST.md
       - Training and Consultancy/Training and Consultancy.md
       - Training and Consultancy/Customised Assessment Services.md
       - Training and Consultancy/.keep
-      - AEIS/.keep
       - Services Overview.md
       - SEAB In House Workshops.md
       - Academic Publications.md
