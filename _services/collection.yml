@@ -2,13 +2,13 @@ collections:
   services:
     output: true
     order:
-      - AEIS/.keep
       - Training and Consultancy.md
       - Services Overview.md
       - SEAB In House Workshops.md
       - Academic Publications.md
       - Distributors of Past Years' Question Papers.md
       - Past Years' Results in Digital Form.md
+      - AEIS/.keep
       - Admissions Exercise for International Students (AEIS).md
       - Supplementary Admissions Exercise for International Students (S AEIS).md
       - School Placement Exercise for Returning Singaporeans Secondary (SPERS
