@@ -16,12 +16,8 @@ links:
   - title: Services
     url: /services/services-overview
     sublinks:
-      - title: SEAB In-House Workshops
-        url: /services/seab-in-house-workshops
-      - title: SEAB Workshops at AST
-        url: /services/seab-workshops-at-ast
-      - title: Training & Consultancy
-        url: /services/training-consultancy
+      - title: Training and Consultancy
+        url: /services/training-and-consultancy
       - title: Academic Publications
         url: /services/academic-publications
       - title: Distributors of Past Years' QP
