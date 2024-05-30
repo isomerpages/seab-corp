@@ -2,9 +2,6 @@ collections:
   services:
     output: true
     order:
-      - SAEIS/Supplementary Admissions Exercise for International Students (S
-        AEIS).md
-      - SAEIS/.keep
       - Training and Consultancy.md
       - Services Overview.md
       - SEAB In House Workshops.md
@@ -19,6 +16,9 @@ collections:
       - AEIS/Test Details.md
       - AEIS/Release of School Offers.md
       - AEIS/AEIS Key Activities and Milestones.md
+      - SAEIS/.keep
+      - SAEIS/Supplementary Admissions Exercise for International Students (S
+        AEIS).md
       - School Placement Exercise for Returning Singaporeans Secondary (SPERS
         Sec).md
       - SPE/.keep
