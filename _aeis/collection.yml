@@ -2,5 +2,6 @@ collections:
   aeis:
     output: true
     order:
+      - Test Details.md
       - Release of School Offers.md
       - AEIS Key Activities and Milestones.md
