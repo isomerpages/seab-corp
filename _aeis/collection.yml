@@ -2,6 +2,7 @@ collections:
   aeis:
     output: true
     order:
+      - Application Procedures.md
       - Test Details.md
       - Release of School Offers.md
       - AEIS Key Activities and Milestones.md
