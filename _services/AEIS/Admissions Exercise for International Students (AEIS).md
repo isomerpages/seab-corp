@@ -18,7 +18,7 @@ third_nav_title: AEIS
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/services/aeis/application-procedures/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application Procedures" src="/images/AEIS/Images for Cards/notebook_registration_06.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Procedures</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/services/aeis/aeis-test-details/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/services/aeis/test-details/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Test Details" src="/images/AEIS/Images for Cards/publishedbooks_cropped.jpg">
