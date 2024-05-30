@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Resources/.keep
       - What we do.md
       - Annual Reports.md
       - Career Opportunities.md
