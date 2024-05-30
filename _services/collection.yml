@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - SPERS Sec/Frequently Asked Questions.md
       - SPERS Sec/School Placement Exercise for Returning Singaporeans Secondary
         (SPERS Sec).md
       - SPERS Sec/.keep
