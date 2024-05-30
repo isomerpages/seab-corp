@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - SPERS Sec/SPERS Sec Test Details.md
       - SPERS Sec/SPERS Sec School Selections and Postings.md
       - SPERS Sec/School Placement Exercise for Returning Singaporeans Secondary
         (SPERS Sec).md
