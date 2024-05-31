@@ -7,7 +7,6 @@ description: 1 Media Replies 2018
 image: /images/HomePage/SEAB_logo_topbar.png
 variant: tiptap
 ---
-<h4><strong>9 March 2018</strong></h4>
 <p><strong>APPROPRIATE ARRANGEMENTS IN PLACE FOR AFFECTED CANDIDATES</strong>
 </p>
 <p>We thank Ms Lye Meng Ling for her letter on the management of pre-enlistees
