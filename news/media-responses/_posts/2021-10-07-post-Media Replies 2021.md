@@ -7,7 +7,6 @@ description: Media Replies 2021
 image: /images/HomePage/SEAB_logo_topbar.png
 variant: tiptap
 ---
-<h4><strong>7 October 2021</strong></h4>
 <p>The Editor
 <br>Forum Page
 <br>The Straits Times
