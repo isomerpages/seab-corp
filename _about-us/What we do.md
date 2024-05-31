@@ -28,7 +28,7 @@ one makes a unique contribution to our organisation.<br>
 <br>We live by high standards of work and conduct. We learn continuously to
 improve our knowledge and skills.<br>
 <br><strong>Teamwork<br></strong>We combine our talents and effort for superior
-outcomes. Together, each achieves more.<p></p>
+outcomes. Together, each achieves more.
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Board Members</summary><section id="board-members">  
