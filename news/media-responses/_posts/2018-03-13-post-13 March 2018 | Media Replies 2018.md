@@ -7,7 +7,6 @@ description: Media Replies 2018
 image: /images/HomePage/SEAB_logo_topbar.png
 variant: tiptap
 ---
-<h4><strong>13 March 2018</strong></h4>
 <p>The Editor
 <br>Forum Page
 <br>The Straits Times
