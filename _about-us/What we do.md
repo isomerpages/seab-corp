@@ -1,7 +1,7 @@
 ---
 title: What we do
 permalink: /about-us/what-we-do/
-variant: markdown
+variant: tiptap
 description: What we do
 ---
 <p>The Singapore Examinations and Assessment Board (SEAB) was established
@@ -12,29 +12,38 @@ products locally as well as overseas.</p>
 <p>We aim to become a regional centre for assessment products and&nbsp;services,&nbsp;and
 contribute to Singapore’s development as an education hub.</p>
 <h3><strong>Our Vision</strong></h3>
-A trusted authority in examinations and&nbsp;assessment,&nbsp;recognised
-locally and internationally.
+<p>A trusted authority in examinations and&nbsp;assessment,&nbsp;recognised
+locally and internationally.</p>
 <h3><strong>Our Mission</strong></h3>
-We assess educational performance so as to certify individuals, uphold
-national standards and advance quality in assessment worldwide
+<p>We assess educational performance so as to certify individuals, uphold
+national standards and advance quality in assessment worldwide</p>
 <h3><strong>Our Values</strong></h3>
-<strong>Integrity</strong><br>
-We act with honesty at all times. <p></p>
-<strong>Value people<br></strong>We respect and care for our people. Each
-one makes a unique contribution to our organisation.<br>
+<p><strong>Integrity</strong>
+<br>We act with honesty at all times.</p>
+<p></p>
+<p><strong>Value people<br></strong>We respect and care for our people. Each
+one makes a unique contribution to our organisation.
+<br>
 <br><strong>Commitment</strong> 
-<br>We give our best at all times to meet the needs of our customers.<br>
+<br>We give our best at all times to meet the needs of our customers.
+<br>
 <br><strong>Professionalism</strong> 
 <br>We live by high standards of work and conduct. We learn continuously to
-improve our knowledge and skills.<br>
+improve our knowledge and skills.
+<br>
 <br><strong>Teamwork<br></strong>We combine our talents and effort for superior
-outcomes. Together, each achieves more.
+outcomes. Together, each achieves more.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Board Members</summary><section id="board-members">  
+<summary>Board Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -138,9 +147,9 @@ and Assessment Board</p>
 </table>
 <p></p>
 </div>
-</section></details>
+</details>
 <details class="isomer-details">
-<summary>Management Team</summary><section id="management-team">  
+<summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Chief Executive</strong>
@@ -268,7 +277,7 @@ and Assessment Board</p>
 </li>
 </ul>
 </div>
-</section></details>
+</details>
 </div>
 <p>
 <br>
