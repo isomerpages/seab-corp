@@ -15,8 +15,8 @@ contribute to Singapore’s development as an education hub.</p>
 <p>A trusted authority in examinations and&nbsp;assessment,&nbsp;recognised
 locally and internationally.</p>
 <h3><strong>Our Mission</strong></h3>
-<p>We assess educational performance so as to certify individuals, uphold
-national standards and advance quality in assessment worldwide.</p>
+<br>We assess educational performance so as to certify individuals, uphold
+national standards and advance quality in assessment worldwide
 <h3><strong>Our Values</strong></h3>
 <strong>Integrity</strong><br>
 We act with honesty at all times. <p></p>
