@@ -12,10 +12,10 @@ products locally as well as overseas.</p>
 <p>We aim to become a regional centre for assessment products and&nbsp;services,&nbsp;and
 contribute to Singapore’s development as an education hub.</p>
 <h3><strong>Our Vision</strong></h3>
-<p>A trusted authority in examinations and&nbsp;assessment,&nbsp;recognised
-locally and internationally.</p>
+A trusted authority in examinations and&nbsp;assessment,&nbsp;recognised
+locally and internationally.
 <h3><strong>Our Mission</strong></h3>
-<br>We assess educational performance so as to certify individuals, uphold
+We assess educational performance so as to certify individuals, uphold
 national standards and advance quality in assessment worldwide
 <h3><strong>Our Values</strong></h3>
 <strong>Integrity</strong><br>
