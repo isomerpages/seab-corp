@@ -16,9 +16,6 @@ forward to working with you to continue achieving excellence in assessment
 services.</p>
 <p>If you are interested, please refer to <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>&nbsp;for further
 information.</p>
-<h4><strong>APPLICATION PROCEDURE</strong></h4>
-<p>If you are interested in any of the above position, please submit your
-application with your educational certificates to&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</summary>
@@ -146,4 +143,6 @@ conducting presentations, and engagement with different levels of stakeholders.<
 </div>
 </details>
 </div>
-<p></p>
+<h4><strong>APPLICATION PROCEDURE</strong></h4>
+<p>If you are interested in any of the above position, please submit your
+application with your educational certificates to&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
