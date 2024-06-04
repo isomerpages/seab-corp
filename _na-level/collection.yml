@@ -1,5 +1,5 @@
 collections:
-  gce-na-level:
+  na-level:
     output: true
     order:
       - About GCE N(A) Level.md
