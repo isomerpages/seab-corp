@@ -16,8 +16,7 @@ information.</p>
 <details class="isomer-details">
 <summary>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>RESPONSIBILITIES</strong>
-</p>
+<h2><strong>RESPONSIBILITIES</strong></h2>
 <p>Successful applicant will play an active role in conducting research on
 educational measurement and assessment issues, as well as in developing
 assessment services and products that are transforming for stakeholders.&nbsp;The
@@ -141,6 +140,4 @@ conducting presentations, and engagement with different levels of stakeholders.<
 </div>
 <h4><strong>APPLICATION PROCEDURE</strong></h4>
 <p>If you are interested in any of the above position, please submit your
-application with your educational certificates</p>
-<p></p>
-<p>o&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
+application with your educational certificateso&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
