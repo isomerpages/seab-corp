@@ -10,8 +10,8 @@ are available below.</p>
 <p><strong><a href="https://go.gov.sg/2024-gce-na-nt-level-exam-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
 </blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NA Syllabus Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(A)-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/gce-na-level/syllabuses/2024-pte-cddts" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NA Syllabus Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(A)-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/gce-na-level/syllabuses/2025-pte-cddts" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NA Level Syllabuses Image" src="/images/psleformats.png">
@@ -43,7 +43,7 @@ are available below.</p>
 <div class="isomer-card-title">Approved Dictionary List</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/private-candidates/e-exam-resources-for-private-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e-Exam Resources for Private Candidates" src="/images/eexamresources.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">e-Exam Resources image</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/pte-cddts-exam-resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e-Exam Resources for Private Candidates" src="/images/eexamresources.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">e-Exam Resources </div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/#!/60b86f3e4d466200116efec7" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -54,7 +54,7 @@ are available below.</p>
 <div class="isomer-card-title">Reschedule of GCE Oral Examination</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/private-candidates/examination-certificates-private-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Examination Results image" src="/images/exam_results.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Examination Results and Certificates</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/pte-cddts-exam-cert" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Examination Results image" src="/images/exam_results.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Examination Results and Certificates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/private-candidates/gce-private-candidates-key-activities-and-milestones" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
