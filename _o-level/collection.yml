@@ -1,5 +1,5 @@
 collections:
-  gce-o-level:
+  o-level:
     output: true
     order:
       - GCE O Level for Private Candidates.md
