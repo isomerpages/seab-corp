@@ -10,10 +10,6 @@ services to our customers in Singapore, and other parts of the world. We
 are looking for team players who enjoy working in a dynamic and creative
 work environment. We invite you to join our team for a rewarding and challenging
 career.</p>
-<p>We offer workshops and consultancy services to equip Education Professionals
-with specialised knowledge and skills in educational assessment. We look
-forward to working with you to continue achieving excellence in assessment
-services.</p>
 <p>If you are interested, please refer to <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>&nbsp;for further
 information.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -145,4 +141,6 @@ conducting presentations, and engagement with different levels of stakeholders.<
 </div>
 <h4><strong>APPLICATION PROCEDURE</strong></h4>
 <p>If you are interested in any of the above position, please submit your
-application with your educational certificates to&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
+application with your educational certificates</p>
+<p></p>
+<p>o&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
