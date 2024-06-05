@@ -5,8 +5,9 @@ variant: tiptap
 description: Meng Lee
 ---
 <p>Discover SEAB's 20 years of journey by viewing the video below.</p>
-<p><a href="https://www.youtube.com/watch?v=CyV3Lf_KLWw" rel="noopener noreferrer nofollow" target="_blank">SEAB@20 - A Journey of Assessment Transformation</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CyV3Lf_KLWw?si=TiwkleXDC4HRHxIA"></iframe>
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
