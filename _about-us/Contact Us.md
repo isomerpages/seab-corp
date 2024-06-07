@@ -5,7 +5,12 @@ variant: tiptap
 description: SEAB Contact Us
 ---
 <h4><strong>Quick Links</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -28,10 +33,10 @@ answers to your questions.</p>
 </table>
 <h4><strong>Use Our Digital Services</strong></h4>
 <p><strong>Website Search</strong> 
-<br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="https://www.seab.gov.sg/search?search=&amp;examination_level=&amp;year=&amp;sort=alphabet&amp;page=1" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
+<br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/search/" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
 find answers to your queries.</p>
 <p><strong>Frequently Asked Questions (FAQs)</strong> 
-<br>Before contacting us, try our <strong><a href="https://www.seab.gov.sg/home/seab-web/faqs/faq" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
+<br>Before contacting us, try our <strong><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/faq/" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
 You may be able to find the answers you need.</p>
 <p><strong>Candidates Portal</strong> 
 <br>Register for the GCE-Level examinations and view your results online via
