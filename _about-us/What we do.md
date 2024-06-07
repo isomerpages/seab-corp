@@ -85,8 +85,7 @@ outcomes. Together, each achieves more.</p>
 <img style="width: 97%;" height="auto" width="100%" alt="Juthika Ramanathan" src="/images/Board Members/Juthika_Ramanathan.png">
 </div>
 <p><strong>Ms Juthika Ramanathan</strong> 
-<br>Chief Executive
-<br>(Office of the Chief Justice), Supreme Court of Singapore</p>
+<br>Chief Executive, Office of the Chief Justice, Judiciary</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
