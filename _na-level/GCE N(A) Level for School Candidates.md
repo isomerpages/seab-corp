@@ -7,7 +7,7 @@ description: GCE NA Level for School Candidates
 <p>More information about the GCE N(A)-Level examination for school candidates
 is available below.</p>
 <blockquote>
-<p><strong><a href="https://go.gov.sg/2024-gce-na-nt-level-exam-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
+<p><strong><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/gce-na-level/syllabuses/2024-sch-cddts" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N(A)-Level Syllabuses Examined in 2024" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(A)-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"></div></div></a>
