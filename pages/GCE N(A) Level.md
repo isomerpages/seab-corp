@@ -12,7 +12,6 @@ is taken by school and private candidates in Singapore.</p>
 <a rel="noopener noreferrer nofollow" href="/gce-na-level/pte-cddts" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">🙋🏻‍♀️ Private Candidates</div>
-<div class="isomer-card-link"></div>
 </div>
 </a>
 </div>
