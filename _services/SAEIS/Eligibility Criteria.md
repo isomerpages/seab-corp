@@ -23,6 +23,12 @@ to apply online again.</p>
 S-AEIS. The applicant should sit for the test appropriate for his/her age.
 Please select the applicant's intended education level (Primary or Secondary)
 to see the tests available.</p>
+<p><strong>Primary (for ages 7 to 11+ years)</strong>
+</p>
+<p>If the applicant is seeking admission to a primary school, he/she must:
+<br>Take the relevant paper-based Cambridge English Qualifications (CEQ) test
+run by Cambridge Assessment English (CAE).</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
