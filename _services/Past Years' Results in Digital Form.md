@@ -22,7 +22,12 @@ allow for secure verification. Any modified document(s) will fail the verificati
 process and will be flagged as being tampered with.</p>
 <p><strong>Table 1</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -37,24 +42,14 @@ process and will be flagged as being tampered with.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>PSLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From 1976 onwards to 2022</p>
+<p>From 1976 onwards to 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Available</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Currently unavailable and will be available by May 2024.</p>
-<p>Please <a href="https://form.gov.sg/62baae719277300012b670c6" rel="noopener noreferrer nofollow" target="_blank"><u>submit a request</u></a> to
-us if you require the results urgently.&nbsp;</p>
 </td>
 </tr>
 <tr>

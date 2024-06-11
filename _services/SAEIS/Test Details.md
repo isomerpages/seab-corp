@@ -114,7 +114,7 @@ questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/othe
 <details class="isomer-details">
 <summary>SEC 1 AND SEC 2 TESTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3><strong>English test</strong></h3>
+<h4><strong>English test</strong></h4>
 <p>The applicant will be given 2 hours 10 minutes to complete the test which
 comprises 2 parts:</p>
 <h4><strong>Part 1: Writing</strong></h4>
@@ -128,7 +128,7 @@ comprises 2 parts:</p>
 <p>Comprehension cloze based on 2 passages (15 items)</p>
 <p>Vocabulary (10 items)</p>
 <p>Grammar (10 items)</p>
-<h3><strong>Mathematics test</strong></h3>
+<h4><strong>Mathematics test</strong></h4>
 <p>The Mathematics test comprises 2 parts. The applicant will be given 30
 minutes to complete Part 1, and 1 hour 45 minutes to complete Part 2:</p>
 <ul data-tight="true" class="tight">

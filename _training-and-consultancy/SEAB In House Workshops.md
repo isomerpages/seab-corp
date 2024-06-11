@@ -1,8 +1,8 @@
 ---
-title: SEAB Workshops at AST
-permalink: /services/training-and-consultancy/seab-workshops-at-ast/
+title: SEAB In House Workshops
+permalink: /services/training-and-consultancy/seab-in-house-workshops/
 variant: tiptap
-description: SEAB Workshops at AST
+description: SEAB In House Workshops
 ---
 <p>We offer a range of assessment workshops for educators.</p>
 <p>More information on the workshops can be found below. Please contact us
