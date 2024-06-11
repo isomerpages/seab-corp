@@ -4,13 +4,13 @@ links:
     url: /examinations-overview
     sublinks:
       - title: PSLE
-        url: /psle
+        url: /examinations/psle
       - title: GCE N(T) Level
         url: /gce-nt-level/
       - title: GCE N(A) Level
         url: /gce-na-level
       - title: GCE O-Level
-        url: /gce-o-level
+        url: /examinations/gce-o-level/
       - title: GCE A-Level
         url: /gce-a-level
   - title: Services
