@@ -23,33 +23,15 @@ to apply online again.</p>
 S-AEIS. The applicant should sit for the test appropriate for his/her age.
 Please select the applicant's intended education level (Primary or Secondary)
 to see the tests available.</p>
-<p><strong>Primary (for ages 7 to 11+ years)</strong>
-</p>
+<p></p>
+<h4><strong>Primary (for ages 7 to 11+ years)</strong></h4>
 <p>If the applicant is seeking admission to a primary school, he/she must:
 <br>Take the relevant paper-based Cambridge English Qualifications (CEQ) test
 run by Cambridge Assessment English (CAE).</p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<p><strong>Primary (for ages 7 to 11+ years)</strong>
-</p>
-</blockquote>
-<p>If the applicant is seeking admission to a primary school, he/she must:
-<br>Take the relevant paper-based Cambridge English Qualifications (CEQ) test
-run by Cambridge Assessment English (CAE).
-<br>
-<br>The test must be taken within 12 months before the month of submission
+<p>The test must be taken within 12 months before the month of submission
 of the S-AEIS registration. For example, if the submission of the S-AEIS
 registration is on January 2023, the applicant must have taken the CEQ
-test on or after February 2022.
-<br>
-</p>
+test on or after February 2022.</p>
 <p>Meet or exceed the required Cambridge English Scale (CES) score (listed
 below) in the CEQ test before the applicant applies to take the S-AEIS-Primary
 Mathematics test appropriate for their age.&nbsp;
@@ -173,15 +155,7 @@ of the year of admission.</p>
 </div>
 </details>
 </div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<blockquote>
-<p><strong>Secondary (for ages 12 to 15+ years)</strong>
-</p>
-</blockquote>
+<h4><strong>Secondary (for ages 12 to 15+ years)</strong></h4>
 <p>For admission to secondary schools, the applicant can choose to apply
 for the Secondary 1 or Secondary 2 test.
 <br>The applicant should not be more than 2 years older than the appropriate
@@ -223,8 +197,4 @@ January in the year of admission.</p>
 </div>
 </details>
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
