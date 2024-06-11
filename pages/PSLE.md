@@ -9,7 +9,10 @@ that is taken by candidates at the end of their final year of primary school
 education, in Singapore.&nbsp;
 <br>
 <br>More information about the PSLE is available below.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,19 +25,19 @@ education, in Singapore.&nbsp;
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/psle-formats-examined-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Format Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE Formats Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important dates Image" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/docs/2024_rr_psle.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Important dates Image" src="/images/imptdates_candidates.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSLE Rules and Regs Image" src="/images/pslerulesandreg.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Important Dates for Candidates</div>
+<div class="isomer-card-title">2024 PSLE Rules and Regulations For Candidates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="2023-psle-rules-and-regulations-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Rules and Regs Image" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2023 PSLE Rules and Regulations For Candidates</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="e-exam-resources-for-school-candidates" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/psle/2024-psle-formats" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Format Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE Formats Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/e-exam-resources" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam resources image" src="/images/eexamresources.png">
@@ -55,8 +58,8 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">Approved Calculator List</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/result-slips-examination-certificates-for-psle-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Results Slips" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Results Slips and Certificates for PSLE Candidates</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/psle-key-exam-processes" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/psle/result-slips" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Results Slips" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Results Slips and Certificates for PSLE Candidates</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/psle/behind-the-scene" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSLE Key Exam Processes" src="/images/Keyexamprocesses.png">
@@ -77,6 +80,6 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">Train Disruption Advice</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/about-psle" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="aboutpsle" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About PSLE</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/psle/about-psle" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="aboutpsle" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About PSLE</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>

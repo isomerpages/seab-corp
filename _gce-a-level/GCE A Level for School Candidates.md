@@ -1,6 +1,6 @@
 ---
 title: GCE A Level for School Candidates
-permalink: /gce-a-level/gce-a-level-school-candidates/
+permalink: /gce-a-level/sch-cddts/
 variant: tiptap
 description: GCE A Level School Candidates
 ---
@@ -10,7 +10,7 @@ is available below.</p>
 <p><strong><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/gce-a-level-timetable-8-march-2024-for-publication.pdf?sfvrsn=d7182e7a_2" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
 </blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/a-level-syllabuses-examined-for-school-candidates-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2024" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/gce-a-level/syllabuses/2024-sch-cddts" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2024" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/a-level-syllabuses-examined-for-school-candidates-2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -19,7 +19,7 @@ is available below.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">A-Level Syllabuses Examined in 2025</div>
-<div class="isomer-card-link"></div>
+<div class="isomer-card-link">/gce-a-level/syllabuses/2025-sch-cddts</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/UpdatesforPrivateCandidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Registration Exercise" src="/images/test2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Registration Exercise For Private Candidates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/2023-gce-o-and-a-level-mid-year-mtl-result-release" class="isomer-card">

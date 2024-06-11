@@ -1,6 +1,6 @@
 ---
 title: GCE N(T) Level for Private Candidates
-permalink: /gce-nt-level/gce-nt-level-private-candidates/
+permalink: /gce-nt-level/pte-cddts/
 variant: tiptap
 description: GCE NT-Level (Private Candidates)
 ---

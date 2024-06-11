@@ -1,6 +1,6 @@
 ---
 title: eExam Resources
-permalink: /eexam-resources/
+permalink: /e-exam-resources/
 variant: tiptap
 description: eExam Resources
 ---
