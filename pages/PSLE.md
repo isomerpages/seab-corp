@@ -1,6 +1,6 @@
 ---
 title: PSLE
-permalink: /psle/
+permalink: /examinations/psle/
 variant: tiptap
 description: psle
 ---

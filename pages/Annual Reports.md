@@ -1,6 +1,6 @@
 ---
 title: Annual Reports
-permalink: /about-us/annual-reports/
+permalink: /home/about-us/annual-reports/
 variant: tiptap
 description: Annual Reports
 ---

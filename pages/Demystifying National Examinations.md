@@ -1,6 +1,6 @@
 ---
 title: Demystifying National Examinations
-permalink: /about-us/resources/demystifying-national-examinations/
+permalink: /home/about-us/resources/demystifying-national-examinations/
 variant: tiptap
 description: Demystifying National Examinations
 ---

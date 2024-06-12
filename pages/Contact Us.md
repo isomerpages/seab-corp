@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /about-us/contact-us/
+permalink: /home/about-us/contact-us/
 variant: tiptap
 description: SEAB Contact Us
 ---

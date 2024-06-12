@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /about-us/resources/
+permalink: /home/about-us/resources/
 variant: tiptap
 description: Resources
 ---

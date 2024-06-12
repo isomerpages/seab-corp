@@ -4,13 +4,13 @@ links:
     url: /examinations-overview
     sublinks:
       - title: PSLE
-        url: /psle
+        url: /examinations/psle
       - title: GCE N(T) Level
         url: /gce-nt-level/
       - title: GCE N(A) Level
         url: /gce-na-level
       - title: GCE O-Level
-        url: /gce-o-level
+        url: /examinations/gce-o-level/
       - title: GCE A-Level
         url: /gce-a-level
   - title: Services
@@ -48,26 +48,26 @@ links:
       - title: Parliamentary Questions
         url: /news/parliamentary-questions/
   - title: About Us
-    url: /about-us/what-we-do
+    url: /home/about-us/what-we-do
     sublinks:
       - title: What we do
-        url: /about-us/what-we-do
+        url: /home/about-us/what-we-do
       - title: Board Members
-        url: /about-us/what-we-do#board-members
+        url: /home/about-us/what-we-do#board-members
       - title: Management Team
-        url: /about-us/what-we-do/#management-team
+        url: /home/about-us/what-we-do/#management-team
       - title: Annual Reports
-        url: /about-us/annual-reports
+        url: /home/about-us/annual-reports
       - title: Career Opportunities
-        url: /about-us/careers/
+        url: /home/about-us/careers/
       - title: Exam Personnel Openings
-        url: /about-us/exam-personnel-openings
+        url: /home/about-us/exam-personnel-openings
       - title: Resources
-        url: /about-us/resources
+        url: /home/about-us/resources
       - title: Contact Us
-        url: /about-us/contact-us
+        url: /home/about-us/contact-us
       - title: Heritage Gallery
-        url: /about-us/heritage-gallery
+        url: /home/about-us/heritage-gallery
   - title: Quicklinks
     url: /quicklinks
     sublinks:

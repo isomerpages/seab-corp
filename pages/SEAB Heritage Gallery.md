@@ -1,6 +1,6 @@
 ---
 title: SEAB Heritage Gallery
-permalink: /about-us/heritage-gallery/
+permalink: /home/about-us/heritage-gallery/
 variant: tiptap
 description: SEAB Heritage Gallery
 ---

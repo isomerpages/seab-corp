@@ -1,6 +1,6 @@
 ---
 title: "COVID 19: Updates"
-permalink: /covid-19-updates/
+permalink: /news/announcements/covid-19-updates/
 date: 2021-10-10
 layout: post
 description: "COVID 19: Updates"

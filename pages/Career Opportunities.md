@@ -1,6 +1,6 @@
 ---
 title: Career Opportunities
-permalink: /about-us/careers/
+permalink: /home/about-us/careers/
 variant: tiptap
 description: careers
 ---
