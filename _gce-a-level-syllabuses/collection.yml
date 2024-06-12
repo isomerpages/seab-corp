@@ -2,7 +2,7 @@ collections:
   gce-a-level-syllabuses:
     output: true
     order:
-      - 2024 A Level Syllabuses Examined for Private Candidates.md
+      - 2024 GCE A Level Syllabuses Examined for Private Candidates.md
       - A Level Syllabuses Examined in 2025 for Private Candidates.md
       - A Level Syllabuses Examined in 2024 for School Candidates.md
       - A Level Syllabuses Examined in 2025 for School Candidates.md
