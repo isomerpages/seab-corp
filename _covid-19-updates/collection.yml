@@ -1,5 +1,4 @@
 collections:
   covid-19-updates:
     output: true
-    order:
-      - PSLE Precautionary Measures.md
+    order: []
