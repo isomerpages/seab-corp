@@ -2,6 +2,5 @@ collections:
   na-level:
     output: true
     order:
-      - About GCE N(A) Level.md
       - GCE N(A) Level for School Candidates.md
       - GCE N(A) Level for Private Candidates.md
