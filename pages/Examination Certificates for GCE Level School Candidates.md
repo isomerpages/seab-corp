@@ -63,19 +63,19 @@ grades:</p>
 on the examination certificates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-n(t)-level/nt-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(T)-Level</u></a>
+<p><a href="/files/Examinations Certificates/School Candidates/nt_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(T)-Level</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-n(a)-level/na-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(A)-Level</u></a>
+<p><a href="/files/Examinations Certificates/School Candidates/na_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(A)-Level</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-o-level/o-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE O-Level</u></a>
+<p><a href="/files/Examinations Certificates/School Candidates/o_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE O-Level</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-a-level/a-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A-Level</u></a>
+<p><a href="/files/Examinations Certificates/School Candidates/a_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A-Level</u></a>
 </p>
 </li>
 </ul>
