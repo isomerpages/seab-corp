@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Annual Reports.md
       - Career Opportunities.md
       - Examination Personnel Openings.md
       - Resources.md
