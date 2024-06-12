@@ -33,7 +33,7 @@ description: Isaac
 <p>Soups</p>
 </li>
 <li>
-<p></p>
+<p>and now Onion rings</p>
 </li>
 </ol>
 <hr>
