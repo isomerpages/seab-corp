@@ -2,6 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Resources.md
       - Contact Us.md
       - SEAB Heritage Gallery.md
