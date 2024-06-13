@@ -124,7 +124,7 @@ Portal guide for the viewing of the results.</p>
 <p>You may appeal for a review of your results during the specified appeal
 period through <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB's Candidates Portal</a>.</p>
 <p></p>
-<p>You wil be notified of the appeal fee for each subject during each year's
+<p>You will be notified of the appeal fee for each subject during each year's
 results release exercise. All appeal fees are subject to the prevailing
 GST. The appeal is for the review of the marking of the scripts and a full
 clerical re-check.</p>
