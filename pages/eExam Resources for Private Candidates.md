@@ -265,7 +265,7 @@ for the e-oral examination to better understand the format and requirements.</p>
 <details class="isomer-details">
 <summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A-Level</p>
+<p>O-Level</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -291,7 +291,7 @@ for the e-oral examination to better understand the format and requirements.</p>
 </tr>
 </tbody>
 </table>
-<p>O-Level</p>
+<p>A-Level</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
