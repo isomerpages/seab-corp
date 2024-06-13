@@ -25,8 +25,8 @@ the specified period.</p>
 <p></p>
 <h4><strong>For Singpass Holders</strong></h4>
 <p>If you are eligible for Singpass, you can view your examination results
-online on the day of the results release, by accessing SEAB's Candidates
-Portal with your Singpass.</p>
+online on the day of the results release, by accessing <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB's Candidates Portal</a> with
+your Singpass.</p>
 <p></p>
 <p>If you have not applied for Singpass, please visit the Singpass website
 to register, activate and link your mobile phone/ token to your Singpass
