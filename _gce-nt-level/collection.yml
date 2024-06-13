@@ -1,5 +1,4 @@
 collections:
   gce-nt-level:
     output: true
-    order:
-      - About GCE N(T) Level.md
+    order: []
