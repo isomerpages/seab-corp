@@ -91,8 +91,8 @@ more information on the eligibility to receive an examination certificate.</p>
 one (1) month from the date of the release of the results, to the address
 that you had provided to SEAB.</p>
 <p></p>
-<p>You can also view your examination results online via SEAB's Candidates
-Portal during the specified period.</p>
+<p>You can also view your examination results online via <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB's Candidates Portal</a> during
+the specified period.</p>
 <p></p>
 <p><strong>For Singpass Holders</strong>
 </p>
