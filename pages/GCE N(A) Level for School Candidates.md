@@ -22,7 +22,7 @@ is available below.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/rules" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Exam Rules and Regulations" src="/images/Resources/exam_rules.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/gce-na-level/syllabuses/2024-sch-cddts" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/home/examinations/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2024/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="N(A)-Level Syllabuses Examined in 2024" src="/images/psleformats.png">
@@ -32,7 +32,7 @@ is available below.</p>
 <div class="isomer-card-title">N(A)-Level Syllabuses Examined in 2024</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/gce-na-level/syllabuses/2025-sch-cddts" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N(A)-Level Syllabuses Examined in 2025" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(A)-Level Syllabuses Examined in 2025</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/home/examinations/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N(A)-Level Syllabuses Examined in 2025" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(A)-Level Syllabuses Examined in 2025</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gce-nt-level-e-exam-resources-for-school-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
