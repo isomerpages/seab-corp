@@ -1,5 +1,4 @@
 collections:
   gce-na-level-syllabuses:
     output: true
-    order:
-      - 2025 N(A) Level Syllabuses Examined for School Candidates.md
+    order: []
