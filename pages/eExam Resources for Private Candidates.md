@@ -380,6 +380,7 @@ for the e-oral examination to better understand the format and requirements.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the online tutorial for the e-written examination to better
 understand the revised examination format.</p>
+<p></p>
 <p><strong>A-Level</strong>
 </p>
 <table style="minWidth: 75px">
@@ -432,6 +433,7 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
 and Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -452,10 +454,26 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Chinese B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8611</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Malay B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8613</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Tamil B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8614</p>
 </td>
 </tr>
 <tr>
@@ -471,6 +489,99 @@ the revised examination format.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>O-Level</strong>
+</p>
+<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
+and Paper 2 online tutorial for the e-written examination to better understand
+the revised examination format.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Chinese B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1153</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Malay B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1151</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Tamil B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1152</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>N(A)-Level</strong>
+</p>
+<p>Check out the online guides (click on the respective papers in the table
+below) for the e-written examination to better understand the revised examination
+format.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Humanities (Revised) Paper 1 Social Studies</p>
+<p></p>
+<p>Digital Answer Booklet Video Guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2125, 2126, 2127</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
