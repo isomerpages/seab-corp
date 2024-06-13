@@ -147,7 +147,7 @@ will not be accepted.</p>
 <p></p>
 <p><strong>Appeal Outcome</strong>
 </p>
-<p>You will receive the appeal outcomer letter via email by the specified
+<p>You will receive the appeal outcome letter via email by the specified
 deadline. No report on your performance in the examination will be provided.</p>
 <p></p>
 </div>
