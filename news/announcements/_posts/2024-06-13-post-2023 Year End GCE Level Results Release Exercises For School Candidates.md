@@ -80,7 +80,7 @@ be provided.</p>
 </div>
 <p><strong>2023 Year-End GCE-Level Results Release Exercises For Private Candidates</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RELEASE OF RESULTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -114,6 +114,42 @@ to the email address that you have provided to SEAB.</p>
 </p>
 <p>You should visit this page regularly to check for updates to the Candidates
 Portal guide for the viewing of the results.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>APPEAL FOR REVIEW OF RESULTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Appeal for Review of Results</strong>
+</p>
+<p>You may appeal for a review of your results during the specified appeal
+period through SEAB's Candidates Portal.</p>
+<p></p>
+<p>You wil be notified of the appeal fee for each subject during each year's
+results release exercise. All appeal fees are subject to the prevailing
+GST. The appeal is for the review of the marking of the scripts and a full
+clerical re-check.</p>
+<p></p>
+<p>Your appeal application would be submitted to SEAB for processing once
+you have made the payment successfully.</p>
+<p></p>
+<p>You will need to make payment via either of these e-payment options:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>PayNow</p>
+</li>
+<li>
+<p>eNets (Credit/ Debit)</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Note:</strong> Applications submitted after the appeal deadline
+will not be accepted.</p>
+<p></p>
+<p><strong>Appeal Outcome</strong>
+</p>
+<p>You will receive the appeal outcomer letter via email by the specified
+deadline. No report on your performance in the examination will be provided.</p>
+<p></p>
 </div>
 </details>
 </div>
