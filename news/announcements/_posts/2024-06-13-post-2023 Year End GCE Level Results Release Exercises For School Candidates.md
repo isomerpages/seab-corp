@@ -13,8 +13,7 @@ variant: tiptap
 <details class="isomer-details">
 <summary>RELEASE OF RESULTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Release of Results</strong>
-</p>
+<h4><strong>Release of Results</strong></h4>
 <p>You are to return to your school on the day of the release of the results
 to collect your results.</p>
 <p></p>
