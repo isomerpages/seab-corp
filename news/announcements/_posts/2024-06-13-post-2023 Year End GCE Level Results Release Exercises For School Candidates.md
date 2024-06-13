@@ -35,7 +35,7 @@ and if you need to setup your Singpass immediately, you may visit any of
 the Singpass counters during the office hours.</p>
 <p></p>
 <p>You can check the Singpass FAQ page or contact Singpass Helpdesk at
-<a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>or +65 6643 0555 for Singpass-related queries.</p>
+<a href="support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>or +65 6643 0555 for Singpass-related queries.</p>
 <p></p>
 <p><strong>For Non-Singpass Holders</strong>
 </p>
