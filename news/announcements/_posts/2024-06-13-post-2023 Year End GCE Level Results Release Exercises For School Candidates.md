@@ -13,19 +13,17 @@ variant: tiptap
 <details class="isomer-details">
 <summary>RELEASE OF RESULTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Release of Results</strong>
-</p>
+<h4><strong>Release of Results</strong></h4>
 <p>You are to return to your school on the day of the release of the results
 to collect your results.</p>
 <p></p>
 <p>If you are unavailable on the day of the results release, please appoint
 a proxy and inform your school in advance of the arrangement.</p>
 <p></p>
-<p>You may also view your examination results online via Candidates Portal
-during the specified period.</p>
+<p>You may also view your examination results online via <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> during
+the specified period.</p>
 <p></p>
-<p><strong>For Singpass Holders</strong>
-</p>
+<h4><strong>For Singpass Holders</strong></h4>
 <p>If you are eligible for Singpass, you can view your examination results
 online on the day of the results release, by accessing SEAB's Candidates
 Portal with your Singpass.</p>
