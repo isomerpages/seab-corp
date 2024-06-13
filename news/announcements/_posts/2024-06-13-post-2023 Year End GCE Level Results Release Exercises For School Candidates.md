@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>2023 Year-End GCE-Level Results Release Exercises For School Candidates</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RELEASE OF RESULTS</summary>
@@ -75,10 +77,25 @@ be provided.</p>
 <p>If you have any clarifications, please contact your school.</p>
 </div>
 </details>
+</div>
+<p><strong>2023 Year-End GCE-Level Results Release Exercises For Private Candidates</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RELEASE OF RESULTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>You will receive your examination certificate if you have obtained at
+least one Pass grade on one or more subjects. You can refer to this link
+for more information on the eligibility to receive an examination certificate.</p>
 <p></p>
+<p>Your examination certificates will be delivered via registered mail within
+one (1) month from the date of the release of the results, to the address
+that you had provided to SEAB.</p>
+<p></p>
+<p>You can also view your examination results online via SEAB's Candidates
+Portal during the specified period.</p>
+<p></p>
+<p>For Singpass Holders</p>
 </div>
 </details>
 </div>
