@@ -122,7 +122,7 @@ Portal guide for the viewing of the results.</p>
 <p><strong>Appeal for Review of Results</strong>
 </p>
 <p>You may appeal for a review of your results during the specified appeal
-period through SEAB's Candidates Portal.</p>
+period through <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB's Candidates Portal</a>.</p>
 <p></p>
 <p>You wil be notified of the appeal fee for each subject during each year's
 results release exercise. All appeal fees are subject to the prevailing
