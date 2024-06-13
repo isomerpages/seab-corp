@@ -1,5 +1,4 @@
 collections:
   na-level:
     output: true
-    order:
-      - GCE N(A) Level for Private Candidates.md
+    order: []
