@@ -1,5 +1,4 @@
 collections:
   gce-o-level-syllabuses:
     output: true
-    order:
-      - 2025 O Level Syllabuses Examined for School Candidates.md
+    order: []
