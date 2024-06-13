@@ -10,7 +10,6 @@ description: eExam Resources for Private Candidates
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the online tutorial or interactive e-oral examination guide
 for the e-oral examination to better understand the format and requirements.</p>
-<p></p>
 <p><strong>A-Level</strong>
 </p>
 <table style="minWidth: 75px">
@@ -317,6 +316,12 @@ for the e-oral examination to better understand the format and requirements.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
