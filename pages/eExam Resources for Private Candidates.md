@@ -433,7 +433,6 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
 and Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -542,7 +541,6 @@ the revised examination format.</p>
 <p>Check out the online guides (click on the respective papers in the table
 below) for the e-written examination to better understand the revised examination
 format.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
