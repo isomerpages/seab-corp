@@ -22,7 +22,12 @@ share your technical issue.</p>
 refer to the information below. The outcome of your appeal will be sent
 to the email address that you have provided to SEAB <u>by 20 September 2023</u>.</p>
 <p>The appeal fees for each subject is as below:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -80,7 +85,13 @@ papers via the Candidates Portal <u>from 18 August 2023 to 29 August 2023, 11.00
 </p>
 <p>The registration fees (inclusive of GST) for the Year-End MTL written
 papers are:</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
