@@ -28,14 +28,15 @@ the specified period.</p>
 online on the day of the results release, by accessing <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB's Candidates Portal</a> with
 your Singpass.</p>
 <p></p>
-<p>If you have not applied for Singpass, please visit the Singpass website
-to register, activate and link your mobile phone/ token to your Singpass
-account. Do note that the set up process would take up to 7 working days
-and if you need to setup your Singpass immediately, you may visit any of
-the Singpass counters during the office hours.</p>
+<p>If you have not applied for Singpass, please visit the <a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singpass website</a> to
+register, activate and link your mobile phone/ token to your Singpass account.
+Do note that the set up process would take up to 7 working days and if
+you need to setup your Singpass immediately, you may visit any of the Singpass
+counters during the office hours.</p>
 <p></p>
-<p>You can check the Singpass FAQ page or contact Singpass Helpdesk at
-<a href="support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>or +65 6643 0555 for Singpass-related queries.</p>
+<p>You can check the <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">Singpass FAQ page</a> or
+contact Singpass Helpdesk at <a href="support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>or +65 6643 0555
+for Singpass-related queries.</p>
 <p></p>
 <p><strong>For Non-Singpass Holders</strong>
 </p>
