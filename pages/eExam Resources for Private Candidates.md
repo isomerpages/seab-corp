@@ -263,6 +263,63 @@ for the e-oral examination to better understand the format and requirements.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>PRACTICAL</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A-Level</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7155</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>O-Level</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9569</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
