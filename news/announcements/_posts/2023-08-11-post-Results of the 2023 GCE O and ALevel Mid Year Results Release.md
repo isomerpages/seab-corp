@@ -148,7 +148,7 @@ more details on viewing the results, submitting an appeal for review of
 results, and registering for the Year-End MTL Written Papers.</p>
 <h3><strong>Queries</strong></h3>
 <p>For technical issues with Candidates Portal, please refer to the <a href="https://www.seab.gov.sg/home/seab-web/faqs/faq" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a> or
-<a href="https://form.gov.sg/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank"><u>write to us</u>
+<a href="https://form.gov.sg/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank"><u>write to us </u>
 </a>with a description of your issue.</p>
 <p>Thank you.</p>
 <p><strong>SINGAPORE EXAMINATIONS AND ASSESSMENT BOARD</strong>
