@@ -9,7 +9,7 @@ description: eExam Resources for Private Candidates
 <summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
+<p>test</p>
 </div>
 </details>
 <details class="isomer-details">
