@@ -50,7 +50,33 @@ Portal guide for the viewing of the results.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>APPEAL FOR REVIEW OF RESULTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may appeal for a review of your results during the specified appeal
+period through your school.</p>
+<p></p>
+<p>You will be notified of the appeal fee for each subject during each year's
+results release exercise. All appeal fees are subject to the prevailing
+GST. The appeal is for the review of the marking of the scripts and a full
+clerical re-check.</p>
+<p></p>
+<p>Your appeal application would be submitted to SEAB for processing once
+you have made the payment successfully.</p>
+<p></p>
+<p><strong>Note: </strong>Applications submitted after the appeal deadline
+will not be provided.</p>
+<p></p>
+<p><strong>Appeal Outcome</strong>
+</p>
+<p>You will receive the appeal outcome letter through your school by the
+specified deadline. No report on your performance in the examination will
+be provided.</p>
+<p></p>
+<p>If you have any clarifications, please contact your school.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>RELEASE OF RESULTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
