@@ -95,7 +95,25 @@ that you had provided to SEAB.</p>
 <p>You can also view your examination results online via SEAB's Candidates
 Portal during the specified period.</p>
 <p></p>
-<p>For Singpass Holders</p>
+<p><strong>For Singpass Holders</strong>
+</p>
+<p>If you are eligible for Singpass, you can view your examination results
+online on the day of the results release, by accessing SEAB's Candidates
+Portal.</p>
+<p></p>
+<p>You can check out the Singpass FAQ page or contact Singpass Helpdesk at
+<a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>or +65 6643 0555 for Singpass-related queries.</p>
+<p></p>
+<p><strong>For Non-Singpass Holders</strong>
+</p>
+<p>You will receive a system-generated username to access the Candidates
+Portal a few days before the release of the results, The username is sent
+to the email address that you have provided to SEAB.</p>
+<p></p>
+<p><strong>Guide to accessing SEAB's Candidates Portal</strong>
+</p>
+<p>You should visit this page regularly to check for updates to the Candidates
+Portal guide for the viewing of the results.</p>
 </div>
 </details>
 </div>
