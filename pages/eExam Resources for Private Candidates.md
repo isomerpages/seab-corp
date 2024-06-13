@@ -587,7 +587,6 @@ format.</p>
 <p>Check out the online guides (click on the respective papers in the table
 below) for the e-written examination to better understand the revised examination
 format.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -633,6 +632,17 @@ format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1202, 1203, 1204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
