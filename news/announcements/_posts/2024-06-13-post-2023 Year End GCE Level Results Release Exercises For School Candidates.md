@@ -100,8 +100,9 @@ the specified period.</p>
 online on the day of the results release, by accessing SEAB's Candidates
 Portal.</p>
 <p></p>
-<p>You can check out the Singpass FAQ page or contact Singpass Helpdesk at
-<a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>or +65 6643 0555 for Singpass-related queries.</p>
+<p>You can check out the <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">Singpass FAQ page</a> or
+contact Singpass Helpdesk at <a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>or +65
+6643 0555 for Singpass-related queries.</p>
 <p></p>
 <p><strong>For Non-Singpass Holders</strong>
 </p>
