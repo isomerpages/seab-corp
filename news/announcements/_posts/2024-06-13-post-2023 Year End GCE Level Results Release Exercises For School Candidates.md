@@ -7,3 +7,33 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>RELEASE OF RESULTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Release of Results</strong>
+</p>
+<p>You are to return to your school on the day of the release of the results
+to collect your results.</p>
+<p></p>
+<p>If you are unavailable on the day of the results release, please appoint
+a proxy and inform your school in advance of the arrangement.</p>
+<p></p>
+<p>You may also view your examination results online via Candidates Portal
+during the specified period.</p>
+<p></p>
+<p><strong>For Singpass Holders</strong>
+</p>
+<p>If you are eligible for Singpass, you can view your examination results
+online on the day of the results release, by accessing SEAB's Candidates
+Portal with your Singpass.</p>
+<p></p>
+<p>If you have not applied for Singpass, please visit the Singpass website
+to register, activate and link your mobile phone/ token to your Singpass
+account. Do note that the set up process would take up to 7 working days
+and if you need to setup</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
