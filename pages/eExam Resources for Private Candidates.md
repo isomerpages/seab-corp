@@ -604,25 +604,35 @@ format.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>English Language Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>1195</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Music Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6129</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Science Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5148</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Basic Mother Tongue Paper 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1202, 1203, 1204</p>
 </td>
 </tr>
 </tbody>
