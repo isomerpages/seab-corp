@@ -75,6 +75,17 @@ for the e-oral examination to better understand the format and requirements.</p>
 <p>8657</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>O-Level</strong>
@@ -174,6 +185,17 @@ for the e-oral examination to better understand the format and requirements.</p>
 <p>1147</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>N-Level</strong>
@@ -257,6 +279,17 @@ for the e-oral examination to better understand the format and requirements.</p>
 <p>1190</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -264,7 +297,8 @@ for the e-oral examination to better understand the format and requirements.</p>
 <details class="isomer-details">
 <summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>O-Level</p>
+<p><strong>O-Level</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -288,9 +322,21 @@ for the e-oral examination to better understand the format and requirements.</p>
 <p>7155</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>A-Level</p>
+<p><strong>A-Level</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -314,19 +360,125 @@ for the e-oral examination to better understand the format and requirements.</p>
 <p>9569</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>E-WRITTEN EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Check out the online tutorial for the e-written examination to better
+understand the revised examination format.</p>
+<p><strong>A-Level</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Translation (Chinese) [Revised]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9571</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Chinese Language and Literature [Revised]</p>
+<p>Malay Language and Literature [Revised]</p>
+<p>Tamil Language and Literature [Revised]</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>For Candidate Reference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9575</p>
+<p>9576</p>
+<p>9577</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
+and Paper 2 online tutorial for the e-written examination to better understand
+the revised examination format.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
