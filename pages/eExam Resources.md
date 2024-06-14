@@ -172,15 +172,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Tamil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1147</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Special Programme</p>
+<p>Chinese Special
+<br>Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1166</p>
@@ -188,7 +181,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Special Programme</p>
+<p>Malay Special
+<br>Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1133</p>
@@ -196,6 +190,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><strong>N-Level</strong>
 </p>
@@ -349,9 +344,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -466,7 +459,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>&nbsp;[Revised]</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>&nbsp;</p>
+<p>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9571</p>
@@ -475,8 +469,10 @@ understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Chinese Language and Literature [Revised]
-<br>Malay Language and Literature [Revised]
-<br>Tamil Language and Literature [Revised]
+<br>Malay Language and
+<br>Literature [Revised]
+<br>Tamil Language and
+<br>Literature [Revised]
 <br>
 <br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>For Candidate Reference</u></a>
 </p>
@@ -541,7 +537,8 @@ the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<p>O-Level</p>
+<p><strong>O-Level</strong>
+</p>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial&nbsp;and
 Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -588,7 +585,8 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise and Sports Science</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise and </u></a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sports Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -619,10 +617,11 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/na-humanities-(revised)-ss-p1-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Revised) Paper 1 Social Studies</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/na-humanities-(revised)-ss-p1-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Revised) Paper </u></a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/na-humanities-(revised)-ss-p1-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1 Social Studies</u></a>
 </p>
-<p>&nbsp;</p>
-<p><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Answer Booklet Video Guide</u></a>
+<p><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Answer Booklet </u></a>
+<br><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Video Guide</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
