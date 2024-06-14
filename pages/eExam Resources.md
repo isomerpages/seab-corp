@@ -174,14 +174,19 @@ the e-oral examination to better understand the revised examination format.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Higher Malay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1117</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Higher Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1117</p>
+<p>1147</p>
 </td>
 </tr>
 <tr>
