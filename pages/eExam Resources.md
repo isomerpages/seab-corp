@@ -81,7 +81,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<p>O-Level</p>
+<p><strong>O-Level</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -280,7 +281,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<p>PSLE</p>
+<p><strong>PSLE</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -444,7 +446,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>A-Level</p>
+<p><strong>A-Level</strong>
+</p>
 <p>Check out the online tutorial for the e-written examination to better
 understand the revised examination format.</p>
 <table style="minWidth: 50px">
@@ -491,7 +494,6 @@ understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4>A-Level</h4>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
 and Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -596,7 +598,8 @@ the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<p>N(A)-Level</p>
+<p><strong>N(A)-Level</strong>
+</p>
 <p>Check out the online guides (click on the respective papers in the table
 below) for the e-written examination to better understand the revised examination
 format.</p>
