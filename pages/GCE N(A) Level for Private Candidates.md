@@ -58,7 +58,7 @@ are available below.</p>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/approved-calculators" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Calculators and Dictionaries Image" src="/images/approvedcal.png">
+<img style="width: 100%" height="auto" width="100%" alt="Calculators and Dictionaries Image" src="/images/Resources/scribble.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
