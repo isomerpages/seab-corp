@@ -653,8 +653,7 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise and </u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sports Science</u></a>
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise and Sports Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -669,14 +668,16 @@ the revised examination format.</p>
 <p>Check out the online guides (click on the respective papers in the table
 below) for the e-written examination to better understand the revised examination
 format.</p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Subject Title</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -684,20 +685,30 @@ format.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/na-humanities-(revised)-ss-p1-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Revised) Paper </u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/na-humanities-(revised)-ss-p1-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>1 Social Studies</u></a>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/na-humanities-(revised)-ss-p1-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Revised) Paper 1 Social Studies</u></a>
 </p>
-<p><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Answer Booklet </u></a>
-<br><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Video Guide</u></a>
+<p><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Answer Booklet Video Guide</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2125, 2126, 2127</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><strong>N(T)-Level</strong>
 </p>
