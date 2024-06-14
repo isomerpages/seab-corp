@@ -12,7 +12,8 @@ description: eExam Resources
 <p>Check out the <a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eoral-cddt_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> for
 the e-oral examination to better understand the revised examination format.</p>
 <p></p>
-<h4><strong>A-Level</strong></h4>
+<p><strong>A-Level</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -80,7 +81,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>O-Level</strong></h4>
+<p>O-Level</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -195,7 +196,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>N-Level</strong></h4>
+<p><strong>N-Level</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -278,7 +280,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>PSLE</strong></h4>
+<p>PSLE</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -355,7 +357,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>O-Level</strong></h4>
+<p>O-Level</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -372,8 +374,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/computer_based_practical_cpa_comp_candidate_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-</p>
+<p>Computing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7155</p>
@@ -382,7 +383,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>N-Level</strong></h4>
+<p><strong>N-Level</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -399,8 +401,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/computer_based_practical_cpa_comp_candidate_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>N(T) CPA</u></a>
-</p>
+<p>N(T) CPA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7018</p>
@@ -409,7 +410,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>A-Level</strong></h4>
+<p><strong>A-Level</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -426,8 +428,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/computer_based_practical_cpa_comp_candidate_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-</p>
+<p>Computing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9569</p>
@@ -443,7 +444,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>A-Level</strong></h4>
+<p>A-Level</p>
 <p>Check out the online tutorial for the e-written examination to better
 understand the revised examination format.</p>
 <table style="minWidth: 50px">
@@ -490,7 +491,7 @@ understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>A-Level</strong></h4>
+<h4>A-Level</h4>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
 and Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -538,7 +539,7 @@ the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>O-Level</strong></h4>
+<p>O-Level</p>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial&nbsp;and
 Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -594,8 +595,8 @@ the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<h3></h3>
-<h4><strong>N(A)-Level</strong></h4>
+<p></p>
+<p>N(A)-Level</p>
 <p>Check out the online guides (click on the respective papers in the table
 below) for the e-written examination to better understand the revised examination
 format.</p>
