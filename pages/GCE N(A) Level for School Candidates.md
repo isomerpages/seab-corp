@@ -55,7 +55,7 @@ is available below.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Train Disruption Advice" src="/images/traindistruptionadvice.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Train Disruption Advice</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/examination-certificates-school-candidates" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/home/examinations/examination-certificates-school-candidates/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Examination Results and Certificates" src="/images/psleresultslips.png">
