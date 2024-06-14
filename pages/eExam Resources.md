@@ -14,7 +14,6 @@ the e-oral examination to better understand the revised examination format.</p>
 <p><strong>A-Level</strong>
 </p>
 <p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -24,12 +23,10 @@ the e-oral examination to better understand the revised examination format.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Subject Title</strong>
-</p>
+<p>Subject Title</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Subject Code</strong>
-</p>
+<p>Subject Code</p>
 </th>
 </tr>
 <tr>
@@ -41,11 +38,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Malay B (Mid Year)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8613</p>
@@ -60,33 +54,24 @@ the e-oral examination to better understand the revised examination format.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>H1 Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8655</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>H1 Malay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8656</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>H1 Tamil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8657</p>
@@ -98,7 +83,6 @@ the e-oral examination to better understand the revised examination format.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -136,33 +120,24 @@ the e-oral examination to better understand the revised examination format.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Malay B (Mid Year)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1151</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Tamil B (Mid Year)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1152</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1160</p>
@@ -191,11 +166,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1116</p>
@@ -417,7 +389,8 @@ the e-oral examination to better understand the revised examination format.</p>
 <summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>O-Level</p>
+<p><strong>O-Level</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -507,14 +480,16 @@ the e-oral examination to better understand the revised examination format.</p>
 </p>
 <p>Check out the online tutorial for the e-written examination to better
 understand the revised examination format.</p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Subject Title</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -522,43 +497,48 @@ understand the revised examination format.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>&nbsp;</p>
-<p>[Revised]</p>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9571</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Chinese Language and Literature [Revised]
-<br>Malay Language and
-<br>Literature [Revised]
-<br>Tamil Language and
-<br>Literature [Revised]
-<br>
-<br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>For Candidate Reference</u></a>
+<br>Malay Language and Literature [Revised]
+<br>Tamil Language and Literature [Revised]</p>
+<p></p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank">For Candidate Reference</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9575
 <br>9576
-<br>9577
-<br>
-<br>
-<br>
-</p>
+<br>9577</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p><strong>A-Level</strong>
+</p>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
 and Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -566,6 +546,9 @@ the revised examination format.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
@@ -577,6 +560,9 @@ the revised examination format.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>8611</p>
 </td>
 </tr>
@@ -584,6 +570,9 @@ the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8613</p>
@@ -595,25 +584,31 @@ the revised examination format.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>8614</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <p><strong>O-Level</strong>
 </p>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial&nbsp;and
 Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Subject Title</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -626,6 +621,9 @@ the revised examination format.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1153</p>
 </td>
 </tr>
@@ -633,6 +631,9 @@ the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1151</p>
@@ -644,11 +645,14 @@ the revised examination format.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1152</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise and </u></a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sports Science</u></a>
 </p>
