@@ -6,7 +6,8 @@ description: eExam Resources
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>E-ORAL EXAMINATION</summary>
+<summary><strong>E-ORAL EXAMINATION</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the <a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eoral-cddt_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> for
 the e-oral examination to better understand the revised examination format.</p>
@@ -350,7 +351,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>PRACTICAL</summary>
+<summary><strong>PRACTICAL</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4><strong>O-Level</strong></h4>
@@ -433,6 +435,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -487,7 +490,7 @@ understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h4>A-Level</h4>
+<h4><strong>A-Level</strong></h4>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
 and Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
