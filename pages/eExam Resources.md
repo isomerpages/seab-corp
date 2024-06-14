@@ -10,7 +10,8 @@ description: eExam Resources
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the <a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eoral-cddt_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> for
 the e-oral examination to better understand the revised examination format.</p>
-<h3><strong>A-Level</strong></h3>
+<p></p>
+<h4><strong>A-Level</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -78,7 +79,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong>O-Level</strong></h3>
+<h4><strong>O-Level</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -193,7 +194,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong>N-Level</strong></h3>
+<h4><strong>N-Level</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -276,7 +277,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong>PSLE</strong></h3>
+<h4><strong>PSLE</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -351,7 +352,8 @@ the e-oral examination to better understand the revised examination format.</p>
 <details class="isomer-details">
 <summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3><strong>O-Level</strong></h3>
+<p></p>
+<h4><strong>O-Level</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -377,7 +379,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>N-Level</strong></h3>
+<p></p>
+<h4><strong>N-Level</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -403,7 +406,8 @@ the e-oral examination to better understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>A-Level</strong></h3>
+<p></p>
+<h4><strong>A-Level</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -432,9 +436,11 @@ the e-oral examination to better understand the revised examination format.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>E-WRITTEN EXAMINATION</summary>
+<summary><strong>E-WRITTEN EXAMINATION</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3><strong>A-Level</strong></h3>
+<p></p>
+<h4><strong>A-Level</strong></h4>
 <p>Check out the online tutorial for the e-written examination to better
 understand the revised examination format.</p>
 <table style="minWidth: 50px">
@@ -480,7 +486,8 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>A-Level</strong></h3>
+<p></p>
+<h4>A-Level</h4>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
 and Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -527,7 +534,8 @@ the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>O-Level</strong></h3>
+<p></p>
+<h4><strong>O-Level</strong></h4>
 <p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial&nbsp;and
 Paper 2 online tutorial for the e-written examination to better understand
 the revised examination format.</p>
@@ -584,7 +592,7 @@ the revised examination format.</p>
 </tbody>
 </table>
 <h3></h3>
-<h3><strong>N(A)-Level</strong></h3>
+<h4><strong>N(A)-Level</strong></h4>
 <p>Check out the online guides (click on the respective papers in the table
 below) for the e-written examination to better understand the revised examination
 format.</p>
@@ -616,7 +624,9 @@ format.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>N(T)-Level</strong></h3>
+<p></p>
+<p><strong>N(T)-Level</strong>
+</p>
 <p>Check out the online guides (click on the respective papers in the table
 below) for the e-written examination to better understand the revised examination
 format.</p>
