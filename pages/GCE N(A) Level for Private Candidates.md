@@ -10,7 +10,7 @@ are available below.</p>
 <p><strong><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
 </blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link">  </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/private-candidates/gce-private-candidates-key-activities-and-milestones" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -76,7 +76,7 @@ are available below.</p>
 <div class="isomer-card-title">Train Disruption Advice</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pte-cddts-exam-cert" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Examination Results image" src="/images/exam_results.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Examination Results and Certificates</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/home/examinations/examination-certificates-private-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Examination Results image" src="/images/exam_results.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Examination Results and Certificates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
