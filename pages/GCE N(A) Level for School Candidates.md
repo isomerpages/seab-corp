@@ -7,7 +7,7 @@ description: GCE NA Level for School Candidates
 <p>More information about the GCE N(A)-Level examination for school candidates
 is available below.</p>
 <blockquote>
-<p><strong><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
+<p><strong><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Updated as at 24 May 2024)</a></strong>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates for Candidates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
@@ -47,7 +47,7 @@ is available below.</p>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/approved-calculators" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Calculators and Dictionaries" src="/images/Resources/scribble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Calculators and Dictionaries" src="/images/scribble.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -65,7 +65,7 @@ is available below.</p>
 <div class="isomer-card-title">Examination Results and Certificates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/Resources/scribble.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secondary Education Certificate Examinations</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secondary Education Certificate Examinations</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/home/examinations/gce-na-level/aboutgce-na-level" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
