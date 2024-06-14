@@ -11,7 +11,11 @@ description: eExam Resources
 <p>Check out the <a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eoral-cddt_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> for
 the e-oral examination to better understand the revised examination format.</p>
 <h3><strong>A-Level</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -75,7 +79,11 @@ the e-oral examination to better understand the revised examination format.</p>
 </table>
 <p></p>
 <h3><strong>O-Level</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -186,7 +194,11 @@ the e-oral examination to better understand the revised examination format.</p>
 </table>
 <p></p>
 <h3><strong>N-Level</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -265,7 +277,11 @@ the e-oral examination to better understand the revised examination format.</p>
 </table>
 <p></p>
 <h3><strong>PSLE</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -335,13 +351,327 @@ the e-oral examination to better understand the revised examination format.</p>
 <details class="isomer-details">
 <summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h3><strong>O-Level</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/computer_based_practical_cpa_comp_candidate_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7155</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>N-Level</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/computer_based_practical_cpa_comp_candidate_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>N(T) CPA</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7018</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>A-Level</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/computer_based_practical_cpa_comp_candidate_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9569</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
 <summary>E-WRITTEN EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h3><strong>A-Level</strong></h3>
+<p>Check out the online tutorial for the e-written examination to better
+understand the revised examination format.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>&nbsp;[Revised]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9571</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language and Literature [Revised]
+<br>Malay Language and Literature [Revised]
+<br>Tamil Language and Literature [Revised]
+<br>
+<br><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>For Candidate Reference</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9575
+<br>9576
+<br>9577
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>A-Level</strong></h3>
+<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
+and Paper 2 online tutorial for the e-written examination to better understand
+the revised examination format.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8611</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8613</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8614</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>O-Level</strong></h3>
+<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial&nbsp;and
+Paper 2 online tutorial for the e-written examination to better understand
+the revised examination format.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1153</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1151</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1152</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise and Sports Science</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6081</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3></h3>
+<h3><strong>N(A)-Level</strong></h3>
+<p>Check out the online guides (click on the respective papers in the table
+below) for the e-written examination to better understand the revised examination
+format.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/na-humanities-(revised)-ss-p1-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Revised) Paper 1 Social Studies</u></a>
+</p>
+<p>&nbsp;</p>
+<p><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Answer Booklet Video Guide</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2125, 2126, 2127</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>N(T)-Level</strong></h3>
+<p>Check out the online guides (click on the respective papers in the table
+below) for the e-written examination to better understand the revised examination
+format.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1QPWNITlGTFczbxYhZ-dctLFnjWIYdECT/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Paper 1</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1195</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---n-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music Paper 1</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6129</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/nt-science-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Paper 1</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5148</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---n-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Mother Tongue Paper 1</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1202, 1203, 1204</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
