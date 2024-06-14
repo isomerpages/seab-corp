@@ -6,22 +6,24 @@ description: eExam Resources
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>E-ORAL EXAMINATION</strong>
-</summary>
+<summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the <a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eoral-cddt_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> for
 the e-oral examination to better understand the revised examination format.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
-<table style="minWidth: 50px">
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>Subject Title</strong>
 </p>
 </th>
@@ -31,7 +33,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Chinese B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,11 +45,14 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>Malay B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>8613</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Tamil B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,12 +64,18 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>H1 Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>8655</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>H1 Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8656</p>
@@ -75,27 +86,34 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>H1 Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>8657</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <p><strong>O-Level</strong>
 </p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>Subject Title</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Subject Code</p>
+<p><strong>Subject Code</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -103,11 +121,14 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1128</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Chinese B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,12 +140,18 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>Malay B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1151</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tamil B (Mid Year)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1152</p>
@@ -135,12 +162,18 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1160</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1148</p>
@@ -151,12 +184,18 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1157</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1116</p>
@@ -167,22 +206,23 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>Higher Malay</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1117</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Special
-<br>Programme</p>
+<td rowspan="1" colspan="2">
+<p>Chinese Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1166</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Malay Special
-<br>Programme</p>
+<td rowspan="1" colspan="2">
+<p>Malay Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1133</p>
@@ -191,17 +231,18 @@ the e-oral examination to better understand the revised examination format.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>N-Level</strong>
 </p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>Subject Title</strong>
 </p>
 </th>
@@ -214,12 +255,18 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>N(T) Basic Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1202</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>N(T) Basic Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1203</p>
@@ -230,12 +277,18 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>N(T) Basic Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1204</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>N(T) English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195</p>
@@ -246,12 +299,18 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>N(A) Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1196</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>N(A) Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1197</p>
@@ -262,6 +321,9 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>N(A) Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1198</p>
 </td>
 </tr>
@@ -270,11 +332,15 @@ the e-oral examination to better understand the revised examination format.</p>
 <p>N(A) English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1190</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><strong>PSLE</strong>
 </p>
@@ -348,8 +414,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>PRACTICAL</strong>
-</summary>
+<summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>O-Level</p>
@@ -435,8 +500,7 @@ the e-oral examination to better understand the revised examination format.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>E-WRITTEN EXAMINATION</strong>
-</summary>
+<summary>E-WRITTEN EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>A-Level</strong>
