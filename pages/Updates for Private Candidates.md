@@ -45,9 +45,8 @@ above-mentioned timeline.</p>
 <details class="isomer-details">
 <summary>SUBJECT AMENDMENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All amendments of Year-End subjects must be made through Candidates Portal
-by&nbsp;Friday,&nbsp;21 June 2024, 11:00pm. We do not accept amendment
-requests via email or call.</p>
+<p>All amendments of Year-End subjects must be made through <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> by&nbsp;Friday,&nbsp;21
+June 2024, 11:00pm. We do not accept amendment requests via email or call.</p>
 <p>No additional fees for amendments will be levied if:</p>
 <p>you have not paid your examination fees online; and</p>
 <p>the amendments are made before the end of the registration period.</p>
