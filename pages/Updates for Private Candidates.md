@@ -57,7 +57,7 @@ of GST)&nbsp;per amendment request, in addition to the fee for each of
 your added subjects. The fees for the added subjects are inclusive of GST.</p>
 <p>You will receive a refund of the fees for any Year-End subjects that you
 have removed if your request is submitted by 21 June 2024.</p>
-<p>If you have any enquiries, you can write to us through this form.</p>
+<p>If you have any enquiries, you can write to us through this <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
