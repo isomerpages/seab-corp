@@ -21,7 +21,7 @@ for the 2024 GCE-Level examinations can be found below.</p>
 </p>
 <p></p>
 <p>The dates of release of the GCE-Level entry proofs (EPs) are found in
-the important dates for candidates.</p>
+the <a href="/important-dates-for-candidates/" rel="noopener noreferrer nofollow" target="_blank">important dates for candidates</a>.</p>
 <p>You will be posted to different examination centres for the different
 Mode of Assessment (MOA) examinations i.e. Oral, Science Practical, Written
 examinations. As such, it is important to check your Entry Proof before
