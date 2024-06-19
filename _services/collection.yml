@@ -2,7 +2,6 @@ collections:
   services:
     output: true
     order:
-      - AEIS Eligibility Criteria.md
       - About AEIS.md
       - Training and Consultancy.md
       - Services Overview.md
