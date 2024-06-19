@@ -1,6 +1,0 @@
-collections:
-  psle:
-    output: true
-    order:
-      - Result Slips and Examination Certificates for PSLE Candidates.md
-      - Testing.md
