@@ -31,4 +31,4 @@ you are a Singpass holder.</p>
 <p>If you are a non-Singpass holder or if your results are not available
 through the <a href="https://www.myskillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MySkillsFuture portal</u></a>,
 you can request for a copy of your Statement of Results by <a href="https://www.seab.gov.sg/home/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>contacting us</u></a>.</p>
-<p>More information is available on this <a href="https://www.seab.gov.sg/home/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a>.</p>
+<p>More information is available on this <a href="/home/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank">page</a>.</p>
