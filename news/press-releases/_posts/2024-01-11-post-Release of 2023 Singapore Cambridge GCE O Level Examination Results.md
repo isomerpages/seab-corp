@@ -16,7 +16,12 @@ at least one O-Level subject. 22,732 (96.7%) and 20,389 (86.8%) of the
 candidates have achieved Grade C6 or better in at least 3 or more and 5
 or more O-Level subjects respectively. This is comparable to the performance
 of candidates for the GCE O-Level Examination in previous years.</p>
-<h4><strong>Joint Admissions Exercise</strong><br>3. Students who wish to apply for admission to junior colleges (JCs), Millennia Institute (MI), polytechnics, and the Institute of Technical Education (ITE) may do so via the Joint Admissions Exercise (JAE) using their O-Level examination results. The JAE application period is from 4pm on Thursday, 11 January 2024, to 4pm on Tuesday, 16 January 2024.</h4>
+<p><strong>Joint Admissions Exercise</strong>
+<br>3. Students who wish to apply for admission to junior colleges (JCs),
+Millennia Institute (MI), polytechnics, and the Institute of Technical
+Education (ITE) may do so via the Joint Admissions Exercise (JAE) using
+their O-Level examination results. The JAE application period is from 4pm
+on Thursday, 11 January 2024, to 4pm on Tuesday, 16 January 2024.</p>
 <p>4.&nbsp;Eligible school and private candidates will receive a digital
 copy of <u>Form A</u>1 via their registered email addresses from 2pm on
 Thursday, 11 January 2024. All candidates eligible for JAE may also download
@@ -44,7 +49,8 @@ Millennia Institute (MI) and their previous year’s entry score ranges (
 aggregate type and area of interest (<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/coursefinder</u></a>)</p>
 </li>
 </ul>
-<h4><strong>Education and Career Guidance (ECG) support</strong></h4>
+<p><strong>Education and Career Guidance (ECG) support</strong>
+</p>
 <p>6.&nbsp;Students who would like guidance on their education pathways can
 approach their teachers or ECG Counsellors supporting their schools. Students
 can also refer to the following websites to find out more about the range
@@ -69,4 +75,5 @@ of Education Ordinary Level Examinations.</p>
 <p>2&nbsp;&nbsp;Form&nbsp;A will list the applicant’s gross aggregate scores
 for JC, MI, polytechnics and ITE aggregate types, and courses which he/she
 is eligible to apply for under the JAE.</p>
+<p></p>
 <p></p>
