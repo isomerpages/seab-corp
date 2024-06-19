@@ -14,7 +14,12 @@ school place will not be allowed to apply online again.</p>
 AEIS. The applicant should sit for the test appropriate for his/her age.
 Please select the applicant's intended education level (Primary or Secondary)
 to see the tests available.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -32,8 +37,7 @@ run by <a href="https://www.cambridgeenglish.org/exams-and-tests/qualifications/
 <br>
 <br>The test must be taken within 12 months before the month of submission
 of the AEIS registration. For example, if the submission of the AEIS registration
-is on July 2022, the applicant must have taken the CEQ test on or after
-August 2021.
+is in July 2022, the applicant must take the CEQ test from July 2021.
 <br>
 </p>
 </li>
