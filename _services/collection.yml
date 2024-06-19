@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - About AEIS.md
       - Training and Consultancy.md
       - Services Overview.md
       - Distributors of Past Years' Question Papers.md
