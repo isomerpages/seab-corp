@@ -48,7 +48,7 @@ Jan of the year of admission):</p>
 the SPE application periods.</p>
 <h2><strong>How to apply</strong></h2>
 <p>Please follow the steps below to apply for SPE:</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Create an account in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer" target="_blank"><u>Candidates Portal (CP)</u></a>.
 The applicant can start to do so from the application period. Please refer
@@ -61,7 +61,6 @@ on account creation in CP.
 <p>Upon successful creation of the CP account, the child can apply for SPE
 during the application period. Select from the following payment modes
 indicated in the online application form:
-<br>
 <br>
 </p>
 <ul data-tight="true" class="tight">
