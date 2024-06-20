@@ -1,0 +1,87 @@
+logo: /images/HomePage/SEAB_logo_in_color__png_7.png
+links:
+  - title: Examinations
+    url: /examinations-overview
+    sublinks:
+      - title: PSLE
+        url: /examinations/psle
+      - title: GCE N(T) Level
+        url: /gce-nt-level/
+      - title: GCE N(A) Level
+        url: /home/examinations/gce-na-level
+      - title: GCE O-Level
+        url: /examinations/gce-o-level/
+      - title: GCE A-Level
+        url: /gce-a-level
+  - title: Services
+    url: /services/services-overview
+    sublinks:
+      - title: Training and Consultancy
+        url: /services/training-and-consultancy
+      - title: Academic Publications
+        url: /services/academic-publications
+      - title: Distributors of Past Years' QP
+        url: /services/distributors-of-past-years-question-papers
+      - title: Past Years' Results
+        url: /services/statements-of-results
+      - title: AEIS
+        url: /services/aeis/
+      - title: S-AEIS
+        url: /services/s-aeis/
+      - title: SPERS-Sec
+        url: /services/spers-sec
+      - title: SPE
+        url: /services/spe/
+      - title: 𝑖PSLE
+        url: /services/ipsle
+  - title: News
+    url: /news/
+    sublinks:
+      - title: Announcements
+        url: /news/announcements
+      - title: Press Releases
+        url: /news/press-releases
+      - title: Media Responses
+        url: /news/media-responses
+      - title: SEAB-link Newsletter
+        url: /news/seab-link-newsletter/
+      - title: Parliamentary Questions
+        url: /news/parliamentary-questions/
+  - title: About Us
+    url: /home/about-us/what-we-do
+    sublinks:
+      - title: What we do
+        url: /home/about-us/what-we-do
+      - title: Board Members
+        url: /home/about-us/what-we-do#board-members
+      - title: Management Team
+        url: /home/about-us/what-we-do/#management-team
+      - title: Annual Reports
+        url: /home/about-us/annual-reports
+      - title: Career Opportunities
+        url: /home/about-us/careers/
+      - title: Exam Personnel Openings
+        url: /home/about-us/exam-personnel-openings
+      - title: Resources
+        url: /home/about-us/resources
+      - title: Contact Us
+        url: /home/about-us/contact-us
+      - title: Heritage Gallery
+        url: /home/about-us/heritage-gallery
+  - title: Quicklinks
+    url: /quicklinks
+    sublinks:
+      - title: Candidates Portal
+        url: https://myexams.seab.gov.sg/auth/login
+      - title: Important Dates
+        url: https://staging.d3lmfx40ccc97d.amplifyapp.com/important-dates-for-candidates
+      - title: Past Years' Results
+        url: /services/statements-of-results
+      - title: Approved Calculators
+        url: https://go.gov.sg/approved-calculators
+      - title: Approved Dictionaries
+        url: https://go.gov.sg/list-of-dictionaries-for-examination
+      - title: Test
+        url: /example-page/
+  - title: FAQs
+    url: /faq
