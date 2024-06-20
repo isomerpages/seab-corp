@@ -25,15 +25,15 @@ links:
       - title: Past Years' Results
         url: /services/statements-of-results
       - title: AEIS
-        url: /services/aeis/
+        url: /home/services/aeis/
       - title: S-AEIS
-        url: /services/s-aeis/
+        url: /home//services/s-aeis/
       - title: SPERS-Sec
-        url: /services/spers-sec
+        url: /home/services/spers-sec
       - title: SPE
-        url: /services/spe/
+        url: /home/services/spe/
       - title: 𝑖PSLE
-        url: /services/ipsle
+        url: /home/services/ipsle
   - title: News
     url: /news/
     sublinks:
