@@ -16,7 +16,7 @@ description: Annual Reports
 <div class="isomer-card-title">2021/2022</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-ar20-fa-pdfahttps://go.gov.sg/seab-ar20-fa-pdfa" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2020-2021" src="/images/Annual Report /2020_2021.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2020/2021</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-ar20-fa-pdfa" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2020-2021" src="/images/Annual Report /2020_2021.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2020/2021</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-ar19-20-rfa-lr" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
