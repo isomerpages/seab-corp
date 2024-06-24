@@ -1,5 +1,4 @@
 collections:
   training-and-consultancy:
     output: true
-    order:
-      - Customised Assessment Services.md
+    order: []
