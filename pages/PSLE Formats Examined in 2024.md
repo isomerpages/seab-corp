@@ -269,7 +269,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fml-0026-exam-syllabus.pdf?sfvrsn=dd5f1db3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Malay</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fml_0026_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Malay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,7 +293,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-el-0031-exam-syllabus.pdf?sfvrsn=858ea78b_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation English</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_el_0031_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -305,7 +305,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fmath-0038-exam-syllabus.pdf?sfvrsn=424f1230_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Mathematics</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fmath_0038_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Mathematics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
