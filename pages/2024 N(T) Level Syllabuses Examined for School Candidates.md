@@ -162,7 +162,7 @@ from SEAB.</p>
 </tbody>
 </table>
 <p>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
-if NTIL is included. The list of NTILs can be found under the <a href="https://www.seab.gov.sg/home/examinations/gce-n(a)-level/n(a)-level-syllabuses-examined-for-school-candidates-2024" rel="noopener noreferrer nofollow" target="_blank"><u>2024 GCE N(A)-Level syllabuses</u></a> for
+if NTIL is included. The list of NTILs can be found under the <a href="/home/examinations/gce-na-level/na-level-syllabuses-examined-for-private-candidates-2024/" rel="noopener noreferrer nofollow" target="_blank"><u>2024 GCE N(A)-Level syllabuses</u></a> for
 school candidates.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong></h4>
 <table style="minWidth: 75px">
