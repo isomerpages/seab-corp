@@ -29,7 +29,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-el-0001-exam-syllabus.pdf?sfvrsn=c92a540e_2" rel="noopener noreferrer nofollow" target="_blank"><u>English</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_el_0001_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-cl-0005-exam-syllabus.pdf?sfvrsn=2bd967bd_2" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_cl_0005_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ml-0006-exam-syllabus.pdf?sfvrsn=e56befce_2" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_ml_0006_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-tl-0007-exam-syllabus.pdf?sfvrsn=8b43c904_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_tl_0007_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,7 +77,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-math-0008-exam-syllabus.pdf?sfvrsn=9af89ddf_2" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_math_0008_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +89,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-science-0009-exam-syllabus.pdf?sfvrsn=5b6a08b2_2" rel="noopener noreferrer nofollow" target="_blank"><u>Science</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_science_0009_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +161,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-hcl-0015-exam-syllabus.pdf?sfvrsn=7ef60b5c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_hcl_0015_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +173,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-hml-0016-exam-syllabus.pdf?sfvrsn=1cae54c8_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_hml_0016_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +185,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-htl-0017-exam-syllabus.pdf?sfvrsn=147a9046_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_htl_0017_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +257,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fcl-0025-exam-syllabus.pdf?sfvrsn=d7c08413_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Chinese</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fcl_0025_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +281,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ftl-0027-exam-syllabus.pdf?sfvrsn=75060635_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Tamil</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_ftl_0027_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Tamil</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +317,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fscience-0039-exam-syllabus.pdf?sfvrsn=bb3c060_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Science</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fscience_0039_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
