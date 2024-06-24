@@ -770,8 +770,8 @@ to understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert<br>[</u>
-</a>2023]</p>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert<br></u>
+</a>[2023]</p>
 </td>
 </tr>
 <tr>
