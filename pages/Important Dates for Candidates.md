@@ -28,7 +28,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <p>Examination Calendar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/2024-psle-exam-timetable.pdf?sfvrsn=5ef9c2bc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Calendar</u></a>
+<p><a href="/files/Timetable/2024_psle_exam_timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Calendar</a>
 </p>
 </td>
 </tr>
@@ -91,17 +91,17 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/examination-timetable/gce-n-level-exam-timetable-for-publication-as-at-24-may.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+<p><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
 </p>
 <p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/examination-timetable/gce-o-level-exam-timetable-as-at-24-may-2024-for-publication.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+<p><a href="/files/Timetable/gce_o_level_exam_timetable_as_at_24_may_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
 </p>
 <p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/gce-a-level-timetable-26-april-2024-for-publication.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+<p><a href="/files/Timetable/gce_a_level_timetable_26_april_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
 </p>
 <p>(Updated as at 26 April 2024)</p>
 </td>
