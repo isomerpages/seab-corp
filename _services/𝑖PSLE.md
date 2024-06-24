@@ -1,7 +1,7 @@
 ---
 title: 𝑖PSLE
 permalink: /services/ipsle/
-variant: markdown
+variant: tiptap
 description: iPSLE
 ---
 <p>The Singapore International Primary&nbsp;School Examination (𝑖PSLE) is
@@ -41,16 +41,21 @@ Language, Chinese Language, Mathematics and Science.</p>
 <p>The format, standards and testing requirements of the 𝑖PSLE are similar
 to the Singapore PSLE.</p>
 <p>Here are the 𝑖PSLE examination syllabuses for the various subjects:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Subject Title</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Language Medium</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
 </tr>
@@ -114,16 +119,21 @@ to the Singapore PSLE.</p>
 Thailand and Vietnam).</p>
 <p>Please see the table below for the minimum and maximum age for taking
 𝑖PSLE.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Entry Requirements</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Singapore Citizen &amp; Permanent Resident</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Foreigner</p>
 </th>
 </tr>
@@ -153,22 +163,29 @@ year</p>
 <p>If you are studying in an overseas school, and are not sitting for the
 Singapore PSLE, you will be able to register for the 𝑖PSLE examination
 with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>S/N</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Exam Centre</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Country</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>City</p>
 </th>
-<th style="background-color:#3e3e3e;color:#ffffff" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Contact Person</p>
 </th>
 </tr>
@@ -547,7 +564,8 @@ admission tests refer to&nbsp;AEIS, S-AEIS, SPERS-Sec and SPE.</p>
 year and the results will be reported in the form of Achievement Levels:
 1, 2, 3, 4, 5, 6, 7, 8.</p>
 <h4><strong>Result Slip</strong></h4>
-<p>You will receive your result slip from your examination centre when the examination results are released.</p>
+<p>You will receive your result slip from your examination centre when the
+examination results are released.</p>
 <h4><strong>Examination Certificate</strong></h4>
 <p>You will receive an 𝑖PSLE&nbsp;certificate if you are awarded a grade
 for at least one 𝑖PSLE subject.</p>
@@ -565,3 +583,4 @@ may complete an online application form via this link: <a href="https://go.gov.s
 </div>
 </details>
 </div>
+<p></p>
