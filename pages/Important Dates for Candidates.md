@@ -98,6 +98,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <td rowspan="1" colspan="1">
 <p><a href="/files/Timetable/gce_o_level_exam_timetable_as_at_24_may_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
 </p>
+<p></p>
 <p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
