@@ -40,7 +40,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus A</u></a>
+<p><a href="/files/N Level Syllabuses/School Candidates/1190_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus A</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,16 +50,16 @@ from SEAB.</p>
 <p>1190</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_p1_si.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/N Level Syllabuses/School Candidates/1190_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>|
+<a href="/files/N Level Syllabuses/School Candidates/1190_y23_p1_si.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_p2_si.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<br><a href="/files/N Level Syllabuses/School Candidates/1190_y23_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>|
+<a href="/files/N Level Syllabuses/School Candidates/1190_y23_p2_si.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_p3_st.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Texts</u>
+<br><a href="/files/N Level Syllabuses/School Candidates/1190_y23_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>|
+<a href="/files/N Level Syllabuses/School Candidates/1190_y23_p3_st.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Texts</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>|
+<br><a href="/files/N Level Syllabuses/School Candidates/1190_y23_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>|
 <a href="https://www.seab.gov.sg/videos/default-source/syllabuses-videos/1195_y23_p4_sv.mp4" rel="noopener noreferrer nofollow" target="blank"><u>Video Clip</u>
 </a>
 <br>[2022]</p>
