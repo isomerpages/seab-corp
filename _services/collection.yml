@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - SPERS Sec/SPERS Key Activities and Milestones.md
       - SPERS Sec/.keep
       - SPERS Sec/School Placement Exercise for Returning Singaporeans Secondary
         (SPERS Sec).md
@@ -23,5 +24,6 @@ collections:
       - SAEIS/Application procedures.md
       - SAEIS/Eligibility Criteria.md
       - SAEIS/S AEIS Release of School Offers.md
-      - SAEIS/Supplementary Admissions Exercise for International Students (S AEIS).md
+      - SAEIS/Supplementary Admissions Exercise for International Students (S
+        AEIS).md
       - SAEIS/Test Details.md
