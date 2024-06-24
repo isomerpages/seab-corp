@@ -11,7 +11,7 @@ the day of the results release.&nbsp;</p>
 <p>If you are a non-Singpass holder, please login with the account you have
 created during registration.</p>
 <p>Your account should be activated before the result release day. You can
-access the <a href="https://www.seab.gov.sg/docs/default-source/documents/cp-user-guide-for-gce.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>step-by-step guide</u></a> to
+access the <a href="/files/Docs/Candidates Portal Guide/cp_user_guide_for_gce.pdf" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> to
 login to your Candidates Portal account.</p>
 <h4><strong>Award Eligibility for Examination Certificates</strong></h4>
 <p>You will receive an examination certificate if you obtain the following
@@ -68,26 +68,26 @@ grades:</p>
 on the examination certificates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-n(t)-level/nt-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(T)-Level</u></a>
+<p><a href="/files/Examinations/GCE NT LEVEL/nt_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N(T)-Level</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-n(a)-level/na-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(A)-Level</u></a>
+<p><a href="/files/Examinations/GCE NA LEVEL/na_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N(A)-Level</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-o-level/o-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE O-Level</u></a>
+<p><a href="/files/Examinations/GCE O LEVEL/o_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O-Level</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/gce-a-level/a-level-explanatory-notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A-Level</u></a>
+<p><a href="/files/Examinations/GCE A LEVEL/a_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE A-Level</a>
 </p>
 </li>
 </ul>
 <h4><strong>Amendment of Examination Certificates</strong></h4>
 <p>Please check the personal particulars printed on your examination certificates.
 If you find any error, you can submit your request for an amendment to
-<a href="https://www.seab.gov.sg/home/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u>
+<a href="/home/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u>
 </a>. There will be an administration fee payable for any request to amend
 an examination certificate.</p>
 <p>All requests have to be submitted to SEAB by the deadline set from the
@@ -101,6 +101,6 @@ past years' examination results in digital format through your <a href="https://
 you are a Singpass holder.</p>
 <p>If you are a non-Singpass holder or if your results are not available
 through the <a href="https://www.myskillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MySkillsFuture portal</u></a>,
-you can request for a copy of your digitised results by <a href="/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>contacting us</u></a>.
-Please access this <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> for
-the application procedures.</p>
+you can request for a copy of your digitised results by <a href="/home/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>contacting us</u></a>.
+Please access this <a href="/home/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> for the application
+procedures.</p>
