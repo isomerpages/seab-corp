@@ -7,7 +7,7 @@ description: PSLE Formats Examined in 2024
 <p>Here are the 2024 PSLE examination formats.</p>
 <p>Please note that from 2017, the oral examination for both Standard and
 Foundation Mother Tongue Languages will be conducted in the e-Examination
-format. Check out this <a href="https://www.seab.gov.sg/pages/e-Oral-Examination-Guide-for-Candidate/story_html5.html" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> to
+format. Check out this <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> to
 understand the revised examination format.</p>
 <table style="minWidth: 75px">
 <colgroup>
