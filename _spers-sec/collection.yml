@@ -2,6 +2,5 @@ collections:
   spers-sec:
     output: true
     order:
-      - SPERS Sec Test Details.md
       - School Selections and Postings.md
       - Key Activities and Milestones.md
