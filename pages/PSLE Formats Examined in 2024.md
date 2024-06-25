@@ -101,7 +101,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ntil-exam-syllabus.pdf?sfvrsn=dc364e92_2" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Panjabi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +113,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ntil-exam-syllabus.pdf?sfvrsn=dc364e92_2" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Hindi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ntil-exam-syllabus.pdf?sfvrsn=dc364e92_2" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Gujarati</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +137,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ntil-exam-syllabus.pdf?sfvrsn=dc364e92_2" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Bengali</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-ntil-exam-syllabus.pdf?sfvrsn=dc364e92_2" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Urdu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +197,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fntil-exam-syllabus.pdf?sfvrsn=97dcc8a0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Panjabi</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Panjabi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,7 +209,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fntil-exam-syllabus.pdf?sfvrsn=97dcc8a0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Hindi</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Hindi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +221,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fntil-exam-syllabus.pdf?sfvrsn=97dcc8a0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Gujarati</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Gujarati</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,7 +233,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fntil-exam-syllabus.pdf?sfvrsn=97dcc8a0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Bengali</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Bengali</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,7 +245,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/psle/2024_psle_subject_info/2024-psle-fntil-exam-syllabus.pdf?sfvrsn=97dcc8a0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Foundation Urdu</u></a>
+<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Urdu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
