@@ -44,7 +44,7 @@ are available below.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/home/examinations/gce-na-level/na-level-syllabuses-examined-for-private-candidates-2025/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NA Level Syllabuses Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(A)-Level Syllabuses Examined in 2025</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/pte-cddts-exam-resources" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/home/examinations/e-exam-resources-for-private-candidates/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="e-Exam Resources for Private Candidates" src="/images/eexamresources.png">
