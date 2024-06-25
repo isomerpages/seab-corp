@@ -16,7 +16,9 @@ information.</p>
 <details class="isomer-details">
 <summary>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2><strong>RESPONSIBILITIES</strong></h2>
+<p></p>
+<p><strong>RESPONSIBILITIES</strong>
+</p>
 <p>Successful applicant will play an active role in conducting research on
 educational measurement and assessment issues, as well as in developing
 assessment services and products that are transforming for stakeholders.&nbsp;The
@@ -35,10 +37,6 @@ complex competencies for 21st Century education&nbsp;</p>
 <li>
 <p>Develop assessment services and products that are fit for purpose, educationally
 sound and positively transforming for stakeholders&nbsp;</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
 </li>
 </ul>
@@ -75,39 +73,55 @@ to obtain buy-in from stakeholder groups</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>ASSISTANT MANAGER / MANAGER, ORGANISATION CAPABILITY - 2-YEAR CONTRACT</summary>
+<summary>ASSISTANT MANAGER / MANAGER, INFORMATION TECHNOLOGY - 2-YEAR CONTRACT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>RESPONSIBILITIES</strong>
 </p>
-<p>Successful applicant will be responsible for initiatives to build organisational
-capability and to support the learning and growth of staff. The key responsibilities
+<p>Successful applicant will play an active role in managing IT application
+projects, driving and enhancing the SEAB’s digital competencies and capabilities,
+providing operational support to end users for IT systems, and ensuring
+compliance with IT policies and standards.&nbsp;The key responsibilities
 include:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Support the engagement and collaboration with key stakeholders to identify
-divisional learning needs and provide the relevant follow-up.</p>
+<p>Manage IT application projects, including initial requirements gathering,
+tendering process management, development supervision, and contract administration
+for ongoing operations.</p>
 </li>
 <li>
-<p>Manage the conduct of in-house learning programmes, which include workshops
-and learning journeys.</p>
+<p>Collaborate with users and vendors to enhance systems and services, ensuring
+alignment with evolving business needs.</p>
 </li>
 <li>
-<p>Design and implement effective communications initiatives to engage staff
-on learning initiatives, advocate the adoption and building of relevant
-competencies, as well as to strengthen the learning culture in the organisation.</p>
+<p>Conduct project risk management and develop relevant risk mitigation strategies
+in collaboration with users and vendors.</p>
 </li>
 <li>
-<p>Conduct data analysis and prepare relevant learning reports to support
-the learning and growth of staff, and for the purpose of formulating future
-learning strategies.</p>
+<p>Manage and support ongoing operations of systems and services, and conduct
+regular reviews to ensure project success.</p>
 </li>
 <li>
-<p>Maintain and update the functional competencies of staff in the HRP system.</p>
+<p>Act as a technical consultant for agency ICT projects, offering advice
+on technology trends and standards to meet current and future business
+needs.</p>
 </li>
 <li>
-<p>Administer and provide support for other initiatives which include internal
-awards and official travel arrangements.</p>
+<p>Collaborating with various departments to understand their business needs
+and recommending digital solutions to meet those needs effectively and
+efficiently.</p>
+</li>
+<li>
+<p>Lead the evaluation, selection, and implementation of new technologies
+to enhance operational efficiency and drive innovation.</p>
+</li>
+<li>
+<p>Review existing policies against prevailing IM8 policies regularly and
+implement necessary changes to maintain relevance.</p>
+</li>
+<li>
+<p>Lead the formulation and implementation of work processes to ensure compliance
+with IM8 policies at SEAB.</p>
 </li>
 </ul>
 <p></p>
@@ -115,24 +129,42 @@ awards and official travel arrangements.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tertiary qualification in Human Resource, or related disciplines.</p>
+<p>Degree or Diploma in Computer Science, Information Systems, Information/Infocomm
+Technology, Computer or Electronics Engineering, or a related field.</p>
 </li>
 <li>
-<p>At least 3 years of relevant HR experience.</p>
+<p>Minimum of 8 years of relevant experience as an IT Project Manager, involving
+in at least 2 full project development life cycles.</p>
 </li>
 <li>
-<p>Familiarity with the public service Human Resource and Payroll (HRP) system,
-LEARN system and Functional Competencies would be advantageous.</p>
+<p>Possess a thorough understanding of IT policies, compliance, and regulatory
+standards.</p>
 </li>
 <li>
-<p>Meticulous and comfortable with managing data and detailed information.</p>
+<p>Familiar with digital transformation initiatives and tools for enhancing
+business operations.</p>
 </li>
 <li>
-<p>Excellent communication and interpersonal skills, and comfortable with
-conducting presentations, and engagement with different levels of stakeholders.</p>
+<p>Possess an adaptable and enterprising personality, with a proactive approach
+to acquiring new knowledge and taking calculated risks.</p>
 </li>
 <li>
-<p>Self-motivated with strong analytical and problem-solving skills.</p>
+<p>Is driven by innovation to deliver tangible business outcomes.</p>
+</li>
+<li>
+<p>Possess strong vendor management and interpersonal skills.</p>
+</li>
+<li>
+<p>Proficient in analytical, conceptualisation, and problem-solving abilities.</p>
+</li>
+<li>
+<p>Possess experience in supporting audits and compliance management.</p>
+</li>
+<li>
+<p>Advantageous to have prior experience in a Public Service agency, with
+a good understanding of the Instruction Manual (IM8) for ICT, experience
+in audits, and knowledge of government procurement processes and contract
+management.</p>
 </li>
 </ul>
 </div>
