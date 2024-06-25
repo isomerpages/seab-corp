@@ -9,6 +9,8 @@ description: 238 GCE A Level H2 Chemistry Candidates Affected By Theft of Paper
 image: ""
 variant: tiptap
 ---
+<p><strong>Affected candidates have been given valid and fair assessment</strong>
+</p>
 <p>The Singapore Examinations and Assessment Board (SEAB) has been informed
 by Cambridge Assessment that a parcel containing 238 scripts for the 2017
 GCE A-Level H2 Chemistry’s Paper 3 was stolen from a courier in the United
