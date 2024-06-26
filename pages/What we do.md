@@ -77,7 +77,7 @@ Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chi Leong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -113,7 +113,7 @@ Minister’s Office</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
