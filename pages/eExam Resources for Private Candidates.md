@@ -579,9 +579,11 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Humanities (Revised) Paper 1 Social Studies</p>
+<p><a href="https://go.gov.sg/nahumantiesrevisedssp1guide" rel="noopener noreferrer nofollow" target="_blank">Humanities (Revised) Paper 1 Social Studies</a>
+</p>
 <p></p>
-<p>Digital Answer Booklet Video Guide</p>
+<p><a href="https://go.gov.sg/seabnahumanitiesp1ssdab" rel="noopener noreferrer nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2125, 2126, 2127</p>
