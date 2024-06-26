@@ -93,7 +93,7 @@ outcomes. Together, each achieves more.</p>
 </div>
 <p><strong>Mr Chin Chi Leong</strong> 
 <br>Deputy Chief Executive Officer</p>
-<p>(Building Control)/Comissioner of Buildings, Building and Construction
+<p>(Building Control)/Commissioner of Buildings, Building and Construction
 Authority (BCA)</p>
 </td>
 </tr>
