@@ -518,7 +518,8 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Chinese B</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1153</p>
@@ -526,7 +527,8 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Malay B</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener noreferrer nofollow" target="_blank">Malay B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1151</p>
@@ -534,7 +536,8 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Tamil B</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener noreferrer nofollow" target="_blank">Tamil B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1152</p>
