@@ -134,6 +134,20 @@ place only after the end of the full HBL period:</p>
 <p>2:00 to 4:30 PM</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>9. The national examinations for these H3 programmes will be decentralised
