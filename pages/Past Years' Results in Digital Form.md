@@ -94,7 +94,7 @@ and steps below for them to verify the results using the <a href="https://www.op
 <p>You may download the digitised results and attach the file as an email
 attachment. Alternatively, you may use the 'share' button found on your
 Skills Passport page to send the digitised results elsewhere. More details
-are also available in this <a href="https://www.seab.gov.sg/docs/default-source/documents/guide_retrieve_opencert_files_myskillsfuture_portal.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>guide</u></a>&nbsp;to
+are also available in this <a href="https://go.gov.sg/guideretrieveopencertfilesmyskillsfutureportal" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;to
 obtain your digitised results from the <a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>MySkillsFuture</u></a> portal.</p>
 <p>Please note that SEAB will not send the digitised examination results
 to external parties on the candidates' behalf.</p>
