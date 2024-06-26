@@ -4,3 +4,36 @@ permalink: /covid-19-updates/
 variant: tiptap
 description: ""
 ---
+<h1><strong>COVID-19: Updates</strong></h1>
+<p>As the COVID-19 coronavirus situation continues to evolve, we will keep
+you updated on the changes to the national examinations.</p>
+<p>Please click on the following cards to find out more.</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/home/covid-19-updates/psle-precautionary-measures/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Precautionary Measures" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE Precautionary Measures</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/home/covid-19-updates/gce-precautionary-measures/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GCE-Level Precautionary Measures" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GCE-Level Precautionary Measures</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/news/press-releases/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Press Releases" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Press Releases</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/faqs-covid-19-infection" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOE's COVID-19 FAQs" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MOE's COVID-19 FAQs</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/home/services/statements-of-results/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Past Years' Results in Digital Form" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Past Years' Results in Digital Form</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
