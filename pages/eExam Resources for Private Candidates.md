@@ -317,7 +317,8 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Computing</p>
+<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener noreferrer nofollow" target="_blank">Computing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7155</p>
@@ -355,7 +356,8 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Computing</p>
+<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener noreferrer nofollow" target="_blank">Computing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9569</p>
