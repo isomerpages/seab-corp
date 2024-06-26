@@ -26,8 +26,8 @@ the <a href="/important-dates-for-candidates/" rel="noopener noreferrer nofollow
 Mode of Assessment (MOA) examinations i.e. Oral, Science Practical, Written
 examinations. As such, it is important to check your Entry Proof before
 the examinations.</p>
-<p>You may refer to the Candidates Portal's&nbsp;guide on examination registration
-for the steps to retrieve your EPs from the system.</p>
+<p>You may refer to the Candidates Portal's&nbsp;<a href="https://go.gov.sg/guideonexamregistration" rel="noopener noreferrer nofollow" target="_blank">guide on examination registration</a> for
+the steps to retrieve your EPs from the system.</p>
 <p>You are required to bring a hardcopy EP for your examinations, as it will
 be used for attendance verification.</p>
 <p><strong>Science Practical Notifications</strong>
