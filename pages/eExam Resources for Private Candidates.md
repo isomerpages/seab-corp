@@ -403,7 +403,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Translation (Chinese) [Revised]</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Translation (Chinese)</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9571</p>
@@ -415,7 +415,8 @@ understand the revised examination format.</p>
 <p>Malay Language and Literature [Revised]</p>
 <p>Tamil Language and Literature [Revised]</p>
 <p></p>
-<p>For Candidate Reference</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">For Candidate Reference</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9575</p>
@@ -456,7 +457,8 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Chinese B</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8611</p>
@@ -464,7 +466,8 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Malay B</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Malay B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8613</p>
@@ -472,7 +475,8 @@ the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Tamil B</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Tamil B</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8614</p>
