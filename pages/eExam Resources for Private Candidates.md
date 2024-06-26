@@ -625,7 +625,8 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>English Language Paper 1</p>
+<p><a href="https://drive.google.com/file/d/1QPWNITlGTFczbxYhZ-dctLFnjWIYdECT/view" rel="noopener noreferrer nofollow" target="_blank">English Language Paper 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195</p>
@@ -633,7 +634,8 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Music Paper 1</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener noreferrer nofollow" target="_blank">Music Paper 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6129</p>
@@ -641,7 +643,8 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Science Paper 1</p>
+<p><a href="https://go.gov.sg/ntsciencecandidateguide" rel="noopener noreferrer nofollow" target="_blank">Science Paper 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5148</p>
@@ -649,7 +652,8 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Basic Mother Tongue Paper 1</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener noreferrer nofollow" target="_blank">Basic Mother Tongue Paper 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1202, 1203, 1204</p>
