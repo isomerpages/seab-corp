@@ -185,36 +185,22 @@ Minister’s Office</div>
 <img style="width: 86%;" height="auto" width="100%" alt="Tan Cheng Yian Bernard" src="/images/Board Members/Tan_Cheng_Yian_Bernard.png">
 </div>
 <p><strong>Prof Tan Cheng Yian Bernard</strong> 
-<br>
-</p>
+<br>Senior Vice-Provost
+<br>(Undergraduate Education), National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 97%;" height="auto" width="100%" alt="Juthika Ramanathan" src="/images/Board Members/Juthika_Ramanathan.png">
 </div>
 <p><strong>Ms Juthika Ramanathan</strong> 
-<br>
-</p>
+<br>Chief Executive, Office of the Chief Justice, Judiciary</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 67%;" height="auto" width="100%" alt="Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
 </div>
 <p><strong>Mr Chin Chi Leong</strong> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Vice-Provost
-<br>(Undergraduate Education), National University of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Executive, Office of the Chief Justice, Judiciary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Chief Executive Officer (Building Control)/Commissioner of Buildings,
+<br>Deputy Chief Executive Officer (Building Control)/Commissioner of Buildings,
 Building and Construction Authority (BCA)</p>
 </td>
 </tr>
