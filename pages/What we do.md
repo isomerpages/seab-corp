@@ -35,7 +35,7 @@ improve our knowledge and skills.
 outcomes. Together, each achieves more.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<section id="board-members"><summary>Board Members</summary>
+<summary>Board Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -145,117 +145,10 @@ Minister’s Office</div>
 </div>
 </div>
 <p></p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong.png">
 </div>
-<p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong> 
-<br>Advisor, Ministry of Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Tan Cheng Yian Bernard" src="/images/Board Members/Tan_Cheng_Yian_Bernard.png">
-</div>
-<p><strong>Prof Tan Cheng Yian Bernard</strong> 
-<br>Senior Vice-Provost
-<br>(Undergraduate Education), National University of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="Juthika Ramanathan" src="/images/Board Members/Juthika_Ramanathan.png">
-</div>
-<p><strong>Ms Juthika Ramanathan</strong> 
-<br>Chief Executive, Office of the Chief Justice, Judiciary</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
-</div>
-<p><strong>Mr Chin Chi Leong</strong> 
-<br>Deputy Chief Executive Officer (Building Control)/Commissioner of Buildings,
-Building and Construction Authority (BCA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/ms_loo_siew_yeeeb7ac05f76ae4667a4e6f3dd59f784c2.jpg">
-</div>
-<p><strong>Ms Loo Siew Yee</strong> 
-<br>Assistant Managing Director (Policy, Payments &amp; Financial Crime),
-Monetary Authority of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/ms_lee_cher_farn84a8441a532a490db08e9a48f2864175.jpg">
-</div>
-<p><strong>Ms Lee Cher Farn </strong>
-<br>Principal Private Secretary to Deputy Prime Minister Heng Swee Keat, Prime
-Minister's Office</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
-</div>
-<p><strong>Ms Jodie Choo Teck Woan </strong>
-<br>Executive Director &amp; Group Head of Human Resources, Information Technology
-&amp; Administration, Far East Organisation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/mr_sng_chern_wei48f54b2b325644a8820156edc5d0c231.jpg">
-</div>
-<p><strong>Mr Sng Chern Wei </strong>
-<br>Deputy Director-General of Education (Curriculum), Ministry of Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/mr_yue_lip_sin.jpg">
-</div>
-<p><strong>Mr Yue Lip Sin <br></strong>Chief Executive, Singapore Examinations
-and Assessment Board</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</div>
-</section></details>
+</details>
 <details class="isomer-details">
-<section id="management-team"><summary>Management Team</summary>
+<summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Chief Executive</strong>
@@ -383,7 +276,7 @@ and Assessment Board</p>
 </li>
 </ul>
 </div>
-</section></details>
+</details>
 </div>
 <p>
 <br>
