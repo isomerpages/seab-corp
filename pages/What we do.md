@@ -150,7 +150,7 @@ Minister’s Office</div>
 <details class="isomer-details">
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p></p><section id="management-team"><p></p>
 <p><strong>Chief Executive</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -275,7 +275,7 @@ Minister’s Office</div>
 <br>Senior Assistant Director, Corporate Communications</p>
 </li>
 </ul>
-</div>
+</section></div>
 </details>
 </div>
 <p>
