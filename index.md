@@ -10,7 +10,7 @@ notification: SEAB Website is scheduled for maintenance from 2 March 2024
   caused.
 sections:
   - hero:
-      background: /images/HomePage/Design_2_1.jpg
+      background: /images/HomePage/Design_2_2.jpg
       variant: center
       title: Singapore Examinations and Assessment Board
       subtitle: Your Trusted Authority in Examinations and Assessments
