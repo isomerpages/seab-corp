@@ -42,7 +42,7 @@ description: Annual Reports
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/annualreport2015-2016" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2015-2016" src="/images/Annual Report /2015_2016.png">
+<img style="width: 100%" height="auto" width="100%" alt="2015-2016" src="/images/Annual Report /ar_2016.png">
 </div>
 </div>
 <div class="isomer-card-body">
