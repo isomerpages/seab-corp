@@ -7,7 +7,7 @@ description: Demystifying National Examinations
 <p>In this section, we share and clarify the key processes of the national
 examinations. Click on the individual cards to find out more.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/exam-mythbusters" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Exam Mythbusters" src="/images/Resources/pexels_cottonbro_4065152.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Exam Mythbusters</div><div class="isomer-card-link">  </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/exam-mythbusters" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Exam Mythbusters" src="/images/Resources/pexels_cottonbro_4065152.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Exam Mythbusters</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/commemorative-video-on-pen-based-marking" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -18,7 +18,7 @@ examinations. Click on the individual cards to find out more.</p>
 <div class="isomer-card-title">Commemorative Video on Pen-Based Marking</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/video-on-transforming-examinations-and-assessment" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Video on Transforming Examinations and Assessment" src="/images/Resources/transformexaminations.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Video on Transforming Examinations and Assessment</div><div class="isomer-card-link">      </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/video-on-transforming-examinations-and-assessment" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Video on Transforming Examinations and Assessment" src="/images/Resources/transformexaminations.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Video on Transforming Examinations and Assessment</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/video-on-onscreen-marking-in-singapore" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -39,7 +39,7 @@ examinations. Click on the individual cards to find out more.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Onscreen Marking</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="/images/Resources/psle_poster_17jan2019.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE 2021: Standards Referenced Assessment" src="/images/Resources/psle_poster_17jan2019.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE 2021: Standards Referenced Assessment</div><div class="isomer-card-link"> </div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="/images/Resources/psle_poster_17jan2019.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE 2021: Standards Referenced Assessment" src="/images/Resources/psle_poster_17jan2019.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE 2021: Standards Referenced Assessment</div><div class="isomer-card-link"></div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
