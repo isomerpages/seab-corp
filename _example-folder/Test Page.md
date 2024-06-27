@@ -40,5 +40,13 @@ description: ""
 <p>Bullet 2</p>
 </li>
 </ul>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>test</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>hello</p>
+</div>
+</details>
+</div>
+<p>test</p>
 <p></p>
