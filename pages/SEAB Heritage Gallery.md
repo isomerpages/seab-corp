@@ -4,7 +4,6 @@ permalink: /home/about-us/heritage-gallery/
 variant: tiptap
 description: SEAB Heritage Gallery
 ---
-<h4><strong>A Story of Exams</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Heritage Gallery" src="/images/Heritage Gallery/heritagegallery1.png">
 </div>
