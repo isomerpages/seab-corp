@@ -35,7 +35,7 @@ improve our knowledge and skills.
 outcomes. Together, each achieves more.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Board Members</summary>
+<section id="board-members"><summary>Board Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -253,9 +253,9 @@ and Assessment Board</p>
 </table>
 <p></p>
 </div>
-</details>
+</section></details>
 <details class="isomer-details">
-<summary>Management Team</summary>
+<section id="management-team"><summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Chief Executive</strong>
@@ -383,7 +383,7 @@ and Assessment Board</p>
 </li>
 </ul>
 </div>
-</details>
+</section></details>
 </div>
 <p>
 <br>
