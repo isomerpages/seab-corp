@@ -2,7 +2,7 @@ title: SEAB - Singapore Examinations and Assessment Board
 url: https://www.isomer.seab.gov.sg
 favicon: /images/HomePage/SEAB_logo_topbar.png
 colors:
-  primary-color: "#063d90"
+  primary-color: "#c08e00"
   secondary-color: "#4a4a4a"
   media-colors:
     - title: media-color-one
@@ -10,7 +10,7 @@ colors:
     - title: media-color-two
       color: "#f54474"
     - title: media-color-three
-      color: "#e6d10f"
+      color: "#063d90"
     - title: media-color-four
       color: "#3ec762"
     - title: media-color-five
