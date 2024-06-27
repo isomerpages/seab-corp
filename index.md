@@ -50,14 +50,14 @@ sections:
       title: 🔗 Quicklinks
       id: textcards
       cards:
+        - title: 📄 Past Years Results
+          description: ""
+          linktext: ""
+          url: /home/services/statements-of-results
         - title: 🖥️ Candidates Portal
           description: ""
           linktext: ""
           url: https://myexams.seab.gov.sg/auth/login
-        - title: 📅 Important Dates
-          description: ""
-          linktext: ""
-          url: /important-dates-for-candidates
         - title: ➗ Approved Calculators
           description: ""
           linktext: ""
@@ -67,31 +67,30 @@ sections:
           linktext: ""
           url: https://go.gov.sg/list-of-dictionaries-for-examination
   - infopic:
-      title: 2024 Assessment Seminar
+      title: Important Dates
       id: infopic
-      description: "Assessment in the 21st Century: Nurturing Future-Ready Learners."
-      button: VIEW PROGRAMME DETAILS
-      alt: Image alt text
-      url: /services/2024-assessment-seminar
-      image: /images/assessment_seminar_image2.png
+      description: Check out the key dates for candidates, such as issuance of entry
+        proofs, results release dates.
+      button: VIEW DETAILS
+      alt: important-dates
+      url: /home/examinations/important-dates-for-candidates/
+      image: /images/HomePage/important_dates.png
   - infopic:
-      title: SEAB-link Newsletter
+      title: 2024 Supplementary Private Candidate Registration Exercise
       id: infopic
-      description: Featuring the digital initiatives of SEAB.
-      button: VIEW ALL
-      alt: seab-link_img
-      image: /images/seab_link_img.png
-      url: /news/seab-link-newsletter/
+      description: Registration for the 2024 GCE-Level examinations has ended.
+      button: VIEW DETAILS
+      alt: registration
+      image: /images/HomePage/registration.png
+      url: /home/examinations/updatesforprivatecandidates/
   - infopic:
-      title: Career Opportunities
+      title: Secondary Education Certificate (SEC) Examinations
       id: infopic
-      description: We are looking for team players who enjoy working in a dynamic and
-        creative work environment. Join our team for a rewarding and challenging
-        career.
-      button: View all
-      alt: career_opportunities
-      url: /about-us/careers/
-      image: /images/careers.jpg
+      description: Find out more about the new SEC
+      button: VIEW DETAILS
+      alt: sec-examinations
+      url: /link
+      image: /images/HomePage/SEC_examinations.png
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
