@@ -25,7 +25,7 @@ education, in Singapore.&nbsp;
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important dates Image" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/home/examinations/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important dates Image" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-psle-exam-rules-and-regulation-booklet" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,8 +58,8 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">Calculators and Dictionaries</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="train disruption" src="/images/traindistruptionadvice.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Train Disruption Advice</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/psle/result-slips" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/home/examinations/train-disruption-advice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="train disruption" src="/images/traindistruptionadvice.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Train Disruption Advice</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/home/examinations/result-slips-examination-certificates-for-psle-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Results Slips" src="/images/psleresultslips.png">
@@ -69,8 +69,8 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">Results Slips and Certificates for PSLE Candidates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/psle/behind-the-scene" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Key Exam Processes" src="/images/Keyexamprocesses.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind The Scene: Key Exam Processes</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/psle/about-psle" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/home/examinations/psle/behind-the-scene" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Key Exam Processes" src="/images/Keyexamprocesses.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind The Scene: Key Exam Processes</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/home/examinations/psle/about-psle" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="aboutpsle" src="/images/aboutpsle.png">
