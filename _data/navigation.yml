@@ -4,30 +4,30 @@ links:
     url: /examinations-overview
     sublinks:
       - title: PSLE
-        url: /examinations/psle
+        url: /home/examinations/psle
       - title: GCE N(T) Level
-        url: /gce-nt-level/
+        url: /home/examinations/gce-nt-level/
       - title: GCE N(A) Level
         url: /home/examinations/gce-na-level
       - title: GCE O-Level
-        url: /examinations/gce-o-level/
+        url: /home/examinations/gce-o-level/
       - title: GCE A-Level
-        url: /gce-a-level
+        url: /home/examinations/gce-a-level
   - title: Services
     url: /services/services-overview
     sublinks:
       - title: Training and Consultancy
-        url: /services/training-and-consultancy
+        url: /home/services/training-and-consultancy
       - title: Academic Publications
-        url: /services/academic-publications
+        url: /home/services/academic-publications
       - title: Distributors of Past Years' QP
-        url: /services/distributors-of-past-years-question-papers
+        url: /home/services/distributors-of-past-years-question-papers
       - title: Past Years' Results
-        url: /services/statements-of-results
+        url: /home/services/statements-of-results
       - title: AEIS
         url: /home/services/aeis/
       - title: S-AEIS
-        url: /home//services/s-aeis/
+        url: /home/services/s-aeis/
       - title: SPERS-Sec
         url: /home/services/spers-sec
       - title: SPE
