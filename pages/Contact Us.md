@@ -23,10 +23,10 @@ answers to your questions.</p>
 <p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/faq/"><img style="width: 70%;" height="auto" width="100%" alt="candidates portal" src="/images/cp_btn.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/services/statements-of-results"><img style="width: 70%;" height="auto" width="100%" alt="past years' results" src="/images/pyr_btn.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/home/services/statements-of-results"><img style="width: 70%;" height="auto" width="100%" alt="past years' results" src="/images/pyr_btn.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/important-dates-for-candidates/"><img style="width: 70%;" height="auto" width="100%" alt="important dates" src="/images/important_dates_btn.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/home/examinations/important-dates-for-candidates"><img style="width: 70%;" height="auto" width="100%" alt="important dates" src="/images/important_dates_btn.png"></a>
 </th>
 </tr>
 </tbody>
@@ -127,7 +127,7 @@ email/phone if your request can be addressed via these channels.
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8108526269843!2d103.82785487461636!3d1.2876142617734683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da197f71e74c17%3A0x640155d629854ff7!2sSingapore%20Examinations%20and%20Assessment%20Board!5e0!3m2!1sen!2ssg!4v1709517945773!5m2!1sen!2ssg"></iframe>
 </div>
 <p><strong>Transport to SEAB</strong> 
-<br>Directions to SEAB by train, taxi or car, can be found via this <a href="https://www.seab.gov.sg/docs/default-source/documents/enhanced-guide-to-seab-bhs.pdf?sfvrsn=ccec0579_2" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.
+<br>Directions to SEAB by train, taxi or car, can be found via this <a href="/files/Docs/SEAB BHS/enhanced_guide_to_seab_bhs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.
 <br>Other public transport options near SEAB are listed below:</p>
 <p><strong>Bus Services</strong> 
 <br>Alight near Tiong Bahru MRT Station: 5, 16, 16M, 33, 33A, 63, 121, 122,
