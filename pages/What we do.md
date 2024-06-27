@@ -35,7 +35,7 @@ improve our knowledge and skills.
 outcomes. Together, each achieves more.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Board Members</summary>
+<summary>Board Members</summary><section id="board-members">  
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -146,7 +146,7 @@ Minister’s Office</div>
 </div>
 <p></p>
 </div>
-</details>
+</section></details>
 <details class="isomer-details">
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
