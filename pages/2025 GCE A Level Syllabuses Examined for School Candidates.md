@@ -1036,7 +1036,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8655_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8655_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1057,7 +1057,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9571_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9571_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1078,7 +1078,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9575_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9575_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1099,7 +1099,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9629_y25_sy08e9833720e842d18ddc6d7e8cd48068.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9629_y25_sy08e9833720e842d18ddc6d7e8cd48068.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u>&nbsp;</a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -1114,14 +1114,14 @@ H3 Mathematics (9820) syllabus.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9629_y25_sp_1.pdf?sfvrsn=c1d2ded_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9629_y25_sp_2.pdf?sfvrsn=c6b91d9d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9629_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/9629_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9901_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9901_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1142,7 +1142,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8656_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8656_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1163,7 +1163,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9576_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9576_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1184,7 +1184,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9921_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9921_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1205,7 +1205,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1226,7 +1226,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9577_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9577_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1247,7 +1247,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9941_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9941_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1295,7 +1295,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8611_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8611_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1310,7 +1310,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8613_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8613_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1325,7 +1325,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8614_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8614_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1340,7 +1340,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/2025-project-work-(8882)-examination-syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Work</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025_project_work__8882__examination_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Work</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
