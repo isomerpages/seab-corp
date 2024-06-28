@@ -16,6 +16,7 @@ forward to working with you to continue achieving excellence in assessment
 services.</p>
 <p>If you are interested, please refer to <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>&nbsp;for further
 information.</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</summary>
@@ -76,10 +77,12 @@ to obtain buy-in from stakeholder groups</p>
 </ul>
 </div>
 </details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>ASSISTANT MANAGER / MANAGER, INFORMATION TECHNOLOGY - 2-YEAR CONTRACT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p><strong>RESPONSIBILITIES</strong>
 </p>
 <p>Successful applicant will play an active role in managing IT application
@@ -174,6 +177,7 @@ management.</p>
 </div>
 </details>
 </div>
-<h4><strong>APPLICATION PROCEDURE</strong></h4>
-<p>If you are interested in any of the above position, please submit your
+<p></p>
+<p><strong>APPLICATION PROCEDURE</strong>
+<br>If you are interested in any of the above position, please submit your
 application with your educational certificateso&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
