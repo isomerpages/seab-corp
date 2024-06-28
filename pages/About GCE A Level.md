@@ -15,8 +15,7 @@ the United Kingdom’s GCE A-Level examination in 2002, as part of the Ministry
 of Education (MOE) Singapore’s efforts to gain greater control of the management
 of the examination. The GCE A-Level examination is closely aligned to the
 Singapore school curriculum that is designed by the MOE.</p>
-<p><s>&nbsp;</s>
-</p>
+<p></p>
 <p>The GCE A-Level examination is offered annually to:</p>
 <ul data-tight="true" class="tight">
 <li>
