@@ -1,0 +1,86 @@
+---
+title: Release of 2018 Singapore Cambridge GCE N(A) & N(T) Level Examination Results
+permalink: /news/press-releases/release-of-2018-singapore-cambridge-gce-na-nt-level-examination-results/
+date: 2018-12-17
+layout: post
+description: Release of 2018 Singapore Cambridge GCE N(A) & N(T) Level Examination Results
+image: ""
+variant: tiptap
+---
+<p>1. Students who sat for the 2018 Singapore-Cambridge General Certificate
+of Education (GCE) Normal (Academic) [N(A)] and Normal (Technical) [N(T)]
+Level Examinations collected their results from their secondary schools
+today.</p>
+<p>2. 9,917 students from the Secondary 4 N(A) Course and 4,715 students
+from the Secondary 4 N(T) Course sat for the examinations.</p>
+<p>3. 99.5% of the students from the N(A) course have been awarded the GCE
+N(A)-Level certificate. The GCE N(A)-Level certificate is awarded to candidates
+who obtain a pass grade (i.e. of Grade 5 or better) in at least one N(A)
+subject.</p>
+<p>4. 97.5% of the students from the N(T) course have been awarded the GCE
+N(T)-Level certificate. The GCE N(T)-Level certificate is awarded to candidates
+who obtain a pass grade (i.e. of Grade D or better) in at least one N(T)
+subject.</p>
+<p><strong>PROGRESSION TO SECONDARY 5 NORMAL (ACADEMIC)</strong>
+</p>
+<p>5. 76.9% of the students from the N(A) course are eligible for promotion
+to Secondary 5 N(A). These are students in the N(A) course who obtained
+an aggregate not exceeding 19 points in English Language, Mathematics and
+the best three subjects (ELMAB3), and at least a Grade 5 for all subjects
+used in the computation of the ELMAB3.</p>
+<p>6. This year, 39.6% of the students from the N(A) course sat for subjects
+in the GCE Ordinary Level (GCE O-Level) Examinations. Using their combined
+GCE N(A)-Level and school-based O-Level preliminary examination results,
+these students are also eligible for promotion to Secondary 5 N(A) if they
+obtain an aggregate not exceeding 19 points in ELMAB3, and at least a Grade
+5 for all subjects used in the computation of the ELMAB3.</p>
+<p><strong>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</strong>
+</p>
+<p>7. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
+in 2018 and obtained an ELMAB3 aggregate not exceeding 19 points1 will
+have the option of applying for the Direct-Entry Scheme to Polytechnic
+Programme (DPP).</p>
+<p>8. The DPP prepares Secondary 4 N(A) students for progression into selected
+polytechnic diploma courses via a two-year Higher Nitec programme at the
+Institute of Technical Education (ITE). Under the DPP, students who successfully
+complete their Higher Nitec course and attain the minimum qualifying Grade
+Point Average (GPA) are guaranteed a place in a polytechnic diploma course
+mapped to their Higher Nitec course.</p>
+<p>9. About 1,200 DPP places will be offered across all three ITE Colleges.
+Applications for the DPP will open on 17 December 2018. For more information,
+please refer to <a href="https://www.ite.edu.sg/wps/portal/definitely-dpp/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-dpp/</a>.</p>
+<p>10. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
+in 2018 also have the option of applying for the Polytechnic Foundation
+Programme (PFP). From 2019, the PFP will be open to students who obtained
+an ELMAB3 aggregate not exceeding 12 points2, up from the current 11 points.</p>
+<p>11. The PFP is a one-year foundation programme at the polytechnics that
+offers a practice-oriented curriculum taught by polytechnic lecturers,
+to prepare students for entry into the relevant polytechnic diploma courses.
+Upon completion of the PFP, students will progress to their pre-selected
+diploma course, subject to them passing all modules in the PFP.</p>
+<p>12. The polytechnics will offer about 1,500 PFP places in total. Applications
+for the PFP will open in January 2019, after the release of the GCE O-Level
+Examination results. Secondary 4 N(A) students who intend to apply for
+the PFP should first progress to Secondary 5 on 2 January 2019. For more
+information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
+<p><strong>PROGRESSION FOR NORMAL (TECHNICAL) STUDENTS</strong>
+</p>
+<p>13. All N(T) course students who completed their secondary education in
+2018 may apply to further their studies at ITE. Schools may also laterally
+transfer Secondary 4 N(T) students to Secondary 4 N(A) if they have obtained
+grade A for both English Language and Mathematics, and grade B or better
+for one other subject at the GCE N(T)-Level Examination.</p>
+<p><sup>1 </sup>To be eligible for the DPP, students must also attain a minimum
+grade of 4 in both English Language (minimum required grade of 3 for Business
+&amp; Services courses) and Mathematics, and minimum grade of 5 in three
+other subjects (excluding CCA). CCA bonus points are not factored into
+the ELMAB3 aggregate used for considering eligibility for the DPP, but
+are taken into account for posting. More information can be found at
+<a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-des/</a>.</p>
+<p><sup>2 </sup>To be eligible for the PFP, students must obtain an ELMAB3
+aggregate score of 12 points or better (excluding CCA bonus points), as
+well as meet the course-specific requirements. CCA bonus points are not
+factored into the ELMAB3 aggregate used for considering eligibility for
+the PFP, but are taken into account for posting. More information can be
+found at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
+<p></p>
