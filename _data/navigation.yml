@@ -1,7 +1,7 @@
 logo: /images/HomePage/SEAB_logo_in_color__png_7.png
 links:
   - title: Examinations
-    url: /examinations-overview
+    url: ""
     sublinks:
       - title: PSLE
         url: /psle
@@ -14,7 +14,7 @@ links:
       - title: GCE A-Level
         url: /gce-a-level
   - title: Services
-    url: /services/services-overview
+    url: ""
     sublinks:
       - title: Training and Consultancy
         url: /training-and-consultancy
@@ -69,7 +69,7 @@ links:
       - title: Heritage Gallery
         url: /heritage-gallery
   - title: Quicklinks
-    url: /quicklinks
+    url: ""
     sublinks:
       - title: Candidates Portal
         url: https://myexams.seab.gov.sg/auth/login
