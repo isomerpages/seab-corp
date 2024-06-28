@@ -45,7 +45,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8827_y25_sy.pdf?sfvrsn=45db15de_2" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8827_y25_sy_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +63,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8828_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8828_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8829_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8829_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +99,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8831_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8831_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
@@ -116,7 +116,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8832_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;**</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8832_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -133,7 +133,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8841_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8841_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -145,13 +145,13 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/8841_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8841_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2024]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8833_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8833_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -168,7 +168,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8834_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8834_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,15 +181,15 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/8834_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/8834_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8835_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8835_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
@@ -206,7 +206,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8836_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8836_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +224,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8837_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8837_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,7 +242,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8838_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8838_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,13 +255,13 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8843_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8843_y25_sy__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +279,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8865_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8865_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -291,15 +291,15 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/8865_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/8865_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/8865_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/8865_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
 <br>[2024]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8867_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8867_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -316,7 +316,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8873_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8873_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -333,7 +333,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8876_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8867_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -350,7 +350,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8879_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/8879_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u>&nbsp;</a>#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -367,7 +367,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8881_y25_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/8881_y25_sy_pdf__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -380,16 +380,16 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/8881_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u> </a>|
+<a href="/files/A Level Syllabus Sch Cddts/8881_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9173_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9173_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -402,18 +402,18 @@ from SEAB.</p>
 <p>9173</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/9173_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>|
+<a href="/files/A Level Syllabus Sch Cddts/9173_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/9173_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/9173_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9174_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9174_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -426,14 +426,14 @@ from SEAB.</p>
 <p>9174</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9174_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/9174_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9508_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9508_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,7 +451,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9509_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;**</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9509_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -468,7 +468,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9539_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9539_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u>&nbsp;</a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -480,15 +480,15 @@ from SEAB.</p>
 <p>9539</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9539_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9539_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9539_y25_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9539_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/9539_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/9539_y25_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2024]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9519_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Theatre Studies and Drama</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9519_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Theatre Studies and Drama</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -506,7 +506,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -524,7 +524,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9570_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9570_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -542,7 +542,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9578_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Spanish</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9578_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Spanish</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Spanish</p>
@@ -559,7 +559,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9587_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Management of Business</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9587_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Management of Business</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -577,7 +577,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9593_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounting</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9593_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounting</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -595,7 +595,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -613,7 +613,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9649_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u></a>&nbsp;[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9649_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u></a>&nbsp;[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -625,18 +625,18 @@ from SEAB.</p>
 <p>9649</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9649_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9649_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/9649_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/9649_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
-<br><a href="https://seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9649_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9649_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/9758_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u>&nbsp;</a>|
+<a href="/files/A Level Syllabus Sch Cddts/9649_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
 <br>[2024]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9729_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9729_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -654,7 +654,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9735_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9735_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
@@ -671,7 +671,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9736_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9736_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -688,7 +688,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9737_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9737_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u>&nbsp;</a>#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
@@ -705,7 +705,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9744_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9744_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -723,7 +723,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9749_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9749_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -741,7 +741,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9750_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9750_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -758,7 +758,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9753_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9753_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,7 +776,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9758_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9758_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -788,18 +788,18 @@ from SEAB.</p>
 <p>9758</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9758_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9758_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/9758_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>|
+<a href="/files/A Level Syllabus Sch Cddts/9758_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9758_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9758_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/9758_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u>&nbsp;</a>|
+<a href="/files/A Level Syllabus Sch Cddts/9758_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
 </a>
 <br>[2024]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9759_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Knowledge and Inquiry</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9759_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Knowledge and Inquiry</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -819,7 +819,7 @@ from SEAB.</p>
 </table>
 <p>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.</p>
 <p># Last year of exam in 2025.</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/seab-mathematics-mf27-(approved).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/seab_mathematics_mf27__approved_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u> </a>for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
 <h4><strong>H3 Cambridge Subjects</strong></h4>
@@ -848,7 +848,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9805_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9805_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -863,7 +863,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9809_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9809_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -878,7 +878,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9813_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9813_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u> </a>#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -892,7 +892,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9814_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9814_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -906,7 +906,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9816_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9816_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -920,7 +920,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9818_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#
+<p><a href="/files/A Level Syllabus Sch Cddts/9818_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#
 <br>
 </p>
 </td>
@@ -936,7 +936,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9819_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9819_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -951,7 +951,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u>&nbsp;</a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -960,15 +960,15 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 <p>9820</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9820_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9820_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/9820_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/9820_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
 <br>[2024]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9822_y25_sy_9-feb-2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9822_y25_sy_9_feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -983,7 +983,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9823_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/9823_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -999,7 +999,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tbody>
 </table>
 <p># Last year of exam in 2025.</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/seab-mathematics-mf27-(approved).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/seab_mathematics_mf27__approved_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H3 Mathematics (9820) syllabus.</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 150px">
