@@ -54,8 +54,8 @@ the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="htt
 calling the ECG hotline at 6831 1420, or emailing <a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> . The MOE
 ECG Centre will offer online or phone counselling from 5 to 21 January
 2023, 9.00am to 5.00pm (Saturdays: 9.00am to 12.00pm).</p>
-<p><strong><sup>1 The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Ordinary Level Examinations.</sup></strong>
+<p><strong><sup><sub>1 </sub></sup><sub>The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
 </p>
-<p><strong><sup>2 Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sup></strong>
+<p><strong><sup><sub>2</sub></sup><sub> Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
 </p>
 <p></p>
