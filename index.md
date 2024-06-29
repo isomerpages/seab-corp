@@ -31,22 +31,6 @@ sections:
           description: ""
           url: /gce-a-level
   - textcards:
-      title: 👥 Personas
-      id: textcards
-      cards:
-        - title: 👨🏻‍🎓 School Candidates
-          description: ""
-          linktext: ""
-          url: /school-candidates/
-        - title: 🙋🏻‍♀️ Private Candidates
-          description: ""
-          linktext: ""
-          url: /private-candidates/
-        - title: 👨🏻‍🏫 Teachers
-          description: ""
-          linktext: ""
-          url: /teachers/
-  - textcards:
       title: 🔗 Quicklinks
       id: textcards
       cards:
