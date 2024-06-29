@@ -9,8 +9,6 @@ description: Adjustments To GCE Coursework Submission Deadlines and Exam Dates
 image: ""
 variant: tiptap
 ---
-<h3><strong>Adjustments To GCE-Level Coursework Submission Deadlines &amp; Examination Dates For A-Level H3 Subjects Taught By Autonomous Universities</strong></h3>
-<p>17 April 2020</p>
 <p>1. Singapore Examinations and Assessment Board (SEAB) recognises that
 the full Home-Based Learning (HBL), which has been implemented from 8 April
 to 4 May 2020, will have certain implications on students taking GCE-Level
