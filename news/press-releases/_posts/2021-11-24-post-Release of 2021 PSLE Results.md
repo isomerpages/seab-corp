@@ -108,14 +108,11 @@ released.</p>
 on the first day of school in January 2022 due to valid reasons, they may
 contact their posted secondary school directly to confirm that they are
 taking up the place, and the school will reserve the place for them.</p>
-<p><sup>1 For more details on the SBB eligibility criteria under the AL scoring system, please refer to: </sup>
-<a href="https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html" rel="noopener noreferrer nofollow" target="_blank"><sup>https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html</sup>
-</a><sup>.</sup>
+<p><strong><sup><sub>1</sub></sup><sub> For more details on the SBB eligibility criteria under the AL scoring system, please refer to: </sub><a href="https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html" rel="noopener noreferrer nofollow" target="_blank"><sub>https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html</sub></a><sub>.</sub></strong>
 </p>
-<p><sup>2 For more details on the indicative PSLE Score ranges for individual secondary schools, please refer to: </sup>
-<a href="https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices" rel="noopener noreferrer nofollow" target="_blank"><sup>https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices</sup>
-</a>
+<p><strong><sup><sub>2 </sub></sup><sub>For more details on the indicative PSLE Score ranges for individual secondary schools, please refer to: </sub><a href="https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices</sub></a></strong>
 </p>
+<p></p>
 <p><sup>.</sup>
 </p>
 <p></p>
