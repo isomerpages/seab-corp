@@ -37,7 +37,7 @@ Mathematics and the best three subjects (ELMAB3), and at least a Grade
 <p><strong>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</strong>
 </p>
 <p>6. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
-in 2020 and obtained a raw ELMAB3 aggregate not exceeding 19 points4 will
+in 2020 and obtained a raw ELMAB3 aggregate not exceeding 19 points<sup>4</sup> will
 have the option of applying for the Direct-Entry Scheme to Polytechnic
 Programme (DPP).</p>
 <p>7. The DPP prepares Secondary 4 N(A) students for progression into selected
