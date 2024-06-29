@@ -165,7 +165,6 @@ them before selecting the schools. For more information, please refer to:</p>
 <p>Secondary school websites</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><sub>1 The five skills subjects are Mechanical Design &amp; Automation, Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet of Things Applications and Mobile Web Applications</sub></strong>
+<p>&nbsp;<strong><sub>1 The five skills subjects are Mechanical Design &amp; Automation, Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet of Things Applications and Mobile Web Applications</sub></strong>
 </p>
 <p></p>
