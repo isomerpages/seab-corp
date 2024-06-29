@@ -103,8 +103,8 @@ through the Polytechnic Early Admissions Exercise (EAE) in 2020 and have
 their offers confirmed based on their GCE O-Level examination results will
 not be eligible to participate in the JAE. Their EAE offers are confirmed
 if they meet the following criteria:</p>
-<p>a. A net ELR2B23 score of 26 points or better for the GCE O-Level examinations;
-and</p>
+<p>a. A net ELR2B2<sup>3</sup> score of 26 points or better for the GCE O-Level
+examinations; and</p>
 <p>b. Minimum Entry Requirements for the respective polytechnic courses</p>
 <p>16. Students who do not meet the above criteria may take part in the JAE.
 More details on Polytechnic EAE can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://eae.polytechnic.edu.sg</u></a> .</p>
@@ -128,7 +128,7 @@ to Polytechnic Programme (DPP).</p>
 foundation programme at the polytechnics that offers a practice-oriented
 approach to prepare students for entry into the relevant diploma courses.</p>
 <p>20. Students are eligible to apply for the PFP if they have obtained a
-raw ELMAB34 aggregate of 12 points or better, and meet the subject-specific
+raw ELMAB3<sup>4</sup> aggregate of 12 points or better, and meet the subject-specific
 requirements for their chosen course.</p>
 <p>21. PFP-eligible students who have taken O-Level subjects will receive
 a copy of <u>Form P</u> from their respective secondary schools when they
@@ -173,12 +173,12 @@ PFP.</p>
 the DPP in December but have now decided to take up a PFP offer will need
 to apply to ITE to withdraw from the DPP first, before they are able to
 take up the PFP offer.</p>
-<p><strong><sub>1 Candidates can visit the SingPass website at www.singpass.gov.sg to find out if they are eligible for SingPass.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> Candidates can visit the SingPass website at www.singpass.gov.sg to find out if they are eligible for SingPass.</sub></strong>
 </p>
-<p><strong><sub>2 Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
+<p><strong><sup><sub>2</sub></sup><sub> Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
 </p>
-<p><strong><sub>3 The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
+<p><strong><sup><sub>3</sub></sup><sub> The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
 </p>
-<p><strong><sub>4 The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sub></strong>
+<p><strong><sup><sub>4</sub></sup><sub> The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sub></strong>
 </p>
 <p></p>
