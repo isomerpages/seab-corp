@@ -168,12 +168,10 @@ be able to reserve the place for them. More information on S1 Posting and
 S1-IS are available at MOE’s S1 Posting website and in the information
 booklet “Choosing Your Secondary Schools” distributed to Primary 6 students.
 For enquiries, please visit <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u></a>.</p>
-<p><sup>1 School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sup>
+<p><strong><sup><sub>1 </sub></sup><sub>School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub></strong>
 </p>
-<p><sup>2 For more details on the indicative PSLE Score ranges for individual secondary schools, please refer to: </sup>
-<a href="https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices" rel="noopener noreferrer nofollow" target="_blank"><sup>https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices</sup>
-</a><sup>.</sup>
+<p><strong><sup><sub>2 </sub></sup><sub>For more details on the indicative PSLE Score ranges for individual secondary schools, please refer to: https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices.</sub></strong>
 </p>
-<p><sup>3 The five skills subjects are Mechanical Design &amp; Automation, Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet of Things Applications and Mobile Web Applications.</sup>
+<p><strong><sup><sub>3</sub></sup><sub> The five skills subjects are Mechanical Design &amp; Automation, Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet of Things Applications and Mobile Web Applications.</sub></strong>
 </p>
 <p></p>
