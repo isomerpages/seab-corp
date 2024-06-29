@@ -10,8 +10,8 @@ is available below.</p>
 <p><strong><a href="https://go.gov.sg/2024-gce-na-nt-level-exam-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
 </blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/nt-level-syllabuses-examined-for-school-candidates-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N(T)-Level Syllabuses Examined in 2024" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(T)-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/nt-level-syllabuses-examined-for-school-candidates-2025" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/gce-nt-level/nt-level-syllabuses-examined-for-school-candidates-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="N(T)-Level Syllabuses Examined in 2024" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">N(T)-Level Syllabuses Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/gce-nt-level/nt-level-syllabuses-examined-for-school-candidates-2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="N(T)-Level Syllabuses Examined in 2025" src="/images/psleformats.png">
@@ -33,7 +33,7 @@ is available below.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/calculators-and-dictionaries" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Calculators and Dictionaries" src="/images/approvedcal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Calculators and Dictionaries</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/gce-nt-level-e-exam-resources-for-school-candidates" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/e-exam-resources/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/eexamresources.png">
