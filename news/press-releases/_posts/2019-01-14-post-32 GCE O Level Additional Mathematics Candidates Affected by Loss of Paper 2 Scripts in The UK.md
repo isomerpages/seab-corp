@@ -9,8 +9,6 @@ description: 32 GCE O Level Additional Mathematics Candidates Affected by Loss
 image: ""
 variant: tiptap
 ---
-<h3><strong>32 GCE O-Level Additional Mathematics Candidates Affected by Loss of Paper 2 Scripts in The UK</strong></h3>
-<p>14 January 2019</p>
 <p>The Singapore Examinations and Assessment Board (SEAB) has been informed
 by Cambridge Assessment that 32 answer scripts for the 2018 GCE O-Level
 Additional Mathematics’ Paper 2 were lost in the United Kingdom (UK).</p>
