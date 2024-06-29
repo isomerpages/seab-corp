@@ -9,8 +9,6 @@ description: 2018 Singapore Cambridge General Certificate of Education Ordinary
 image: ""
 variant: tiptap
 ---
-<h3><strong>2018 Singapore-Cambridge General Certificate of Education (Ordinary) Level Examination Results</strong></h3>
-<p>14 January 2019</p>
 <p>1. Students who sat for the 2018 Singapore-Cambridge General Certificate
 of Education Ordinary Level (GCE O-Level) Examination have collected their
 results from their secondary schools today<sup>1</sup>.</p>
