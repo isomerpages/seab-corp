@@ -97,6 +97,6 @@ inform their posted secondary school directly after receiving their posting
 results to confirm that they are taking up the place, and the school will
 reserve the place for them. More information on S1 Posting and S1-IS are
 available at MOE's S1 Posting website. For enquiries, please visit <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u></a>.</p>
-<p><sup>1 </sup>For more details on the SBB eligibility criteria under the
-AL scoring system, please refer to: https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html.</p>
+<p><strong><sup>1 For more details on the SBB eligibility criteria under the AL scoring system, please refer to: https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html.</sup></strong>
+</p>
 <p></p>
