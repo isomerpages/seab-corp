@@ -68,6 +68,6 @@ the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="htt
 calling the ECG hotline at 6831 1420, or emailing <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>. The MOE
 ECG Centre will offer online or phone counselling from 15 February to 19
 March 2021, 9.00am to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
-<p><strong><sub>1 Candidates can visit the SingPass website at www.singpass.gov.sg to find out if they are eligible for SingPass.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> Candidates can visit the SingPass website at www.singpass.gov.sg to find out if they are eligible for SingPass.</sub></strong>
 </p>
 <p></p>
