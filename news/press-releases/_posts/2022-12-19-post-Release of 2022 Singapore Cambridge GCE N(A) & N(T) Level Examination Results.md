@@ -20,8 +20,7 @@ N(A) course sat for subjects in the GCE Ordinary Level (GCE O-Level) examination
 Schools will take their combined GCE N(A)-Level and school-based O-Level
 preliminary examination results into consideration when determining their
 eligibility for progression to Secondary 5 N(A) or post-secondary pathways.&nbsp;</p>
-<p>
-<br><strong>Progression to Secondary 5 Normal (Academic)</strong>
+<p><strong>Progression to Secondary 5 Normal (Academic)</strong>
 </p>
 <p>4.&nbsp;78.4% of the school candidates from the N(A) course are eligible
 for progression to Secondary 5 N(A). These candidates must have obtained
@@ -96,27 +95,16 @@ Road) via 6831 1420, <a href="https://www.ite.edu.sg/admissions/full-time-course
 </a>. The MOE ECG Centre will offer counselling<a rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a>from
 9.00am to 5.00pm from Monday, 12 December 2022 to Saturday, 24 December
 2022<sup>6</sup>.</p>
-<p><sup>1 </sup>The Cambridge Assessment International Education, the Ministry
-of Education, Singapore and the Singapore Examinations and Assessment Board
-(SEAB) are the joint examining authorities for the Singapore-Cambridge
-General Certificate of Education Normal (Academic) and Normal (Technical)
-Level Examinations.</p>
-<p><sup>2</sup> The GCE N(A)-Level certificate is awarded to candidates who
-obtain at least a Grade 5 or better in at least one N(A) subject.</p>
-<p><sup>3 </sup>The GCE N(T)-Level certificate is awarded to candidates who
-obtain at least a Grade D or better in at least one N(T) subject.</p>
-<p><sup>4 </sup>To be eligible for the DPP, students must also attain a minimum
-grade of 4 in both English Language (minimum required grade of 3 for Business
-&amp; Services courses) and Mathematics, and minimum grade of 5 in three
-other subjects (excluding CCA). CCA bonus points are not factored into
-the ELMAB3 aggregate used for considering eligibility for the DPP, but
-are taken into account for posting.</p>
-<p><sup>5</sup> To be eligible for the PFP, students must obtain an ELMAB3
-aggregate score of 12 points or lower (excluding CCA bonus points), and
-attain a minimum grade of 3 (minimum grade of 2 in English Language for
-Group 2 courses) in all subjects that make up the ELMAB3 aggregate. CCA
-bonus points are not factored into the ELMAB3 aggregate used for considering
-eligibility for the PFP, but are taken into account for posting.</p>
-<p><sup>6 </sup>Online or phone counselling services on 17 December and 24
-December will only be available from 9.00am to 12.00pm.</p>
+<p><strong><sup>1 The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Normal (Academic) and Normal (Technical) Level Examinations.</sup></strong>
+</p>
+<p><strong><sup>2 The GCE N(A)-Level certificate is awarded to candidates who obtain at least a Grade 5 or better in at least one N(A) subject.</sup></strong>
+</p>
+<p><strong><sup>3 The GCE N(T)-Level certificate is awarded to candidates who obtain at least a Grade D or better in at least one N(T) subject.</sup></strong>
+</p>
+<p><strong><sup>4 To be eligible for the DPP, students must also attain a minimum grade of 4 in both English Language (minimum required grade of 3 for Business &amp; Services courses) and Mathematics, and minimum grade of 5 in three other subjects (excluding CCA). CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the DPP, but are taken into account for posting.</sup></strong>
+</p>
+<p><strong><sup>5 To be eligible for the PFP, students must obtain an ELMAB3 aggregate score of 12 points or lower (excluding CCA bonus points), and attain a minimum grade of 3 (minimum grade of 2 in English Language for Group 2 courses) in all subjects that make up the ELMAB3 aggregate. CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the PFP, but are taken into account for posting.</sup></strong>
+</p>
+<p><strong><sup>6 Online or phone counselling services on 17 December and 24 December will only be available from 9.00am to 12.00pm.</sup></strong>
+</p>
 <p></p>
