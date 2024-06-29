@@ -173,12 +173,12 @@ by the respective polytechnics on the enrolment dates for the PFP.</p>
 the DPP in December but have now decided to take up a PFP offer will need
 to apply to ITE to withdraw from the DPP first, before they are able to
 take up the PFP offer.</p>
-<p><strong><sup>1 Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sup></strong>
+<p><strong><sup><sub>1 </sub></sup><sub>Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
 </p>
-<p><strong><sup>2 More details on Polytechnic EAE can be found at https://eae.polytechnic.edu.sg</sup></strong>
+<p><strong><sup><sub>2</sub></sup><sub> More details on Polytechnic EAE can be found at </sub><a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>https://eae.polytechnic.edu.sg</sub></a></strong>
 </p>
-<p><strong><sup>3 The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sup></strong>
+<p><strong><sup><sub>3</sub></sup><sub> The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
 </p>
-<p><strong><sup>4 The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sup></strong>
+<p><strong><sup><sub>4</sub></sup><sub> The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sub></strong>
 </p>
 <p></p>
