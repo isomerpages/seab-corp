@@ -105,7 +105,6 @@ continue their efforts to pen and share their perspectives on assessment
 issues to build up assessment expertise and promote good assessment practices
 in schools in Assessment in Singapore: Volume 2 - Strategies and Methods
 for Classroom Practice.</p>
-<p>&nbsp;</p>
 <p>The essays are organised broadly around three themes:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -161,7 +160,7 @@ into essays to broaden the reach to more educators.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>ASSESSMENNT IN SINGAPORE VOLUME 4: GETTING READY FOR THE 2020S</summary>
+<summary>ASSESSMENT IN SINGAPORE VOLUME 4: GETTING READY FOR THE 2020S</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
