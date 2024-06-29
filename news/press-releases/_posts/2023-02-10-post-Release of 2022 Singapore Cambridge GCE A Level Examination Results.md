@@ -73,5 +73,5 @@ calling the ECG hotline at 6831 1420, or emailing <a href="https://www.moe.gov.s
 The MOE ECG Centre will offer online or phone counselling from Friday,
 10 February 2023 to Saturday, 18 March 2023 (Weekdays: 9am to 5pm; Saturdays:
 9am to 12pm).</p>
-<p><strong><sup>1 School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sup></strong>
+<p><strong><sup><sub>1 </sub></sup><sub>School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub></strong>
 </p>
