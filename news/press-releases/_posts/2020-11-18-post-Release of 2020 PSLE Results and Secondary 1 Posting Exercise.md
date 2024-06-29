@@ -113,11 +113,11 @@ are ready for future challenges.</p>
 Language, Mother Tongue Language and Mathematics. Selected students can
 take Science as an additional subject. As part of Subject-Based Banding,
 eligible students can also take selected subjects at Normal (Academic)-Level.
-Secondary 3 students will also specialise in two of five skills subjects1
-offered under the new ITE Skills Subject Certificate (ISSC). The ISSC will
-replace the ITE Skills Certificate (ISC) from the 2021 Secondary 3 batch,
-providing a more broad-based curriculum that widens students’ exposure
-to different industry growth areas.</p>
+Secondary 3 students will also specialise in two of five skills subjects<sup>1</sup> offered
+under the new ITE Skills Subject Certificate (ISSC). The ISSC will replace
+the ITE Skills Certificate (ISC) from the 2021 Secondary 3 batch, providing
+a more broad-based curriculum that widens students’ exposure to different
+industry growth areas.</p>
 <p>14. Students who are eligible for the Normal (Technical) course and are
 interested to study in CSS or SSS may submit their application during the
 Pre-Registration Exercise at the respective schools from 25 November to
