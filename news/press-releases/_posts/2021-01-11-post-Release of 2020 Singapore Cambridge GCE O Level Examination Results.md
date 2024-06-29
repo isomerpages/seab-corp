@@ -44,9 +44,9 @@ examination results.</p>
 </li>
 <li>
 <p>Eligible school candidates who sat for the 2020 GCE O-Level examination
-will receive Form A3 on Monday, 11 January 2021, when they collect their
-O-Level results in person. Private candidates who are eligible for JAE
-will continue to receive Form A via post sent to the address that they
+will receive Form A<sup>3</sup> on Monday, 11 January 2021, when they collect
+their O-Level results in person. Private candidates who are eligible for
+JAE will continue to receive Form A via post sent to the address that they
 had provided to SEAB earlier. There will not be online copies of the Form
 A. Candidates’ proxies may also collect their Form A on behalf of the candidates
 by Wednesday, 13 January 2021. If candidates are not able to collect their
