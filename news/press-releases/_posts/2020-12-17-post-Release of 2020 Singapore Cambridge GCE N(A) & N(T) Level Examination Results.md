@@ -91,14 +91,14 @@ December 2020, 9.00am to 5.00pm (Saturdays: 9.00am to 12.30pm). Candidates
 can also refer to the MySkillsFuture website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a> to
 find out more about the range of education and career pathways available
 to them.</p>
-<p><strong><sub>1 The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Normal (Academic) and Normal (Technical) Level Examinations.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Normal (Academic) and Normal (Technical) Level Examinations.</sub></strong>
 </p>
-<p><strong><sub>2 The GCE N(A)-Level certificate is awarded to candidates who obtain at least a Grade 5 or better in at least one N(A) subject.</sub></strong>
+<p><strong><sup><sub>2</sub></sup><sub> The GCE N(A)-Level certificate is awarded to candidates who obtain at least a Grade 5 or better in at least one N(A) subject.</sub></strong>
 </p>
-<p><strong><sub>3 The GCE N(T)-Level certificate is awarded to candidates who obtain at least a Grade D or better in at least one N(T) subject.</sub></strong>
+<p><strong><sup><sub>3</sub></sup><sub> The GCE N(T)-Level certificate is awarded to candidates who obtain at least a Grade D or better in at least one N(T) subject.</sub></strong>
 </p>
-<p><strong><sub>4 To be eligible for the DPP, students must also attain a minimum grade of 4 in both English Language (minimum required grade of 3 for Business &amp; Services courses) and Mathematics, and minimum grade of 5 in three other subjects (excluding CCA). CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the DPP, but are taken into account for posting.</sub></strong>
+<p><strong><sup><sub>4</sub></sup><sub> To be eligible for the DPP, students must also attain a minimum grade of 4 in both English Language (minimum required grade of 3 for Business &amp; Services courses) and Mathematics, and minimum grade of 5 in three other subjects (excluding CCA). CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the DPP, but are taken into account for posting.</sub></strong>
 </p>
-<p><strong><sub>5 To be eligible for the PFP, students must obtain an ELMAB3 aggregate score not exceeding 12 points (excluding CCA bonus points), and attain a minimum grade of 3 (minimum grade of 2 in English Language for Group 2 courses) in all subjects that make up the ELMAB3 aggregate. CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the PFP, but are taken into account for posting.</sub></strong>
+<p><strong><sup><sub>5</sub></sup><sub> To be eligible for the PFP, students must obtain an ELMAB3 aggregate score not exceeding 12 points (excluding CCA bonus points), and attain a minimum grade of 3 (minimum grade of 2 in English Language for Group 2 courses) in all subjects that make up the ELMAB3 aggregate. CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the PFP, but are taken into account for posting.</sub></strong>
 </p>
 <p></p>
