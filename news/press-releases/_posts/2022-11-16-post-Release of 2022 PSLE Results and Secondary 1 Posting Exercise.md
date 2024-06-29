@@ -155,8 +155,7 @@ results to confirm that they are taking up the place, and the school will
 be able to reserve the place for them. More information on S1 Posting and
 S1-IS are available at MOE’s S1 Posting website. For enquiries, please
 visit <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u></a>.</p>
-<p><sup>1</sup> School candidates viewing their results online can still contact
-their schools and teachers for consultation on their next steps.</p>
-<p><sup>2</sup> The five skills subjects are Mechanical Design &amp; Automation,
-Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet
-of Things Applications and Mobile Web Applications.</p>
+<p><strong><sup>1 School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sup></strong>
+</p>
+<p><strong><sup>2 The five skills subjects are Mechanical Design &amp; Automation, Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet of Things Applications and Mobile Web Applications.</sup></strong>
+</p>
