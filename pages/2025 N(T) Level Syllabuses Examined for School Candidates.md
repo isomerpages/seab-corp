@@ -40,7 +40,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1195_y25_sy_final.pdf?sfvrsn=6aa72757_2" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/1195_y25_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/4046_y25_sy.pdf?sfvrsn=667f659c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5979_y25_sy.pdf?sfvrsn=78811e52_2" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/5979_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/6128_y25_sy.pdf?sfvrsn=668a098d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
+<p><a href="/files/NT Level Syllabuses/School Candidates/6128_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -99,7 +99,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/7018_y25_sy.pdf?sfvrsn=96cf1ffd_2" rel="noopener noreferrer nofollow" target="_blank"><u>Computer Applications</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/7018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computer Applications</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/7062_y25_sy.pdf?sfvrsn=9be32604_2" rel="noopener noreferrer nofollow" target="_blank"><u>Design and Technology Syllabus T</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/7062_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design and Technology Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/7066_y25_sy.pdf?sfvrsn=8a488ad3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Elements of Business Skills</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/7066_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Elements of Business Skills</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +147,7 @@ from SEAB.</p>
 <p># Last year of exam in 2025.</p>
 <p>&nbsp;</p>
 <p>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
-if NTIL is included. The list of NTILs can be found under the <a href="home/examinations/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>2025 GCE N(A)-Level syllabuses</u></a> for
+if NTIL is included. The list of NTILs can be found under the <a href="/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>2025 GCE N(A)-Level syllabuses</u></a> for
 school candidates.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong></h4>
 <table style="minWidth: 75px">
@@ -170,7 +170,7 @@ school candidates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/a101_mr-exam-syllabus-2025.pdf?sfvrsn=cbcd40f9_2" rel="noopener noreferrer nofollow" target="_blank"><u>Mobile Robotics</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/a101_mr_exam_syllabus_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mobile Robotics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +182,7 @@ school candidates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/a201_set-exam-syllabus-2025.pdf?sfvrsn=456f7115_2" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Electrical Technology</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/a201_set_exam_syllabus_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Electrical Technology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +194,7 @@ school candidates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/a301_ro-exam-syllabus-2025-(final).pdf?sfvrsn=bbcd0e1d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Retail Operations</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/a301_ro_exam_syllabus_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Retail Operations</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,7 +235,7 @@ to candidates from schools that are approved to offer the subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sy.pdf?sfvrsn=8029b838_2" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
 <br>[Revised]</p>
 <p>&nbsp;</p>
 </td>
@@ -246,16 +246,16 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp1.pdf?sfvrsn=71769e1c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp2.pdf?sfvrsn=7c75462d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp3lc.pdf?sfvrsn=ca02d286_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3&nbsp;LC</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp3oral.pdf?sfvrsn=ed132ac3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3&nbsp;LC</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sy.pdf?sfvrsn=944b77e5_2" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/1203_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,16 +265,16 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp1.pdf?sfvrsn=3c738995_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp2.pdf?sfvrsn=6c5a4f2a_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp3lc.pdf?sfvrsn=bafa3efa_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp3oral.pdf?sfvrsn=4ad4238a_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/1203_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1203_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1203_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1203_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/1204_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -284,17 +284,17 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC<br></u></a>
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u>
-</a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
+</a><a href="/files/NT Level Syllabuses/School Candidates/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y25_sy.pdf?sfvrsn=5fde0abc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,8 +304,8 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>5148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Level Syllabuses/School Candidates/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y24_p1_video.mp4?sfvrsn=6345892b_2" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y24_p1_animation.mp4?sfvrsn=10366dc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
 <br>[2023]</p>
@@ -313,7 +313,7 @@ to candidates from schools that are approved to offer the subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/6129_syll_25.pdf?sfvrsn=68be9d86_2" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
+<p><a href="/files/NT Level Syllabuses/School Candidates/6129_syll_25.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
