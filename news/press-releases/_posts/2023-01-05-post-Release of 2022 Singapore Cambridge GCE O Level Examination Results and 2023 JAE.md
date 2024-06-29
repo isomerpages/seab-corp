@@ -189,27 +189,19 @@ calling the ECG hotline at 6831 1420, or emailing MOE_ECG@moe.gov.sg. The
 MOE ECG Centre will offer online or phone counselling from Thursday, 5
 January 2023 to Saturday, 21 January 2023, 9.00am to 5.00pm (Saturdays:
 9.00am to 12.00pm).</p>
-<p><strong><sup>1 School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sup></strong>
+<p><strong><sup><sub>1</sub></sup><sub> School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub></strong>
 </p>
-<p><strong><sup>2&nbsp;Form A will list the applicant's GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sup></strong>
+<p><strong><sup><sub>2</sub></sup><sub>&nbsp;Form A will list the applicant's GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
 </p>
-<p><strong><sup>3&nbsp;More details on DSA can be found at </sup><a href="http://www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank"><sup>www.moe.gov.sg/dsa-jc</sup></a></strong>
+<p><strong><sup><sub>3</sub></sup><sub>&nbsp;More details on DSA can be found at </sub><a href="http://www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank"><sub>www.moe.gov.sg/dsa-jc</sub></a></strong>
 </p>
-<p></p>
-<p><strong><sup>4&nbsp;More details on Polytechnic EAE can be found at&nbsp;</sup><a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><sup>https://eae.polytechnic.edu.sg</sup></a></strong>
+<p><strong><sup><sub>4</sub></sup><sub>&nbsp;More details on Polytechnic EAE can be found at&nbsp;</sub><a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>https://eae.polytechnic.edu.sg</sub></a></strong>
 </p>
-<p></p>
-<p><strong><sup>5&nbsp;The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sup></strong>
+<p><strong><sup><sub>5</sub></sup><sub>&nbsp;The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
 </p>
-<p><strong><sup>6&nbsp;More details on the ITE EAE can be found at </sup><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank"><sup>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</sup></a></strong>
+<p><strong><sup><sub>6</sub></sup><sub>&nbsp;More details on the ITE EAE can be found at </sub><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</sub></a></strong>
 </p>
-<p></p>
-<p><strong><sup>7&nbsp;The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sup></strong>
+<p><strong><sup><sub>7</sub></sup><sub>&nbsp;The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sub></strong>
 </p>
-<p><strong><sup>8&nbsp;More information on the DPP and eligibility requirements can be found at </sup><a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><sup>www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</sup></a><sup>.</sup></strong>
-</p>
-<p></p>
-<p></p>
-<p>
-<br>
+<p><strong><sup><sub>8</sub></sup><sub>&nbsp;More information on the DPP and eligibility requirements can be found at </sub><a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</sub></a><sub>.</sub></strong><sub><br></sub>
 </p>
