@@ -98,7 +98,7 @@ examinations. Click on the individual cards to find out more.</p>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/comic-11-train-disruption" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#11 Train Disruption" src="/images/Resources/comic_115e3f7a9a96f4469ba0d22215e076b725.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#11 Train Disruption</div><div class="isomer-card-link">     </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/comic-11-train-disruption" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#11 Train Disruption" src="/images/Resources/comic_115e3f7a9a96f4469ba0d22215e076b725.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#11 Train Disruption</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/comic-12-progression-to-secondary-school" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -109,6 +109,6 @@ examinations. Click on the individual cards to find out more.</p>
 <div class="isomer-card-title">#12 Progression to Secondary School</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/comic-13-model-answers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#13 Model Answers" src="/images/Resources/comic_131f90f654284a40148fdcf5c888121f09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#13 Model Answers</div><div class="isomer-card-link">        </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/comic-13-model-answers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#13 Model Answers" src="/images/Resources/comic_131f90f654284a40148fdcf5c888121f09.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#13 Model Answers</div><div class="isomer-card-link"></div></div></a>
 </div>
 <p></p>
