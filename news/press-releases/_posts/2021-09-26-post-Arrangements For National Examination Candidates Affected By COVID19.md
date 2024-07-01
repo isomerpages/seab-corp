@@ -262,9 +262,20 @@ away from school and seek medical attention if they are unwell.</p>
 <p><u>Illustrated explanation on the special consideration process</u>
 </p>
 <p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Scenario 1: Missing all papers of the subject" src="/images/26092021_annex_scenario_1_01.jpg">
+</div>
 <p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Projecting Student A's PSLE mark based on his rank position" src="/images/26092021_annex_scenario_1_02.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Scenario 2: Missing one paper of the PSLE subject" src="/images/26092021_annex_scenario_2_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Projecting Student B's PSLE mark based on her rank position" src="/images/26092021_annex_scenario_2_02.jpg">
+</div>
 <p>&nbsp;</p>
 <p></p>
