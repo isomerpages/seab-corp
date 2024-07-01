@@ -8,10 +8,6 @@ description: GCE NA Level for School Candidates
 is available below.</p>
 <p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Updated as at 24 May 2024)</a>
 </p>
-<blockquote>
-<p><strong><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Updated as at 24 May 2024)</a></strong>
-</p>
-</blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates for Candidates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-gce-nao-level-registration-information-for-school-candidates" class="isomer-card">
 <div class="isomer-card-image">
