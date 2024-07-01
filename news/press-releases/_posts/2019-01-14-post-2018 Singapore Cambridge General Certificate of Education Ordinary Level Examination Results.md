@@ -130,15 +130,15 @@ examination results. The JAE registration will open from 3.00pm on Monday,
 can approach their teachers or the ECG Counsellors supporting their schools.
 Alternatively, students can book an appointment to see an ECG Counsellor
 at the MOE ECG Centre @ Grange Road from 7 to 25 Jan 2019, by calling the
-ECG hotline at 6831 1420, emailing MOE_ECG@moe.gov.sg or by making an appointment
-via the e-Appointment system at https://bit.ly/moe_ecg.</p>
+ECG hotline at 6831 1420, emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or by making an
+appointment via the e-Appointment system at https://bit.ly/moe_ecg.</p>
 <p>5. In addition, students may wish to refer to the interactive MySkillsFuture
-(<a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.sg/content/student/en/secondary.html</a>)
-portal. The one-stop portal provides up-to-date information on the education
-options and career development pathways available to students and points
-them to a range of suitable education and career possibilities. Students
-may also use the portal to match their interests and aptitudes to specific
-courses and careers.</p>
+(https://www.myskillsfuture.sg/content/student/en/secondary.html) portal.
+The one-stop portal provides up-to-date information on the education options
+and career development pathways available to students and points them to
+a range of suitable education and career possibilities. Students may also
+use the portal to match their interests and aptitudes to specific courses
+and careers.</p>
 <p>1 The University of Cambridge International Examinations (CIE), the Ministry
 of Education, Singapore and the Singapore Examinations and Assessment Board
 (SEAB) are the joint examining authorities for the Singapore- Cambridge
