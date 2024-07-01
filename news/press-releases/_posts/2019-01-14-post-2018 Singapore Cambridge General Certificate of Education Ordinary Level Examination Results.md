@@ -130,8 +130,8 @@ examination results. The JAE registration will open from 3.00pm on Monday,
 can approach their teachers or the ECG Counsellors supporting their schools.
 Alternatively, students can book an appointment to see an ECG Counsellor
 at the MOE ECG Centre @ Grange Road from 7 to 25 Jan 2019, by calling the
-ECG hotline at 6831 1420, emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or by making
-an appointment via the e-Appointment system at <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/moe_ecg</a>.</p>
+ECG hotline at 6831 1420, emailing MOE_ECG@moe.gov.sg or by making an appointment
+via the e-Appointment system at https://bit.ly/moe_ecg.</p>
 <p>5. In addition, students may wish to refer to the interactive MySkillsFuture
 (<a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.sg/content/student/en/secondary.html</a>)
 portal. The one-stop portal provides up-to-date information on the education
