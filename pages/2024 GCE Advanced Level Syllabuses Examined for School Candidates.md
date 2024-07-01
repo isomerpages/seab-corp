@@ -45,7 +45,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8807_y24_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a> **</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8807_y24_sy_pdf__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u> </a>**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -62,7 +62,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8813_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>&nbsp;**</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8813_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u>&nbsp;</a>**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -79,7 +79,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8821_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>&nbsp;**</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8821_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u>&nbsp;</a>**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -96,7 +96,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8827_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8827_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8828_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8828_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +132,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8829_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8829_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +150,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8831_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8831_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +168,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8832_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8832_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,7 +186,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8833_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8833_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +204,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8834_y24_sy_final__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -216,15 +216,15 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8834_y24_sp_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/2024/8834_y24_si_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8835_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8835_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,7 +242,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8836_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8836_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,7 +260,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8837_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8837_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,7 +278,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8838_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u>&nbsp;</a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -290,13 +290,13 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8838_y24_sp_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8843_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8843_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -309,7 +309,7 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8843_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2022]</p>
 </td>
 </tr>
@@ -401,7 +401,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8881_y24_sy_pdf__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -413,16 +413,16 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8881_y24_sp_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2024/8881_y24_sp_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2024/8881_y24_si_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -434,18 +434,18 @@ from SEAB.</p>
 <p>9173</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sp_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>|
+<a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_si_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sp_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_si_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9174_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -457,14 +457,14 @@ from SEAB.</p>
 <p>9174</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9174_y24_sp_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2024/9174_y24_sp_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9508_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9508_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -482,7 +482,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9509_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9509_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -500,7 +500,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9519_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Theatre Studies and Drama</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9519_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Theatre Studies and Drama</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -518,7 +518,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9569_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9569_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -536,7 +536,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9570_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9570_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,14 +549,14 @@ from SEAB.</p>
 <p>9570</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9570_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2024/9570_y23_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2022]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9578_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Spanish</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9578_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Spanish</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -574,7 +574,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9587_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Management of Business</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9587_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Management of Business</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -592,7 +592,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9593_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounting</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9593_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounting</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -610,7 +610,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9628_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9628_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -627,7 +627,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9649_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u></a>&nbsp;*</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9649_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u>&nbsp;</a>*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -644,7 +644,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9729_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9729_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -662,7 +662,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9735_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9735_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -680,7 +680,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9736_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9736_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -698,7 +698,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9737_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9737_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -716,7 +716,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9744_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9744_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -734,7 +734,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9749_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9749_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -752,7 +752,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9750_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9750_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -770,7 +770,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9751_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a> **</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9751_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u> </a>**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -787,7 +787,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9752_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> **</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9752_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> **</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -804,7 +804,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9753_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9753_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -821,7 +821,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;*</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9758_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -838,7 +838,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9759_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Knowledge and Inquiry</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9759_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Knowledge and Inquiry</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -859,7 +859,7 @@ from SEAB.</p>
 <p>* Last year of exam in 2024</p>
 <p>** Last year of exam in 2024; for JC2 repeats and CI3 candidates only.</p>
 <p># Last year of exam in 2025.</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/List_MF26_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Statistical Tables (MF26)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/list_mf26_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Statistical Tables (MF26)</u> </a>for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
 <h4><strong>H3 Cambridge Subjects</strong></h4>
@@ -883,7 +883,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9805_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9805_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -895,7 +895,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9809_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9809_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -907,7 +907,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9813_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9813_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -918,7 +918,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9814_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9814_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -929,7 +929,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9816_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9816_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u> </a>#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -940,7 +940,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9818_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9818_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>
 <br>
 </p>
 </td>
@@ -953,7 +953,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9819_y24_sy-(3).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9819_y24_sy__3_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -964,7 +964,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;*</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9820_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -975,7 +975,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9822_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9822_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -986,7 +986,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9823_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9823_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -999,7 +999,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </table>
 <p>* Last year of exam in 2024
 <br># Last year of exam in 2025.</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/List_MF26_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Statistical Tables (MF26)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/list_mf26_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Statistical Tables (MF26)</u></a> for
 H3 Mathematics (9820) syllabus.</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 150px">
@@ -1036,7 +1036,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8655_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8655_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1057,7 +1057,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9571_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9571_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1078,7 +1078,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9575_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language &amp; Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9575_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language &amp; Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1099,7 +1099,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9629_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9629_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u>&nbsp;</a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -1114,14 +1114,14 @@ H3 Mathematics (9820) syllabus.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9629_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9629_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9629_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2024/9629_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9901_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9901_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1142,7 +1142,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8656_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8656_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1163,7 +1163,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9576_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language &amp; Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9576_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language &amp; Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1184,7 +1184,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9921_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9921_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1205,7 +1205,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8657_y24_sy1b707192f40f47d69f3960c106bc4eba.pdf?sfvrsn=8f7f36fe_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8657_y24_sy1b707192f40f47d69f3960c106bc4eba.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1226,7 +1226,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9577_y24_sy68d66e794c9245eea5f3b44c24bb8bbe.pdf?sfvrsn=90442b29_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language &amp; Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9577_y24_sy68d66e794c9245eea5f3b44c24bb8bbe.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language &amp; Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1247,7 +1247,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9941_y24_sycc9b3fcbce624238af8c031a17a7dc4b.pdf?sfvrsn=1f97db8_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9941_y24_sycc9b3fcbce624238af8c031a17a7dc4b.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1295,7 +1295,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8611_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8611_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1310,7 +1310,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8613_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8613_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1325,7 +1325,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8614_y24_sy.pdf?sfvrsn=535d8874_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8614_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1340,7 +1340,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/2024-project-work-(8882)-examination-syllabus_feb-2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Work</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/2024_project_work__8882__examination_syllabus_feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Work</u> </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
