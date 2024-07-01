@@ -139,10 +139,8 @@ and career development pathways available to students and points them to
 a range of suitable education and career possibilities. Students may also
 use the portal to match their interests and aptitudes to specific courses
 and careers.</p>
-<p>1 The University of Cambridge International Examinations (CIE), the Ministry
-of Education, Singapore and the Singapore Examinations and Assessment Board
-(SEAB) are the joint examining authorities for the Singapore- Cambridge
-General Certificate of Education Ordinary Level Examinations.</p>
-<p>2 Candidates who receive 1 or more GCE O-Level passes will be awarded
-with a certificate.</p>
+<p><sub>1 The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore- Cambridge General Certificate of Education Ordinary Level Examinations.</sub>
+</p>
+<p><sub>2 Candidates who receive 1 or more GCE O-Level passes will be awarded with a certificate.</sub>
+</p>
 <p></p>
