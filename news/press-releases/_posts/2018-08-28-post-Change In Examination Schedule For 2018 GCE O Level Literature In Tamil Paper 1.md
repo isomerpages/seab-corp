@@ -33,8 +33,6 @@ release in January 2019.</p>
 <p>6. There are no changes to the examination timetable for the other GCE
 O-Level papers<sup>1</sup> scheduled on Wednesday, 7 November 2018. The
 updated examination timetable can be accessed on SEAB’s website.</p>
-<p><sup>1 </sup>GCE O-Level Islamic Religious Knowledge (2080) Paper 1; GCE
-O-Level Literature in Chinese (2093) Paper 1; GCE O- Level Literature in
-Malay (2238) Paper 1; GCE O-Level Burmese (3249) Paper 1; GCE O-Level Thai
-(3260) Paper 1</p>
+<p><strong><sup><sub>1 </sub></sup><sub>GCE O-Level Islamic Religious Knowledge (2080) Paper 1; GCE O-Level Literature in Chinese (2093) Paper 1; GCE O- Level Literature in Malay (2238) Paper 1; GCE O-Level Burmese (3249) Paper 1; GCE O-Level Thai (3260) Paper 1</sub></strong>
+</p>
 <p></p>
