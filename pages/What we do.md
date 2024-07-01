@@ -172,7 +172,7 @@ Minister’s Office</div>
 <br>Director, Assessment Planning and Development</p>
 </li>
 <li>
-<p>Ms Karen Chong Kwei Kuen
+<p>Ms Joys Ng
 <br>Deputy Director, Assessment Planning and Development</p>
 </li>
 <li>
@@ -180,7 +180,7 @@ Minister’s Office</div>
 <br>Deputy Director, Assessment Planning and Development</p>
 </li>
 <li>
-<p>Mr Yan Yee Kan
+<p>Mr Tan Yee Kan
 <br>Deputy DIrector, Assessment Planning and Development</p>
 </li>
 </ul>
