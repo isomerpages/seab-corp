@@ -69,22 +69,22 @@ have removed if your request is submitted by 21 June 2024.</p>
 <details class="isomer-details">
 <summary>WITHDRAWALS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All applications for withdrawals must be made through <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal </a>by
-2 September 2024, 11:00pm. Withdrawal requests made after&nbsp;2 September
-2024, 11:00pm&nbsp;will not be considered and candidates will receive absent
-grade(s) for the subjects they did not sit for.</p>
+<p>All applications for withdrawals must be made through <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal </a>by <strong>2 September 2024, 11:00pm</strong>.
+Withdrawal requests made after&nbsp;<strong>2 September 2024, 11:00pm</strong>&nbsp;will
+not be considered and candidates will receive absent grade(s) for the subjects
+they did not sit for.</p>
 <p><strong><u>Withdrawal with refund of the subject fees</u></strong>
 </p>
 <p>a) A 50% refund of the subject fee(s) paid may be provided if your withdrawal
-request is submitted to SEAB by&nbsp;21 June 2024, 11:00pm and you have
-not sat for any component of the registered subjects that you are withdrawing
-from. Refunds are not provided for withdrawal requests made after 21 June
-2024, 11:00pm.</p>
+request is submitted to SEAB by&nbsp;<strong>21 June 2024, 11:00pm</strong> and
+you have not sat for any component of the registered subjects that you
+are withdrawing from. Refunds are not provided for withdrawal requests
+made after <strong>21 June 2024, 11:00pm</strong>.</p>
 <p>b) For candidates who have been admitted to a tertiary institution and
 wish to withdraw your registration, a 100% refund of the subject fee(s)
 paid may be provided if your withdrawal request is submitted through the&nbsp;
 <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a>with the supporting documents confirming your tertiary
-admission, by&nbsp;21 June 2024, 11:00pm.&nbsp;</p>
+admission, by&nbsp;<strong>21 June 2024, 11:00pm</strong>.&nbsp;</p>
 <p>You will receive your refund approximately one month after your withdrawal
 request has been approved by SEAB. Please note that any late registration
 fee and subject amendment fees are non-refundable.</p>
