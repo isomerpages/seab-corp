@@ -9,7 +9,6 @@ description: Appointment of New Chief Executive For Singapore Examinations and
 image: ""
 variant: tiptap
 ---
-<p>25 February 2019</p>
 <p>Mr Yue Lip Sin will be appointed Chief Executive of the Singapore Examinations
 and Assessment Board (SEAB) with effect from 1 April 2019. He will succeed
 Miss Tan Lay Choo, whose retirement had already been announced earlier
