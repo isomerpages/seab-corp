@@ -247,11 +247,16 @@ updates if there are further changes to the examination arrangements. We
 urge all candidates and staff to continue practising good personal hygiene,
 adhere to SMMs, and exercise social responsibility. Students should stay
 away from school and seek medical attention if they are unwell.</p>
-<h5><strong><sup>1</sup> School candidates may apply for special consideration through their schools. Private candidates may approach SEAB.</strong></h5>
-<h5><strong><sup>2</sup> More details will be provided to candidates in due course.</strong></h5>
-<h5><strong><sup>3</sup> This excludes science practical examinations, where candidates may have to share lab equipment or move about the lab, and examinations that have mask-off activities (eg. music performing examinations that require candidates to play wind instruments or sing).</strong></h5>
-<h5><strong><sup>4</sup> <a href="https://www.moe.gov.sg/faqs-covid-19-infection" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year-</u></a><a href="https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year-end-written-examinations" rel="noopener noreferrer nofollow" target="_blank"><u> end-written-examinations</u></a></strong></h5>
-<h5><strong><sup>5</sup> Similar to last year, candidates who have travelled overseas to attend a funeral or visit a critically ill next-of-kin, can sit for the written examinations under special arrangements. They will take the examinations in schools. They must take their own private vehicles or pre-book taxis to the exam venue as they are not allowed to take public transport.</strong></h5>
+<p><strong><sub>1 School candidates may apply for special consideration through their schools. Private candidates may approach SEAB.</sub></strong>
+</p>
+<p><strong><sub>2 More details will be provided to candidates in due course.</sub></strong>
+</p>
+<p><strong><sub>3 This excludes science practical examinations, where candidates may have to share lab equipment or move about the lab, and examinations that have mask-off activities (eg. music performing examinations that require candidates to play wind instruments or sing).</sub></strong>
+</p>
+<p><strong><sub>4 </sub></strong><a href="https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year- end-written-examinations" rel="noopener noreferrer nofollow" target="_blank"><u><sub>https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year- end-written-examinations</sub></u></a>
+</p>
+<p><strong><sub>5 Similar to last year, candidates who have travelled overseas to attend a funeral or visit a critically ill next-of-kin, can sit for the written examinations under special arrangements. They will take the examinations in schools. They must take their own private vehicles or pre-book taxis to the exam venue as they are not allowed to take public transport.</sub></strong>
+</p>
 <p><strong>Annex</strong>
 </p>
 <p><u>Illustrated explanation on the special consideration process</u>
