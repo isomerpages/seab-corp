@@ -5,28 +5,36 @@ variant: tiptap
 description: SEAB Contact Us
 ---
 <h4><strong>Quick Links</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="5">
 <p>Click on these frequently accessed pages. You might be able to obtain
 answers to your questions.</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/faq/"><img style="width: 70%;" height="auto" width="100%" alt="candidates portal" src="/images/cp_btn.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/aeis/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="aeis application procedures" src="/images/Contact us/aeis_application_procedures.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/home/services/statements-of-results"><img style="width: 70%;" height="auto" width="100%" alt="past years' results" src="/images/pyr_btn.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/spers-sec/spers-sec-application-procedures"><img style="width: 100%" height="auto" width="100%" alt="spers-sec application procedures" src="/images/Contact us/spers_sec_application_procedures.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/home/examinations/important-dates-for-candidates"><img style="width: 70%;" height="auto" width="100%" alt="important dates" src="/images/important_dates_btn.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/faq/"><img style="width: 100%" height="auto" width="100%" alt="candidates portal" src="/images/Contact us/candidates_portal_faqs.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/statements-of-results"><img style="width: 100%" height="auto" width="100%" alt="past years' results" src="/images/Contact us/past_years_results.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/important-dates-for-candidates"><img style="width: 100%" height="auto" width="100%" alt="important dates" src="/images/Contact us/important_dates.png"></a>
 </th>
 </tr>
 </tbody>
