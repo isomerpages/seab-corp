@@ -6,6 +6,8 @@ description: GCE NA Level for School Candidates
 ---
 <p>More information about the GCE N(A)-Level examination for school candidates
 is available below.</p>
+<p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Updated as at 24 May 2024)</a>
+</p>
 <blockquote>
 <p><strong><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Updated as at 24 May 2024)</a></strong>
 </p>
