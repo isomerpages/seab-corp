@@ -45,16 +45,16 @@ above-mentioned timeline.</p>
 <details class="isomer-details">
 <summary>SUBJECT AMENDMENTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All amendments of Year-End subjects must be made through <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> by&nbsp;Friday,&nbsp;21
-June 2024, 11:00pm. We do not accept amendment requests via email or call.</p>
+<p>All amendments of Year-End subjects must be made through <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> by&nbsp;<strong>Friday,&nbsp;21 June 2024, 11:00pm</strong>.
+We do not accept amendment requests via email or call.</p>
 <p>No additional fees for amendments will be levied if:</p>
 <p>you have not paid your examination fees online; and</p>
 <p>the amendments are made before the end of the registration period.</p>
 <p>If you would like to amend your registered Year-End subjects after payment
-has been made or after the registration deadline of Friday, 31 May 2024,
-11:00pm, you will need to pay an&nbsp;amendment fee of $21.80 (inclusive
-of GST)&nbsp;per amendment request, in addition to the fee for each of
-your added subjects. The fees for the added subjects are inclusive of GST.</p>
+has been made or after the registration deadline of <strong>Friday, 31 May 2024, 11:00pm</strong>,
+you will need to pay an&nbsp;amendment fee of $21.80 (inclusive of GST)&nbsp;per
+amendment request, in addition to the fee for each of your added subjects.
+The fees for the added subjects are inclusive of GST.</p>
 <p>You will receive a refund of the fees for any Year-End subjects that you
 have removed if your request is submitted by 21 June 2024.</p>
 <p>If you have any enquiries, you can write to us through this <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
