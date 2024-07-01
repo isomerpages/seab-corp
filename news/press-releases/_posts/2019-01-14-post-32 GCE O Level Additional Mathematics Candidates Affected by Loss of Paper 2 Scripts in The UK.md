@@ -74,15 +74,18 @@ result slip and certificate.</p>
 polytechnics and the Institute of Technical Education to consider the candidates’
 re- examination results for off-cycle posting to these institutions and
 courses of study.</p>
-<p><sup>1 </sup>Please refer to Cambridge Assessment’s press statement.</p>
-<p><sup>2</sup>  <u>2018 GCE O-Level Additional Mathematics examination format:</u>
+<p><strong><sub>1 Please refer to Cambridge Assessment’s press statement.</sub></strong>
+</p>
+<p><strong><sub>2 </sub><u><sub>2018 GCE O-Level Additional Mathematics examination format:</sub></u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1 is a 2 h paper with 80 marks and 44% weighting; and</p>
+<p><strong><sub>Paper 1 is a 2 h paper with 80 marks and 44% weighting; and</sub></strong>
+</p>
 </li>
 <li>
-<p>Paper 2 is a 2 h 30min paper with 100 marks and 56% weighting.</p>
+<p><strong><sub>Paper 2 is a 2 h 30min paper with 100 marks and 56% weighting.</sub></strong>
+</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
