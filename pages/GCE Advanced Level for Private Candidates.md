@@ -14,7 +14,7 @@ available below.</p>
 <a rel="noopener noreferrer nofollow" href="/gce-private-candidates-key-activities-and-milestones" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Key Activities image" src="/images/key_activities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Key Activities and Milestones" src="/images/key_activities.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -25,7 +25,7 @@ available below.</p>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-registration-information-for-private-candidates-final" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Registration Exercises" src="/images/registration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Registration Information e-booklet" src="/images/registration.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,14 +36,14 @@ available below.</p>
 <a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2024" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A Syllabus Image" src="/images/psleformats.png">
+<img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2024" src="/images/psleformats.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">A-Level Syllabuses Examined in 2024</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A Level Syllabuses Image" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2025</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2025" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2025</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/e-exam-resources-for-private-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -54,7 +54,7 @@ available below.</p>
 <div class="isomer-card-title">e-Exam Resources for Private Candidates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/distributors-of-past-years-question-papers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Distributors of Past Years Papers Image" src="/images/distributors_of_past_question_paper_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Distributors of Past Years' Papers</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/distributors-of-past-years-question-papers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Distributors of Past Years' Papers" src="/images/distributors_of_past_question_paper_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Distributors of Past Years' Papers</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/calculators-and-dictionaries" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -87,6 +87,6 @@ available below.</p>
 <div class="isomer-card-title">Secondary Education Certificate Examinations</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/about-gce-a-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About A Level" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About GCE A-Level</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/about-gce-a-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About GCE A-Level" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About GCE A-Level</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
