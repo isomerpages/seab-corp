@@ -34,18 +34,14 @@ encouraged to use the course application worksheet (provided in <u>Form A</u> or
 the JAE information booklet) before submitting their online application
 via the JAE Internet System (JAE-IS) at https://www.moe.gov.sg/admissions/jae.</p>
 <p>5. For more details on the JAE, applicants may refer to:</p>
-<p><sub>a. the JAE Website at https://www.moe.gov.sg/admissions/jae; or</sub>
-</p>
-<p><sub>b. MOE Customer Service Centre at 6872-2220 during operating hours</sub><sup><sub>3</sub></sup><sub>.</sub>
-</p>
+<p>a. the JAE Website at https://www.moe.gov.sg/admissions/jae; or</p>
+<p>b. MOE Customer Service Centre at 6872-2220 during operating hours<sup>3</sup>.</p>
 <p><strong><u>Results of Application</u></strong>
 </p>
 <p>6. The posting results of the JAE application are scheduled for release
 on Thursday, 1 February 2018 through the following modes:</p>
-<p><sub>a. JAE-IS, which is accessible through the JAE website;</sub>
-</p>
-<p><sub>b. SMS to the mobile number provided by the applicant during registration.</sub>
-</p>
+<p>a. JAE-IS, which is accessible through the JAE website;</p>
+<p>b. SMS to the mobile number provided by the applicant during registration.</p>
 <p>7. Applicants posted to Junior Colleges or Millennia Institute are to
 report to their posted institutions on Friday, 2 February 2018. For applicants
 posted to polytechnics and ITE, they will receive a letter from their respective
@@ -67,10 +63,9 @@ through the Early Admissions Exercise (EAE) in 2017 and have their offers
 confirmed based on their GCE O-Level examination results will not be eligible
 to participate in the JAE. Their EAE offers are confirmed if they meet
 the following criteria:</p>
-<p><sub>a. A net ELR2B2</sub><sup><sub>4</sub></sup><sub> score of 26 points or better for the GCE O-Level examinations; and</sub>
-</p>
-<p><sub>b. Minimum Entry Requirements for the respective polytechnic course.</sub>
-</p>
+<p>a. A net ELR2B2<sup>4</sup> score of 26 points or better for the GCE O-Level
+examinations; and</p>
+<p>b. Minimum Entry Requirements for the respective polytechnic course.</p>
 <p>11. Students who do not meet the above criteria may take part in the JAE.
 More details on the EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg</a>.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
