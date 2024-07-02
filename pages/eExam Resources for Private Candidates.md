@@ -8,6 +8,7 @@ description: eExam Resources for Private Candidates
 <details class="isomer-details">
 <summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Check out the <a href="https://go.gov.sg/eoralcddtslides" rel="noopener noreferrer nofollow" target="_blank">online tutorial</a> or
 <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive e-oral examination guide</a>for the e-oral examination to
 better understand the format and requirements.</p>
@@ -298,6 +299,7 @@ better understand the format and requirements.</p>
 <details class="isomer-details">
 <summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>O-Level</strong>
 </p>
 <table style="minWidth: 75px">
@@ -381,6 +383,7 @@ better understand the format and requirements.</p>
 <details class="isomer-details">
 <summary>E-WRITTEN EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Check out the online tutorial for the e-written examination to better
 understand the revised examination format.</p>
 <p></p>
