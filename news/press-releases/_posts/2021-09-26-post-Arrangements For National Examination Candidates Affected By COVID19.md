@@ -14,7 +14,8 @@ be affected by COVID-19. These include special consideration for those
 who miss any papers, as well as special arrangements to allow candidates
 to take their national year-end examinations while on Quarantine Order
 (QO), Leave of Absence (LOA) or Approved Absence (AA) in a safe manner.</p>
-<h4><strong>Special Consideration</strong></h4>
+<p><strong>Special Consideration</strong>
+</p>
 <p>2. Similar to previous years, candidates who miss any national examination
 paper(s) with valid reasons (including COVID-19, medical leave or compassionate
 reasons) can apply for special consideration<sup>1</sup>. Special consideration
@@ -27,7 +28,8 @@ school cohort's performance in national and school-based examinations,
 to ensure a fair assessment for all candidates.</p>
 <p>3. All special consideration applications are assessed on each case’s
 merit, to ensure that the grades awarded are as accurate and fair as possible.</p>
-<h4><strong><u>For candidates who miss full papers (i.e. all components) in their national examination subject</u></strong></h4>
+<p><strong><u>For candidates who miss full papers (i.e. all components) in their national examination subject</u></strong>
+</p>
 <p>4. Using an example of a candidate who had missed his/her PSLE Mathematics
 examinations due to valid reasons, SEAB will take into consideration the
 candidate’s school preliminary examination results for Mathematics to determine
@@ -37,7 +39,8 @@ mark for PSLE Mathematics from the school cohort’s performance in the PSLE
 based on the mark that corresponds to this relative rank position. The
 candidate’s projected PSLE Mathematics mark will be used to derive his/her
 Achievement Level (AL).</p>
-<h4><strong><u>For candidates who miss one or more papers in their national examination subject</u></strong></h4>
+<p><strong><u>For candidates who miss one or more papers in their national examination subject</u></strong>
+</p>
 <p>5. Where a candidate had missed one or more papers of a subject, SEAB
 would look at the candidate’s performance in those papers of the subject
 where the candidate had taken to derive a projected outcome for the subject,
@@ -54,7 +57,8 @@ into consideration:</p>
 </p>
 <p>7. Please refer to the Annex for an illustrated explanation on the special
 consideration process.</p>
-<h4><strong>Arrangements for Candidates on Quarantine Order (QO)</strong></h4>
+<p><strong>Arrangements for Candidates on Quarantine Order (QO)</strong>
+</p>
 <p>8. While special consideration will be applied to cases with valid reasons,
 we recognise that there would still be instances where the candidate would
 still wish to have the opportunity to take their national year-end examination.
@@ -118,7 +122,8 @@ of the school cohort; and</p>
 <p>Stagger their reporting time and venue.</p>
 </li>
 </ul>
-<h4><strong>Arrangements for Candidates on Approved Absence (AA)</strong></h4>
+<p><strong>Arrangements for Candidates on Approved Absence (AA)</strong>
+</p>
 <p>12. MOE and SEAB have also updated the examination arrangements for candidates
 who are on AA due to being placed on MOH’s mandatory testing regime or
 Health Risk Warning alert. In addition to completing their MOH-mandated
