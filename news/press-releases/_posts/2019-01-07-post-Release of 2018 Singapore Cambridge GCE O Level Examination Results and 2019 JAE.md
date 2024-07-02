@@ -93,7 +93,7 @@ chosen course.</p>
 secondary schools when they collect their GCE O-Level results on Monday,
 14 January. Each copy of Form P contains a unique password. Interested
 students should use the respective passwords to submit their applications
-online via the PFP website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.
+online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.
 More information on the eligibility requirements for the PFP, as well as
 how O-Level results are considered in the computation of the ELMAB3 aggregate,
 can be found on the PFP website.</p>
@@ -107,10 +107,11 @@ or appeal for a change of course by 4.00pm on Thursday, 24 January 2019.</p>
 diploma courses via a two-year Higher Nitec course at ITE. Students are
 eligible to apply if they have obtained a raw ELMAB3 aggregate not exceeding
 19 points and met the subject-specific requirements for their chosen course.
-More information on the DPP can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-dpp/</a> .</p>
+More information on the DPP can be found at https://www.ite.edu.sg/wps/portal/definitely-dpp/
+.</p>
 <p>18. Secondary 4 N(A) students who are newly eligible after taking into
 account their O-Level examination results should submit their DPP applications
-online via the DPP application portal at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/wps/portal/intake/</u></a>.
+online via the DPP application portal at <a href="https://www.ite.edu.sg/wps/portal/intake/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/intake/</a>.
 The final application phase for the Direct-Entry-Scheme to Polytechnic
 Programme (DPP) will open at 2.30pm on Monday, 14 January 2019 and close
 at 11.59pm of Friday, 18 January 2019.</p>
@@ -131,8 +132,12 @@ PFP.</p>
 the DPP in December but have now decided to take up a PFP offer will need
 to apply to ITE to withdraw from the DPP first, before they are able to
 take up the PFP offer.</p>
-<h5><strong><sup>1</sup> Private candidates can visit <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.singpass.gov.sg</u></a> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</strong></h5>
-<h5><strong><sup>2</sup> Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</strong></h5>
-<h5><strong><sup>3</sup> The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</strong></h5>
-<h5><strong><sup>4</sup> The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</strong></h5>
+<p><sub>1 Private candidates can visit </sub><a href="www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub>
+</p>
+<p><sub>2 Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub>
+</p>
+<p><sub>3 The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub>
+</p>
+<p><sub>4 The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sub>
+</p>
 <p></p>
