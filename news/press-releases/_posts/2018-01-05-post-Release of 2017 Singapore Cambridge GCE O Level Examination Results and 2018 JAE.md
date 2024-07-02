@@ -20,7 +20,7 @@ have SingPass<sup>1</sup> can also use their SingPass account to obtain
 their results online via the internet Examination Results Release System
 (iERRS) on the Singapore Examinations and Assessment Board website (
 <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.seab.gov.sg</u>
-</a>from 2.30pm on 12 January 2018.</p>
+</a>) from 2.30pm on 12 January 2018.</p>
 <p><strong>Joint Admissions Exercise</strong>
 </p>
 <p>3. Students who wish to apply for admission to Junior Colleges (JCs),
@@ -35,27 +35,18 @@ encouraged to use the course application worksheet (provided in <u>Form A</u> or
 the JAE information booklet) before submitting their online application
 via the JAE Internet System (JAE-IS) at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/jae</a>.</p>
 <p>5. For more details on the JAE, applicants may refer to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>the JAE Website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/jae</a>;
-or</p>
-</li>
-<li>
-<p>MOE Customer Service Centre at 6872-2220 during operating hours<sup>3</sup>.</p>
-</li>
-</ol>
+<p><sub>a. the JAE Website at </sub><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/admissions/jae</sub></a><sub>; or</sub>
+</p>
+<p><sub>b. MOE Customer Service Centre at 6872-2220 during operating hours</sub><sup><sub>3</sub></sup><sub>.</sub>
+</p>
 <p><strong><u>Results of Application</u></strong>
 </p>
 <p>6. The posting results of the JAE application are scheduled for release
 on Thursday, 1 February 2018 through the following modes:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>JAE-IS, which is accessible through the JAE website;</p>
-</li>
-<li>
-<p>SMS to the mobile number provided by the applicant during registration.</p>
-</li>
-</ol>
+<p><sub>a. JAE-IS, which is accessible through the JAE website;</sub>
+</p>
+<p><sub>b. SMS to the mobile number provided by the applicant during registration.</sub>
+</p>
 <p>7. Applicants posted to Junior Colleges or Millennia Institute are to
 report to their posted institutions on Friday, 2 February 2018. For applicants
 posted to polytechnics and ITE, they will receive a letter from their respective
@@ -77,15 +68,10 @@ through the Early Admissions Exercise (EAE) in 2017 and have their offers
 confirmed based on their GCE O-Level examination results will not be eligible
 to participate in the JAE. Their EAE offers are confirmed if they meet
 the following criteria:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>A net ELR2B2<sup>4</sup> score of 26 points or better for the GCE O-Level
-examinations; and</p>
-</li>
-<li>
-<p>Minimum Entry Requirements for the respective polytechnic course.</p>
-</li>
-</ol>
+<p><sub>a. A net ELR2B2</sub><sup><sub>4</sub></sup><sub> score of 26 points or better for the GCE O-Level examinations; and</sub>
+</p>
+<p><sub>b. Minimum Entry Requirements for the respective polytechnic course.</sub>
+</p>
 <p>11. Students who do not meet the above criteria may take part in the JAE.
 More details on the EAE can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://eae.polytechnic.edu.sg</u></a> .</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
@@ -144,19 +130,14 @@ PFP.</p>
 phase of the DPP but have now decided to take up a PFP offer will need
 to apply to ITE to withdraw from the DPP first, before they are able to
 take up that PFP offer.</p>
-<p><sup>1</sup> Private candidates can visit www.singpass.gov.sg to find out
-if they are eligible for SingPass, and to activate their SingPass Two-Factor
-Authentication if they have not done so.</p>
-<p><sup>2</sup> Form A will list the applicant’s GCE O-Level examination results,
-the courses which he/she is eligible to apply for under the JAE, and his/her
-JAE-PIN (i.e. a personal password for the applicant to access JAE-IS).</p>
-<p><sup>3</sup> The hotline operating hours are Mondays to Fridays from 8.30
-am to 5.30 pm, and Saturdays from 8.30am to 12.30pm.</p>
-<p><sup>4</sup> The ELR2B2 aggregate comprises English Language, 2 relevant
-subjects for the polytechnic course applied for and 2 other best subjects
-which could be elective subjects.</p>
-<p><sup>5</sup> The ELMAB3 aggregate comprises English Language, Mathematics,
-and the student’s three other best subjects. Students will also need to
-have met the subject-specific criteria for either Group 1 or Group 2 courses.
-More details can be found at <a href="https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html</a>.</p>
+<p><strong><sup>1</sup> Private candidates can visit www.singpass.gov.sg to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</strong>
+</p>
+<p><strong><sup>2</sup> Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE-PIN (i.e. a personal password for the applicant to access JAE-IS).</strong>
+</p>
+<p><strong><sup>3</sup> The hotline operating hours are Mondays to Fridays from 8.30 am to 5.30 pm, and Saturdays from 8.30am to 12.30pm.</strong>
+</p>
+<p><strong><sup>4</sup> The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</strong>
+</p>
+<p><strong><sup>5</sup> The ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects. Students will also need to have met the subject-specific criteria for either Group 1 or Group 2 courses. More details can be found at <a href="https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html</a>.</strong>
+</p>
 <p></p>
