@@ -108,7 +108,7 @@ are eligible to apply if they have obtained an ELMAB3 aggregate not exceeding
 19 points and met subject-specific requirements.</p>
 <p>17. Secondary 4 N(A) students who are newly eligible after taking into
 account their O-Level examination results should submit their DPP applications
-online via the DPP application portal at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.ite.edu.sg/wps/portal/intake/</u></a>.
+online via the DPP application portal at <a href="http://www.ite.edu.sg/wps/portal/intake/" rel="noopener noreferrer nofollow" target="_blank">http://www.ite.edu.sg/wps/portal/intake/</a>.
 The final application phase for the Direct-Entry-Scheme to Polytechnic
 Programme (DPP) will open at 2.30pm on Friday, 12 January 2018 and close
 at the end of Tuesday, 16 January 2018.</p>
@@ -116,7 +116,7 @@ at the end of Tuesday, 16 January 2018.</p>
 phase will be released at 9.00am on Thursday, 18 January 2018 through the
 DPP application portal. Students will be required to indicate whether they
 wish to accept or reject the DPP offer by the end of Sunday, 21 January
-2018. More details on the DPP are available at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-des/</a> .</p>
+2018. More details on the DPP are available at <a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-des/</a>.</p>
 <p><strong><u>For successful PFP and/or DPP applicants</u></strong>
 </p>
 <p>19. Students who have been offered a place in the DPP under the final
