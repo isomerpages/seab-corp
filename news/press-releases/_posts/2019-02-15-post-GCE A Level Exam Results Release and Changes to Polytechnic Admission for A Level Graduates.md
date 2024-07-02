@@ -21,7 +21,8 @@ their results online, via the internet Examination Results Release System
 (iERRS) on the Singapore Examinations and Assessment Board’s website (
 <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.seab.gov.sg</u>
 </a>) from 2.30pm on 22 February 2019.</p>
-<h4><strong><em>Changes to Polytechnic Admissions for A-Level graduates</em></strong></h4>
+<p><strong><em>Changes to Polytechnic Admissions for A-Level graduates</em></strong>
+</p>
 <p>3. From Academic Year (AY) 2019, A-Level graduates who are looking to
 further their studies at the polytechnics can look forward to obtaining
 a diploma within a shortened timeline for a greater number of courses.
