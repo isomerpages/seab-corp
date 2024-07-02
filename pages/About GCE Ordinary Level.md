@@ -27,8 +27,7 @@ the GCE O-Level examination.</p>
 </ul>
 <p>The Singapore Examinations and Assessment Board, MOE and Cambridge International
 Education are the joint examining authorities for the GCE O-Level examination.&nbsp;</p>
-<p><strong>Mother Tongue Language (MTL) Syllabus B</strong>
-</p>
+<h4><strong>Mother Tongue Language (MTL) Syllabus B</strong></h4>
 <p>The MTL Syllabus B subject is not a GCE O-Level subject, and the grade
 will not be included in the computation of the candidate’s GCE O-Level
 aggregate score. Candidates who pass the MTL Syllabus B subject will be
@@ -36,8 +35,7 @@ deemed to have fulfilled the MTL subject requirement for admission to junior
 colleges.</p>
 <p>The grade awarded for a respective MTL Syllabus B subject will be indicated
 as Merit, Pass or Ungraded on the candidate’s certificate.</p>
-<p><strong>O-Level School Initiated Electives (OSIE)</strong>
-</p>
+<h4><strong>O-Level School Initiated Electives (OSIE)</strong></h4>
 <p>The MOE introduced greater flexibility in the curriculum by giving secondary
 schools the option to offer OSIE to build up their niche areas in 2005.</p>
 <p>OSIE subjects are taken in addition to, or as replacements of, current
@@ -47,8 +45,7 @@ to the junior colleges, centralised institutes and polytechnics.</p>
 <p>School candidates can register for the examinations for the OSIE subjects
 that have been approved by the MOE Curriculum Planning and Development
 Division (CPDD) through their schools.</p>
-<p><strong>Applied Subjects</strong>
-</p>
+<h4><strong>Applied Subjects</strong></h4>
 <p>Applied Subjects are developed by the polytechnics in partnership with
 the secondary schools to better cater to the interests and aspirations
 of students who are&nbsp;keen to progress along an applied and practice-oriented
