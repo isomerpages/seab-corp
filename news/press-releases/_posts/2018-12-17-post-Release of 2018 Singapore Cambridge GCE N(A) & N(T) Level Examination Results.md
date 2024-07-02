@@ -70,17 +70,8 @@ information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.h
 transfer Secondary 4 N(T) students to Secondary 4 N(A) if they have obtained
 grade A for both English Language and Mathematics, and grade B or better
 for one other subject at the GCE N(T)-Level Examination.</p>
-<p><sup>1 </sup>To be eligible for the DPP, students must also attain a minimum
-grade of 4 in both English Language (minimum required grade of 3 for Business
-&amp; Services courses) and Mathematics, and minimum grade of 5 in three
-other subjects (excluding CCA). CCA bonus points are not factored into
-the ELMAB3 aggregate used for considering eligibility for the DPP, but
-are taken into account for posting. More information can be found at
-<a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-des/</a>.</p>
-<p><sup>2 </sup>To be eligible for the PFP, students must obtain an ELMAB3
-aggregate score of 12 points or better (excluding CCA bonus points), as
-well as meet the course-specific requirements. CCA bonus points are not
-factored into the ELMAB3 aggregate used for considering eligibility for
-the PFP, but are taken into account for posting. More information can be
-found at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
+<p><strong><sup><sub>1 </sub></sup><sub>To be eligible for the DPP, students must also attain a minimum grade of 4 in both English Language (minimum required grade of 3 for Business &amp; Services courses) and Mathematics, and minimum grade of 5 in three other subjects (excluding CCA). CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the DPP, but are taken into account for posting. More information can be found at </sub><a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.ite.edu.sg/wps/portal/definitely-des/</sub></a><sub>.</sub></strong>
+</p>
+<p><strong><sup><sub>2 </sub></sup><sub>To be eligible for the PFP, students must obtain an ELMAB3 aggregate score of 12 points or better (excluding CCA bonus points), as well as meet the course-specific requirements. CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the PFP, but are taken into account for posting. More information can be found at </sub><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank"><sub>https://pfp.polytechnic.edu.sg/PFP/index.html</sub></a><sub>.</sub></strong>
+</p>
 <p></p>
