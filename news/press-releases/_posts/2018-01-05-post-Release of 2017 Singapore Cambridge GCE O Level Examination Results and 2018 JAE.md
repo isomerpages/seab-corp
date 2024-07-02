@@ -19,8 +19,7 @@ by the candidates during the registration period. Private candidates who
 have SingPass<sup>1</sup> can also use their SingPass account to obtain
 their results online via the internet Examination Results Release System
 (iERRS) on the Singapore Examinations and Assessment Board website (
-<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.seab.gov.sg</u>
-</a>) from 2.30pm on 12 January 2018.</p>
+<a href="www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>) from 2.30pm on 12 January 2018.</p>
 <p><strong>Joint Admissions Exercise</strong>
 </p>
 <p>3. Students who wish to apply for admission to Junior Colleges (JCs),
@@ -33,9 +32,9 @@ O-Level examination results.</p>
 day of the release of the examination results. Applicants are strongly
 encouraged to use the course application worksheet (provided in <u>Form A</u> or
 the JAE information booklet) before submitting their online application
-via the JAE Internet System (JAE-IS) at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/jae</a>.</p>
+via the JAE Internet System (JAE-IS) at <a href="https://www.moe.gov.sg/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/jae</a>.</p>
 <p>5. For more details on the JAE, applicants may refer to:</p>
-<p><sub>a. the JAE Website at </sub><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/admissions/jae</sub></a><sub>; or</sub>
+<p><sub>a. the JAE Website at </sub><a href="https://www.moe.gov.sg/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/jae</a><sub>; or</sub>
 </p>
 <p><sub>b. MOE Customer Service Centre at 6872-2220 during operating hours</sub><sup><sub>3</sub></sup><sub>.</sub>
 </p>
@@ -60,7 +59,7 @@ GCE O-Level examination results. Students admitted to a JC through DSA-JC
 will not be eligible to participate in the JAE.</p>
 <p>9. Students who do not meet the JC admission criteria may take part in
 the JAE to apply for courses which they are eligible for. More details
-on DSA-JC can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a> .</p>
+on DSA-JC can be found at <a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a>.</p>
 <p><strong>Early Admissions Exercise – Polytechnics</strong>
 </p>
 <p>10. Students who had accepted conditional offers to a polytechnic course
@@ -73,7 +72,7 @@ the following criteria:</p>
 <p><sub>b. Minimum Entry Requirements for the respective polytechnic course.</sub>
 </p>
 <p>11. Students who do not meet the above criteria may take part in the JAE.
-More details on the EAE can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://eae.polytechnic.edu.sg</u></a> .</p>
+More details on the EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg</a>.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
 <p>12. Some Secondary 4 Normal (Academic) [N(A)] students would have sat
@@ -91,7 +90,7 @@ points and met subject- specific requirements<sup>5</sup>.</p>
 of <u>Form P</u> from their respective secondary schools, inviting them to
 apply for the PFP. Each copy of <u>Form P</u> contains a unique password.
 Students should use the respective passwords to submit their applications
-online via the PFP website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.
+online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.
 Information on how O-Level results are considered in the computation of
 the ELMAB3 aggregate can be found on the website.</p>
 <p>15. Applications for the PFP will stay open from 2.00pm on Friday, 12
