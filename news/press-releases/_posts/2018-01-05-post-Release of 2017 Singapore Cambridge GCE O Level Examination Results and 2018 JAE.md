@@ -32,9 +32,9 @@ O-Level examination results.</p>
 day of the release of the examination results. Applicants are strongly
 encouraged to use the course application worksheet (provided in <u>Form A</u> or
 the JAE information booklet) before submitting their online application
-via the JAE Internet System (JAE-IS) at <a href="https://www.moe.gov.sg/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/jae</a>.</p>
+via the JAE Internet System (JAE-IS) at https://www.moe.gov.sg/admissions/jae.</p>
 <p>5. For more details on the JAE, applicants may refer to:</p>
-<p><sub>a. the JAE Website at </sub><a href="https://www.moe.gov.sg/admissions/jae" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/admissions/jae</sub></a><sub>; or</sub>
+<p><sub>a. the JAE Website at https://www.moe.gov.sg/admissions/jae; or</sub>
 </p>
 <p><sub>b. MOE Customer Service Centre at 6872-2220 during operating hours</sub><sup><sub>3</sub></sup><sub>.</sub>
 </p>
