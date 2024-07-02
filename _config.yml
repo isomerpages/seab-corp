@@ -3,7 +3,7 @@ url: https://www.isomer.seab.gov.sg
 favicon: /images/HomePage/SEAB_logo_topbar.png
 colors:
   primary-color: "#063d90"
-  secondary-color: "#857238"
+  secondary-color: "#64552b"
   media-colors:
     - title: media-color-one
       color: "#86bbd8"
