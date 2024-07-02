@@ -69,7 +69,7 @@ is available below.</p>
 <a rel="noopener noreferrer nofollow" href="/gce-o-level/about-gce-o-level" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="About GCE O-Level" src="/images/scribble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="About GCE O-Level" src="/images/aboutpsle.png">
 </div>
 </div>
 <div class="isomer-card-body">
