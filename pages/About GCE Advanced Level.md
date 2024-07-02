@@ -32,7 +32,7 @@ Education&nbsp;are the joint examining authorities for the GCE A-Level
 examination.</p>
 <p>Candidates can opt to be examined on subjects at three levels of study&nbsp;–&nbsp;Higher
 1 (H1), Higher 2 (H2), and, for school candidates, Higher 3.</p>
-<h4><strong>Mother Tongue Language (MTL) Syllabus B</strong></h4>
+<h2><strong>Mother Tongue Language (MTL) Syllabus B</strong></h2>
 <p>The MTL Syllabus B subject is not an AO-, A-, H1- or H2-Level subject,
 and the results will not be considered in the computation of the university
 admission score. Candidates who pass the MTL Syllabus B subject will be
