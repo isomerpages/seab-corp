@@ -19,7 +19,6 @@ their results online via the internet Examination Results Release System
 (iERRS) on the Singapore Examinations and Assessment Board’s website (
 <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.seab.gov.sg</u>
 </a>) from 2.30pm on 23 February 2018.</p>
-<p><sup>1 </sup>Private candidates can visit the SingPass website at www.singpass.gov.sg
-to find out if they are eligible for SingPass and to activate their SingPass
-Two-Factor Authentication if they have not done so.</p>
+<p><strong><sup><sub>1 </sub></sup><sub>Private candidates can visit the SingPass website at www.singpass.gov.sg to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
+</p>
 <p></p>
