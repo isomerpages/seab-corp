@@ -21,7 +21,7 @@ is available below.</p>
 <div class="isomer-card-title">2024 Registration Information e-booklet</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-gce-a-exams-rules-regulations-final" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="examination rules and regs image" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-gce-a-exams-rules-regulations-final" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2024/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -36,7 +36,7 @@ is available below.</p>
 <a rel="noopener noreferrer nofollow" href="/gce-nt-level-e-exam-resources-for-school-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/eexamresources.png">
+<img style="width: 100%" height="auto" width="100%" alt="e-Exam Resources for School Candidates" src="/images/eexamresources.png">
 </div>
 </div>
 <div class="isomer-card-body">
