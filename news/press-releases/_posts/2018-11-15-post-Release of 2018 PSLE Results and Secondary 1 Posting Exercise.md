@@ -21,7 +21,7 @@ Number (S1 PIN) which can be found at the top right-hand corner of the
 form. The S1 PIN can be used to submit the secondary school options online
 via the Secondary 1 Internet System (S1-IS). The S1-IS will be accessible
 from 11.00am on 22 November 2018 to 3.00pm on 28 November 2018 through
-the Ministry of Education’s (MOE) website at <a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/admissions/secondary-one-posting-exercise/submit-sch-choices</a>.</p>
+the Ministry of Education’s (MOE) website at <a href="www.moe.gov.sg/admissions/secondary-one-posting-exercise/submit-sch-choices" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/admissions/secondary-one-posting-exercise/submit-sch-choices</a>.</p>
 <p>4. Students, in discussion with their parents, should first consider their
 secondary school choices, make their decision, and then complete the option
 form before logging on to the S1-IS. This will help to facilitate the smooth
@@ -40,7 +40,7 @@ The posting results can be accessed through any of the following channels:</p>
 the applicant during the application process)</p>
 </li>
 <li>
-<p>S1-IS at <a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/admissions/secondary-one-posting-exercise/results</a>
+<p>S1-IS at <a href="www.moe.gov.sg/admissions/secondary-one-posting-exercise/results" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/admissions/secondary-one-posting-exercise/results</a>
 </p>
 </li>
 <li>
@@ -84,10 +84,10 @@ Crest or Spectra can be posted to another school of their choice in a timely
 and seamless manner.</p>
 <p>12. Application forms for these two schools will be available from the
 primary schools when students receive their results, or from the two schools’
-websites (<a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.crestsec.edu.sg</u></a> and
-<a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.spectra.edu.sg</u>
-</a>). Students successfully admitted into Crest or Spectra will be informed
-by the schools via mail and SMS by 13 December 2018.</p>
+websites (<a href="http://www.crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.crestsec.edu.sg</a> and
+<a href="http://www.spectra.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.spectra.edu.sg</a>). Students successfully admitted into Crest
+or Spectra will be informed by the schools via mail and SMS by 13 December
+2018.</p>
 <p>13. More information on Crest Secondary School and Spectra Secondary School
 can be found on the schools’ websites and the information booklet entitled
 “Choosing Your Secondary Schools”.</p>
