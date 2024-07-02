@@ -55,8 +55,6 @@ from the ECG Centre at MOE (Grange Road) via the e-Appointment system at
 </a>, calling the ECG hotline at 6831 1420, or emailing <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>.
 The MOE ECG Centre is offering online or phone counselling from 14 February
 to 19 March 2022, 9.00am to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
-<p><sup>1 </sup>The Cambridge Assessment International Education, the Ministry
-of Education, Singapore and the Singapore Examinations and Assessment Board
-are the joint examining authorities for the Singapore-Cambridge General
-Certificate of Education Advanced Level examination.</p>
+<p><strong><sup><sub>1 </sub></sup><sub>The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Advanced Level examination.</sub></strong>
+</p>
 <p></p>
