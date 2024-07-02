@@ -59,7 +59,7 @@ GCE O-Level examination results. Students admitted to a JC through DSA-JC
 will not be eligible to participate in the JAE.</p>
 <p>9. Students who do not meet the JC admission criteria may take part in
 the JAE to apply for courses which they are eligible for. More details
-on DSA-JC can be found at <a href="https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc</a>.</p>
+on DSA-JC can be found at https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc.</p>
 <p><strong>Early Admissions Exercise – Polytechnics</strong>
 </p>
 <p>10. Students who had accepted conditional offers to a polytechnic course
