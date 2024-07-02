@@ -22,7 +22,8 @@ to obtain their results online via the internet Examination Results Release
 System (iERRS) on the Singapore Examinations and Assessment Board website
 (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.seab.gov.sg</u></a>)
 from 2.00pm on 14 January 2019.</p>
-<h4><strong>Joint Admissions Exercise</strong></h4>
+<p><strong>Joint Admissions Exercise</strong>
+</p>
 <p>4. Students who wish to apply for admission to Junior Colleges (JCs),
 Millennia Institute, polytechnics, and the Institute of Technical Education
 (ITE) may do so via the Joint Admissions Exercise (JAE) using their GCE
@@ -46,7 +47,8 @@ at <a href="https://www.moe.gov.sg" rel="noopener noreferrer nofollow" target="_
 </p>
 </li>
 </ol>
-<h4><strong><u>Application Results</u></strong></h4>
+<p><strong><u>Application Results</u></strong>
+</p>
 <p>7. The posting results of the JAE application are scheduled for release
 on Thursday, 31 January 2019 through the following modes:</p>
 <p>a. JAE-IS, which is accessible through the JAE website;</p>
@@ -56,7 +58,8 @@ registration.</p>
 report to their posted institutions on Friday, 1 February 2019. Applicants
 posted to polytechnics and ITE will receive a letter from their respective
 institutions on the enrolment details.</p>
-<h4><strong>Direct School Admission – Junior Colleges</strong></h4>
+<p><strong>Direct School Admission – Junior Colleges</strong>
+</p>
 <p>8. Students who had accepted offers through the 2018 Direct School Admission
 – Junior Colleges (DSA-JC) Exercise will be admitted to their chosen JC
 if they have met the eligibility criteria for admission based on their
@@ -65,7 +68,8 @@ will not be eligible to participate in the JAE.</p>
 <p>9. Students who do not meet the JC admission criteria may take part in
 the JAE to apply for courses which they are eligible for. More details
 on DSA-JC can be found at https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc.</p>
-<h4><strong>Early Admissions Exercise – Polytechnics</strong></h4>
+<p><strong>Early Admissions Exercise – Polytechnics</strong>
+</p>
 <p>10. Students who had accepted conditional offers to a polytechnic course
 through the Early Admissions Exercise (EAE) in 2018 and have their offers
 confirmed based on their GCE O-Level examination results will not be eligible
@@ -76,12 +80,14 @@ examinations; and</p>
 <p>b. Minimum Entry Requirements for the respective polytechnic course.</p>
 <p>11. Students who do not meet the above criteria may take part in the JAE.
 More details on the EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg</a>.</p>
-<h4><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong></h4>
+<p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
+</p>
 <p>12. Secondary 4 Normal (Academic) [N(A)] students who have sat for O-Level
 subjects in 2018 can use their O-Level results for these subjects to apply
 for a place in the Polytechnic Foundation Programme (PFP) and Direct-Entry-Scheme
 to Polytechnic Programme (DPP).</p>
-<h4><strong><u>Polytechnic Foundation Programme (PFP)</u></strong></h4>
+<p><strong><u>Polytechnic Foundation Programme (PFP)</u></strong>
+</p>
 <p>13. The PFP is an alternative to the Secondary 5 N(A) year. It is a one-year
 foundation programme at the polytechnics that offers a practice-oriented
 approach to prepare students for entry into the relevant diploma courses.</p>
@@ -102,7 +108,8 @@ can be found on the PFP website.</p>
 be released at 2.00pm on Tuesday, 22 January 2019 through the PFP website.
 Students will be required to indicate whether they wish to accept, reject,
 or appeal for a change of course by 4.00pm on Thursday, 24 January 2019.</p>
-<h4><strong><u>Direct-Entry-Scheme to Polytechnic Programme (DPP)</u></strong></h4>
+<p><strong><u>Direct-Entry-Scheme to Polytechnic Programme (DPP)</u></strong>
+</p>
 <p>17. The DPP prepares students for progression into selected polytechnic
 diploma courses via a two-year Higher Nitec course at ITE. Students are
 eligible to apply if they have obtained a raw ELMAB3 aggregate not exceeding
@@ -120,7 +127,8 @@ phase will be released at 9.00am on Tuesday, 22 January 2019 through the
 DPP application portal. Students will be required to indicate whether they
 wish to accept or reject the DPP offer by 11.59pm of Thursday, 24 January
 2019.</p>
-<h4><strong><u>For successful PFP and/or DPP applicants</u></strong></h4>
+<p><strong><u>For successful PFP and/or DPP applicants</u></strong>
+</p>
 <p>20. Students who have been offered a place in the DPP under the final
 application phase should report to ITE on Thursday, 24 January 2019, upon
 acceptance of their DPP course offer.</p>
