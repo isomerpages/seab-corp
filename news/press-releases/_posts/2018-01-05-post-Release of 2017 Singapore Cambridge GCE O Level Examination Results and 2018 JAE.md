@@ -115,7 +115,7 @@ at the end of Tuesday, 16 January 2018.</p>
 phase will be released at 9.00am on Thursday, 18 January 2018 through the
 DPP application portal. Students will be required to indicate whether they
 wish to accept or reject the DPP offer by the end of Sunday, 21 January
-2018. More details on the DPP are available at <a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-des/</a>.</p>
+2018. More details on the DPP are available at htttps://www.ite.edu.sg/wps/portal/definitely-des/.</p>
 <p><strong><u>For successful PFP and/or DPP applicants</u></strong>
 </p>
 <p>19. Students who have been offered a place in the DPP under the final
