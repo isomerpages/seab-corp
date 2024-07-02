@@ -48,7 +48,7 @@ Point Average (GPA) are guaranteed a place in a polytechnic diploma course
 mapped to their Higher Nitec course.</p>
 <p>9. About 1,200 DPP places will be offered across all three ITE Colleges.
 Applications for the DPP will open on 17 December 2018. For more information,
-please refer to <a href="https://www.ite.edu.sg/wps/portal/definitely-dpp/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/definitely-dpp/</a>.</p>
+please refer to https://www.ite.edu.sg/wps/portal/definitely-dpp/.</p>
 <p>10. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
 in 2018 also have the option of applying for the Polytechnic Foundation
 Programme (PFP). From 2019, the PFP will be open to students who obtained
