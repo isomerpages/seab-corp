@@ -56,7 +56,7 @@ and view the posting outcome subsequently via the Secondary 1 Internet
 System (S1-IS). The S1-IS will be accessible from 11.00am on Wednesday,
 25 November 2020 to 3.00pm on Tuesday, 1 December 2020 for students to
 submit their school choices through the Ministry of Education’s (MOE) S1
-Posting website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>.</p>
+Posting website at www.moe.gov.sg/s1-posting.</p>
 <p>8. Students, in discussion with their parents, should first consider their
 secondary school choices, make their decision, and complete the option
 form before logging on to the S1-IS. This will help to facilitate the smooth
@@ -73,8 +73,8 @@ The posting results can be accessed through any of the following channels:</p>
 the applicant during the application process)</p>
 </li>
 <li>
-<p>S1-IS (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>)
-using the student’s Birth Certificate number / FIN, and the S1 PIN</p>
+<p>S1-IS (www.moe.gov.sg/s1-posting) using the student’s Birth Certificate
+number / FIN, and the S1 PIN</p>
 </li>
 <li>
 <p>At the student’s primary school</p>
@@ -95,7 +95,7 @@ taking up the place, and the school will be able to reserve the place for
 them. More information on S1 Posting and S1-IS are available at MOE’s S1
 Posting website and in the information booklet “Choosing Your Secondary
 Schools” distributed to Primary 6 students. For enquiries, please visit
-<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u>
+<a href="https://www.moe.gov.sg/contact" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u>
 </a>.</p>
 <p><strong>Crest Secondary School and Spectra Secondary School</strong>
 </p>
@@ -128,12 +128,13 @@ their choices for other secondary schools under S1 Posting. This will ensure
 that those who are not admitted into CSS or SSS can be posted to another
 school of their choice in a timely and seamless manner.</p>
 <p>15. Application forms for these two schools are available at students’
-respective primary schools, or online (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.crestsec.edu.sg</u></a> and <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.spectra.edu.sg</u></a>).
-Students successfully admitted into CSS or SSS will be informed by the
-schools by Wednesday, 16 December 2020. Their S1 school choices will then
-be voided and they will not be posted to other secondary schools. More
-information on CSS and SSS can be found on the schools’ websites and the
-information booklet “Choosing Your Secondary Schools”.</p>
+respective primary schools, or online (<a href="https://www.crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.crestsec.edu.sg</u></a> and
+<a href="https://www.spectra.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.spectra.edu.sg</u>
+</a>). Students successfully admitted into CSS or SSS will be informed by
+the schools by Wednesday, 16 December 2020. Their S1 school choices will
+then be voided and they will not be posted to other secondary schools.
+More information on CSS and SSS can be found on the schools’ websites and
+the information booklet “Choosing Your Secondary Schools”.</p>
 <p><strong>Virtual Open Houses</strong>
 </p>
 <p>16. Due to the COVID-19 situation, more than 120 secondary schools are
@@ -154,12 +155,10 @@ in their virtual open houses, to find out more about the schools that interest
 them before selecting the schools. For more information, please refer to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SchoolFinder (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/schoolfinder/</u></a>)</p>
+<p>SchoolFinder (<a href="https://www.moe.gov.sg/schoolfinder/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/schoolfinder/</u></a>)</p>
 </li>
 <li>
-<p>Open houses held by secondary schools (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/schoolbag-secondary-</u></a>
-<a href="https://go.gov.sg/schoolbag-secondary-school-open-house-2020" rel="noopener noreferrer nofollow" target="_blank"><u> school-open-house-2020</u>
-</a>)</p>
+<p>Open houses held by secondary schools (<a href="https://go.gov.sg/schoolbag-secondary- school-open-house-2020" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/schoolbag-secondary- school-open-house-2020</u></a>)</p>
 </li>
 <li>
 <p>Secondary school websites</p>
