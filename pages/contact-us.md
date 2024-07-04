@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6970 6255
-      - email: ""
+      - email: ask_us@seab.gov.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:
