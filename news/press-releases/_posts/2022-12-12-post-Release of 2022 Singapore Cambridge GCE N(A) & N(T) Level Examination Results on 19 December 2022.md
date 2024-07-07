@@ -49,13 +49,13 @@ to private candidates at the address that they had provided during registration.
 </p>
 <p>7.&nbsp;Candidates who wish to apply for courses offered by the Institute
 of Technical Education (ITE) can submit their applications online via the
-ITE application portal ( <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/apply-for-ITE-courses</u></a>),
+ITE application portal (<a href="https://www.ite.edu.sg/apply-for-ITE-courses" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/apply-for-ITE-courses</u></a>),
 between 2.30pm on Monday, 19 December 2022 and 5.00pm on Thursday, 22 December
 2022. Hard copy application forms will also be available at the Customer
 &amp; Visitor Centres at the three ITE Colleges. Applicants who wish to
 collect a hard copy application from the Customer &amp; Visitor Centres
 should book an appointment first by contacting the respective colleges
-via the email addresses or phone numbers provided at <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/who-we-are/get-in-touch</u></a>.</p>
+via the email addresses or phone numbers provided at <a href="https://www.ite.edu.sg/who-we-are/get-in-touch" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/who-we-are/get-in-touch</u></a>.</p>
 <p>8. For courses offered under Aptitude-Based Admissions, candidates may
 check the interview details online via the ITE application portal from
 2.00pm on Friday, 23 December 2022.</p>
@@ -88,7 +88,6 @@ ITE application portal.</p>
 <p>14. Candidates who receive a DPP offer should log on to the ITE application
 portal between 2.00pm on Friday, 23 December 2022 and 11.59pm on Wednesday,
 28 December 2022 to accept or reject the DPP offer.</p>
-<p>&nbsp;</p>
 <p>15. School candidates who do not have a confirmed place in the DPP should
 report to their secondary schools in 2023 for Secondary 5.</p>
 <p><strong>Application for the Polytechnic Foundation Programme (PFP)</strong>
@@ -109,10 +108,10 @@ them to apply for the PFP.</p>
 <p>19. For more information on the DPP and the PFP, please visit these websites:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Direct-Entry-Scheme to Polytechnic Programme (DPP) (<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</u></a>)</p>
+<p>Direct-Entry-Scheme to Polytechnic Programme (DPP) (<a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</u></a>)</p>
 </li>
 <li>
-<p>Polytechnic Foundation Programme (PFP) (<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>)</p>
+<p>Polytechnic Foundation Programme (PFP) (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>)</p>
 </li>
 </ul>
 <p><strong>Provision of Education and Career Guidance (ECG) services</strong>
@@ -122,23 +121,23 @@ pathways available to them to make informed decisions about their next
 steps. They may refer to the following websites for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE’s CourseFinder (<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u></a>)
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u></a>)
 on the offerings and courses of polytechnics and ITEs</p>
 </li>
 <li>
-<p>MySkillsFuture (<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a>) on
-career and education pathways</p>
+<p>MySkillsFuture (<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a>)
+on career and education pathways</p>
 </li>
 </ul>
 <p>21. School candidates may also consult their teachers or ECG Counsellors
 in their respective secondary schools about their next steps.&nbsp; To
 complement the ECG services provided by schools, candidates may make an
 appointment for counselling with an ECG Counsellor from the ECG Centre
-at MOE (Grange Road) via 6831 1420, <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
+at MOE (Grange Road) via 6831 1420, <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
 The MOE ECG Centre will offer counselling from&nbsp; 9.00am to 5.00pm from
 Monday, 12 December 2022 to Saturday, 24 December 2022<sup>2</sup>.</p>
-<p><sup>1 </sup>School candidates viewing their results online can still
-contact their schools and teachers for consultation on their next steps.</p>
-<p><sup>2 </sup>Online or phone counselling services on 17 December and 24
-December will only be available from 9.00am to 12.00pm.</p>
+<p><strong><sup><sub>1 </sub></sup><sub>School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub></strong>
+</p>
+<p><strong><sup><sub>2 </sub></sup><sub>Online or phone counselling services on 17 December and 24 December will only be available from 9.00am to 12.00pm.</sub></strong>
+</p>
 <p></p>
