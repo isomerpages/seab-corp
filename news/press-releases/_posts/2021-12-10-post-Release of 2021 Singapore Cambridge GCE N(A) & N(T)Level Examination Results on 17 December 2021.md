@@ -122,13 +122,13 @@ them to apply for the PFP.</p>
 <p>21. School candidates may consult their teachers or ECG Counsellors in
 their respective secondary schools to help them make informed decisions
 about their next steps. Candidates can also refer to the MySkillsFuture
-website at https://go.gov.sg/mysfsec to find out more about the range of
-education and career pathways available to them. To complement the ECG
-services provided by schools, candidates may make an appointment for online
-or phone counselling with an ECG Counsellor from the ECG Centre at MOE
-(Grange Road) via 6831 1420, MOE_ECG@moe.gov.sg or https://go.gov.sg/moe-ecg-centre.
-The MOE ECG Centre will offer online or phone counselling from 13 to 24
-December 20212, 9.00am to 5.00pm.</p>
+website at <a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a> to
+find out more about the range of education and career pathways available
+to them. To complement the ECG services provided by schools, candidates
+may make an appointment for online or phone counselling with an ECG Counsellor
+from the ECG Centre at MOE (Grange Road) via 6831 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or
+<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The MOE ECG Centre will offer online
+or phone counselling from 13 to 24 December 20212, 9.00am to 5.00pm.</p>
 <p><strong><sup><sub>1 </sub></sup><sub>More information can be found in MOE’s press release (30 April 2021): </sub><a href="https://go.gov.sg/itecs30apr" rel="noopener noreferrer nofollow" target="_blank"><sub>https://go.gov.sg/itecs30apr</sub></a></strong>
 </p>
 <p><strong><sup><sub>2</sub></sup><sub> Online or phone counselling services on 18 December and 24 December will only be available from 9.00am to 12.30pm.</sub></strong>
