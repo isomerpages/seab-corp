@@ -84,15 +84,14 @@ better understand the format and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p><strong>Subject Title</strong>
 </p>
 </th>
@@ -102,7 +101,7 @@ better understand the format and requirements.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,7 +109,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Chinese B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,7 +117,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Malay B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +125,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Tamil B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,7 +133,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +141,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Malay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +149,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,7 +157,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +165,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Higher Malay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +173,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Higher Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +181,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Chinese Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,7 +189,7 @@ better understand the format and requirements.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Malay Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
