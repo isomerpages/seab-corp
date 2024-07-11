@@ -50,10 +50,12 @@ We do not accept amendment requests via email or call.</p>
 <p>No additional fees for amendments will be levied if:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>you have not paid your examination fees online; and</p>
+<p>you have <strong><u>not paid</u></strong> your examination fees online;
+and</p>
 </li>
 <li>
-<p>the amendments are made before the end of the registration period.</p>
+<p>the amendments are made <strong><u>before</u> </strong>the end of the registration
+period.</p>
 </li>
 </ul>
 <p>If you would like to amend your registered Year-End subjects after payment
