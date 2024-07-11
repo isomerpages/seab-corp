@@ -10,7 +10,7 @@ description: eExam Resources
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the <a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eoral-cddt_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> or
 <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive e-oral examination guide</a>for the e-oral examination to
-better understand the revised examination format.</p>
+better understand the format and requirements.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
