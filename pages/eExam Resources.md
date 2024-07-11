@@ -181,18 +181,18 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Chinese Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1166</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Malay Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1133</p>
 </td>
 </tr>
 </tbody>
@@ -299,7 +299,8 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Special Programme</p>
+<p>Chinese Special
+<br>Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1166</p>
@@ -307,7 +308,8 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Special Programme</p>
+<p>Malay Special
+<br>Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1133</p>
