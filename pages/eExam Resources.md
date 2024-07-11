@@ -101,18 +101,18 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1128</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Chinese B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1153</p>
 </td>
 </tr>
 <tr>
