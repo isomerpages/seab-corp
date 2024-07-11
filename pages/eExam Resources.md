@@ -299,8 +299,7 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Special
-<br>Programme</p>
+<p>Chinese Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1166</p>
@@ -308,8 +307,7 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Special
-<br>Programme</p>
+<p>Malay Special Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1133</p>
