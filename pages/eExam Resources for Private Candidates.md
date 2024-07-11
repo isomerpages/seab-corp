@@ -384,11 +384,12 @@ better understand the format and requirements.</p>
 <summary>E-WRITTEN EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Check out the online tutorial for the e-written examination to better
-understand the revised examination format.</p>
 <p></p>
 <p><strong>A-Level</strong>
-</p>
+<br>
+<br>Check out the online tutorial for the e-written examination to better
+understand the revised examination format.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
