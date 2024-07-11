@@ -117,18 +117,66 @@ better understand the format and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Malay B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1151</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Tamil B (Mid Year)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1152</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1160</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1148</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Tamil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1157</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1116</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Higher Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1117</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Higher Tamil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1147</p>
 </td>
 </tr>
 <tr>
