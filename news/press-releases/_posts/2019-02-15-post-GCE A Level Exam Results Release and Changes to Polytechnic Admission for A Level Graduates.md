@@ -21,7 +21,7 @@ their results online, via the internet Examination Results Release System
 (iERRS) on the Singapore Examinations and Assessment Board’s website (
 <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.seab.gov.sg</u>
 </a>) from 2.30pm on 22 February 2019.</p>
-<p><strong><em>Changes to Polytechnic Admissions for A-Level graduates</em></strong>
+<p><strong>Changes to Polytechnic Admissions for A-Level graduates</strong>
 </p>
 <p>3. From Academic Year (AY) 2019, A-Level graduates who are looking to
 further their studies at the polytechnics can look forward to obtaining
@@ -45,7 +45,7 @@ of the shortened timeline is available in <u>Annex A</u>.</p>
 directly for these 110 courses in mid-August 2019, for matriculation at
 the start of AY2019 Semester 2 in October 2019. More details will be available
 on the respective polytechnics’ websites by March 2019.</p>
-<p><sub>1 Private candidates can visit the SingPass website at www.singpass.gov.sg to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.</sub>
+<p><sub>1 Private candidates can visit the SingPass website at </sub><a href="www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.</sub>
 </p>
 <p><strong>Annex A</strong>
 </p>
