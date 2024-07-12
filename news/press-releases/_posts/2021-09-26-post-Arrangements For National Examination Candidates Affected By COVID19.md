@@ -276,7 +276,7 @@ away from school and seek medical attention if they are unwell.</p>
 </p>
 <p><strong><sub>3 This excludes science practical examinations, where candidates may have to share lab equipment or move about the lab, and examinations that have mask-off activities (eg. music performing examinations that require candidates to play wind instruments or sing).</sub></strong>
 </p>
-<p><strong><sub>4 </sub></strong><a href="https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year- end-written-examinations" rel="noopener noreferrer nofollow" target="_blank"><u><sub>https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year- end-written-examinations</sub></u></a>
+<p><strong><sub>4 </sub></strong><a href="https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year-end-written-examinations" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/news/press-releases/20210828-updated-arrangements-for-the-2021-national-year-end-written-examinations</sub></a>
 </p>
 <p><strong><sub>5 Similar to last year, candidates who have travelled overseas to attend a funeral or visit a critically ill next-of-kin, can sit for the written examinations under special arrangements. They will take the examinations in schools. They must take their own private vehicles or pre-book taxis to the exam venue as they are not allowed to take public transport.</sub></strong>
 </p>
