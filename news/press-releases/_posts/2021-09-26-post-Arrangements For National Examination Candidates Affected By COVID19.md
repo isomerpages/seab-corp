@@ -51,10 +51,20 @@ Paper 3 (Listening Comprehension or LC) in the PSLE English Language (EL)
 examination, but had attempted the other papers in the subject. In awarding
 a grade for the affected candidate, SEAB will take the following factors
 into consideration:</p>
-<p><sub>1. Candidate’s performance at PSLE in the other three papers [Paper 1 (Writing), Paper 2 (Language Use and Comprehension) and Paper 4 (Oral Communication)] at the PSLE. SEAB will use his/her total marks in these three papers to work out his/her relative rank position within the PSLE cohort for these three papers. This relative rank position will be used to derive his/her Paper 3 (LC) mark based on the PSLE cohort’s LC performance. The derived Paper 3 (LC) mark will be added to the affected candidate’s marks on the three other papers to give his/her total marks and derive an AL for EL; and</sub>
-</p>
-<p><sub>2. Candidate’s school preliminary examination results – SEAB will compare the relative performance of the affected candidate vis-à-vis other candidates in his/her school. If he/she is ranked at a significantly different position for his/her derived PSLE AL from his school preliminary AL, his/her case will be flagged for further review.</sub>
-</p>
+<p>i. Candidate’s performance at PSLE in the other three papers [Paper 1
+(Writing), Paper 2 (Language Use and Comprehension) and Paper 4 (Oral Communication)]
+at the PSLE. SEAB will use his/her total marks in these three papers to
+work out his/her relative rank position within the PSLE cohort for these
+three papers. This relative rank position will be used to derive his/her
+Paper 3 (LC) mark based on the PSLE cohort’s LC performance. The derived
+Paper 3 (LC) mark will be added to the affected candidate’s marks on the
+three other papers to give his/her total marks and derive an AL for EL;
+and</p>
+<p>ii. Candidate’s school preliminary examination results – SEAB will compare
+the relative performance of the affected candidate vis-à-vis other candidates
+in his/her school. If he/she is ranked at a significantly different position
+for his/her derived PSLE AL from his school preliminary AL, his/her case
+will be flagged for further review.</p>
 <p>7. Please refer to the Annex for an illustrated explanation on the special
 consideration process.</p>
 <p><strong>Arrangements for Candidates on Quarantine Order (QO)</strong>
