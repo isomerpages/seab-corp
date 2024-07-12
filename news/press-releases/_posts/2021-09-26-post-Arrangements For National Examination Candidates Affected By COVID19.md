@@ -249,6 +249,14 @@ intervals, in compliance with MOH’s testing regime.</p>
 <p>Allowed if recovered and one- time self-swab ART is negative.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><em>Table 1: Summary of arrangements for the 2021 national year-end written examinations. Please refer to MOE’s website (</em>
