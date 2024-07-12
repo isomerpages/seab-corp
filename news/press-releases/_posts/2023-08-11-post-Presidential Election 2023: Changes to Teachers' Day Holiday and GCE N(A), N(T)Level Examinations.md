@@ -40,11 +40,8 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 </p>
 <p><strong>Annex<u><br><br>New dates for GCE N(A)-, N(T)-Level examinations which had been scheduled on 11 September 2023</u></strong>
 </p>
-<table style="minWidth: 225px">
+<table style="minWidth: 150px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -72,15 +69,6 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 <th rowspan="1" colspan="1">
 <p>New Date&nbsp;</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -103,15 +91,6 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 <p>&nbsp;</p>
 <p>0800-0945 hrs</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -129,15 +108,6 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 <td rowspan="1" colspan="1">
 <p>1:45</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -154,15 +124,6 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1:45</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -186,15 +147,6 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 <p>&nbsp;</p>
 <p>1430 - 1545 hrs</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,15 +169,6 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 <p>&nbsp;</p>
 <p>1630 - 1730 hrs</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -242,15 +185,6 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0:30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -269,26 +203,8 @@ candidates. Details of the re-scheduled papers can be found at <u>Annex</u>.</p>
 <td rowspan="1" colspan="1">
 <p>0:30</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
