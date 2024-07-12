@@ -59,7 +59,7 @@ and Pre-University students, including students from Special Education
 <li>
 <p>Students from the Institute of Technical Education (ITE) will continue
 with full HBL until 8 May 2020. Thereafter, they will be on vacation from
-9 May to 1 June. (The vacation is brought forward from mid-June. ITE will
+9 May to 1 June. The vacation is brought forward from mid-June. ITE will
 be providing more details separately.</p>
 </li>
 <li>
