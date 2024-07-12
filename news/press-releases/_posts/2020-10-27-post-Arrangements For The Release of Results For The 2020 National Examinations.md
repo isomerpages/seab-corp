@@ -117,8 +117,8 @@ results and related forms to them.</p>
 <p>9. Candidates can access SEAB’s results release system with a system-generated
 password issued by SEAB, or with their SingPass:</p>
 <p>a. PSLE candidates will receive a system-generated password issued by
-SEAB through their schools from 12 November 2020.</p>
-<p>b. GCE-level candidates who are eligible for SingPass1 should activate
+SEAB through their schools from 12 November 2020.
+<br>b. GCE-level candidates who are eligible for SingPass1 should activate
 their SingPass early. Candidates who are not eligible for SingPass will
 receive a system-generated password from SEAB via email a few days before
 the results release. More details will be provided in the respective announcements
