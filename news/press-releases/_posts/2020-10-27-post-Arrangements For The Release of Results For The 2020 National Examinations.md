@@ -12,7 +12,7 @@ and the Singapore Examinations and Assessment Board (SEAB) will ensure
 that the arrangements for the release of results for the 2020 national
 examinations take into account the need to safeguard the well-being of
 candidates and school staff.</p>
-<p><strong><em>Arrangements for the Collection of Results</em></strong>
+<p><strong>Arrangements for the Collection of Results</strong>
 </p>
 <p>2. The tentative dates for the release of results for the respective national
 examinations are indicated below. Due to operational factors, the exact
@@ -97,7 +97,7 @@ entry into school premises.</p>
 <p>6. As with current practice, private candidates will be notified of their
 results by post. The results slip and certificates will be mailed to the
 postal address provided by these candidates.</p>
-<p><strong><em>Arrangements to View Results Online</em></strong>
+<p><strong>Arrangements to View Results Online</strong>
 </p>
 <p>7. This year, SEAB has enhanced its systems so that all candidates will
 also be able to view their examination results online on the day of the
