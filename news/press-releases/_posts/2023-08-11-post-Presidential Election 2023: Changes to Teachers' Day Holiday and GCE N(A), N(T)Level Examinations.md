@@ -9,7 +9,6 @@ description: "Presidential Election 2023: Changes to Teachers' Day Holiday and
 image: ""
 variant: tiptap
 ---
-<p>11 August 2023</p>
 <p>1. In view of the Writ of Election for Presidential Election 2023, MOE
 and the Singapore Examinations and Assessment Board (SEAB) will make the
 following adjustments:</p>
