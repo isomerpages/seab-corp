@@ -62,8 +62,8 @@ on the respective polytechnics’ websites by March 2019.</p>
 <p><strong>How many A-Level graduates are admitted to the polytechnics each year? What is the typical profile of these students?</strong>
 <br>
 <br>About 200 A-Level graduates are admitted to the polytechnics each year.</p>
-<p>
-<br>These are students who are keen to pursue an applied pathway at the polytechnics,
+<p></p>
+<p>These are students who are keen to pursue an applied pathway at the polytechnics,
 that matches their area of interest/ aptitude. It includes both A-level
 graduates who have applied and those who did not apply to the local Autonomous
 Universities.</p>
@@ -81,9 +81,8 @@ April.</p>
 <p>With the changes, eligible A-Level graduates can now be exempted from
 one semester of polytechnic studies and be admitted directly to Year 1
 Semester 2 in October. This means they can apply for admission and enter
-the polytechnic in the same year that they receive their A-Level results.
-<br>
-</p>
+the polytechnic in the same year that they receive their A-Level results.</p>
+<p></p>
 </li>
 <li>
 <p><strong>What are the requirements for A-Level graduates to receive module exemptions in the identified courses?</strong>
@@ -111,6 +110,7 @@ Science, and H2 Mathematics.</p>
 Programme may be exempted from the modules on ‘Engineering Mathematics
 1’, ‘Engineering Physics’, ‘Digital Fundamentals 1’ and ‘Circuit Analysis’
 if they have obtained passes in H2 Mathematics and H2 Physics.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Will additional places be set aside in the polytechnics to cater to this group of A-Level graduates? How many places would be set aside?</strong>
