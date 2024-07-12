@@ -18,7 +18,7 @@ time. Parents have also learned how to guide their children, while giving
 their children the space to learn for themselves and be more self-directed.
 It has been a period of learning and growth for everyone. Educators, students
 and parents have all risen admirably to the challenge.</p>
-<p><strong><em>4-week School Holidays to begin on 5 May</em></strong>
+<p><strong>4-week School Holidays to begin on 5 May</strong>
 </p>
 <p>2. With the Multi-Ministry Taskforce’s decision to extend the Circuit
 Breaker (CB) period till 1 June 2020, the Ministry of Education (MOE) will
@@ -48,7 +48,7 @@ and Pre-University students, including students from Special Education
 <p><strong>6 September 2020:</strong> End of Term 3</p>
 </li>
 </ul>
-<p><strong><em>Institutes of Higher Learning (IHLs) to extend HBL</em></strong>
+<p><strong>Institutes of Higher Learning (IHLs) to extend HBL</strong>
 </p>
 <p>4. The IHLs will take the following approach from 5 May 2020 to 1 June
 2020:</p>
@@ -72,7 +72,7 @@ their school term on 18 May 2020 in full HBL</p>
 offering a summer term will conduct all classes online</p>
 </li>
 </ul>
-<p><strong><em>Limited Care Services to continue in Schools</em></strong>
+<p><strong>Limited Care Services to continue in Schools</strong>
 </p>
 <p>5. Parents working in essential services like healthcare and who are also
 unable to secure alternative care arrangements, may continue to approach
@@ -81,7 +81,7 @@ during the school holidays. These support services have been ongoing throughout
 the HBL period, and will continue to be offered. Private education institutions
 should either continue with their HBL arrangements, or suspend classes
 otherwise.</p>
-<p><strong><em>Rescheduling of GCE-Level MTL Examinations</em></strong>
+<p><strong>Rescheduling of GCE-Level MTL Examinations</strong>
 </p>
 <p>6. In view of the changes to the academic calendar, the Singapore Examinations
 and Assessment Board (SEAB) will reschedule the Mid-Year Mother Tongue
@@ -210,7 +210,7 @@ be rescheduled as follows:</p>
 and A-Level MTL Mid-Year examinations. SEAB will work with schools to put
 in place precautionary measures to protect the safety and well-being of
 students and examination personnel.</p>
-<p><strong><em>Removal of Common Last Topics</em></strong>
+<p><strong>Removal of Common Last Topics</strong>
 </p>
 <p>9. In light of the impact that the extended CB period has on curriculum
 time and to further allay students’ concerns and anxiety about catching
