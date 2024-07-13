@@ -40,8 +40,7 @@ The posting results can be accessed through any of the following channels:</p>
 the applicant during the application process)</p>
 </li>
 <li>
-<p>S1-IS at <a href="www.moe.gov.sg/admissions/secondary-one-posting-exercise/results" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/admissions/secondary-one-posting-exercise/results</a>
-</p>
+<p>S1-IS at www.moe.gov.sg/admissions/secondary-one-posting-exercise/results</p>
 </li>
 <li>
 <p>At the student’s primary school</p>
