@@ -90,6 +90,6 @@ or Spectra will be informed by the schools via mail and SMS by 13 December
 <p>13. More information on Crest Secondary School and Spectra Secondary School
 can be found on the schools’ websites and the information booklet entitled
 “Choosing Your Secondary Schools”.</p>
-<p><strong><sup>1 </sup>The five skills subjects are Mechanical Design &amp; Automation, Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet of Things Applications and Mobile Web Applications.</strong>
+<p><strong><sup><sub>1 </sub></sup><sub>The five skills subjects are Mechanical Design &amp; Automation, Culinary &amp; Restaurant Operations, Retail &amp; e-Commerce, Internet of Things Applications and Mobile Web Applications.</sub></strong>
 </p>
 <p></p>
