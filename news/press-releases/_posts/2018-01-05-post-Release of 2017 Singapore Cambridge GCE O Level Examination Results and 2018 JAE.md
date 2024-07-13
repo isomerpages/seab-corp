@@ -85,7 +85,7 @@ points and met subject- specific requirements<sup>5</sup>.</p>
 of <u>Form P</u> from their respective secondary schools, inviting them to
 apply for the PFP. Each copy of <u>Form P</u> contains a unique password.
 Students should use the respective passwords to submit their applications
-online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.
+online via the PFP website at https://pfp.polytechnic.edu.sg/PFP/index.html.
 Information on how O-Level results are considered in the computation of
 the ELMAB3 aggregate can be found on the website.</p>
 <p>15. Applications for the PFP will stay open from 2.00pm on Friday, 12
