@@ -35,8 +35,8 @@ day of the release of the examination results. Applicants are strongly
 encouraged to use the course application worksheet (provided in <u>Form A</u> or
 the JAE information booklet) before submitting their online application
 via the JAE Internet System (JAE-IS) at https://www.moe.gov.sg/admissions/joint-admissions-exercise.</p>
-<p>6. For more details on the JAE, applicants may refer to:</p>
-<p>the JAE Website at
+<p>6. For more details on the JAE, applicants may refer to the JAE Website
+at:
 <br>a. https://www.moe.gov.sg/admissions/joint-admissions-exercise; or
 <br>b. Frequently Asked Questions at http://bit.ly/MOE-iFAQs-JAE or Ask Jamie
 at https://www.moe.gov.sg</p>
