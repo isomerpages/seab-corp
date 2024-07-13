@@ -37,7 +37,7 @@ obtain an aggregate not exceeding 19 points in ELMAB3, and at least a Grade
 <p><strong>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</strong>
 </p>
 <p>7. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
-in 2018 and obtained an ELMAB3 aggregate not exceeding 19 points1 will
+in 2018 and obtained an ELMAB3 aggregate not exceeding 19 points<sup>1</sup> will
 have the option of applying for the Direct-Entry Scheme to Polytechnic
 Programme (DPP).</p>
 <p>8. The DPP prepares Secondary 4 N(A) students for progression into selected
@@ -52,7 +52,8 @@ please refer to https://www.ite.edu.sg/wps/portal/definitely-dpp/.</p>
 <p>10. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
 in 2018 also have the option of applying for the Polytechnic Foundation
 Programme (PFP). From 2019, the PFP will be open to students who obtained
-an ELMAB3 aggregate not exceeding 12 points2, up from the current 11 points.</p>
+an ELMAB3 aggregate not exceeding 12 points<sup>2</sup>, up from the current
+11 points.</p>
 <p>11. The PFP is a one-year foundation programme at the polytechnics that
 offers a practice-oriented curriculum taught by polytechnic lecturers,
 to prepare students for entry into the relevant polytechnic diploma courses.
