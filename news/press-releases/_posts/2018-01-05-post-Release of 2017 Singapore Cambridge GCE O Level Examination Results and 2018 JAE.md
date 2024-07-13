@@ -33,15 +33,15 @@ day of the release of the examination results. Applicants are strongly
 encouraged to use the course application worksheet (provided in <u>Form A</u> or
 the JAE information booklet) before submitting their online application
 via the JAE Internet System (JAE-IS) at https://www.moe.gov.sg/admissions/jae.</p>
-<p>5. For more details on the JAE, applicants may refer to:</p>
-<p>a. the JAE Website at https://www.moe.gov.sg/admissions/jae; or</p>
-<p>b. MOE Customer Service Centre at 6872-2220 during operating hours<sup>3</sup>.</p>
+<p>5. For more details on the JAE, applicants may refer to:
+<br>a. the JAE Website at https://www.moe.gov.sg/admissions/jae; or
+<br>b. MOE Customer Service Centre at 6872-2220 during operating hours<sup>3</sup>.</p>
 <p><strong><u>Results of Application</u></strong>
 </p>
 <p>6. The posting results of the JAE application are scheduled for release
-on Thursday, 1 February 2018 through the following modes:</p>
-<p>a. JAE-IS, which is accessible through the JAE website;</p>
-<p>b. SMS to the mobile number provided by the applicant during registration.</p>
+on Thursday, 1 February 2018 through the following modes:
+<br>a. JAE-IS, which is accessible through the JAE website;
+<br>b. SMS to the mobile number provided by the applicant during registration.</p>
 <p>7. Applicants posted to Junior Colleges or Millennia Institute are to
 report to their posted institutions on Friday, 2 February 2018. For applicants
 posted to polytechnics and ITE, they will receive a letter from their respective
