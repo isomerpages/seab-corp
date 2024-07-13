@@ -127,13 +127,9 @@ take up that PFP offer.</p>
 <p><strong><sup><sub>1</sub></sup><sub> Private candidates can visit </sub></strong>
 <a href="www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub>
 </a><strong><sub> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
-</p>
-<p><strong><sup><sub>2</sub></sup><sub> Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE-PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
-</p>
-<p><strong><sup><sub>3</sub></sup><sub> The hotline operating hours are Mondays to Fridays from 8.30 am to 5.30 pm, and Saturdays from 8.30am to 12.30pm.</sub></strong>
-</p>
-<p><strong><sup><sub>4</sub></sup><sub> The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
-</p>
-<p><strong><sup><sub>5</sub></sup><sub> The ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects. Students will also need to have met the subject-specific criteria for either Group 1 or Group 2 courses. More details can be found at </sub><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html" rel="noopener noreferrer nofollow" target="_blank"><sub>https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html</sub></a><sub>.</sub></strong>
+<br><strong><sup><sub>2</sub></sup><sub> Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE-PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
+<br><strong><sup><sub>3</sub></sup><sub> The hotline operating hours are Mondays to Fridays from 8.30 am to 5.30 pm, and Saturdays from 8.30am to 12.30pm.</sub></strong>
+<br><strong><sup><sub>4</sub></sup><sub> The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
+<br><strong><sup><sub>5</sub></sup><sub> The ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects. Students will also need to have met the subject-specific criteria for either Group 1 or Group 2 courses. More details can be found at </sub><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html" rel="noopener noreferrer nofollow" target="_blank"><sub>https://pfp.polytechnic.edu.sg/PFP/pfp_eligibility.html</sub></a><sub>.</sub></strong>
 </p>
 <p></p>
