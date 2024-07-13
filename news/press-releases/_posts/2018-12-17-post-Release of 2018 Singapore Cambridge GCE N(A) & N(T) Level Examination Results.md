@@ -41,11 +41,11 @@ in 2018 and obtained an ELMAB3 aggregate not exceeding 19 points<sup>1</sup> wil
 have the option of applying for the Direct-Entry Scheme to Polytechnic
 Programme (DPP).</p>
 <p>8. The DPP prepares Secondary 4 N(A) students for progression into selected
-polytechnic diploma courses via a two-year Higher Nitec programme at the
-Institute of Technical Education (ITE). Under the DPP, students who successfully
-complete their Higher Nitec course and attain the minimum qualifying Grade
-Point Average (GPA) are guaranteed a place in a polytechnic diploma course
-mapped to their Higher Nitec course.</p>
+polytechnic diploma courses via a two-year <em>Higher Nitec</em> programme
+at the Institute of Technical Education (ITE). Under the DPP, students
+who successfully complete their <em>Higher Nitec</em> course and attain the
+minimum qualifying Grade Point Average (GPA) are guaranteed a place in
+a polytechnic diploma course mapped to their <em>Higher Nitec</em> course.</p>
 <p>9. About 1,200 DPP places will be offered across all three ITE Colleges.
 Applications for the DPP will open on 17 December 2018. For more information,
 please refer to https://www.ite.edu.sg/wps/portal/definitely-dpp/.</p>
