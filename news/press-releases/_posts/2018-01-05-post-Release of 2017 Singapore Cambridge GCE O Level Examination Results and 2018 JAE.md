@@ -62,10 +62,10 @@ on DSA-JC can be found at https://www.moe.gov.sg/admissions/direct-admissions/ds
 through the Early Admissions Exercise (EAE) in 2017 and have their offers
 confirmed based on their GCE O-Level examination results will not be eligible
 to participate in the JAE. Their EAE offers are confirmed if they meet
-the following criteria:</p>
-<p>a. A net ELR2B2<sup>4</sup> score of 26 points or better for the GCE O-Level
-examinations; and</p>
-<p>b. Minimum Entry Requirements for the respective polytechnic course.</p>
+the following criteria:
+<br>a. A net ELR2B2<sup>4</sup> score of 26 points or better for the GCE O-Level
+examinations; and
+<br>b. Minimum Entry Requirements for the respective polytechnic course.</p>
 <p>11. Students who do not meet the above criteria may take part in the JAE.
 More details on the EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg</a>.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
