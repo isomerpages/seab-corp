@@ -36,23 +36,16 @@ encouraged to use the course application worksheet (provided in <u>Form A</u> or
 the JAE information booklet) before submitting their online application
 via the JAE Internet System (JAE-IS) at https://www.moe.gov.sg/admissions/joint-admissions-exercise.</p>
 <p>6. For more details on the JAE, applicants may refer to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>the JAE Website at https://www.moe.gov.sg/admissions/joint-admissions-exercise;
-or</p>
-</li>
-<li>
-<p>Frequently Asked Questions at http://bit.ly/MOE-iFAQs-JAE or Ask Jamie
-at <a href="https://www.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg</a>
-</p>
-</li>
-</ol>
+<p>the JAE Website at
+<br>a. https://www.moe.gov.sg/admissions/joint-admissions-exercise; or
+<br>b. Frequently Asked Questions at http://bit.ly/MOE-iFAQs-JAE or Ask Jamie
+at https://www.moe.gov.sg</p>
 <p><strong><u>Application Results</u></strong>
 </p>
 <p>7. The posting results of the JAE application are scheduled for release
-on Thursday, 31 January 2019 through the following modes:</p>
-<p>a. JAE-IS, which is accessible through the JAE website;</p>
-<p>b. SMS to the Singapore mobile number provided by the applicant during
+on Thursday, 31 January 2019 through the following modes:
+<br>a. JAE-IS, which is accessible through the JAE website;
+<br>b. SMS to the Singapore mobile number provided by the applicant during
 registration.</p>
 <p>8. Applicants posted to Junior Colleges and Millennia Institute are to
 report to their posted institutions on Friday, 1 February 2019. Applicants
