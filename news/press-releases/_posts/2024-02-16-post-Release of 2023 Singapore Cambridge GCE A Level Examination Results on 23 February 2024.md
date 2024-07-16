@@ -25,11 +25,12 @@ candidates may contact their schools for assistance if they are unable
 to appoint a proxy.</p>
 <p>3. School candidates who are unable to collect their results in person
 can also access their results online<sup>1</sup> via Singapore Examinations
-and Assessment Board (SEAB)’s Candidates Portal at <a href="www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm on Friday, 23 February
-2024 till 11.59pm on Thursday, 7 March 2024. School candidates who are
-eligible for Singpass can use their Singpass account to access SEAB’s Candidates
-Portal. School candidates who are International Students will receive their
-system-generated username via email from Tuesday, 20 February 2024.</p>
+and Assessment Board (SEAB)’s Candidates Portal at www.seab.gov.sg from
+3.15pm on Friday, 23 February 2024 till 11.59pm on Thursday, 7 March 2024.
+School candidates who are eligible for Singpass can use their Singpass
+account to access SEAB’s Candidates Portal. School candidates who are International
+Students will receive their system-generated username via email from Tuesday,
+20 February 2024.</p>
 <p><strong>Results Release for Private Candidates</strong>
 </p>
 <p>4. Private candidates who are eligible for Singpass can use their Singpass
