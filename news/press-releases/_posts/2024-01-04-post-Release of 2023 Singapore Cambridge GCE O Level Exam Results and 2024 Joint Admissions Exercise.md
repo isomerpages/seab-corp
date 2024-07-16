@@ -174,20 +174,13 @@ at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow"
 The MOE ECG Centre will offer online or phone counselling from Thursday,
 4 January 2024 to Thursday, 18 January 2024, (Weekdays: 9.00am to 5.00pm;
 Saturdays: 9.00am to 12.00pm).</p>
-<p><strong><sub>1 Form A will list the applicant's gross aggregate scores for JC, MI, polytechnic, ITE aggregate types and courses which he/she is eligible to apply for under the JAE.&nbsp;</sub></strong>
-</p>
-<p><strong><sub>2&nbsp;More details on DSA-JC can be found at </sub><a href="http://www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank"><sub>www.moe.gov.sg/dsa-jc</sub></a></strong>
-</p>
-<p><strong><sub>3&nbsp;More details on Polytechnic EAE can be found at&nbsp;</sub><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://eae.polytechnic.edu.sg/</sub></a></strong>
-</p>
-<p><strong><sub>4&nbsp;The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
-</p>
-<p><strong><sub>5Except for Nursing courses, which require a net ELR2B2 aggregate of 28 points or lower. Applicants may combine results from no more than 2 sittings of the GCE O-Level examination.</sub></strong>
-</p>
-<p><strong><sub>6&nbsp;More details on the ITE EAE can be found at </sub><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</sub></a></strong>
-</p>
-<p><strong><sub>7&nbsp;The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects (including one relevant subject), and excludes CCA. CCA bonus points will be taken into account during posting.</sub></strong>
-</p>
-<p><strong><sub>8&nbsp;More information on the DPP and eligibility requirements can be found at </sub><a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><sub>http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</sub></a><sub>.</sub></strong>
+<p><strong><sub>1 Form A will list the applicant's gross aggregate scores for JC, MI, polytechnic, ITE aggregate types and courses which he/she is eligible to apply for under the JAE.</sub></strong>
+<br><strong><sub>2&nbsp;More details on DSA-JC can be found at </sub><a href="http://www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank"><sub>www.moe.gov.sg/dsa-jc</sub></a></strong>
+<br><strong><sub>3&nbsp;More details on Polytechnic EAE can be found at&nbsp;</sub><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://eae.polytechnic.edu.sg/</sub></a></strong>
+<br><strong><sub>4&nbsp;The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
+<br><strong><sub>5 Except for Nursing courses, which require a net ELR2B2 aggregate of 28 points or lower. Applicants may combine results from no more than 2 sittings of the GCE O-Level examination.</sub></strong>
+<br><strong><sub>6&nbsp;More details on the ITE EAE can be found at </sub><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</sub></a></strong>
+<br><strong><sub>7&nbsp;The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects (including one relevant subject), and excludes CCA. CCA bonus points will be taken into account during posting.</sub></strong>
+<br><strong><sub>8&nbsp;More information on the DPP and eligibility requirements can be found at </sub><a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><sub>http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</sub></a><sub>.</sub></strong>
 </p>
 <p></p>
