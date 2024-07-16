@@ -180,11 +180,6 @@ on the education options and career development pathways available to students
 and points them to a range of suitable education and career possibilities.
 Students may also use the portal to match their interests and aptitudes
 to specific courses and careers.</p>
-<p><sup>1</sup> As announced in April 2017, four pairs of JCs will be merged
-in 2019. Serangoon Junior College, Tampines Junior College, Jurong Junior
-College and Innova Junior College will not be admitting JC1 students in
-2018 and hence will not participate in the 2018 JAE. The programmes offered
-at the merged site will be a combination of those previously offered at
-the pair of merging JCs. More information is available in the 2018 JAE
-Information Booklet.</p>
+<p><strong><sup><sub>1</sub></sup><sub> As announced in April 2017, four pairs of JCs will be merged in 2019. Serangoon Junior College, Tampines Junior College, Jurong Junior College and Innova Junior College will not be admitting JC1 students in 2018 and hence will not participate in the 2018 JAE. The programmes offered at the merged site will be a combination of those previously offered at the pair of merging JCs. More information is available in the 2018 JAE Information Booklet.</sub></strong>
+</p>
 <p></p>
