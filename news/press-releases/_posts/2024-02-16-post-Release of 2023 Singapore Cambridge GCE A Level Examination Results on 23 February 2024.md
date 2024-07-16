@@ -56,11 +56,11 @@ the range of education and career pathways available to them:</p>
 <p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/coursefinder</u></a>)</p>
 </li>
 <li>
-<p>MySkillsFuture&nbsp;(<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.gov.sg/mysfpreu</u></a>)</p>
+<p>MySkillsFuture&nbsp;(<a href="http://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/mysfpreu</a>)</p>
 </li>
 </ul>
 <p>7. To complement the ECG support provided by schools, students can also
-make an ECG counselling appointment at <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
+make an ECG counselling appointment at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.
 The MOE ECG Centre offers online or phone counselling services to GCE A-Level
 candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays:
 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).</p>
