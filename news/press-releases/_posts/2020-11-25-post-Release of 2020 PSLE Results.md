@@ -13,7 +13,7 @@ candidates to receive their results in their respective primary schools,
 while those who were unwell, or on Quarantine Order, Stay-Home Notice or
 Leave of Absence, or those who preferred an alternative to gathering physically
 in school, were also able to view their results online via Singapore Examinations
-and Assessment Board’s (SEAB) results release system at www.seab.gov.sg.</p>
+and Assessment Board’s (SEAB) results release system at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>.</p>
 <p><strong>Performance of 2020 Primary 6 Cohort</strong>
 </p>
 <p>2. A total of 39,995 Primary 6 candidates sat for the PSLE this year.
