@@ -1462,7 +1462,11 @@ can apply directly via the respective universities’ websites.</p>
 <p><em>*The programmes listed in numbers 38-43 are Common Entry Programmes and are not stand-alone diploma courses.</em>
 </p>
 <p><strong>Annex B</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/changes_to_polytechnic_admissions.jpg">
+</div>
 <p>
 <br>
 </p>
