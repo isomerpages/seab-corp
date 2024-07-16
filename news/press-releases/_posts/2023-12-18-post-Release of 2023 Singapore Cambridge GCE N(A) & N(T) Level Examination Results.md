@@ -91,7 +91,7 @@ and education pathways</p>
 <p>15. Students may also consult their teachers or ECG Counsellors in their
 respective secondary schools about their next steps. To complement the
 ECG services provided by schools, students can make an ECG counselling
-appointment via the ECG Centre at MOE (Grange Road) at https://go.gov.sg/moe-ecg-centre.
+appointment via the ECG Centre at MOE (Grange Road) at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.
 The MOE ECG Centre offers online or phone counselling services to GCE N(A)/N(T)-Level
 students from&nbsp;11 to 22&nbsp;December&nbsp;2023&nbsp;(Weekdays: 9.00
 am to 5.00 pm);&nbsp;16&nbsp;December&nbsp;(Saturday: 9.00am to 12.00pm).</p>
