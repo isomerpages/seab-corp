@@ -12,7 +12,8 @@ variant: tiptap
 <p>1. The results of the 2023 Singapore-Cambridge General Certificate of
 Education Advanced Level (GCE A-Level) examination will be released on
 Friday, 23 February 2024, 2.30pm.</p>
-<h4><strong>Results Release for School Candidates</strong></h4>
+<p><strong>Results Release for School Candidates</strong>
+</p>
 <p>2. Arrangements have been made for school candidates to receive their
 results from their schools. Details on the collection arrangements will
 be shared by the respective schools. School candidates who are unwell should
@@ -30,20 +31,23 @@ candidates who are eligible for Singpass can use their Singpass account
 to access SEAB’s Candidates Portal. School candidates who are International
 Students will receive their system-generated username via email from Tuesday,
 20 February 2024.</p>
-<h4><strong>Results Release for Private Candidates</strong></h4>
+<p><strong>Results Release for Private Candidates</strong>
+</p>
 <p>4. Private candidates who are eligible for Singpass can use their Singpass
 account to obtain their results online via SEAB’s Candidates Portal from
 3.15pm on Friday, 23 February 2024. Private candidates who are not eligible
 for Singpass can view their results in the portal using the account that
 they have created during registration.</p>
-<h4><strong>Application to Autonomous Universities</strong></h4>
+<p><strong>Application to Autonomous Universities</strong>
+</p>
 <p>5. Students who wish to apply for admissions to the Autonomous Universities
 (AUs), and/or scholarships from them, should submit their applications
 online via the respective AUs’ websites. There is no need to submit a hard
 copy of their GCE A-Level certificates. More information on the AUs’ admissions
 processes can be found on their websites, and applicants should approach
 the AUs directly for further clarifications.</p>
-<h4><strong>Education and Career Guidance (ECG)</strong></h4>
+<p><strong>Education and Career Guidance (ECG)</strong>
+</p>
 <p>6. School candidates who would like guidance on their education pathways
 can approach their teachers or ECG Counsellors supporting their schools.
 Candidates can also refer to the following websites to find out more about
