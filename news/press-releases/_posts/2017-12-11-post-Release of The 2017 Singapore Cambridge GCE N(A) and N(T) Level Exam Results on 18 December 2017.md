@@ -26,15 +26,16 @@ Technical Education (ITE) can submit their applications online via the
 ITE application portal (<a href="https://www.ite.edu.sg/wps/portal/intake/" rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/wps/portal/intake/</a>)
 upon collection of their results. Hard copy application forms will also
 be available at the Customer Service Centres at each of the three ITE Colleges.</p>
-<p>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</p>
+<p><strong>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</strong>
+</p>
 <p>5. The Direct-Entry-Scheme to Polytechnic Programme (DPP) prepares students
-for progression into selected polytechnic diploma courses via a two-year
-Higher Nitec course at ITE. Under the DPP, students who successfully complete
-their Higher Nitec course and attain the required minimum qualifying Higher
-Nitec Grade Point Average are guaranteed a place in a polytechnic diploma
-course mapped to their Higher Nitec course. Students eligible for the DPP
-will receive a copy of Form N from their secondary schools, inviting them
-to apply for the DPP.</p>
+for progression into selected polytechnic diploma courses via a two-year <em>Higher Nitec</em> course
+at ITE. Under the DPP, students who successfully complete their <em>Higher Nitec</em> course
+and attain the required minimum qualifying <em>Higher Nitec</em> Grade Point
+Average are guaranteed a place in a polytechnic diploma course mapped to
+their <em>Higher Nitec</em> course. Students eligible for the DPP will receive
+a copy of Form N from their secondary schools, inviting them to apply for
+the DPP.</p>
 <p>6. Applications for DPP can be submitted online via the ITE application
 portal between 2.30 pm on 18 December 2017 and 5.00 pm on 21 December 2017.</p>
 <p>Release of DPP Posting Results and Acceptance of DPP Offers</p>
