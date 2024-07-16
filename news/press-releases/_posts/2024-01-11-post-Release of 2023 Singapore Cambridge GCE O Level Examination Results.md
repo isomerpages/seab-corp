@@ -68,12 +68,9 @@ appointment at&nbsp;<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer
 The MOE ECG Centre offers online or phone counselling services to GCE O-Level
 candidates from Thursday, 4 January 2024 to Thursday 18 January 2024 (Weekdays:
 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).</p>
-<p>1 The Cambridge Assessment International Education, the Ministry of Education,
-Singapore and the Singapore Examinations and Assessment Board (SEAB) are
-the joint examining authorities for the Singapore-Cambridge General Certificate
-of Education Ordinary Level Examinations.</p>
-<p>2&nbsp;&nbsp;Form&nbsp;A will list the applicant’s gross aggregate scores
-for JC, MI, polytechnics and ITE aggregate types, and courses which he/she
-is eligible to apply for under the JAE.</p>
+<p><strong><sub>1 The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
+</p>
+<p><strong><sub>2&nbsp;&nbsp;Form&nbsp;A will list the applicant’s gross aggregate scores for JC, MI, polytechnics and ITE aggregate types, and courses which he/she is eligible to apply for under the JAE.</sub></strong>
+</p>
 <p></p>
 <p></p>
