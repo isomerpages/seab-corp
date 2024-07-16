@@ -12,7 +12,8 @@ variant: tiptap
 <p>1. The results of the 2020 Singapore-Cambridge General Certificate of
 Education Normal (Academic)-[N(A)] and Normal (Technical)-[N(T)] Level
 Examinations will be released on Thursday, 17 December 2020, 2.00pm.</p>
-<p>Results Release for School Candidates</p>
+<p><strong>Results Release for School Candidates</strong>
+</p>
 <p>2. Given the ongoing COVID-19 situation, arrangements have been made for
 school candidates to receive their results from their respective secondary
 schools – in their individual classrooms instead of gathered as a cohort
@@ -24,18 +25,19 @@ in place.</p>
 or Leave of Absence on the day of the results release, should not return
 to school to collect their results. Instead, they may view their results
 online via Singapore Examinations and Assessment Board’s (SEAB) results
-release system at www.seab.gov.sg from 2.30pm on 17 December 2020. The
-system will be accessible from 17 to 31 December 2020.</p>
-<p>4. School candidates who are eligible for SingPass1 can use their SingPass
-account to access SEAB’s online results release system. School candidates
-who are International Students can access the results release system using
-the SEAB-issued PIN sent to their email addresses which their schools had
-provided to SEAB.</p>
+release system at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 2.30pm on 17 December
+2020. The system will be accessible from 17 to 31 December 2020.</p>
+<p>4. School candidates who are eligible for SingPass<sup>1</sup> can use
+their SingPass account to access SEAB’s online results release system.
+School candidates who are International Students can access the results
+release system using the SEAB-issued PIN sent to their email addresses
+which their schools had provided to SEAB.</p>
 <p>5. School candidates can also appoint a proxy to collect a physical copy
 of their results on their behalf. School candidates may contact their schools
 for assistance if they are unable to appoint a proxy, or if they have not
 received their password for SEAB’s results release system.</p>
-<p>Results Release for Private Candidates</p>
+<p><strong>Results Release for Private Candidates</strong>
+</p>
 <p>6. Private candidates will be notified of their individual results by
 post. The results will be mailed on 17 December 2020 to the address that
 private candidates had provided to SEAB.</p>
