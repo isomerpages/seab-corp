@@ -16,7 +16,8 @@ primary schools.
 schools with their students. School candidates who are unable to return
 to school to collect their results may appoint a proxy to do so on their
 behalf by Friday, 24 November 2023.&nbsp;</p>
-<p>Choosing Secondary Schools</p>
+<p><strong>Choosing Secondary Schools</strong>
+</p>
 <p>3. Students are encouraged to consider schools holistically when choosing
 a secondary school that would be a good fit for their educational needs,
 strengths and interests. While schools’ PSLE Cut-Off Points from last year’s
@@ -28,10 +29,20 @@ be fully implemented in 120 secondary schools from the 2024 S1 cohort,
 will provide students greater customisation and flexibility in their learning.</p>
 <p>4. Students are encouraged to visit the schools’ open houses and explore
 their websites. More information is available at:</p>
-<p>SchoolFinder (go.gov.sg/secschoolfinder)</p>
-<p>Open houses held by secondary schools (www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023)</p>
-<p>PSLE Full SBB Microsite (moe.gov.sg/microsites/psle-fsbb/)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SchoolFinder (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/secschoolfinder</a>)</p>
+</li>
+<li>
+<p>Open houses held by secondary schools (<a href="www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023" rel="noopener noreferrer nofollow" target="_blank">www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</a>)</p>
+</li>
+<li>
+<p>PSLE Full SBB Microsite (<a href="moe.gov.sg/microsites/psle-fsbb/" rel="noopener noreferrer nofollow" target="_blank">http://moe.gov.sg/microsites/psle-fsbb/</a>)</p>
+</li>
+<li>
 <p>Websites of secondary schools</p>
+</li>
+</ul>
 <p>Crest Secondary School and Spectra Secondary School
 <br>
 <br>5. Crest Secondary School (CSS) and Spectra Secondary School (SSS) offer
@@ -43,7 +54,7 @@ putting students in good stead for progression to the Institute of Technical
 Education (ITE). Both schools also provide a whole-school approach that
 emphasises values, socio-emotional learning and character-building to nurture
 holistic and confident learners. More information on CSS and SSS can be
-found on their school websites (www.crestsec.edu.sg and www.spectra.edu.sg).
+found on their school websites (<a href="http://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crestsec.edu.sg</a> and <a href="http://www.spectra.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">www.spectra.edu.sg</a>).
 The schools also organise open houses, where students can find out more
 about the schools’ distinctive programmes, subjects, culture, ethos, and
 other offerings.
@@ -72,7 +83,7 @@ the top-right hand corner of the S1 Option Form. Students should use the
 S1 PIN to log in to the Secondary 1 Internet System (S1-IS) and submit
 their S1 school choices and options online. The S1-IS will be accessible
 from 11.30am on Wednesday, 22 November 2023 to 3.00pm on Tuesday, 28 November
-2023 through MOE’s S1 Posting website at www.moe.gov.sg/s1-posting.</p>
+2023 through MOE’s S1 Posting website at <a href="http://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>.</p>
 <p>9. Students, in discussion with their parents, should first consider their
 school choices and complete the S1 Option Form before logging on to the
 S1-IS to submit their S1 school choices and options. This will help in
@@ -85,8 +96,8 @@ with their online submission may contact the student’s primary school before
 through any of the following channels:</p>
 <p>Short Message Service (SMS) via a local mobile number (if provided by
 the applicant during the application process);</p>
-<p>S1-IS (www.moe.gov.sg/s1-posting) using the student’s Birth Certificate
-number / FIN, and the S1 PIN; or</p>
+<p>S1-IS (<a href="www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/s1-posting</a>)
+using the student’s Birth Certificate number / FIN, and the S1 PIN; or</p>
 <p>At the student’s primary school.</p>
 <p>11. Students do not need to report to their posted secondary schools upon
 receiving their S1 Posting Results. Students should refer to their posted
@@ -101,4 +112,4 @@ inform their posted secondary school directly after receiving their posting
 results to confirm that they are taking up the place, and the school will
 be able to reserve the place for them. More information on S1 Posting and
 S1-IS are available at MOE’s&nbsp;S1 Posting website. For enquiries, please
-visit www.moe.gov.sg/contact.</p>
+visit <a href="http://www.moe.gov.sg/contact" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/contact</a>.</p>
