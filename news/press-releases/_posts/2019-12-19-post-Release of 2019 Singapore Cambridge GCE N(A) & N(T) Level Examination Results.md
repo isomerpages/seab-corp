@@ -159,7 +159,8 @@ candidates are as follows.</p>
 </tr>
 </tbody>
 </table>
-<p>PROGRESSION TO SECONDARY 5 NORMAL (ACADEMIC)</p>
+<p><strong>PROGRESSION TO SECONDARY 5 NORMAL (ACADEMIC)</strong>
+</p>
 <p>4. 76.6% of the students from the N(A) course are eligible for promotion
 to Secondary 5 N(A). These are students in the N(A) course who obtained
 an aggregate not exceeding 19 points in English Language, Mathematics and
@@ -170,9 +171,10 @@ in the GCE Ordinary Level (GCE O-Level) Examinations. Schools will take
 into consideration their combined GCE N(A)-Level and school-based O-Level
 preliminary examination results when determining their eligibility for
 Secondary 5 N(A) or post-secondary pathways.</p>
-<p>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</p>
+<p><strong>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</strong>
+</p>
 <p>6. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
-in 2019 and obtained a raw ELMAB3 aggregate not exceeding 19 points4 will
+in 2019 and obtained a raw ELMAB3 aggregate not exceeding 19 points<sup>4</sup> will
 have the option of applying for the Direct-Entry Scheme to Polytechnic
 Programme (DPP).</p>
 <p>7. The DPP prepares Secondary 4 N(A) students for progression into selected
