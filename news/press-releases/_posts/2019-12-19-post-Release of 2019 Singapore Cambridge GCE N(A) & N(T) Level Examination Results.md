@@ -10,7 +10,7 @@ variant: tiptap
 <p>1. Students who sat for the 2019 Singapore-Cambridge General Certificate
 of Education (GCE) Normal (Academic) [N(A)] and Normal (Technical) [N(T)]
 Level Examinations collected their results from their secondary schools
-today1.</p>
+today<sup>1</sup>.</p>
 <p>2. The results of the 2019 and 2018 GCE N(A)-Level examination for school
 candidates are as follows.</p>
 <table style="minWidth: 100px">
@@ -200,25 +200,27 @@ diploma course, subject to them passing all modules in the PFP.</p>
 for the PFP will open in January 2020, on the day of the GCE O-Level Examination
 results release. Secondary 4 N(A) students who intend to apply for the
 PFP should first progress to Secondary 5 on 2 January 2020. For more information,
-please refer to https://pfp.polytechnic.edu.sg/PFP/index.html.</p>
+please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
 <p>12. All N(A) course students who have completed their secondary education
 may also apply to further their studies through ITE’s Nitec programmes.
-For more information on courses available at ITE, please refer to https://www.ite.edu.sg/courses/full-time-courses/nitec/.</p>
-<p>PROGRESSION PATHWAYS FOR NORMAL (TECHNICAL) STUDENTS</p>
+For more information on courses available at ITE, please refer to <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/courses/full-time-courses/nitec/</a>.</p>
+<p><strong>PROGRESSION PATHWAYS FOR NORMAL (TECHNICAL) STUDENTS</strong>
+</p>
 <p>13. All N(T) course students who complete their secondary education in
 2019 may apply to further their studies through ITE’s Nitec programmes.
-For more information on courses available at ITE, please refer to https://www.ite.edu.sg/courses/full-time-courses/nitec/.</p>
+For more information on courses available at ITE, please refer to <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/courses/full-time-courses/nitec/</a>.</p>
 <p>14. Schools may also laterally transfer Secondary 4 N(T) students to Secondary
 4 N(A) if they have obtained grade A for both English Language and Mathematics,
 and grade B or better for one other subject at the GCE N(T)-Level Examination.</p>
-<p>PROVISION OF EDUCATION AND CAREER GUIDANCE (ECG) SERVICES</p>
+<p><strong>PROVISION OF EDUCATION AND CAREER GUIDANCE (ECG) SERVICES</strong>
+</p>
 <p>15. Students are advised to select courses based on their strengths and
 interest in the field of study. Students can discuss their options with
 teachers and Education and Career Guidance (ECG) counsellors at their respective
 schools. Alternatively, students can also make an appointment to see an
 ECG counsellor at the MOE ECG Centre via the online booking system: https://bit.ly/moe_ecg,
-phone: 68311420 or email: MOE_ECG@moe.gov.sg. The MOE ECG Centre is open
-from 13 to 27 December 2019, 9.00am to 5.00pm.</p>
+phone: 68311420 or email: <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>. The MOE ECG Centre
+is open from 13 to 27 December 2019, 9.00am to 5.00pm.</p>
 <p><strong><sub>1 The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore- Cambridge General Certificate of Education Normal (Academic) and Normal (Technical) Level Examinations.</sub></strong>
 </p>
 <p><strong><sub>2 The GCE N(A)-Level certificate is awarded to candidates who obtain at least a Grade 5 or better in at least one N(A) subject.</sub></strong>
