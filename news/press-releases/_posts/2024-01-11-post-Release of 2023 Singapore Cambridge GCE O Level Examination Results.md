@@ -63,7 +63,7 @@ of education and career pathways available to them:</p>
 </li>
 </ul>
 <p>7.&nbsp;Besides their schools, students can also make an ECG counselling
-appointment at&nbsp;<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
+appointment at&nbsp;<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.
 The MOE ECG Centre offers online or phone counselling services to GCE O-Level
 candidates from Thursday, 4 January 2024 to Thursday 18 January 2024 (Weekdays:
 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).</p>
