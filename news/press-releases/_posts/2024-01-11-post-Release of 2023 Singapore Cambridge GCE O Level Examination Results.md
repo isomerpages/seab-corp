@@ -30,7 +30,7 @@ period.</p>
 <p>5. The JAE-IS will be accessible from 4pm on Thursday, 11 January 2024,
 to 4pm on Tuesday, 16 January 2024 for students to submit their course
 choices through the JAE website at <a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>. Applicants
-are strongly encouraged to use the JAE worksheet (<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jaeworksheet</u></a>)
+are strongly encouraged to use the JAE worksheet (<a href="http://www.moe.gov.sg/jaeworksheet" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
 before submitting their online application. The JAE-IS can be accessed
 using Singpass. Applicants can find more information on the following MOE
 websites:&nbsp;</p>
