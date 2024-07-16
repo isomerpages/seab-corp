@@ -42,8 +42,8 @@ Activities), and the proximity of the school from their home, amongst other
 factors.</p>
 <p>6. The S1 posting results will be released on Thursday, 21 December 2017.
 Students are to report to the secondary schools that they are posted to
-on Friday, 22 December 2017 at 8.30am.</p>
-<p><strong><sub>1 For information on children exempted from the Compulsory Education Act, please refer to the attached “Information Sheet on the 2017 PSLE Results of Students Exempted from Compulsory Education” in Annex A.</sub></strong>
+on Friday, 22 December 2017 at 8.30am.
+<br><strong><sub>1 For information on children exempted from the Compulsory Education Act, please refer to the attached “Information Sheet on the 2017 PSLE Results of Students Exempted from Compulsory Education” in Annex A.</sub></strong>
 </p>
 <p><strong>Annex A</strong>
 </p>
@@ -93,6 +93,7 @@ prepare for the PSLE in 2018, MOE will facilitate their admission to a
 suitable primary school. For home- schooled children who have met the PSLE
 benchmark, MOE will also facilitate their admission to a mainstream secondary
 school should they wish to do so.
+<br>
 <br><strong><sub>2 For madrasahs, the benchmark is pegged at the average PSLE aggregate score of Malay students taking four standard-level subjects in the six lowest-performing mainstream schools, ranked according to the performance of Malay students taking four standard-level subjects in the PSLE that year. Students who did not sit for the PSLE as expected are assigned the lowest possible PSLE score. For San Yu Adventist School, the benchmark is pegged at the 33rd percentile PSLE aggregate score of all students taking four standard-level subjects in the PSLE that year.</sub></strong>
 <br><strong><sub>3 This does not include 9 students who had earlier transferred to mainstream schools.</sub></strong>
 <br><strong><sub>4 Madrasah Al-Arabiah and Madrasah Aljunied voluntarily stopped admission of P1 students from 2009 onwards. As Madrasah Wak Tanjong did not pass the 2008-2010 assessment cycle, it did not enrol P1 students in 2012 and thus does not have 2017 PSLE candidates.</sub></strong>
