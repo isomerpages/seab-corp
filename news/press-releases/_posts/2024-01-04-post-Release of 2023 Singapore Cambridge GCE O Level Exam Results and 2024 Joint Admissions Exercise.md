@@ -126,12 +126,13 @@ wish to accept, reject, or appeal for a change of course by 4.00pm on Friday,
 26 January 2024.</p>
 <p><strong><u>Direct-Entry-Scheme to Polytechnic Programme (DPP)</u></strong>
 </p>
-<p>21. The DPP8 prepares students for progression into selected polytechnic
-diploma courses via a two-year Higher Nitec course at ITE. Students are
-eligible to apply if they obtain a raw ELMAB3 aggregate of 19 points or
-lower, and meet the subject-specific requirements for their chosen course.</p>
+<p>21. The DPP<sup>8</sup> prepares students for progression into selected
+polytechnic diploma courses via a two-year <em>Higher Nitec</em> course at
+ITE. Students are eligible to apply if they obtain a raw ELMAB3 aggregate
+of 19 points or lower, and meet the subject-specific requirements for their
+chosen course.</p>
 <p>22. Eligible Secondary 4 N(A) students may submit their DPP applications
-online via the DPP application portal at www.ite.edu.sg/apply-for-ite-courses.
+online via the DPP application portal at <a href="https://www.ite.edu.sg/apply-for-ite-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/apply-for-ite-courses</a>.
 Applications for the DPP will open on from 12.00am on Thursday, 11 January
 2024, to 11.59pm on Tuesday, 16 January 2024.</p>
 <p>23. The DPP posting results for applications made under the final application
@@ -159,13 +160,20 @@ the DPP withdrawal process and deadlines for withdrawal.</p>
 their teachers or ECG Counsellors supporting their schools. Students can
 also refer to the following websites to find out more about the range of
 education and career pathways available to them:&nbsp;</p>
-<p>MOE's Course Finder (https://www.moe.gov.sg/coursefinder)</p>
-<p>MySkillsFuture (https://go.gov.sg/mysfsec)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE's Course Finder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
+</li>
+<li>
+<p>MySkillsFuture (<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)</p>
+</li>
+</ul>
 <p>28.&nbsp;To complement the ECG support provided by schools, students can
 make an ECG counselling appointment via the ECG Centre at MOE (Grange Road)
-at https://go.gov.sg/moe-ecg-centre. The MOE ECG Centre will offer online
-or phone counselling from Thursday, 4 January 2024 to Thursday, 18 January
-2024, (Weekdays: 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).</p>
+at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.
+The MOE ECG Centre will offer online or phone counselling from Thursday,
+4 January 2024 to Thursday, 18 January 2024, (Weekdays: 9.00am to 5.00pm;
+Saturdays: 9.00am to 12.00pm).</p>
 <p><strong><sub>1 Form A will list the applicant's gross aggregate scores for JC, MI, polytechnic, ITE aggregate types and courses which he/she is eligible to apply for under the JAE.&nbsp;</sub></strong>
 </p>
 <p><strong><sub>2&nbsp;More details on DSA-JC can be found at </sub><a href="http://www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank"><sub>www.moe.gov.sg/dsa-jc</sub></a></strong>
