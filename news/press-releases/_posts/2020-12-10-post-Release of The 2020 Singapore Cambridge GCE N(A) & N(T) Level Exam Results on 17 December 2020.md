@@ -114,7 +114,8 @@ to apply for the PFP.</p>
 <br>(<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
 </li>
 </ul>
-<p>Provision of Education and Career Guidance (ECG) services</p>
+<p><strong>Provision of Education and Career Guidance (ECG) services</strong>
+</p>
 <p>21. School candidates may consult their teachers or ECG Counsellors in
 their respective secondary schools to help them make informed decisions
 about their next steps. Candidates can also refer to the MySkillsFuture
@@ -125,7 +126,9 @@ may make an appointment for online or phone counselling with an ECG Counsellor
 from the ECG Centre at MOE (Grange Road) via 6831 1420, <a href="mailto: MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or
 <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The MOE ECG Centre will offer online
 or phone counselling from 10 to 23 December 2020, 9.00am to 5.00pm (Saturdays:
-9.00am to 12.30pm).</p>
+9.00am to 12.30pm).
+<br>
+</p>
 <p><strong><sub>1 Candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass.</sub></strong>
 </p>
 <p></p>
