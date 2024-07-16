@@ -39,21 +39,22 @@ Institute (MI), polytechnics, and the Institute of Technical Education
 (ITE) may do so via the Joint Admissions Exercise (JAE) using their GCE
 O-Level examination results.</p>
 <p>6. Eligible school and private candidates&nbsp;will receive a digital
-copy of Form A1 via their registered email addresses from 2.00pm on Thursday,
-11 January 2024. All candidates eligible for JAE may also download a copy
-of Form A from the JAE-Internet System (JAE-IS) during the application
-period.</p>
+copy of <u>Form A</u><sup>1</sup> via their registered email addresses from
+2.00pm on Thursday, 11 January 2024. All candidates eligible for JAE may
+also download a copy of Form A from the JAE-Internet System (JAE-IS) during
+the application period.</p>
 <p>7. The JAE-IS will be accessible from 4.00pm on Thursday, 11 January 2023,
 to 4.00pm on Tuesday, 16 January 2023 for applicants to submit their course
-choices through the JAE website at www.moe.gov.sg/jae. Applicants are strongly
-encouraged to use the JAE worksheet (www.moe.gov.sg/jaeworksheet) before
-submitting their online application. The JAE-IS can be accessed using Singpass.&nbsp;Applicants
-can find more information on the following MOE websites:</p>
-<p>JAE website for more details on the JAE (www.moe.gov.sg/jae)</p>
+choices through the JAE website at <a href="https://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>. Applicants are
+strongly encouraged to use the JAE worksheet (www.moe.gov.sg/jaeworksheet)
+before submitting their online application. The JAE-IS can be accessed
+using Singpass.&nbsp;Applicants can find more information on the following
+MOE websites:</p>
+<p>JAE website for more details on the JAE (<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
 <p>SchoolFinder for details of the offerings by and previous entry score
-ranges for JCs and MI (www.moe.gov.sg/schoolfinder)</p>
+ranges for JCs and MI (<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
-aggregate type and area of interest (www.moe.gov.sg/coursefinder)</p>
+aggregate type and area of interest (<a href="http://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 <p><strong>Application Results</strong>
 </p>
 <p>8. The posting results of the JAE application are scheduled for release
@@ -71,16 +72,16 @@ package via mail on the enrolment details by end-February 2024.</p>
 <p><strong>Direct School Admissions - JCs</strong>
 </p>
 <p>11. Students who had accepted offers through the 2023 Direct School Admission
-– Junior Colleges2 (DSA-JC) will be admitted to their chosen JC if they
-have met the eligibility criteria for admission based on their GCE O-Level
-examination results. Students admitted to a JC through DSA-JC will not
-be eligible to participate in the JAE.</p>
+– Junior Colleges<sup>2</sup> (DSA-JC) will be admitted to their chosen
+JC if they have met the eligibility criteria for admission based on their
+GCE O-Level examination results. Students admitted to a JC through DSA-JC
+will not be eligible to participate in the JAE.</p>
 <p>12. Students who do not meet the JC admission criteria may take part in
 the JAE to apply for other courses which they are eligible for.</p>
 <p><strong>Early Admissions Exercise – Polytechnics</strong>
 </p>
 <p>13. Students who had earlier accepted conditional offers to a polytechnic
-course through the Polytechnic Early Admissions Exercise3 (EAE)&nbsp;in
+course through the Polytechnic Early Admissions Exercise<sup>3</sup> (EAE)&nbsp;in
 2023 will have their offers confirmed and will not be eligible to participate
 in the JAE, if they meet the following criteria:</p>
 <p>a. A net ELR2B2<sup>4</sup>&nbsp;score of 26 points or lower for the GCE
