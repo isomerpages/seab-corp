@@ -41,8 +41,7 @@ websites:&nbsp;</p>
 <li>
 <p>SchoolFinder for details of the offerings by Junior Colleges (JCs) and
 Millennia Institute (MI) and their previous year’s entry score ranges (
-<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/schoolfinder</u>
-</a>)</p>
+<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
 </li>
 <li>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
