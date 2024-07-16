@@ -43,7 +43,7 @@ their websites. More information is available at:</p>
 <p>Websites of secondary schools</p>
 </li>
 </ul>
-<p>Crest Secondary School and Spectra Secondary School
+<p><strong>Crest Secondary School and Spectra Secondary School </strong>
 <br>
 <br>5. Crest Secondary School (CSS) and Spectra Secondary School (SSS) offer
 an alternative educational pathway for students eligible for Posting Group
