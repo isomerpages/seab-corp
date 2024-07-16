@@ -40,7 +40,8 @@ may check the posting results online via the ITE application portal.</p>
 <p>7. Students who receive an ITE offer should log on to the ITE application
 portal between 3 January 2020 and 7 January 2020 to accept or reject the
 offer.</p>
-<p>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</p>
+<p><strong>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</strong>
+</p>
 <p>8. The Direct-Entry-Scheme to Polytechnic Programme (DPP) prepares students
 for progression into selected polytechnic diploma courses via a two-year <em>Higher Nitec</em> course
 at ITE. Under the DPP, students who successfully complete their <em>Higher Nitec </em>course
@@ -78,7 +79,7 @@ to apply for the PFP.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP)
-<br>(<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/</a>)</p>
+<br><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/</a>)</p>
 </li>
 <li>
 <p>Polytechnic Foundation Programme (PFP)
