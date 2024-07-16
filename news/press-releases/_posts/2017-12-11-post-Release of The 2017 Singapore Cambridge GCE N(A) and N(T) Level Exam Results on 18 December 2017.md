@@ -20,7 +20,7 @@ provided by the candidates during the registration period. Private candidates
 who are eligible for SingPass1 can also use their SingPass account to obtain
 their results online via the internet Examination Results Release System
 (iERRS) on the Singapore Examinations and Assessment Board’s website at
-www.seab.gov.sg from 2.00 pm on 18 December 2017.</p>
+<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>from 2.00 pm on 18 December 2017.</p>
 <p>4. Students who wish to apply for courses offered by the Institute of
 Technical Education (ITE) can submit their applications online via the
 ITE application portal (www.ite.edu.sg/wps/portal/intake/) upon collection
