@@ -72,7 +72,8 @@ other S1 school choices will be voided. For eligible students who did not
 apply directly to CSS or SSS but wish to be considered for admission to
 these schools, they may indicate CSS and SSS as one of their school choices
 in the S1 Option Form.</p>
-<p>Submission of Secondary 1 School Choices and Options</p>
+<p><strong>Submission of Secondary 1 School Choices and Options</strong>
+</p>
 <p>7. The S1 Option Form to select secondary schools will be given to eligible
 students together with their PSLE results. The S1 Option Form provides
 key information regarding the submission of school choices.
@@ -90,15 +91,24 @@ S1-IS to submit their S1 school choices and options. This will help in
 the smooth completion of their online submission. Parents who require assistance
 with their online submission may contact the student’s primary school before
 3.00pm on Tuesday, 28 November 2023.</p>
-<p>Release of Secondary 1 Posting Results</p>
+<p><strong>Release of Secondary 1 Posting Results</strong>
+</p>
 <p>10. The S1 Posting Results will be released between Wednesday, 20 December
 2023 and Friday, 22 December 2023. The posting results can be accessed
 through any of the following channels:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Short Message Service (SMS) via a local mobile number (if provided by
 the applicant during the application process);</p>
+</li>
+<li>
 <p>S1-IS (<a href="www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/s1-posting</a>)
 using the student’s Birth Certificate number / FIN, and the S1 PIN; or</p>
+</li>
+<li>
 <p>At the student’s primary school.</p>
+</li>
+</ul>
 <p>11. Students do not need to report to their posted secondary schools upon
 receiving their S1 Posting Results. Students should refer to their posted
 schools’ websites after receiving their posting results for more information,
