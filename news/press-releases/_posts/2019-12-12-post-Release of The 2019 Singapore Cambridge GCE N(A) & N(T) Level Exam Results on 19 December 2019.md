@@ -51,7 +51,8 @@ a copy of Form N from their secondary schools, inviting them to apply for
 the DPP.</p>
 <p>9. Applications for the DPP can be submitted online via the ITE application
 portal between 2.30 pm on 19 December 2019 and 5.00 pm on 23 December 2019.</p>
-<p>Release of DPP Posting Results and Acceptance of DPP Offers</p>
+<p><strong>Release of DPP Posting Results and Acceptance of DPP Offers</strong>
+</p>
 <p>10. The DPP posting results will be released on 26 December 2019. Students
 may check the posting results online via the ITE application portal.</p>
 <p>11. Students who receive a DPP offer should log on to the ITE application
@@ -59,7 +60,8 @@ portal between 26 December 2019 and 30 December 2019 to accept or reject
 the DPP offer.</p>
 <p>12. Students who do not have a confirmed place in the DPP should report
 to their secondary schools on 2 January 2020 for Secondary 5.</p>
-<p>Application for the Polytechnic Foundation Programme (PFP)</p>
+<p><strong>Application for the Polytechnic Foundation Programme (PFP)</strong>
+</p>
 <p>13. The Polytechnic Foundation Programme (PFP) is a diploma-specific foundation
 programme conducted over two academic semesters at the polytechnics. It
 caters to students in the N(A) course who have decided to pursue a polytechnic
@@ -73,10 +75,16 @@ the GCE Ordinary-Level Examinations results release. Students eligible
 for the PFP will receive a copy of Form P on the same day, inviting them
 to apply for the PFP.</p>
 <p>16. For more information on the DPP and the PFP, please visit these websites:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP)
 <br>(https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/)</p>
+</li>
+<li>
 <p>Polytechnic Foundation Programme (PFP)
 <br>(https://pfp.polytechnic.edu.sg/PFP/index.html)</p>
+</li>
+</ul>
 <p>Provision of Education and Career Guidance (ECG) services</p>
 <p>17. Students may consult their teachers or ECG Counsellors in their respective
 secondary schools to help them make informed decisions about their next
