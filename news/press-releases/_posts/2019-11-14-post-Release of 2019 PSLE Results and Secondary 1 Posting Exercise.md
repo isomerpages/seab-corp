@@ -32,20 +32,20 @@ completion of their online submission.</p>
 primary school. Submission at primary schools can be made during the following
 timeslots: 11.00am to 3.00pm on 21 November 2019, and 9.00am to 3.00pm
 on 22 and 25 to 27 November 2019.</p>
-<p>Release of Secondary 1 Posting Results</p>
+<p><strong>Release of Secondary 1 Posting Results</strong>
+</p>
 <p>6. The S1 Posting Results will be released on Friday, 20 December 2019.
 The posting results can be accessed through any of the following channels:</p>
 <p>Short Message Service (SMS) via a local mobile number (if provided by
 the applicant during the application process)</p>
-<p>S1-IS (www.moe.gov.sg/s1-posting) using the student’s Birth Certificate
-number / FIN, and the S1 PIN</p>
+<p>S1-IS (<a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/s1-posting</a>)
+using the student’s Birth Certificate number / FIN, and the S1 PIN</p>
 <p>At the student’s primary school</p>
 <p>7. Students are to report on Monday, 23 December 2019 at 8.30am to their
 posted secondary schools.</p>
-<p>8. More information on S1 Posting and S1-IS is available at MOE’s S1 Posting
-website and in the information booklet entitled “Choosing Your Secondary
-Schools” distributed to Primary 6 students. For enquiries, please visit
-www.moe.gov.sg/contact.</p>
+<p>8. More information on S1 Posting and S1-IS is available at MOE’s <a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">S1 Posting website</a> and
+in the information booklet entitled “Choosing Your Secondary Schools” distributed
+to Primary 6 students. For enquiries, please visit <a href="www.moe.gov.sg/contact" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/contact</a>.</p>
 <p>Crest Secondary School and Spectra Secondary School</p>
 <p>9. Specialised Schools for Normal (Technical) students (SSNTs) - Crest
 Secondary School and Spectra Secondary School – offer an alternative educational
