@@ -57,6 +57,7 @@ a minimum PSLE benchmark<sup>2</sup> at least twice in each 3-year assessment
 period from 2008 onwards, in order to continue to admit new Primary 1 (P1)
 pupils. Each home-schooled child is expected to meet the same benchmark
 as San Yu Adventist School.</p>
+<p></p>
 <p><strong>Madrasahs</strong>
 </p>
 </li>
@@ -67,7 +68,6 @@ students taking the 2017 PSLE met the PSLE benchmark<sup>4</sup>.</p>
 <p></p>
 <p><strong>San Yu Adventist School</strong>
 </p>
-<p></p>
 </li>
 <li>
 <p>One CE-exempt student from the 2012 P1 cohort was enrolled in San Yu Adventist
@@ -79,7 +79,6 @@ in 2019.</p>
 <p></p>
 <p><strong>Home-schooled Children</strong>
 </p>
-<p></p>
 </li>
 <li>
 <p>There were 42 CE-exempt home-schooled children from the 2012 P1 cohort
@@ -97,9 +96,7 @@ school should they wish to do so.</p>
 </li>
 </ol>
 <p><strong><sub>2 For madrasahs, the benchmark is pegged at the average PSLE aggregate score of Malay students taking four standard-level subjects in the six lowest-performing mainstream schools, ranked according to the performance of Malay students taking four standard-level subjects in the PSLE that year. Students who did not sit for the PSLE as expected are assigned the lowest possible PSLE score. For San Yu Adventist School, the benchmark is pegged at the 33rd percentile PSLE aggregate score of all students taking four standard-level subjects in the PSLE that year.</sub></strong>
-</p>
-<p><strong><sub>3 This does not include 9 students who had earlier transferred to mainstream schools.</sub></strong>
-</p>
-<p><strong><sub>4 Madrasah Al-Arabiah and Madrasah Aljunied voluntarily stopped admission of P1 students from 2009 onwards. As Madrasah Wak Tanjong did not pass the 2008-2010 assessment cycle, it did not enrol P1 students in 2012 and thus does not have 2017 PSLE candidates.</sub></strong>
+<br><strong><sub>3 This does not include 9 students who had earlier transferred to mainstream schools.</sub></strong>
+<br><strong><sub>4 Madrasah Al-Arabiah and Madrasah Aljunied voluntarily stopped admission of P1 students from 2009 onwards. As Madrasah Wak Tanjong did not pass the 2008-2010 assessment cycle, it did not enrol P1 students in 2012 and thus does not have 2017 PSLE candidates.</sub></strong>
 </p>
 <p></p>
