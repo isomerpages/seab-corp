@@ -1446,6 +1446,17 @@ can apply directly via the respective universities’ websites.</p>
 <p>Ngee Ann Polytechnic</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><em>*The programmes listed in numbers 38-43 are Common Entry Programmes and are not stand-alone diploma courses.</em>
