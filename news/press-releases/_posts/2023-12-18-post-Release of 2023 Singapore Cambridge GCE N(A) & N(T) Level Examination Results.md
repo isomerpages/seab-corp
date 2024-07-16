@@ -21,13 +21,15 @@ for subjects in the GCE Ordinary Level (GCE O-Level) examinations. Schools
 will take their combined GCE N(A)-Level and school-based O-Level preliminary
 examination results into consideration when determining their eligibility
 for progression to Secondary 5 N(A) or post-secondary pathways.&nbsp;</p>
-<p>Progression to Secondary 5 Normal (Academic)</p>
+<p><strong>Progression to Secondary 5 Normal (Academic)</strong>
+</p>
 <p>4.&nbsp;77.2% of the school candidates from the N(A) course are eligible
 for progression to Secondary 5 N(A). These candidates must have obtained
 an aggregate of 19 points or lower in English Language, Mathematics and
 the best three subjects (ELMAB3), and at least a N(A)-Level Grade 5 for
 all subjects used in the computation of the ELMAB3.&nbsp;&nbsp;</p>
-<p>Progression Pathways for Normal (Academic) Students</p>
+<p><strong>Progression Pathways for Normal (Academic) Students</strong>
+</p>
 <p>5. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
 in 2023 as school candidates, obtained a raw ELMAB3 aggregate of 19 points
 or lower<sup>4</sup>, and met subject-specific entry requirements for their
@@ -62,14 +64,14 @@ students are required to attend their Secondary 5N(A) classes in their
 secondary schools up till the last Friday of January 2024, i.e. 26 January
 2024. For more information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
 <p>11. All N(A) course students who have completed their secondary education
-may also apply to further their studies through ITE’s two-year Nitec or
-three-year Higher Nitec programmes. For more information on courses available
-at ITE, please refer to&nbsp;<a href="https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec</a>.</p>
+may also apply to further their studies through ITE’s two-year <em>Nitec </em>or
+three-year <em>Higher Nitec</em> programmes. For more information on courses
+available at ITE, please refer to&nbsp;<a href="https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec</a>.</p>
 <p><strong>Progression Pathways for Normal (Technical) students</strong>
 </p>
 <p>12. All N(T) course students who complete their secondary education in
-2023 may similarly apply to further their studies through ITE’s two-year
-Nitec or three-year Higher Nitec programmes.</p>
+2023 may similarly apply to further their studies through ITE’s two-year <em>Nitec </em>or
+three-year <em>Higher Nitec</em> programmes.</p>
 <p>13. Schools may also laterally transfer Secondary 4 N(T) students to Secondary
 4 N(A) if they have obtained Grade A for both English Language and Mathematics,
 and Grade B or better for one other subject at the GCE N(T)-Level Examination.</p>
@@ -101,4 +103,3 @@ am to 5.00 pm);&nbsp;16&nbsp;December&nbsp;(Saturday: 9.00am to 12.00pm).</p>
 <br><strong><sub>4To be eligible for the DPP, students must also attain a minimum grade N(A)-Level Grade of 4 in both English Language (minimum required grade of 3 for Business &amp; Services courses) and Mathematics, and minimum N(A)-Level grade of 5 in three other subjects (excluding CCA). CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the DPP, but are taken into account for posting.&nbsp;</sub></strong>
 <br><strong><sub>5 To be eligible for the PFP, students must obtain a raw ELMAB3 aggregate score of 12 points or lower (excluding CCA bonus points), and attain minimum (i) N(A)-Level Grades 2 and 3 for English Language for Group 2 and 1 courses respectively; (ii) N(A)-Level Grade 3 for the relevant two subjects; and (iii) N(A)-Level Grade 4 for any two other subjects (excluding CCA) that make up the ELMAB3 aggregate. CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the PFP, but are taken into account for posting.</sub></strong>
 </p>
-<p></p>
