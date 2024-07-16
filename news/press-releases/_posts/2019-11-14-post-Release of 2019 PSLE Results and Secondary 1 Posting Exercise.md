@@ -84,10 +84,11 @@ into Crest or Spectra can be posted to another school of their choice in
 a timely and seamless manner.</p>
 <p>12. Application forms for these two schools are available at the primary
 schools when students receive their results, or on the schools’ websites
-(https://www.crestsec.edu.sg and https://www.spectra.edu.sg). Students
-successfully admitted into Crest or Spectra will be informed by the schools
-by Friday, 13 December 2019. Their S1 school choices will be voided and
-they will not be posted to other secondary schools under S1 Posting.</p>
+(<a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.crestsec.edu.sg/</a> and
+<a href="https://www.spectra.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.spectra.edu.sg/</a>). Students successfully admitted into
+Crest or Spectra will be informed by the schools by Friday, 13 December
+2019. Their S1 school choices will be voided and they will not be posted
+to other secondary schools under S1 Posting.</p>
 <p>13. More information on Crest Secondary School and Spectra Secondary School
 can be found on the schools’ websites and the information booklet entitled
 “Choosing Your Secondary Schools”.</p>
