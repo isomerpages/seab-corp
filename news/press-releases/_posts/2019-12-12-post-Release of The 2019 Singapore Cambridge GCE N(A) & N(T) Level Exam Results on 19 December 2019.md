@@ -93,9 +93,9 @@ steps. Students can also refer to the MySkillsFuture website at <a href="https:/
 find out more about the range of education and career pathways available
 to them. To complement the ECG services provided by schools, students and
 their parents may make an appointment with an ECG Counsellor at the ECG
-Centre at MOE (Grange Road) via 6831 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or http://bit.ly/moe_ecg.
+Centre at MOE (Grange Road) via 6831 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/moe_ecg</a>.
 The MOE ECG Centre will be open from 13 to 27 December 2019, 9.00am to
 5.00pm.</p>
-<p>1 Private candidates can visit the SingPass website at www.singpass.gov.sg
-to find out if they are eligible for SingPass.</p>
+<p>1 Private candidates can visit the SingPass website at <a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.singpass.gov.sg</a> to
+find out if they are eligible for SingPass.</p>
 <p></p>
