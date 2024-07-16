@@ -78,9 +78,16 @@ and Grade B or better for one other subject at the GCE N(T)-Level Examination.</
 <p>14.&nbsp;Candidates are encouraged to explore the range of education and
 career pathways available to them to make informed decisions about their
 next steps. They may refer to the following websites for more information:</p>
-<p>MOE’s CourseFinder (https://www.moe.gov.sg/coursefinder) on the offerings
-and courses of polytechnics and ITEs</p>
-<p>MySkillsFuture (https://go.gov.sg/mysfsec) on career and education pathways</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
+on the offerings and courses of polytechnics and ITEs</p>
+</li>
+<li>
+<p>MySkillsFuture (<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>) on career
+and education pathways</p>
+</li>
+</ul>
 <p>15. Students may also consult their teachers or ECG Counsellors in their
 respective secondary schools about their next steps. To complement the
 ECG services provided by schools, students can make an ECG counselling
@@ -89,13 +96,9 @@ The MOE ECG Centre offers online or phone counselling services to GCE N(A)/N(T)-
 students from&nbsp;11 to 22&nbsp;December&nbsp;2023&nbsp;(Weekdays: 9.00
 am to 5.00 pm);&nbsp;16&nbsp;December&nbsp;(Saturday: 9.00am to 12.00pm).</p>
 <p><strong><sub>1 The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Normal (Academic) and Normal (Technical) Level Examinations.</sub></strong>
-</p>
-<p><strong><sub>2 The GCE N(A)-Level certificate is awarded to candidates who obtain at least a Grade 5 or better in at least one N(A) subject.</sub></strong>
-</p>
-<p><strong><sub>3 The GCE N(T)-Level certificate is awarded to candidates who obtain at least a Grade D or better in at least one N(T) subject.&nbsp;</sub></strong>
-</p>
-<p><strong><sub>4To be eligible for the DPP, students must also attain a minimum grade N(A)-Level Grade of 4 in both English Language (minimum required grade of 3 for Business &amp; Services courses) and Mathematics, and minimum N(A)-Level grade of 5 in three other subjects (excluding CCA). CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the DPP, but are taken into account for posting.&nbsp;</sub></strong>
-</p>
-<p><strong><sub>5 To be eligible for the PFP, students must obtain a raw ELMAB3 aggregate score of 12 points or lower (excluding CCA bonus points), and attain minimum (i) N(A)-Level Grades 2 and 3 for English Language for Group 2 and 1 courses respectively; (ii) N(A)-Level Grade 3 for the relevant two subjects; and (iii) N(A)-Level Grade 4 for any two other subjects (excluding CCA) that make up the ELMAB3 aggregate. CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the PFP, but are taken into account for posting.</sub></strong>
+<br><strong><sub>2 The GCE N(A)-Level certificate is awarded to candidates who obtain at least a Grade 5 or better in at least one N(A) subject.</sub></strong>
+<br><strong><sub>3 The GCE N(T)-Level certificate is awarded to candidates who obtain at least a Grade D or better in at least one N(T) subject.&nbsp;</sub></strong>
+<br><strong><sub>4To be eligible for the DPP, students must also attain a minimum grade N(A)-Level Grade of 4 in both English Language (minimum required grade of 3 for Business &amp; Services courses) and Mathematics, and minimum N(A)-Level grade of 5 in three other subjects (excluding CCA). CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the DPP, but are taken into account for posting.&nbsp;</sub></strong>
+<br><strong><sub>5 To be eligible for the PFP, students must obtain a raw ELMAB3 aggregate score of 12 points or lower (excluding CCA bonus points), and attain minimum (i) N(A)-Level Grades 2 and 3 for English Language for Group 2 and 1 courses respectively; (ii) N(A)-Level Grade 3 for the relevant two subjects; and (iii) N(A)-Level Grade 4 for any two other subjects (excluding CCA) that make up the ELMAB3 aggregate. CCA bonus points are not factored into the ELMAB3 aggregate used for considering eligibility for the PFP, but are taken into account for posting.</sub></strong>
 </p>
 <p></p>
