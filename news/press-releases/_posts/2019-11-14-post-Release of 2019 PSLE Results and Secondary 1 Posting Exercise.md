@@ -23,7 +23,7 @@ and view the posting outcome subsequently via the Secondary 1 Internet
 System (S1-IS). The S1-IS will be accessible from 11.00am on Thursday,
 21 November 2019 to 3.00pm on Wednesday, 27 November 2019 for students
 to submit their school choices through the Ministry of Education’s (MOE)
-S1 Posting website at www.moe.gov.sg/s1-posting.</p>
+S1 Posting website at <a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>.</p>
 <p>4. Students, in discussion with their parents, should first consider their
 secondary school choices, make their decision, and complete the option
 form before logging on to the S1-IS. This will help to facilitate the smooth
