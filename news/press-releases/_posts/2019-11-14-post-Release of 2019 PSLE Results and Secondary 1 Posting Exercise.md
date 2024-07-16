@@ -36,11 +36,19 @@ on 22 and 25 to 27 November 2019.</p>
 </p>
 <p>6. The S1 Posting Results will be released on Friday, 20 December 2019.
 The posting results can be accessed through any of the following channels:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Short Message Service (SMS) via a local mobile number (if provided by
 the applicant during the application process)</p>
+</li>
+<li>
 <p>S1-IS (<a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/s1-posting</a>)
 using the student’s Birth Certificate number / FIN, and the S1 PIN</p>
+</li>
+<li>
 <p>At the student’s primary school</p>
+</li>
+</ul>
 <p>7. Students are to report on Monday, 23 December 2019 at 8.30am to their
 posted secondary schools.</p>
 <p>8. More information on S1 Posting and S1-IS is available at MOE’s <a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">S1 Posting website</a> and
