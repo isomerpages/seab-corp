@@ -9,8 +9,7 @@ variant: tiptap
 ---
 <p>1. Students collected their Primary School Leaving Examination (PSLE)
 results from their respective primary schools today.</p>
-<p><strong><u>Performance of 2017 Primary 6 Cohort</u></strong><sup>1</sup>
-</p>
+<p>Performance of 2017 Primary 6 Cohort1</p>
 <p>2. A total of 38,942 Primary 6 students sat for the PSLE this year. 38,312
 students (or 98.4%) are assessed suitable to proceed to secondary school.
 66.2% are eligible for the Express course, 21.4% for the Normal (Academic)
@@ -21,8 +20,7 @@ PSLE for the first time may re-attempt the PSLE in the coming year or apply
 to Assumption Pathway School (APS) or NorthLight School (NLS). Those who
 have made more than one attempt at PSLE will be preferentially offered
 a place in APS or NLS.</p>
-<p><strong><u>2017 Secondary 1 Posting Exercise</u></strong>
-</p>
+<p>2017 Secondary 1 Posting Exercise</p>
 <p>4. Eligible students would have received option forms to select secondary
 schools when they collected their results slips. In every sealed S1 Option
 Form, there will be a unique S1 Personal Identification Number (S1 PIN)
@@ -43,8 +41,9 @@ factors.</p>
 <p>6. The S1 posting results will be released on Thursday, 21 December 2017.
 Students are to report to the secondary schools that they are posted to
 on Friday, 22 December 2017 at 8.30am.
-<br><strong><sub>1 For information on children exempted from the Compulsory Education Act, please refer to the attached “Information Sheet on the 2017 PSLE Results of Students Exempted from Compulsory Education” in Annex A.</sub></strong>
-</p>
+<br>1 For information on children exempted from the Compulsory Education Act,
+please refer to the attached “Information Sheet on the 2017 PSLE Results
+of Students Exempted from Compulsory Education” in Annex A.</p>
 <p><strong>Annex A</strong>
 </p>
 <p><strong>INFORMATION SHEET ON THE 2017 PSLE RESULTS OF STUDENTS EXEMPTED FROM COMPULSORY EDUCATION</strong>
