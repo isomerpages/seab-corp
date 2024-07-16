@@ -51,10 +51,10 @@ on Friday, 22 December 2017 at 8.30am.</p>
 <li>
 <p>Under the Compulsory Education (CE) Act, designated schools - the six
 full- time madrasahs and San Yu Adventist School - are required to meet
-a minimum PSLE benchmark<sup>2</sup> at least twice in each 3-year assessment
-period from 2008 onwards, in order to continue to admit new Primary 1 (P1)
-pupils. Each home-schooled child is expected to meet the same benchmark
-as San Yu Adventist School.</p>
+a minimum PSLE benchmark2 at least twice in each 3-year assessment period
+from 2008 onwards, in order to continue to admit new Primary 1 (P1) pupils.
+Each home-schooled child is expected to meet the same benchmark as San
+Yu Adventist School.</p>
 </li>
 </ol>
 <p><strong>Madrasahs</strong>
@@ -62,8 +62,8 @@ as San Yu Adventist School.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>264 CE-exempt students from the 2012 P1 cohort were enrolled in the madrasahs
-and sat for the PSLE this year<sup>3</sup>. All three madrasahs with CE-exempt
-students taking the 2017 PSLE met the PSLE benchmark<sup>4</sup>.</p>
+and sat for the PSLE this year3. All three madrasahs with CE-exempt students
+taking the 2017 PSLE met the PSLE benchmark4.</p>
 </li>
 </ol>
 <p><strong>San Yu Adventist School</strong>
@@ -84,8 +84,10 @@ in 2019.</p>
 <li>
 <p>There were 42 CE-exempt home-schooled children from the 2012 P1 cohort
 who sat for their PSLE this year. 14 of them did not meet the benchmark.</p>
-<p></p>
 </li>
+</ol>
+<p></p>
+<ol start="5" data-tight="true" class="tight">
 <li>
 <p>Home-schooled children who did not meet the PSLE benchmark must re-sit
 the PSLE in 2018. Should they wish to attend a mainstream primary school
