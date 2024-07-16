@@ -40,8 +40,8 @@ courses.</p>
 at a more demanding level can be found at: <a href="http://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html</u></a>
 </p>
 <p><strong>S1 Posting Exercise</strong>
-<br>
-<br>6.&nbsp;The S1 Option Form to select secondary schools will be given to
+</p>
+<p>6.&nbsp;The S1 Option Form to select secondary schools will be given to
 eligible students together with their PSLE results. The S1 Option Form
 provides key information regarding the submission of school choices.</p>
 <p>7. A unique S1 Personal Identification Number (S1 PIN) to access the S1
@@ -63,7 +63,7 @@ ethos, culture, location and support for Special Educational Needs, if
 required.</p>
 <p>10. For a more holistic understanding of the offerings by the 141 secondary
 schools taking part in the 2023 S1 Posting Exercise, please visit SchoolFinder
-(<a href="http://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank"><u>moe.gov.sg/schoolfinder</u></a>).
+(<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/schoolfinder</a>).
 Parents and students are encouraged to take the time to explore the schools’
 websites, social media pages, as well as take part in their open houses
 (<a href="http://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank"><u>www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</u></a>),
