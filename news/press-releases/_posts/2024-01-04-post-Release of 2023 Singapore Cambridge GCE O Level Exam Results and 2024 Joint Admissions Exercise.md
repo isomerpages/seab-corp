@@ -114,7 +114,7 @@ Grade 3 to Grade 4.</p>
 <p>19. PFP-eligible students&nbsp;will receive a copy of Form&nbsp;P from
 their respective secondary schools in person. Each copy of Form P contains
 a unique password. Interested students should use the respective passwords
-to submit their applications online via the PFP website at https://pfp.polytechnic.edu.sg/PFP/index.html.
+to submit their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.
 More information on the eligibility requirements for the PFP, as well as
 how GCE O-Level results are considered in the computation of the ELMAB3
 aggregate, can be found on the PFP website indicated above.</p>
