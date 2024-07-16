@@ -46,7 +46,8 @@ posted secondary schools.</p>
 <p>8. More information on S1 Posting and S1-IS is available at MOE’s <a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">S1 Posting website</a> and
 in the information booklet entitled “Choosing Your Secondary Schools” distributed
 to Primary 6 students. For enquiries, please visit <a href="www.moe.gov.sg/contact" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/contact</a>.</p>
-<p>Crest Secondary School and Spectra Secondary School</p>
+<p><strong>Crest Secondary School and Spectra Secondary School</strong>
+</p>
 <p>9. Specialised Schools for Normal (Technical) students (SSNTs) - Crest
 Secondary School and Spectra Secondary School – offer an alternative educational
 pathway for students eligible for the Normal (Technical) course, who have
