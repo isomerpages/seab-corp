@@ -49,41 +49,58 @@ on Friday, 22 December 2017 at 8.30am.</p>
 </p>
 <p><strong>INFORMATION SHEET ON THE 2017 PSLE RESULTS OF STUDENTS EXEMPTED FROM COMPULSORY EDUCATION</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under the Compulsory Education (CE) Act,
-designated schools - the six full- time madrasahs and San Yu Adventist
-School - are required to meet a minimum PSLE benchmark<sup>2</sup> at least
-twice in each 3-year assessment period from 2008 onwards, in order to continue
-to admit new Primary 1 (P1) pupils. Each home-schooled child is expected
-to meet the same benchmark as San Yu Adventist School.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Under the Compulsory Education (CE) Act, designated schools - the six
+full- time madrasahs and San Yu Adventist School - are required to meet
+a minimum PSLE benchmark<sup>2</sup> at least twice in each 3-year assessment
+period from 2008 onwards, in order to continue to admit new Primary 1 (P1)
+pupils. Each home-schooled child is expected to meet the same benchmark
+as San Yu Adventist School.</p>
+</li>
+</ol>
 <p><strong>Madrasahs</strong>
 </p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 264 CE-exempt students from the 2012
-P1 cohort were enrolled in the madrasahs and sat for the PSLE this year<sup>3</sup>.
-All three madrasahs with CE-exempt students taking the 2017 PSLE met the
-PSLE benchmark<sup>4</sup>.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>264 CE-exempt students from the 2012 P1 cohort were enrolled in the madrasahs
+and sat for the PSLE this year<sup>3</sup>. All three madrasahs with CE-exempt
+students taking the 2017 PSLE met the PSLE benchmark<sup>4</sup>.</p>
+</li>
+</ol>
 <p><strong>San Yu Adventist School</strong>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One CE-exempt student from the 2012 P1
-cohort was enrolled in San Yu Adventist School and sat for the PSLE this
-year. Based on this candidate’s results, San Yu Adventist School did not
-meet the PSLE benchmark this year. However, as San Yu Adventist had met
-the PSLE benchmark twice in the current 3-year assessment period (from
-2015 to 2017), it can resume enrolling P1 students in 2019.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>One CE-exempt student from the 2012 P1 cohort was enrolled in San Yu Adventist
+School and sat for the PSLE this year. Based on this candidate’s results,
+San Yu Adventist School did not meet the PSLE benchmark this year. However,
+as San Yu Adventist had met the PSLE benchmark twice in the current 3-year
+assessment period (from 2015 to 2017), it can resume enrolling P1 students
+in 2019.</p>
+</li>
+</ol>
 <p><strong>Home-schooled Children</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There were 42 CE-exempt home-schooled
-children from the 2012 P1 cohort who sat for their PSLE this year. 14 of
-them did not meet the benchmark.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home-schooled children who did not meet
-the PSLE benchmark must re-sit the PSLE in 2018. Should they wish to attend
-a mainstream primary school to take full advantage of the resources in
-mainstream schools to better prepare for the PSLE in 2018, MOE will facilitate
-their admission to a suitable primary school. For home- schooled children
-who have met the PSLE benchmark, MOE will also facilitate their admission
-to a mainstream secondary school should they wish to do so.
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>There were 42 CE-exempt home-schooled children from the 2012 P1 cohort
+who sat for their PSLE this year. 14 of them did not meet the benchmark.</p>
+<p></p>
+</li>
+<li>
+<p>Home-schooled children who did not meet the PSLE benchmark must re-sit
+the PSLE in 2018. Should they wish to attend a mainstream primary school
+to take full advantage of the resources in mainstream schools to better
+prepare for the PSLE in 2018, MOE will facilitate their admission to a
+suitable primary school. For home- schooled children who have met the PSLE
+benchmark, MOE will also facilitate their admission to a mainstream secondary
+school should they wish to do so.
 <br>
 <br><strong><sub>2 For madrasahs, the benchmark is pegged at the average PSLE aggregate score of Malay students taking four standard-level subjects in the six lowest-performing mainstream schools, ranked according to the performance of Malay students taking four standard-level subjects in the PSLE that year. Students who did not sit for the PSLE as expected are assigned the lowest possible PSLE score. For San Yu Adventist School, the benchmark is pegged at the 33rd percentile PSLE aggregate score of all students taking four standard-level subjects in the PSLE that year.</sub></strong>
 <br><strong><sub>3 This does not include 9 students who had earlier transferred to mainstream schools.</sub></strong>
 <br><strong><sub>4 Madrasah Al-Arabiah and Madrasah Aljunied voluntarily stopped admission of P1 students from 2009 onwards. As Madrasah Wak Tanjong did not pass the 2008-2010 assessment cycle, it did not enrol P1 students in 2012 and thus does not have 2017 PSLE candidates.</sub></strong>
 </p>
+</li>
+</ol>
 <p>&nbsp;</p>
