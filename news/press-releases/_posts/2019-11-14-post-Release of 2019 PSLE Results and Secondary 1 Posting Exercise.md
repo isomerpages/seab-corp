@@ -10,7 +10,8 @@ variant: tiptap
 <p>1. The results of the 2019 Primary School Leaving Examination (PSLE) will
 be released on Thursday, 21 November 2019. Students may obtain their results
 from their respective primary schools from 11.00am on 21 November 2019.</p>
-<p>Submission of Secondary 1 Options</p>
+<p><strong>Submission of Secondary 1 Options</strong>
+</p>
 <p>2. Eligible students will receive option forms to select secondary schools
 when they collect their results slips. Students should discuss their secondary
 school choices with their parents before they complete the Secondary 1
