@@ -78,21 +78,22 @@ to apply for the PFP.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP)
-<br>(https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/)</p>
+<br>(<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/</a>)</p>
 </li>
 <li>
 <p>Polytechnic Foundation Programme (PFP)
-<br>(https://pfp.polytechnic.edu.sg/PFP/index.html)</p>
+<br>(<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
 </li>
 </ul>
-<p>Provision of Education and Career Guidance (ECG) services</p>
+<p><strong>Provision of Education and Career Guidance (ECG) services</strong>
+</p>
 <p>17. Students may consult their teachers or ECG Counsellors in their respective
 secondary schools to help them make informed decisions about their next
-steps. Students can also refer to the MySkillsFuture website at https://go.gov.sg/mysfsec
-to find out more about the range of education and career pathways available
+steps. Students can also refer to the MySkillsFuture website at <a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a> to
+find out more about the range of education and career pathways available
 to them. To complement the ECG services provided by schools, students and
 their parents may make an appointment with an ECG Counsellor at the ECG
-Centre at MOE (Grange Road) via 6831 1420, MOE_ECG@moe.gov.sg or http://bit.ly/moe_ecg.
+Centre at MOE (Grange Road) via 6831 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or http://bit.ly/moe_ecg.
 The MOE ECG Centre will be open from 13 to 27 December 2019, 9.00am to
 5.00pm.</p>
 <p>1 Private candidates can visit the SingPass website at www.singpass.gov.sg
