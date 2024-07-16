@@ -38,7 +38,8 @@ a copy of Form N from their secondary schools, inviting them to apply for
 the DPP.</p>
 <p>6. Applications for DPP can be submitted online via the ITE application
 portal between 2.30 pm on 18 December 2017 and 5.00 pm on 21 December 2017.</p>
-<p>Release of DPP Posting Results and Acceptance of DPP Offers</p>
+<p><strong>Release of DPP Posting Results and Acceptance of DPP Offers</strong>
+</p>
 <p>7. The DPP posting results will be released at 9.00 am on 26 December
 2017. Students will be able to check the posting results online via the
 ITE application portal.</p>
@@ -47,7 +48,8 @@ application portal between 9.00 am on 26 December 2017 and 3.00 pm on 28
 December 2017 to accept or reject the DPP offer.</p>
 <p>9. Students who do not have a confirmed place in the DPP should report
 to their secondary schools on 2 January 2018 for Secondary 5.</p>
-<p>Application for the Polytechnic Foundation Programme (PFP)</p>
+<p><strong>Application for the Polytechnic Foundation Programme (PFP)</strong>
+</p>
 <p>10. The Polytechnic Foundation Programme (PFP) is a diploma-specific foundation
 programme conducted over two academic semesters at the polytechnics. It
 caters to students in the Normal (Academic) course who have decided to
@@ -61,18 +63,25 @@ PFP.</p>
 their Secondary 5 year on 2 January 2018, while awaiting notification of
 eligibility and confirmation of a place in the PFP.</p>
 <p>12. For more information on the DPP and the PFP, please visit these websites:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP)
 <br>(http://www.ite.edu.sg/wps/portal/definitely-des/)</p>
+</li>
+<li>
 <p>Polytechnic Foundation Programme (PFP)
-<br>(https://pfp.polytechnic.edu.sg/PFP/index.html)</p>
-<p>Provision of Education and Career Guidance (ECG) services</p>
+<br>(<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
+</li>
+</ul>
+<p><strong>Provision of Education and Career Guidance (ECG) services</strong>
+</p>
 <p>13. After the release of the GCE N(A)-Level and N(T)-Level Examinations
 results, students may see their teachers or ECG Counsellors in their respective
 secondary schools to help them make informed choices about their next steps.
 To complement the ECG programmes and services provided by schools, students
-and their parents may also book an appointment at 6831 1420 or MOE_ECG@moe.gov.sg
-to see an ECG Counsellor at the ECG Centre @MOE (Grange Road). The ECG
-Centre will be open from 11 to 23 December 2017 (9.00am to 5.00pm).</p>
-<p><strong><sub>1 Private candidates can visit the SingPass website at www.singpass.gov.sg to find out if they are eligible for SingPass.</sub></strong>
+and their parents may also book an appointment at 6831 1420 or <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> to
+see an ECG Counsellor at the ECG Centre @MOE (Grange Road). The ECG Centre
+will be open from 11 to 23 December 2017 (9.00am to 5.00pm).</p>
+<p><strong><sub>1 Private candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass.</sub></strong>
 </p>
 <p></p>
