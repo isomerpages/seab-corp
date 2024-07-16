@@ -23,7 +23,8 @@ subject.</p>
 N(T)-Level certificate. The GCE N(T)-Level certificate is awarded to candidates
 who obtain a pass grade (i.e. of Grade D or better) in at least one N(T)
 subject.</p>
-<p>PROGRESSION TO SECONDARY 5 NORMAL (ACADEMIC)</p>
+<p><strong>PROGRESSION TO SECONDARY 5 NORMAL (ACADEMIC)</strong>
+</p>
 <p>5. 76.6% of the students from the N(A) course are eligible for promotion
 to Secondary 5 N(A) in 2018. These are students in the N(A) course who
 obtained an aggregate score not exceeding 19 points in English Language,
@@ -35,7 +36,8 @@ GCE N(A)-Level and school-based O-Level preliminary examination results,
 these students are also eligible for promotion to Secondary 5 N(A) if they
 obtain an aggregate score not exceeding 19 points in ELMAB3, and at least
 a Grade 5 for all subjects used in the computation of the ELMAB3.</p>
-<p>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</p>
+<p><strong>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</strong>
+</p>
 <p>7. Firstly, Secondary 4 N(A) students who had sat for the GCE N(A)-Level
 Examinations in 2017 and obtained an ELMAB3 aggregate of not exceeding
 19 points<sup>2</sup> will have the option of applying for the Direct-Entry
