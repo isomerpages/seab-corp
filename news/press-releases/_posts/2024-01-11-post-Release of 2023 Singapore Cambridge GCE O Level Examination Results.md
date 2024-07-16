@@ -45,7 +45,7 @@ Millennia Institute (MI) and their previous year’s entry score ranges (
 </li>
 <li>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
-aggregate type and area of interest (<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/coursefinder</u></a>)</p>
+aggregate type and area of interest (<a href="http://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 </ul>
 <p><strong>Education and Career Guidance (ECG) support</strong>
@@ -56,10 +56,10 @@ can also refer to the following websites to find out more about the range
 of education and career pathways available to them:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE’s CourseFinder (<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u></a>)</p>
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture&nbsp;(<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a>)</p>
+<p>MySkillsFuture&nbsp;(<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)</p>
 </li>
 </ul>
 <p>7.&nbsp;Besides their schools, students can also make an ECG counselling
