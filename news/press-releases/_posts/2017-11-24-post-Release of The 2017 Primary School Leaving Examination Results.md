@@ -41,9 +41,8 @@ factors.</p>
 <p>6. The S1 posting results will be released on Thursday, 21 December 2017.
 Students are to report to the secondary schools that they are posted to
 on Friday, 22 December 2017 at 8.30am.
-<br>1 For information on children exempted from the Compulsory Education Act,
-please refer to the attached “Information Sheet on the 2017 PSLE Results
-of Students Exempted from Compulsory Education” in Annex A.</p>
+<br><strong><sub>1 For information on children exempted from the Compulsory Education Act, please refer to the attached “Information Sheet on the 2017 PSLE Results of Students Exempted from Compulsory Education” in Annex A.</sub></strong>
+</p>
 <p><strong>Annex A</strong>
 </p>
 <p><strong>INFORMATION SHEET ON THE 2017 PSLE RESULTS OF STUDENTS EXEMPTED FROM COMPULSORY EDUCATION</strong>
