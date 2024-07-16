@@ -91,10 +91,10 @@ admission via the JAE for courses which they are eligible for.</p>
 <p><strong>Early Admissions Exercise – ITE</strong>
 </p>
 <p>15. Students who had accepted conditional offers to an ITE course through
-the ITE EAE6 in 2023 and have their offers confirmed based on their GCE
-O-Level examination results will not be eligible to participate in the
-JAE. Their EAE offers are confirmed if they meet the subject-specific Minimum
-Entry Requirements for the course.</p>
+the ITE EAE<sup>6</sup> in 2023 and have their offers confirmed based on
+their GCE O-Level examination results will not be eligible to participate
+in the JAE. Their EAE offers are confirmed if they meet the subject-specific
+Minimum Entry Requirements for the course.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
 <p>16. Secondary 4 Normal (Academic) [N(A)] students who have sat for GCE
@@ -106,8 +106,8 @@ Direct-Entry-Scheme to Polytechnic Programme (DPP).</p>
 <p>17. The PFP is an alternative to the Secondary 5 N(A) year. It is a one-year
 foundation programme at the polytechnics that offers a practice-oriented
 approach to prepare students for entry into the relevant diploma courses.</p>
-<p>18. Students are eligible to apply for the PFP if they obtain a raw ELMAB3&nbsp;aggregate7
-of 12 points or lower, and meet the subject-specific requirements for their
+<p>18. Students are eligible to apply for the PFP if they obtain a raw ELMAB3&nbsp;aggregate<sup>7</sup> of
+12 points or lower, and meet the subject-specific requirements for their
 chosen course.&nbsp;From the Academic Year (AY) 2024 intake, the minimum
 subject grades for the two ‘Best’ subjects will be relaxed from N(A)-Level
 Grade 3 to Grade 4.</p>
