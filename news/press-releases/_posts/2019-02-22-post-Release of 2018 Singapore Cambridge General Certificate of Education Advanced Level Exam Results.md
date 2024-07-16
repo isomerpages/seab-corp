@@ -44,8 +44,8 @@ school candidates are as follows.</p>
 <p>Number of candidates</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>At least 3 H2 passes, with a pass in General
-<br>Paper (GP) or Knowledge and Inquiry (KI)</p>
+<p>At least 3 H2 passes, with a pass in General Paper (GP) or Knowledge and
+Inquiry (KI)</p>
 </th>
 </tr>
 <tr>
