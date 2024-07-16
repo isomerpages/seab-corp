@@ -10,8 +10,7 @@ variant: tiptap
 <p>1. Students collected their Primary School Leaving Examination (PSLE)
 results from their respective primary schools today.</p>
 <p><strong><u>Performance of 2017 Primary 6 Cohort</u></strong><sup>1</sup>
-</p>
-<p>2. A total of 38,942 Primary 6 students sat for the PSLE this year. 38,312
+<br>2. A total of 38,942 Primary 6 students sat for the PSLE this year. 38,312
 students (or 98.4%) are assessed suitable to proceed to secondary school.
 66.2% are eligible for the Express course, 21.4% for the Normal (Academic)
 course, and 10.7% for the Normal (Technical) course.</p>
@@ -22,8 +21,7 @@ to Assumption Pathway School (APS) or NorthLight School (NLS). Those who
 have made more than one attempt at PSLE will be preferentially offered
 a place in APS or NLS.</p>
 <p><strong><u>2017 Secondary 1 Posting Exercise</u></strong>
-</p>
-<p>4. Eligible students would have received option forms to select secondary
+<br>4. Eligible students would have received option forms to select secondary
 schools when they collected their results slips. In every sealed S1 Option
 Form, there will be a unique S1 Personal Identification Number (S1 PIN)
 which can be used to submit their secondary school choices online via the
