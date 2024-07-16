@@ -63,7 +63,8 @@ for the PFP will open in January 2018, after the release of the GCE O-Level
 Examination results. Secondary 4 N(A) students who intend to apply for
 the PFP should first progress to Secondary 5 on 2 January 2018. For more
 information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
-<p>PROGRESSION OF NORMAL (TECHNICAL) STUDENTS</p>
+<p><strong>PROGRESSION OF NORMAL (TECHNICAL) STUDENTS</strong>
+</p>
 <p>13. All N(T) course students who completed their secondary education in
 2017 may apply to further their studies at ITE. Schools may also laterally
 transfer Secondary 4 N(T) students to Secondary 4 N(A) if they have obtained
