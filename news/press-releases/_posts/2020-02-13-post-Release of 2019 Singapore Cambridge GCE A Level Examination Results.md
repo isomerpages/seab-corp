@@ -64,8 +64,6 @@ that are suited to their strengths, interests and abilities.</p>
 <p>10. Alternatively, students can contact the MOE ECG Centre @ Grange Road
 from 14 to 28 February 2020 for ECG counselling via email: <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or
 phone: 6831 1420.</p>
-<p><strong><sub>1 Candidates can visit the SingPass website at </sub></strong>
-<a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub>
-</a><strong><sub> to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
+<p><strong><sub>1 Candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
 </p>
 <p></p>
