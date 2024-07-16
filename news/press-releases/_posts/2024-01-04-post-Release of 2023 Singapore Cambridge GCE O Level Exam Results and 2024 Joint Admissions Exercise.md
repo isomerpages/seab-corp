@@ -111,7 +111,7 @@ of 12 points or lower, and meet the subject-specific requirements for their
 chosen course.&nbsp;From the Academic Year (AY) 2024 intake, the minimum
 subject grades for the two ‘Best’ subjects will be relaxed from N(A)-Level
 Grade 3 to Grade 4.</p>
-<p>19. PFP-eligible students&nbsp;will receive a copy of Form&nbsp;P from
+<p>19. PFP-eligible students&nbsp;will receive a copy of <u>Form&nbsp;P</u> from
 their respective secondary schools in person. Each copy of Form P contains
 a unique password. Interested students should use the respective passwords
 to submit their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.
