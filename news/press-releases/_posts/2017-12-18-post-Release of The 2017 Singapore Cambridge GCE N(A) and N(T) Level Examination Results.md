@@ -12,7 +12,7 @@ variant: tiptap
 <p>1. Students who sat for the 2017 Singapore-Cambridge General Certificate
 of Education (GCE) Normal (Academic) [N(A)] and Normal (Technical) [N(T)]
 Level Examinations collected their results from their secondary schools
-today1.</p>
+today<sup>1</sup>.</p>
 <p>2. 9,983 students from the Secondary 4 N(A) Course and 4,793 students
 from the Secondary 4 N(T) Course sat for the examinations.</p>
 <p>3. 99.4% of the students from the N(A) course have been awarded the GCE
@@ -38,21 +38,21 @@ a Grade 5 for all subjects used in the computation of the ELMAB3.</p>
 <p>PROGRESSION PATHWAYS FOR NORMAL (ACADEMIC) STUDENTS</p>
 <p>7. Firstly, Secondary 4 N(A) students who had sat for the GCE N(A)-Level
 Examinations in 2017 and obtained an ELMAB3 aggregate of not exceeding
-19 points2 will have the option of applying for the Direct-Entry Scheme
-to Polytechnic Programme (DPP).</p>
+19 points<sup>2</sup> will have the option of applying for the Direct-Entry
+Scheme to Polytechnic Programme (DPP).</p>
 <p>8. The DPP prepares Secondary 4 N(A) students for progression into selected
-polytechnic diploma courses via a two-year Higher Nitec programme at the
-Institute of Technical Education (ITE). Under the DPP, students who successfully
-complete their Higher Nitec course and attain the minimum qualifying Grade
-Point Average (GPA) are guaranteed a place in a polytechnic diploma course
-mapped to their Higher Nitec course.</p>
+polytechnic diploma courses via a two-year <em>Higher Nitec</em> programme
+at the Institute of Technical Education (ITE). Under the DPP, students
+who successfully complete their <em>Higher Nitec</em> course and attain the
+minimum qualifying Grade Point Average (GPA) are guaranteed a place in
+a polytechnic diploma course mapped to their <em>Higher Nitec</em> course.</p>
 <p>9. About 1,200 DPP places will be offered across all three ITE Colleges.
 Applications for the DPP will open on 18 December 2017. For more information,
 please refer to http://www.ite.edu.sg/wps/portal/definitely-des/.</p>
 <p>10. Secondly, Secondary 4 N(A) students who sat for the GCE N(A)-Level
 Examinations in 2017 and obtained an ELMAB3 aggregate not exceeding 11
-points3 will also have the option of applying for the Polytechnic Foundation
-Programme (PFP).</p>
+points<sup>3</sup> will also have the option of applying for the Polytechnic
+Foundation Programme (PFP).</p>
 <p>11. The PFP is a one-year foundation programme at the polytechnics that
 offers a practice-oriented curriculum taught by polytechnic lecturers,
 to prepare students for entry into the relevant polytechnic diploma courses.
@@ -62,7 +62,7 @@ diploma course, subject to them passing all modules in the PFP.</p>
 for the PFP will open in January 2018, after the release of the GCE O-Level
 Examination results. Secondary 4 N(A) students who intend to apply for
 the PFP should first progress to Secondary 5 on 2 January 2018. For more
-information, please refer to https://pfp.polytechnic.edu.sg/PFP/index.html.</p>
+information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
 <p>PROGRESSION OF NORMAL (TECHNICAL) STUDENTS</p>
 <p>13. All N(T) course students who completed their secondary education in
 2017 may apply to further their studies at ITE. Schools may also laterally
