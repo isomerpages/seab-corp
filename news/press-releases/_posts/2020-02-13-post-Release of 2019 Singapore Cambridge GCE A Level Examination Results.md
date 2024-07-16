@@ -29,14 +29,14 @@ the candidates during the registration period.</p>
 </p>
 <p>5. In view of the COVID-19 situation, all school and private candidates
 will be able to view their results online via the results release system
-using SingPass or system- generated passwords. Candidates who are eligible
+using SingPass or system-generated passwords. Candidates who are eligible
 for SingPass<sup>1</sup>, but have not activated it, will receive a SingPass
 PIN mailer by Wednesday, 19 February 2020. The Singapore Examinations and
 Assessment Board (SEAB) will provide each candidate who is not eligible
 for SingPass with login details via email, also by Wednesday, 19 February
 2020.</p>
 <p>6. Results can be accessed via the results release system on SEAB’s website
-(<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/</a>)
+(<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>)
 from 3pm on Friday, 21 February 2020.</p>
 <p><u>Digital Certificates and Applications to Autonomous Universities</u>
 </p>
