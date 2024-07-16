@@ -22,7 +22,6 @@ who are eligible for SingPass<sup>1</sup> can also use their SingPass account
 to obtain their results online via the internet Examination Results Release
 System (iERRS) on SEAB’s website (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.seab.gov.sg</u></a>) from 2.30pm
 today.</p>
-<p><sup>1 </sup>Private candidates can visit the SingPass website at <a href="www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.singpass.gov.sg</a> to
-find out if they are eligible for SingPass and to activate their SingPass
-Two-Factor Authentication if they have not.</p>
+<p><strong><sup><sub>1 </sub></sup><sub>Private candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not.</sub></strong>
+</p>
 <p></p>
