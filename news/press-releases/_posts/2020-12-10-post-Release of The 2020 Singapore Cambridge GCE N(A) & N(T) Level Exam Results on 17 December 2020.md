@@ -46,26 +46,29 @@ SingPass account to obtain their results online via SEAB’s online results
 release system, similar to the arrangement for school candidates. Private
 candidates who are non-SingPass holders can use the SEAB-issued PIN sent
 to their email addresses which they had provided to SEAB.</p>
-<p>Application for Institute of Technical Education (ITE) courses</p>
+<p><strong>Application for Institute of Technical Education (ITE) courses</strong>
+</p>
 <p>8. Candidates who wish to apply for courses offered by the Institute of
 Technical Education (ITE) can submit their applications online via the
-ITE application portal (https://www.ite.edu.sg/apply-for-ITE-courses),
+ITE application portal (<a href="https://www.ite.edu.sg/apply-for-ITE-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/apply-for-ITE-courses</a>),
 between 2.30pm on 17 December 2020 and 5.00pm on 21 December 2020. Hard
 copy application forms will also be available at the Customer &amp; Visitor
 Centres at the three ITE Colleges. Applicants who wish to collect a hard
 copy application from the Customer &amp; Visitor Centres should book an
 appointment first by contacting the respective colleges via the email addresses
-or phone numbers provided at https://www.ite.edu.sg/who-we-are/get-in-touch.</p>
+or phone numbers provided at <a href="https://www.ite.edu.sg/who-we-are/get-in-touch" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/who-we-are/get-in-touch</a>.</p>
 <p>9. For courses offered under Aptitude-Based Admissions, candidates may
 check the interview details online via the ITE application portal on 22
 December 2020 from 2.00pm.</p>
-<p>Release of ITE Posting Results and Acceptance of ITE Offers</p>
+<p><strong>Release of ITE Posting Results and Acceptance of ITE Offers</strong>
+</p>
 <p>10. The ITE posting results will be released on 30 December 2020. Candidates
 may check the posting results online via the ITE application portal.</p>
 <p>11. Candidates who receive an ITE offer should log on to the ITE application
 portal between 30 December 2020 and 4 January 2021 to accept or reject
 the offer.</p>
-<p>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</p>
+<p><strong>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</strong>
+</p>
 <p>12. The Direct-Entry-Scheme to Polytechnic Programme (DPP) prepares candidates
 for progression into selected polytechnic diploma courses via a two-year
 Higher Nitec course at ITE. Under the DPP, candidates who successfully
@@ -76,7 +79,8 @@ for the DPP will receive a copy of Form N from their secondary schools,
 inviting them to apply for the DPP.</p>
 <p>13. Applications for the DPP can be submitted online via the ITE application
 portal between 2.30 pm on 17 December 2020 and 5.00 pm on 21 December 2020.</p>
-<p>Release of DPP Posting Results and Acceptance of DPP Offers</p>
+<p><strong>Release of DPP Posting Results and Acceptance of DPP Offers</strong>
+</p>
 <p>14. The DPP posting results will be released on 23 December 2020. Candidates
 may check the posting results online via the ITE application portal.</p>
 <p>15. Candidates who receive a DPP offer should log on to the ITE application
@@ -84,7 +88,8 @@ portal between 23 December 2020 and 28 December 2020 to accept or reject
 the DPP offer.</p>
 <p>16. School candidates who do not have a confirmed place in the DPP should
 report to their secondary schools in 2021 for Secondary 5.</p>
-<p>Application for the Polytechnic Foundation Programme (PFP)</p>
+<p><strong>Application for the Polytechnic Foundation Programme (PFP)</strong>
+</p>
 <p>17. The Polytechnic Foundation Programme (PFP) is a diploma-specific foundation
 programme conducted over two academic semesters at the polytechnics. It
 caters to candidates in the N(A) course who have decided to pursue a polytechnic
@@ -99,21 +104,28 @@ the GCE Ordinary-Level Examinations results release. Candidates eligible
 for the PFP will receive a copy of Form P on the same day, inviting them
 to apply for the PFP.</p>
 <p>20. For more information on the DPP and the PFP, please visit these websites:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP)
-<br>(https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/)</p>
+<br>(<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/</a>)</p>
+</li>
+<li>
 <p>Polytechnic Foundation Programme (PFP)
-<br>(https://pfp.polytechnic.edu.sg/PFP/index.html)</p>
+<br>(<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
+</li>
+</ul>
 <p>Provision of Education and Career Guidance (ECG) services</p>
 <p>21. School candidates may consult their teachers or ECG Counsellors in
 their respective secondary schools to help them make informed decisions
 about their next steps. Candidates can also refer to the MySkillsFuture
-website at https://go.gov.sg/mysfsec to find out more about the range of
-education and career pathways available to them. To complement the ECG
-services provided by schools, candidates may make an appointment for online
-or phone counselling with an ECG Counsellor from the ECG Centre at MOE
-(Grange Road) via 6831 1420, MOE_ECG@moe.gov.sg or https://go.gov.sg/moe-ecg-centre.
-The MOE ECG Centre will offer online or phone counselling from 10 to 23
-December 2020, 9.00am to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
+website at <a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a> to
+find out more about the range of education and career pathways available
+to them. To complement the ECG services provided by schools, candidates
+may make an appointment for online or phone counselling with an ECG Counsellor
+from the ECG Centre at MOE (Grange Road) via 6831 1420, <a href="mailto: MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or
+<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The MOE ECG Centre will offer online
+or phone counselling from 10 to 23 December 2020, 9.00am to 5.00pm (Saturdays:
+9.00am to 12.30pm).</p>
 <p><strong><sub>1 Candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass.</sub></strong>
 </p>
 <p></p>
