@@ -181,7 +181,7 @@ Minister’s Office</div>
 </li>
 <li>
 <p>Mr Tan Yee Kan
-<br>Deputy DIrector, Assessment Planning and Development</p>
+<br>Deputy Director, Assessment Planning and Development</p>
 </li>
 </ul>
 <p></p>
