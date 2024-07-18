@@ -110,7 +110,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1195_y25_sy_final.pdf?sfvrsn=6aa72757_2" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1195_y25_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/4046_y25_sy.pdf?sfvrsn=667f659c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,7 +170,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sy.pdf?sfvrsn=8029b838_2" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,16 +180,16 @@ format.</p>
 <p>1202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp1.pdf?sfvrsn=71769e1c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp2.pdf?sfvrsn=7c75462d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp3lc.pdf?sfvrsn=ca02d286_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1202_y25_sp3oral.pdf?sfvrsn=ed132ac3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sy.pdf?sfvrsn=944b77e5_2" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,16 +199,16 @@ format.</p>
 <p>1203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp1.pdf?sfvrsn=3c738995_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp2.pdf?sfvrsn=6c5a4f2a_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp3lc.pdf?sfvrsn=bafa3efa_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3&nbsp;LC</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1203_y25_sp3oral.pdf?sfvrsn=4ad4238a_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3&nbsp;LC</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,16 +218,16 @@ format.</p>
 <p>1204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y25_sy.pdf?sfvrsn=5fde0abc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,8 +237,8 @@ format.</p>
 <p>5148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y24_p1_video.mp4?sfvrsn=6345892b_2" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y24_p1_animation.mp4?sfvrsn=10366dc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
 <br>[2023]</p>
