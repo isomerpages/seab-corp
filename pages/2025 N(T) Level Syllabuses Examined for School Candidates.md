@@ -40,7 +40,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Level Syllabuses/School Candidates/1195_y25_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1195_y25_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Level Syllabuses/School Candidates/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
