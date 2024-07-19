@@ -447,7 +447,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/4049_y25_sy.pdf?sfvrsn=fc2f4a4c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Mathematics</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/4049_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -462,7 +462,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/4052_y25_sy.pdf?sfvrsn=8eec1071_2" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/4052_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -477,7 +477,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/5086_y25_sy035bebd3-91a5-4e56-ad07-c5869a19c5c3.pdf?sfvrsn=2ac967f0_1" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Chemistry)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/5086_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Chemistry)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -487,16 +487,16 @@ to understand the revised examination format.</p>
 <p>5086</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5086_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/5086_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/5086_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/5086_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/5086_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/5087_y25_syc765141d-ebc0-45d1-a656-7960566e4ad8.pdf?sfvrsn=56f3d4cb_1" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/5087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -506,14 +506,14 @@ to understand the revised examination format.</p>
 <p>5087</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5087_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5087_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/5087_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/5087_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/5088_y25_sya46cfb0f-cb33-4bd0-b192-b6344c7a2f11.pdf?sfvrsn=dc9a27c8_1" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/5088_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,16 +523,16 @@ to understand the revised examination format.</p>
 <p>5088</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5088_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/5088_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/5088_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/5088_y24_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/5088_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6091_y25_sy.pdf?sfvrsn=62e70c29_2" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/6091_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -542,15 +542,15 @@ to understand the revised examination format.</p>
 <p>6091</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/6091_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/6091_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]
 <br>There is no specimen for Paper 3.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6092_y25_sy.pdf?sfvrsn=2db431d4_2" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/6092_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -560,15 +560,15 @@ to understand the revised examination format.</p>
 <p>6092</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/6092_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/6092_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]
 <br>There is no specimen for Paper 3.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6093_y25_sy.pdf?sfvrsn=99bdca09_2" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/6093_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -578,15 +578,15 @@ to understand the revised examination format.</p>
 <p>6093</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6093_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6093_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/6093_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/6093_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]
 <br>There is no specimen for Paper 3.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7085_y25_sy.pdf?sfvrsn=ca33279e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7085_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -601,7 +601,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7087_y25_sy.pdf?sfvrsn=52d7ebe9_2" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>&nbsp;[Updated]
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>&nbsp;[Updated]
 ^</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -611,8 +611,8 @@ to understand the revised examination format.</p>
 <p>7087</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7087_y24_sp.pdf?sfvrsn=3a54fe71_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|&nbsp;
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7087_y24_insert.pdf?sfvrsn=ef3b0162_2" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7087_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|&nbsp;
+<a href="/files/O Lvl Syllabus Private Cddts/2025/7087_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]
 <br>
@@ -621,7 +621,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_sy.pdf?sfvrsn=710c2588_2" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
 <br>Software required:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -642,9 +642,9 @@ to understand the revised examination format.</p>
 <p>7155</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_sp_1.pdf?sfvrsn=84d3d144_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_sp_2.pdf?sfvrsn=d75cec1c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|&nbsp;
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_si_2.pdf?sfvrsn=6c4952a7_2" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7155_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/7155_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|&nbsp;
+<a href="/files/O Lvl Syllabus Private Cddts/2025/7155_y25_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2024]
 <br>
@@ -682,7 +682,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1116_y25_sy.pdf?sfvrsn=ef6644db_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -692,15 +692,15 @@ candidates to write answers on the question paper.</p>
 <p>1116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1116_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1116_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1116_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1160_y25_sy.pdf?sfvrsn=84f59078_2" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,10 +710,10 @@ candidates to write answers on the question paper.</p>
 <p>1160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]
 <br>
 </p>
@@ -721,7 +721,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2031_y25_sy.pdf?sfvrsn=9a496ea_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2031_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -736,7 +736,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sy.pdf?sfvrsn=5072b390_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -746,9 +746,9 @@ candidates to write answers on the question paper.</p>
 <p>1117</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sp1.pdf?sfvrsn=9aae1271_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sp2.pdf?sfvrsn=c0b9f29_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sp3.pdf?sfvrsn=45a2ecad_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]
 <br>
 </p>
@@ -756,7 +756,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sy.pdf?sfvrsn=d22c81f4_2" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -766,10 +766,10 @@ candidates to write answers on the question paper.</p>
 <p>1148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp1.pdf?sfvrsn=5b567804_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp2.pdf?sfvrsn=a236a110_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp3oral.pdf?sfvrsn=7b191640_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp3lc.pdf?sfvrsn=8ed1790d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1148_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1148_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1148_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1148_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]
 <br>
 </p>
@@ -777,7 +777,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2032_y25_sy.pdf?sfvrsn=38497901_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2032_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -792,7 +792,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2080_y25_sy.pdf?sfvrsn=e14df778_2" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2080_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -807,7 +807,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/3186_y25_sy.pdf?sfvrsn=10d5ecef_2" rel="noopener noreferrer nofollow" target="_blank"><u>Arabic</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/3186_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Arabic</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -822,7 +822,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sy.pdf?sfvrsn=a326af7f_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1147_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -832,9 +832,9 @@ candidates to write answers on the question paper.</p>
 <p>1147</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sp1.pdf?sfvrsn=c3ae5319_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sp2.pdf?sfvrsn=3efed359_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sp3.pdf?sfvrsn=7a8b55cb_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1147_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1147_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1147_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]
 <br>
 </p>
@@ -842,7 +842,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sy.pdf?sfvrsn=fa6914d3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1157_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -852,10 +852,10 @@ candidates to write answers on the question paper.</p>
 <p>1157</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sp1.pdf?sfvrsn=cb217aa_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sp3oral.pdf?sfvrsn=c9f1db6c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_splc.pdf?sfvrsn=ebc39264_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1157_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1157_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1157_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1157_y25_splc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]
 <br>
 </p>
@@ -863,7 +863,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2033_y25_sy.pdf?sfvrsn=ab718635_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2033_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -878,7 +878,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2263_y25_sy.pdf?sfvrsn=72ee6a3c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2263_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>
 <br>
 </p>
 </td>
@@ -889,7 +889,7 @@ candidates to write answers on the question paper.</p>
 <p>2263</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2263_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2263_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]
 <br>
 </p>
@@ -897,7 +897,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2264_y25_sy.pdf?sfvrsn=5af1cd2b_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Malay)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2264_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Malay)</u></a>
 <br>
 </p>
 </td>
@@ -908,7 +908,7 @@ candidates to write answers on the question paper.</p>
 <p>2264</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2264_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2264_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]
 <br>
 </p>
@@ -916,7 +916,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2265_y25_sy.pdf?sfvrsn=1eed54fe_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2265_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
 <br>
 </p>
 </td>
@@ -927,7 +927,7 @@ candidates to write answers on the question paper.</p>
 <p>2265</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2265_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2265_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]
 <br>
 </p>
