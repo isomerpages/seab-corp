@@ -766,7 +766,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1116_y25_sy.pdf?sfvrsn=ef6644db_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1116_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,15 +776,15 @@ agencies.</p>
 <p>1116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1116_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1116_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1116_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1116_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1116_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1116_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1153_y25_sy.pdf?sfvrsn=c874c395_2" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B&nbsp;+</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B&nbsp;+</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -794,16 +794,16 @@ agencies.</p>
 <p>1153</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1153_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1153_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1153_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1153_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1160_y25_sy.pdf?sfvrsn=84f59078_2" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1160_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -813,16 +813,16 @@ agencies.</p>
 <p>1160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1160_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1160_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1160_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1166_y25_sy.pdf?sfvrsn=bfc6e32a_2" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese (Special Programme)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1166_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese (Special Programme)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -837,7 +837,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2031_y25_sy.pdf?sfvrsn=9a496ea_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2031_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -852,7 +852,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sy.pdf?sfvrsn=5072b390_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -862,15 +862,15 @@ agencies.</p>
 <p>1117</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sp1.pdf?sfvrsn=9aae1271_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sp2.pdf?sfvrsn=c0b9f29_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1117_y25_sp3.pdf?sfvrsn=45a2ecad_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1133_y25_sy.pdf?sfvrsn=89218cc9_2" rel="noopener noreferrer nofollow" target="_blank"><u>Malay (Special Programme)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1133_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay (Special Programme)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -885,7 +885,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sy.pdf?sfvrsn=d22c81f4_2" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -895,16 +895,16 @@ agencies.</p>
 <p>1148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp1.pdf?sfvrsn=5b567804_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp2.pdf?sfvrsn=a236a110_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp3oral.pdf?sfvrsn=7b191640_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1148_y25_sp3lc.pdf?sfvrsn=8ed1790d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1148_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1148_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1148_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1148_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1151_y25_sy.pdf?sfvrsn=f4d74e6d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B&nbsp;+</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B&nbsp;+</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -914,16 +914,16 @@ agencies.</p>
 <p>1151</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1151_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1151_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1151_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1151_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2032_y25_sy.pdf?sfvrsn=38497901_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2032_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -938,7 +938,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sy.pdf?sfvrsn=a326af7f_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1147_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -948,15 +948,15 @@ agencies.</p>
 <p>1147</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sp1.pdf?sfvrsn=c3ae5319_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sp2.pdf?sfvrsn=3efed359_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1147_y25_sp3.pdf?sfvrsn=7a8b55cb_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1147_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1147_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1147_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1152_y25_sy.pdf?sfvrsn=d3529392_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> +</p>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1152_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> +</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
@@ -965,16 +965,16 @@ agencies.</p>
 <p>1152</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1152_y25_sp1.pdf?sfvrsn=b8a3511d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1152_y25_sp2.pdf?sfvrsn=a3cf1948_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1152_y25_sp3oral.pdf?sfvrsn=47d46202_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1152_y25_sp3lc.pdf?sfvrsn=49ccfbe0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sy.pdf?sfvrsn=fa6914d3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1157_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -984,16 +984,16 @@ agencies.</p>
 <p>1157</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sp1.pdf?sfvrsn=cb217aa_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_sp3oral.pdf?sfvrsn=c9f1db6c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1157_y25_splc.pdf?sfvrsn=ebc39264_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1157_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1157_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1157_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1157_y25_splc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2033_y25_sy.pdf?sfvrsn=ab718635_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2033_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1008,7 +1008,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2263_y25_sy.pdf?sfvrsn=72ee6a3c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2263_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>
 <br>
 </p>
 </td>
@@ -1019,7 +1019,7 @@ agencies.</p>
 <p>2263</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2263_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2263_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]
 <br>
 </p>
@@ -1027,7 +1027,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2264_y25_sy.pdf?sfvrsn=5af1cd2b_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Malay)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2264_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Malay)</u></a>
 <br>
 </p>
 </td>
@@ -1038,7 +1038,7 @@ agencies.</p>
 <p>2264</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2264_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2264_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]
 <br>
 </p>
@@ -1046,7 +1046,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2265_y25_sy.pdf?sfvrsn=1eed54fe_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2265_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
 <br>
 </p>
 </td>
@@ -1057,7 +1057,7 @@ agencies.</p>
 <p>2265</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2265_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2265_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]
 <br>
 </p>
@@ -1065,7 +1065,8 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6081_y25_sy.pdf?sfvrsn=75bbfdd8_2" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science<br>[</u></a>Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6081_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science </u></a><u>[Revised]</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
