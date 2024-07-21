@@ -53,6 +53,6 @@ learning preferences.</p>
 <p>7. Alternatively, students can contact the MOE ECG Centre @ Grange Road
 from 14 to 28 February 2020 for ECG counselling via email: <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or
 phone: 6831 1420.</p>
-<p><strong><sub>1 The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Advanced Level examination.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Advanced Level examination.</sub></strong>
 </p>
 <p></p>
