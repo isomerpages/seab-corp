@@ -50,7 +50,7 @@ Point Average (GPA) are guaranteed a place in a polytechnic diploma course
 mapped to their Higher Nitec course.</p>
 <p>8. About 1,200 DPP places will be offered across all three ITE Colleges.
 Applications for the DPP will open on 17 December 2021. For more information,
-please refer to <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</u></a>.</p>
+please refer to <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</u></a>.</p>
 <p>9. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
 in 2021 as school candidates also have the option of applying for the Polytechnic
 Foundation Programme (PFP). Students are eligible to apply for the PFP
@@ -67,7 +67,7 @@ results release. Secondary 4 N(A) students who intend to apply for the
 PFP should first progress to Secondary 5 on 4 January 2022. All PFP-bound
 students are required to attend their Secondary 5N(A) classes in their
 secondary schools up till the last Friday of January 2022, i.e. 28 January
-2022. For more information, please refer to <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.</p>
+2022. For more information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.</p>
 <p>12. All N(A) course students who have completed their secondary education
 may also apply to further their studies through ITE’s two-year Nitec or
 three-year Higher Nitec programmes. Starting from Academic Year 2022, ITE
@@ -76,7 +76,7 @@ directly to a Higher Nitec certification. This will equip ITE graduates
 with deeper industry-relevant skills for employment, as well as provide
 a strong foundation for further education and skills upgrading over the
 course of their careers. For more information on courses available at ITE,
-please refer to <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec</u></a>.</p>
+please refer to <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec</u></a>.</p>
 <p><strong>Progression Pathways for Normal (Technical) students</strong>
 </p>
 <p>13. All N(T) course students who complete their secondary education in
@@ -93,10 +93,10 @@ teachers or ECG Counsellors in their respective secondary schools to help
 them make informed decisions about their next steps. To complement the
 ECG services provided by schools, candidates may also make an appointment
 for online or phone counselling with an ECG Counsellor from the ECG Centre
-at MOE (Grange Road) via 6831 1420, <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
+at MOE (Grange Road) via 6831 1420, <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
 The MOE ECG Centre will offer online or phone counselling from 10 to 24
 December 2021<sup>7</sup>, 9.00am to 5.00pm. Candidates can also refer
-to the MySkillsFuture website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a> to
+to the MySkillsFuture website at <a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a> to
 find out more about the range of education and career pathways available
 to them.</p>
 <p><strong><sup><sub>1</sub></sup><sub> The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Normal (Academic) and Normal (Technical) Level Examinations.</sub></strong>
