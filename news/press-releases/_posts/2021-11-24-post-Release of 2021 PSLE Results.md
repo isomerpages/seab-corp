@@ -63,7 +63,7 @@ the option form before logging on to the S1-IS to submit their secondary
 school options. This will help to ensure the smooth completion of their
 online submission. The S1-IS will be accessible from 11.30am on Wednesday,
 24 November 2021 to 3.00pm on Tuesday, 30 November 2021 through MOE’s S1
-Posting website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>.</p>
+Posting website at <a href="www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>.</p>
 <p>9. The indicative PSLE Score ranges for individual secondary schools released
 by MOE in April 2021<sup>2</sup> serves as a starting point for students
 and their parents as they consider their secondary school choices. However,
@@ -73,7 +73,7 @@ and interests. These include the schools’ distinctive programmes, subjects
 and Co-Curricular Activities offered, ethos and culture, home- school distance,
 and support for Special Educational Needs, if required. For a more holistic
 understanding of the offerings by the 139 secondary schools taking part
-in the 2021 S1 Posting Exercise, please visit SchoolFinder (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/schoolfinder</u></a>).
+in the 2021 S1 Posting Exercise, please visit SchoolFinder (<a href="https://moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/schoolfinder</u></a>).
 Parents and students are encouraged to take the time to explore the schools’
 websites, social media pages, as well as take part in their virtual open
 houses, to find out more about the schools that interest them before selecting
@@ -89,7 +89,7 @@ following channels:</p>
 the applicant during the application process)</p>
 </li>
 <li>
-<p>S1-IS (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>)
+<p>S1-IS (<a href="www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>)
 using the student’s Birth Certificate number / FIN, and the S1 PIN</p>
 </li>
 <li>
