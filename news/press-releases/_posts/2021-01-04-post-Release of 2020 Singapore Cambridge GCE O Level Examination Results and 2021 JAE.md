@@ -65,12 +65,12 @@ to collect their Form A from their schools or appoint a proxy to do so,
 they may contact their school for assistance.</p>
 <p>9. The JAE-Internet System (JAE-IS) will be accessible from 3.00pm on
 Monday, 11 January 2021, to 4.00pm on Friday, 15 January 2021 for students
-to submit their course choices through the JAE website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>.
+to submit their course choices through the JAE website at <a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>.
 Applicants are strongly encouraged to use the JAE worksheet (provided in
 Form A or the JAE information booklet) before submitting their online application.
 The JAE-IS can be accessed using SingPass or the JAE PIN (found in Form
 A). For more details on the JAE, applicants may refer to the JAE website
-at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a> or
+at <a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a> or
 the 2021 JAE information booklet distributed to O-Level students.</p>
 <p><strong><u>Application Results</u></strong>
 </p>
@@ -95,7 +95,7 @@ examination results. Students admitted to a JC through DSA-JC will not
 be eligible to participate in the JAE.</p>
 <p>14. Students who do not meet the JC admission criteria may take part in
 the JAE to apply for courses which they are eligible for. More details
-on DSA-JC can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-jc</u></a>.</p>
+on DSA-JC can be found at <a href="www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-jc</u></a>.</p>
 <p><strong>Early Admissions Exercise – Polytechnics</strong>
 </p>
 <p>15. Students who had accepted conditional offers to a polytechnic course
@@ -107,7 +107,7 @@ if they meet the following criteria:</p>
 examinations; and</p>
 <p>b. Minimum Entry Requirements for the respective polytechnic courses</p>
 <p>16. Students who do not meet the above criteria may take part in the JAE.
-More details on Polytechnic EAE can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://eae.polytechnic.edu.sg</u></a> .</p>
+More details on Polytechnic EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://eae.polytechnic.edu.sg</u></a>.</p>
 <p><strong>Early Admissions Exercise – ITE</strong>
 </p>
 <p>17. Students who had accepted conditional offers to an ITE course through
@@ -115,7 +115,7 @@ the ITE EAE in 2020 and have their offers confirmed based on their GCE
 O-Level examination results will not be eligible to participate in the
 JAE. Their EAE offers are confirmed if they meet the subject-specific Minimum
 Entry Requirements for the course. More details on ITE EAE can be found
-at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</u></a>.</p>
+at <a href="www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</u></a>.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
 <p>18. Secondary 4 Normal (Academic) [N(A)] students who have sat for O-Level
@@ -135,7 +135,7 @@ a copy of <u>Form P</u> from their respective secondary schools when they
 collect their GCE O-Level results on Monday, 11 January 2021. Each copy
 of Form P contains a unique password. Interested students should use the
 respective passwords to submit their applications online via the PFP website
-at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.
+at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.
 More information on the eligibility requirements for the PFP, as well as
 how O-Level results are considered in the computation of the ELMAB3 aggregate,
 can be found on the PFP website.</p>
@@ -150,10 +150,10 @@ or appeal for a change of course by 4.00pm on Thursday, 21 January 2021.</p>
 diploma courses via a two-year Higher Nitec course at ITE. Students are
 eligible to apply if they have obtained a raw ELMAB3 aggregate not exceeding
 19 points and met the subject- specific requirements for their chosen course.
-More information on the DPP can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/</u></a>.</p>
+More information on the DPP can be found at <a href="www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/</u></a>.</p>
 <p>24. Secondary 4 N(A) students who are newly eligible after taking into
 account their O-Level examination results should submit their DPP applications
-online via the DPP application portal at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/apply-for-ite-courses</u></a>.
+online via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/apply-for-ite-courses</u></a>.
 The final application phase for the DPP will open on Monday, 11 January
 2021 and close on Friday, 15 January 2021.</p>
 <p>25. The DPP posting results for applications made under the final application
