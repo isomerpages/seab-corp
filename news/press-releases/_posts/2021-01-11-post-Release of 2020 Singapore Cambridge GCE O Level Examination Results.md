@@ -79,7 +79,7 @@ offer online or phone counselling from 6 to 20 January 2021, 9.00am to
 </ol>
 <p><strong><sup><sub>1 </sub></sup><sub>The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
 </p>
-<p><strong><sup><sub>2</sub></sup><sub> Candidates who receive 1 or more GCE O-Level passes will be awarded certificates.</sub></strong>
+<p><strong><sup><sub>2 </sub></sup><sub>Candidates who receive 1 or more GCE O-Level passes will be awarded certificates.</sub></strong>
 </p>
 <p><strong><sup><sub>3</sub></sup><sub> Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
 </p>
