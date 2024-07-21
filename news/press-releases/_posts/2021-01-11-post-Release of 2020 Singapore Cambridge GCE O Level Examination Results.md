@@ -44,17 +44,17 @@ examination results.</p>
 </li>
 <li>
 <p>Eligible school candidates who sat for the 2020 GCE O-Level examination
-will receive Form A<sup>3</sup> on Monday, 11 January 2021, when they collect
-their O-Level results in person. Private candidates who are eligible for
-JAE will continue to receive Form A via post sent to the address that they
-had provided to SEAB earlier. There will not be online copies of the Form
-A. Candidates’ proxies may also collect their Form A on behalf of the candidates
-by Wednesday, 13 January 2021. If candidates are not able to collect their
-Form A from their schools or appoint a proxy to do so, they may contact
-their school for assistance. The JAE-Internet System (JAE-IS) will be accessible
-from 3.00pm on Monday, 11 January 2021, to 4.00pm on Friday, 15 January
-2021 for students to submit their course choices through the JAE website
-at www.moe.gov.sg/jae.</p>
+will receive <u>Form A</u><sup>3</sup> on Monday, 11 January 2021, when they
+collect their O-Level results in person. Private candidates who are eligible
+for JAE will continue to receive Form A via post sent to the address that
+they had provided to SEAB earlier. There will not be online copies of the
+Form A. Candidates’ proxies may also collect their Form A on behalf of
+the candidates by Wednesday, 13 January 2021. If candidates are not able
+to collect their Form A from their schools or appoint a proxy to do so,
+they may contact their school for assistance. The JAE-Internet System (JAE-IS)
+will be accessible from 3.00pm on Monday, 11 January 2021, to 4.00pm on
+Friday, 15 January 2021 for students to submit their course choices through
+the JAE website at <a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.</p>
 </li>
 </ol>
 <p><strong>Education and Career Guidance (ECG)</strong>
@@ -63,18 +63,18 @@ at www.moe.gov.sg/jae.</p>
 <li>
 <p>Students who would like guidance on their education options can approach
 their teachers or the ECG Counsellors supporting their schools. Students
-can also refer to the interactive MySkillsFuture portal at https://go.gov.sg/mysfsec
-to find out more about the range of education options and career pathways
+can also refer to the interactive MySkillsFuture portal at <a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a> to
+find out more about the range of education options and career pathways
 available to them.</p>
 <p></p>
 </li>
 <li>
 <p>To complement the ECG services provided by schools, students can make
 an appointment for online or phone counselling with an ECG Counsellor from
-the ECG Centre at MOE (Grange Road) via the e-Appointment system at https://go.gov.sg/moe-ecg-centre,
-calling the ECG hotline at 6831 1420, or emailing MOE_ECG@moe.gov.sg. The
-MOE ECG Centre will offer online or phone counselling from 6 to 20 January
-2021, 9.00am to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
+the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>,
+calling the ECG hotline at 6831 1420, or emailing <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>. The MOE ECG Centre will
+offer online or phone counselling from 6 to 20 January 2021, 9.00am to
+5.00pm (Saturdays: 9.00am to 12.30pm).</p>
 </li>
 </ol>
 <p><strong><sup><sub>1 </sub></sup><sub>The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
