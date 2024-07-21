@@ -40,7 +40,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1135_y25_sy.pdf?sfvrsn=7fa07562_2" rel="noopener noreferrer nofollow" target="_blank"><u>Arabic as a 3rd Language</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1135_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Arabic as a 3rd Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1136_y25_sy.pdf?sfvrsn=a1669d49_2" rel="noopener noreferrer nofollow" target="_blank"><u>Bahasa Indonesia as a 3rd Language</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1136_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bahasa Indonesia as a 3rd Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/1184_y25_sy.pdf?sfvrsn=6cf6e92f_2" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1184_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2065_y25_sy.pdf?sfvrsn=66c13f2d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2065_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +100,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2174_y25_sy.pdf?sfvrsn=67a8be0b_2" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2174_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,14 +110,14 @@ from SEAB.</p>
 <p>2174</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2174_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2174_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2174_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/2174_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2260_y25_sy.pdf?sfvrsn=9569f4fd_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Geography)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2260_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Geography)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,16 +127,16 @@ from SEAB.</p>
 <p>2260</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|&nbsp;
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2260_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/2260_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|&nbsp;
+<a href="/files/O Lvl Syllabus Sch Cddts/2025/2260_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2261_y25_sy.pdf?sfvrsn=41952445_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, History)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2261_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, History)</u></a>
 <br>
 </p>
 </td>
@@ -147,14 +147,14 @@ from SEAB.</p>
 <p>2261</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2261_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2261_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2261_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/2261_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2262_y25_syf7ef45cdc6284088ae3bce1d7e734fe2.pdf?sfvrsn=ffc705a7_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in English)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2262_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in English)</u></a>
 <br>
 </p>
 </td>
@@ -165,13 +165,13 @@ from SEAB.</p>
 <p>2262</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2262_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2262_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2279_y25_sy.pdf?sfvrsn=a8228d90_2" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2279_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,10 +181,10 @@ from SEAB.</p>
 <p>2279</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2279_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2279_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2279_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/O Lvl Syllabus Sch Cddts/2025/2279_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2279_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/2279_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2279_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
@@ -192,7 +192,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2286_y25_sy.pdf?sfvrsn=641fa8fe_2" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a> +</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2286_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u> </a>+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -206,7 +206,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2299_y25_sy.pdf?sfvrsn=19ef2da0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Drama</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2299_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Drama</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,12 +216,26 @@ from SEAB.</p>
 <p>2299</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2299_y25_sp_1-v0-4_final.pdf?sfvrsn=c110f4b3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/2299_y25_spre_1-v0-4_final.pdf?sfvrsn=9ac1c3c5_2" rel="noopener noreferrer nofollow" target="_blank"><u>Pre-release</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2299_y25_sp_1_v0_4_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/O Lvl Syllabus Sch Cddts/2025/2299_y25_spre_1_v0_4_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Pre-release</u>
 </a>
 <br>[2024]
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
