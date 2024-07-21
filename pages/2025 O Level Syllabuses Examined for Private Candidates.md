@@ -260,7 +260,7 @@ to understand the revised examination format.</p>
 <a href="/files/O Lvl Syllabus Private Cddts/2025/2279_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br><a href="/files/O Lvl Syllabus Private Cddts/2025/2279_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2279_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<a href="/files/O Lvl Syllabus Private Cddts/2025/2279_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
