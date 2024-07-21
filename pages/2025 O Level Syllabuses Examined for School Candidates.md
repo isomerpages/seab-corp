@@ -712,7 +712,7 @@ candidates to write their answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/as-np04-biotechnology-syllabus_2025.pdf?sfvrsn=7794fc6_2" rel="noopener noreferrer nofollow" target="_blank"><u>Biotechnology</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/as_np04_biotechnology_syllabus_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biotechnology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -724,7 +724,7 @@ candidates to write their answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/as-np05-design-studies-syllabus_2025.pdf?sfvrsn=234080e6_2" rel="noopener noreferrer nofollow" target="_blank"><u>Design Studies</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/as_np05_design_studies_syllabus_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design Studies</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
