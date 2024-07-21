@@ -577,7 +577,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6097_y25_sy.pdf?sfvrsn=2d479c7c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6097_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -592,7 +592,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6123_y25_sy.pdf?sfvrsn=7bed87c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6123_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -606,7 +606,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6124_y25_sy.pdf?sfvrsn=56e98fb3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Art</u></a>&nbsp;#</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6124_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Art</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -620,7 +620,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7059_y25_sy.pdf?sfvrsn=d3aa364e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Design &amp; Technology</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7059_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design &amp; Technology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -635,7 +635,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7085_y25_sy.pdf?sfvrsn=ca33279e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>&nbsp;+</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7085_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>&nbsp;+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -649,7 +649,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7087_y25_sy.pdf?sfvrsn=52d7ebe9_2" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>&nbsp;[Updated]
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u>&nbsp;</a>[Updated]
 ^</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -659,15 +659,15 @@ from SEAB.</p>
 <p>7087</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7087_y24_sp.pdf?sfvrsn=3a54fe71_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|&nbsp;
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7087_y24_insert.pdf?sfvrsn=ef3b0162_2" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7087_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u>&nbsp;</a>|&nbsp;
+<a href="/files/O Lvl Syllabus Sch Cddts/2025/7087_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_sy.pdf?sfvrsn=710c2588_2" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u>&nbsp;</a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -676,9 +676,9 @@ from SEAB.</p>
 <p>7155</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_sp_1.pdf?sfvrsn=84d3d144_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_sp_2.pdf?sfvrsn=d75cec1c_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/7155_y25_si_2.pdf?sfvrsn=6c4952a7_2" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 </p>
 <p>[2024]</p>
