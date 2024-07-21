@@ -59,13 +59,13 @@ to better understand the schools’ environment, programmes and culture.
 The following websites will provide more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SchoolFinder (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/secschoolfinder</u></a>)</p>
+<p>SchoolFinder (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/secschoolfinder</u></a>)</p>
 </li>
 <li>
-<p>Virtual open houses held by secondary schools (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/openhouse-2021</u></a>)</p>
+<p>Virtual open houses held by secondary schools (<a href="https://go.gov.sg/openhouse-2021" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/openhouse-2021</u></a>)</p>
 </li>
 <li>
-<p>PSLE-FSBB Microsite (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/microsites/psle-fsbb/</u></a>)</p>
+<p>PSLE-FSBB Microsite (<a href="https://moe.gov.sg/microsites/psle-fsbb/" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/microsites/psle-fsbb/</u></a>)</p>
 </li>
 <li>
 <p>Secondary school websites</p>
@@ -94,21 +94,21 @@ growth areas, allowing students to better discover their interests and
 make more informed choices about their post-secondary education and future
 careers.</p>
 <p>10. Students and their parents are encouraged to visit CSS and SSS’ school
-websites (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.crestsec.edu.sg</u></a> and
-<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.spectra.edu.sg</u>
+websites (<a href="www.crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.crestsec.edu.sg</u></a> and
+<a href="www.spectra.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.spectra.edu.sg</u>
 </a>) for information on their Pre-Registration Experiences, where they can
 register to visit the schools in small groups to find out more about the
 schools’ distinctive programmes, subjects, culture, ethos and other offerings.
-CSS’ e-Immersion games portal “Crest Adventure” (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.crestopenhouse.sg</a>) also offers
-a fun and engaging way for interested students to learn about CSS’ unique
-curriculum. A video tour of SSS is also available on their school website.</p>
+CSS’ e-Immersion games portal “Crest Adventure” (<a href="www.crestopenhouse.sg" rel="noopener noreferrer nofollow" target="_blank">www.crestopenhouse.sg</a>) also offers a fun
+and engaging way for interested students to learn about CSS’ unique curriculum.
+A video tour of SSS is also available on their school website.</p>
 <p>11. More information on CSS and SSS can be found on their school websites
 and in page 3 of the “Choosing Your Secondary Schools” information booklet.
 Interested and eligible students may submit their application during the
 Pre-Registration Exercise at the respective schools from 24 November to
 27 November 2021. Application forms for these two schools are available
-at students’ respective primary schools, or online ( <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.crestsec.edu.sg</u></a> and
-<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.spectra.edu.sg</u>
+at students’ respective primary schools, or online (<a href="www.crestsec.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.crestsec.edu.sg</u></a> and
+<a href="www.spectra.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.spectra.edu.sg</u>
 </a>). They may also submit their applications via email or directly to the
 school’s Admin Office. The deadline for applications is 30 November 2021,
 3.00pm. At the same time, these students should also indicate their choices
@@ -132,9 +132,10 @@ consider their secondary school choices, make their decision, and complete
 the option form before logging on to the S1-IS to submit their secondary
 school options. The S1-IS will be accessible from 11.30am on Wednesday,
 24 November 2021 to 3.00pm on Tuesday, 30 November 2021 through MOE’s S1
-Posting website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>. Alternatively,
-parents may contact the student’s primary school and seek their assistance
-to submit the S1 options before 3.00pm on Tuesday, 30 November 2021.</p>
+Posting website at <a href="www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>.
+Alternatively, parents may contact the student’s primary school and seek
+their assistance to submit the S1 options before 3.00pm on Tuesday, 30
+November 2021.</p>
 <p><strong>Release of Secondary 1 Posting Results</strong>
 </p>
 <p>15. The S1 Posting Results will be released between 22 December 2021 and
@@ -146,7 +147,7 @@ following channels:</p>
 the applicant during the application process);</p>
 </li>
 <li>
-<p>S1-IS (<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>)
+<p>S1-IS (<a href="www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>)
 using the student’s Birth Certificate number / FIN, and the S1 PIN; or</p>
 </li>
 <li>
@@ -167,7 +168,7 @@ results to confirm that they are taking up the place, and the school will
 be able to reserve the place for them. More information on S1 Posting and
 S1-IS are available at MOE’s S1 Posting website and in the information
 booklet “Choosing Your Secondary Schools” distributed to Primary 6 students.
-For enquiries, please visit <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u></a>.</p>
+For enquiries, please visit <a href="www.moe.gov.sg/contact" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u></a>.</p>
 <p><strong><sup><sub>1 </sub></sup><sub>School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub></strong>
 </p>
 <p><strong><sup><sub>2 </sub></sup><sub>For more details on the indicative PSLE Score ranges for individual secondary schools, please refer to: </sub><a href="https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/news/press-releases/20210427-psle-2021-supporting-students-and-their-parents-in-making-informed-school-choices</sub></a><sub>.</sub></strong>
