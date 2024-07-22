@@ -87,7 +87,7 @@ on the examination certificates:</p>
 <h4><strong>Amendment of Examination Certificates</strong></h4>
 <p>Please check the personal particulars printed on your examination certificates.
 If you find any error, you can submit your request for an amendment to
-<a href="/home/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u>
+<a href="/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u>
 </a>. There will be an administration fee payable for any request to amend
 an examination certificate.</p>
 <p>All requests have to be submitted to SEAB by the deadline set from the
@@ -101,6 +101,6 @@ past years' examination results in digital format through your <a href="https://
 you are a Singpass holder.</p>
 <p>If you are a non-Singpass holder or if your results are not available
 through the <a href="https://www.myskillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MySkillsFuture portal</u></a>,
-you can request for a copy of your digitised results by <a href="/home/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>contacting us</u></a>.
-Please access this <a href="/home/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> for the application
+you can request for a copy of your digitised results by <a href="/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>contacting us</u></a>.
+Please access this <a href="/services/statements-of-results" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> for the application
 procedures.</p>
