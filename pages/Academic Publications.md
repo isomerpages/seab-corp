@@ -52,13 +52,13 @@ new developments in examinations. (Description from <a href="https://www.worldsc
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/assessmentsingapore_tmb_medium.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/assessmentsingapore_tmb_medium.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/vol1b__003__tmb_medium.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/vol1b__003__tmb_medium.jpg">
 </div>
 </td>
 </tr>
