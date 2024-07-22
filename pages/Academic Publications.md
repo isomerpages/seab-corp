@@ -1,7 +1,7 @@
 ---
 title: Academic Publications
 permalink: /academic-publications/
-variant: markdown
+variant: tiptap
 description: Academic Publications
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -42,19 +42,23 @@ new developments in examinations. (Description from <a href="https://www.worldsc
 <summary>ASSESSMENT IN SINGAPORE VOLUME 1: PERSPECTIVES FOR CLASSROOM PRACTICE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/assessmentsingapore_tmb_medium.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/assessmentsingapore_tmb_medium.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/vol1b__003__tmb_medium.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Assessment in Singapore" src="/images/Services/Academic Publications/vol1b__003__tmb_medium.jpg">
 </div>
 </td>
 </tr>
@@ -82,7 +86,11 @@ Board (SEAB). The essays are organised broadly around 3 central themes:</p>
 <summary>ASSESSMENT IN SINGAPORE VOLUME 2: STRATEGIES AND METHODS FOR CLASSROOM
 PRACTICE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -124,7 +132,11 @@ for Classroom Practice.</p>
 <details class="isomer-details">
 <summary>ASSESSMENT IN SINGAPORE VOLUME 3: CONCEPTS AND TOOLS FOR CLASSROOM ASSESSMENT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
