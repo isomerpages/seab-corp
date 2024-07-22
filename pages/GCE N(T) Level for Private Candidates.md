@@ -10,7 +10,7 @@ are available below.</p>
 <p><strong><a href="https://go.gov.sg/2024-gce-na-nt-level-exam-calendar-tentative" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
 </blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link">  </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gce-private-candidates-key-activities-and-milestones/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -21,7 +21,7 @@ are available below.</p>
 <div class="isomer-card-title">Key Activities and Milestones</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/UpdatesforPrivateCandidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Registration Exercises" src="/images/registration.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Registration Exercise For Private Candidates</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/updatesforprivatecandidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Registration Exercises" src="/images/registration.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Registration Exercise For Private Candidates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-registration-information-for-private-candidates-final" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
