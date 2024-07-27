@@ -161,7 +161,7 @@ maintenance work, soft and hard facilities management, vendor management
 and building regulation compliance etc.</p>
 </li>
 <li>
-<p>Experience in data analytics and in the use of data visualisations tools
+<p>Experience in data analytics and in the use of data visualisation tools
 will be advantageous.</p>
 </li>
 <li>
