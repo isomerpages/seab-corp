@@ -81,54 +81,60 @@ to obtain buy-in from stakeholder groups</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>ASSISTANT MANAGER / MANAGER, INFORMATION TECHNOLOGY - 2-YEAR CONTRACT</summary>
+<summary>ASSISTANT MANAGER / MANAGER, OFFICE AND ESTATE MANAGEMENT - 2-YEAR CONTRACT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>RESPONSIBILITIES</strong>
 </p>
-<p>Successful applicant will play an active role in managing IT application
-projects, driving and enhancing the SEAB’s digital competencies and capabilities,
-providing operational support to end users for IT systems, and ensuring
-compliance with IT policies and standards.&nbsp;The key responsibilities
+<p>Successful applicant will play an active role in managing the Integrated
+Facilities Management (IFM) team to work with various stakeholders as well
+as relevant authorities to maintain and upkeep of building assets, facilities,
+and resources in accordance with regulatory requirements. The key responsibilities
 include:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Manage IT application projects, including initial requirements gathering,
-tendering process management, development supervision, and contract administration
-for ongoing operations.</p>
+<p>Conduct regular independent checks on building services, identify service
+lapses, and propose solutions for areas of improvement.</p>
 </li>
 <li>
-<p>Collaborate with users and vendors to enhance systems and services, ensuring
-alignment with evolving business needs.</p>
+<p>Assist in the development, review and execution of policies and Standard
+Operating Procedures related to Facilities Management (FM), and physical
+and electronic records management, in accordance with the prevailing guidelines,
+and other office administration Standard Operating Procedures, workplace
+safety and health requirements, etc.</p>
 </li>
 <li>
-<p>Conduct project risk management and develop relevant risk mitigation strategies
-in collaboration with users and vendors.</p>
+<p>Oversee the day-to-day facilities, operations, repair, maintenance, and
+relevant processes / procedures with service providers to ensure that the
+service delivery and contractual obligations were achieved for soft FM
+and hard FM services.</p>
 </li>
 <li>
-<p>Manage and support ongoing operations of systems and services, and conduct
-regular reviews to ensure project success.</p>
+<p>Ensure the proper management of records in accordance with prevailing
+records management guidelines and liaise with the National Archives of
+Singapore on records management matters.</p>
 </li>
 <li>
-<p>Act as a technical consultant for agency ICT projects, offering advice
-on technology trends and standards to meet current and future business
-needs.</p>
+<p>Design and roll out appropriate records management education content and
+outreach materials, including virtual and face-to-face trainings, and provide
+advisory to management and stakeholders on the best records management
+practices.</p>
 </li>
 <li>
-<p>Collaborating with various departments to understand their business needs
-and recommending digital solutions to meet those needs effectively and
-efficiently.</p>
+<p>Manage room bookings and event setup to support the organisation's operations
+with short turnaround time and assist in the review of existing processes
+to improve its effectiveness.</p>
 </li>
 <li>
-<p>Lead the evaluation, selection, and implementation of new technologies
-to enhance operational efficiency and drive innovation.</p>
+<p>Assist in the development of building database and utilisation of data
+analytic and leverage on Internet of Things sensors to identify areas of
+improvement on facilities and records management, and to evaluate sustainability
+proposal to optimise the building performance and service delivery to the
+internal stakeholders and to make recommendations for continuous improvement.</p>
 </li>
 <li>
-<p>Review existing policies against prevailing IM8 policies regularly and
-implement necessary changes to maintain relevance.</p>
-</li>
-<li>
-<p>Lead the formulation and implementation of work processes to ensure compliance
-with IM8 policies at SEAB.</p>
+<p>Conduct cost analysis, budgeting, develop specifications for work orders,
+quotations and tender, and procurement of services in accordance with procurement
+guidelines.</p>
 </li>
 </ul>
 <p></p>
@@ -136,42 +142,31 @@ with IM8 policies at SEAB.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Degree or Diploma in Computer Science, Information Systems, Information/Infocomm
-Technology, Computer or Electronics Engineering, or a related field.</p>
+<p>Tertiary qualification in Facilities Management / Engineering, with at
+least 3 years of relevant experience in commercial building.</p>
 </li>
 <li>
-<p>Minimum of 8 years of relevant experience as an IT Project Manager, involving
-in at least 2 full project development life cycles.</p>
+<p>Good working knowledge of records management concepts and principles.</p>
 </li>
 <li>
-<p>Possess a thorough understanding of IT policies, compliance, and regulatory
-standards.</p>
+<p>Experience in event management.</p>
 </li>
 <li>
-<p>Familiar with digital transformation initiatives and tools for enhancing
-business operations.</p>
+<p>Experience in data collection and analytic for smart FM technologies and
+preventive and predictive building maintenance work.</p>
 </li>
 <li>
-<p>Possess an adaptable and enterprising personality, with a proactive approach
-to acquiring new knowledge and taking calculated risks.</p>
+<p>Technically sound with good knowledge of handling escalations, M&amp;E
+maintenance work, soft and hard facilities management, vendor management
+and building regulation compliance etc.</p>
 </li>
 <li>
-<p>Is driven by innovation to deliver tangible business outcomes.</p>
+<p>Experience in data analytics and in the use of data visualisations tools
+will be advantageous.</p>
 </li>
 <li>
-<p>Possess strong vendor management and interpersonal skills.</p>
-</li>
-<li>
-<p>Proficient in analytical, conceptualisation, and problem-solving abilities.</p>
-</li>
-<li>
-<p>Possess experience in supporting audits and compliance management.</p>
-</li>
-<li>
-<p>Advantageous to have prior experience in a Public Service agency, with
-a good understanding of the Instruction Manual (IM8) for ICT, experience
-in audits, and knowledge of government procurement processes and contract
-management.</p>
+<p>Possess strong critical thinking, communication, writing, and presentation
+skills.​</p>
 </li>
 </ul>
 </div>
