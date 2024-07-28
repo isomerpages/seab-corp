@@ -54,7 +54,7 @@ to collect their Form A from their schools or appoint a proxy to do so,
 they may contact their school for assistance. The JAE-Internet System (JAE-IS)
 will be accessible from 3.00pm on Monday, 11 January 2021, to 4.00pm on
 Friday, 15 January 2021 for students to submit their course choices through
-the JAE website at <a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.</p>
+the JAE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.</p>
 </li>
 </ol>
 <p><strong>Education and Career Guidance (ECG)</strong>
