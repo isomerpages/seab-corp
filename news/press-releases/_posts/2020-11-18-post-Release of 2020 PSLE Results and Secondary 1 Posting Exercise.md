@@ -158,7 +158,7 @@ them before selecting the schools. For more information, please refer to:</p>
 <p>SchoolFinder (<a href="https://www.moe.gov.sg/schoolfinder/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/schoolfinder/</u></a>)</p>
 </li>
 <li>
-<p>Open houses held by secondary schools (<a href="https://go.gov.sg/schoolbag-secondary- school-open-house-2020" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/schoolbag-secondary- school-open-house-2020</u></a>)</p>
+<p>Open houses held by secondary schools (<a href="https://go.gov.sg/schoolbag-secondary-school-open-house-2020" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/schoolbag-secondary- school-open-house-2020</u></a>)</p>
 </li>
 <li>
 <p>Secondary school websites</p>
