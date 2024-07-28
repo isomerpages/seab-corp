@@ -65,12 +65,12 @@ to collect their Form A from their schools or appoint a proxy to do so,
 they may contact their school for assistance.</p>
 <p>9. The JAE-Internet System (JAE-IS) will be accessible from 3.00pm on
 Monday, 11 January 2021, to 4.00pm on Friday, 15 January 2021 for students
-to submit their course choices through the JAE website at <a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>.
+to submit their course choices through the JAE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>.
 Applicants are strongly encouraged to use the JAE worksheet (provided in
 Form A or the JAE information booklet) before submitting their online application.
 The JAE-IS can be accessed using SingPass or the JAE PIN (found in Form
 A). For more details on the JAE, applicants may refer to the JAE website
-at <a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a> or
+at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a> or
 the 2021 JAE information booklet distributed to O-Level students.</p>
 <p><strong><u>Application Results</u></strong>
 </p>
