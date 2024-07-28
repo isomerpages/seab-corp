@@ -17,7 +17,6 @@ what was the timeline; (c) what guidance is provided to schools on communicating
 examination errata and whether affected students should receive extra time;
 and (d) how will unexpected circumstances that arise during exams be considered
 in a marking process.</p>
-<p>&nbsp;</p>
 <p><strong>NAME AND CONSTITUENCY OF MEMBER OF PARLIAMENT</strong>
 <br>Mr Patrick Tay Teck Guan, West Coast GRC
 <br>
