@@ -65,14 +65,14 @@ eligible for JAE may download a copy of the Form A from the JAE-Internet
 System (JAE-IS) using Singpass during the registration period.</p>
 <p>9. The JAE-IS will be accessible from 3.00pm on 12 January 2022, to 4.00pm
 on 17 January 2022 for students to submit their course choices through
-the JAE website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>. Applicants
-are strongly encouraged to use the JAE worksheet (provided in Form A or
-the JAE information booklet) before submitting their online application.
+the JAE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a>.
+Applicants are strongly encouraged to use the JAE worksheet (provided in
+Form A or the JAE information booklet) before submitting their online application.
 The JAE-IS can be accessed using Singpass or the JAE PIN (found in the
 hard copy Form A). For more details on the JAE, applicants may refer to
-the JAE website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a> or the 2022
-JAE information booklet distributed to GCE O-Level students. A soft copy
-of the booklet is available at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/2022jaebooklet</u></a>.</p>
+the JAE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a> or
+the 2022 JAE information booklet distributed to GCE O-Level students. A
+soft copy of the booklet is available at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/2022jaebooklet</u></a>.</p>
 <p><strong><u>Application Results</u></strong>
 </p>
 <p>10. The posting results of the JAE application are scheduled for release
@@ -96,7 +96,7 @@ examination results. Students admitted to a JC through DSA-JC will not
 be eligible to participate in the JAE.</p>
 <p>14. Students who do not meet the JC admission criteria may take part in
 the JAE to apply for courses which they are eligible for. More details
-on DSA-JC can be found at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-jc</u></a>.</p>
+on DSA-JC can be found at <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-jc</u></a>.</p>
 <p><strong>Early Admissions Exercise – Polytechnics</strong>
 </p>
 <p>15. Students who had earlier accepted conditional offers to a polytechnic
@@ -115,7 +115,7 @@ the ITE EAE in 2021 and have their offers confirmed based on their GCE
 O-Level examination results will not be eligible to participate in the
 JAE. Their EAE offers are confirmed if they meet the subject-specific Minimum
 Entry Requirements for the course. More details on ITE EAE can be found
-at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</u></a>.</p>
+at <a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</u></a>.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
 <p>18. Secondary 4 Normal (Academic) [N(A)] students who have sat for O-Level
@@ -134,7 +134,7 @@ chosen course.</p>
 a copy of Form P from their respective secondary schools when they collect
 their GCE O-Level results on 12 January 2022. Each copy of Form P contains
 a unique password. Interested students should use the respective passwords
-to submit their applications online via the PFP website at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.
+to submit their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.
 More information on the eligibility requirements for the PFP, as well as
 how O-Level results are considered in the computation of the ELMAB3 aggregate,
 can be found on the PFP website.</p>
@@ -150,11 +150,11 @@ diploma courses via a two-year Higher Nitec course at ITE. Students are
 eligible to apply if they obtain a raw ELMAB3 aggregate not exceeding 19
 points and met the subject-specific requirements for their chosen course.
 More information on the DPP and eligibility requirements can be found at
-<a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</u>
+<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</u>
 </a>.</p>
 <p>24. Secondary 4 N(A) students who are newly eligible after taking into
 account their O-Level examination results should submit their DPP applications
-online via the DPP application portal at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/apply-for-ite-courses</u></a>.
+online via the DPP application portal at <a href="https://www.ite.edu.sg/apply-for-ite-courses" rel="noopener noreferrer nofollow" target="_blank"><u>www.ite.edu.sg/apply-for-ite-courses</u></a>.
 The final application phase for the DPP will open on 12 January 2022 and
 close on 17 January 2022.</p>
 <p>25. The DPP posting results for applications made under the final application
@@ -175,7 +175,7 @@ to apply to ITE to withdraw from the DPP first, before they are able to
 take up the PFP offer.</p>
 <p><strong><sup><sub>1 </sub></sup><sub>Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
 </p>
-<p><strong><sup><sub>2</sub></sup><sub> More details on Polytechnic EAE can be found at </sub><a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>https://eae.polytechnic.edu.sg</sub></a></strong>
+<p><strong><sup><sub>2</sub></sup><sub> More details on Polytechnic EAE can be found at </sub><a href="https://eae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://eae.polytechnic.edu.sg</sub></a></strong>
 </p>
 <p><strong><sup><sub>3</sub></sup><sub> The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
 </p>
