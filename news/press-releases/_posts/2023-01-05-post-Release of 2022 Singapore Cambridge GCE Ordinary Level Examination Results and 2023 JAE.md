@@ -185,10 +185,9 @@ education and career pathways available to them:&nbsp;</p>
 <p>30. To complement the ECG services provided by schools, students can make
 an appointment for online or phone counselling with an ECG Counsellor from
 the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>,
-calling the ECG hotline at 6831 1420, or emailing MOE_ECG@moe.gov.sg. The
-MOE ECG Centre will offer online or phone counselling from Thursday, 5
-January 2023 to Saturday, 21 January 2023, 9.00am to 5.00pm (Saturdays:
-9.00am to 12.00pm).</p>
+calling the ECG hotline at 6831 1420, or emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>. The MOE ECG Centre
+will offer online or phone counselling from Thursday, 5 January 2023 to
+Saturday, 21 January 2023, 9.00am to 5.00pm (Saturdays: 9.00am to 12.00pm).</p>
 <p><strong><sup><sub>1</sub></sup><sub> School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub></strong>
 </p>
 <p><strong><sup><sub>2</sub></sup><sub>&nbsp;Form A will list the applicant's GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
