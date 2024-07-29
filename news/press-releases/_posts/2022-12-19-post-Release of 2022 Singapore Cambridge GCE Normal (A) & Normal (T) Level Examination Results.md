@@ -43,7 +43,7 @@ the minimum qualifying Grade Point Average (GPA) are guaranteed a place
 in a polytechnic diploma course mapped to their <em>Higher Nitec </em>course.&nbsp;</p>
 <p>7. About 1,200 DPP places will be offered across all three ITE Colleges.
 Applications for the DPP will open on 19 December 2022.&nbsp; For more
-information, please refer to <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</u></a> .</p>
+information, please refer to <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</u></a>.</p>
 <p>8. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
 in 2022 as school candidates also have the option of applying for the Polytechnic
 Foundation Programme (PFP). Students are eligible to apply for the PFP
@@ -60,11 +60,11 @@ results release. Secondary 4 N(A) students who intend to apply for the
 PFP should first progress to Secondary 5 on 3 January 2023. All PFP-bound
 students are required to attend their Secondary 5N(A) classes in their
 secondary schools up till the last Friday of January 2023, i.e. 27 January
-2023. For more information, please refer to <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.</p>
+2023. For more information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.</p>
 <p>11. All N(A) course students who have completed their secondary education
 may also apply to further their studies through ITE’s two-year <em>Nitec</em> or
 three-year <em>Higher Nitec</em> programmes. For more information on courses
-available at ITE, please refer to <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec</a>.</p>
+available at ITE, please refer to <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec</a>.</p>
 <p><strong>Progression Pathways for Normal (Technical) students</strong>
 <br>12. All N(T) course students who complete their secondary education in
 2022 may similarly apply to further their studies through ITE’s two-year <em>Nitec</em> or
@@ -79,11 +79,11 @@ career pathways available to them to make informed decisions about their
 next steps. They may refer to the following websites for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE’s CourseFinder (<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u></a>)
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u></a>)
 on the offerings and courses of polytechnics and ITEs</p>
 </li>
 <li>
-<p>MySkillsFuture (<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a>)
+<p>MySkillsFuture (<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a>)
 on career and education pathways</p>
 </li>
 </ul>
@@ -91,9 +91,8 @@ on career and education pathways</p>
 in their respective secondary schools about their next steps. To complement
 the ECG services provided by schools, candidates may make an appointment
 for counselling with an ECG Counsellor from the ECG Centre at MOE (Grange
-Road) via 6831 1420, <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or
-<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u>
-</a>. The MOE ECG Centre will offer counselling<a rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a>from
+Road) via 6831 1420, <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
+The MOE ECG Centre will offer counselling<a rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a>from
 9.00am to 5.00pm from Monday, 12 December 2022 to Saturday, 24 December
 2022<sup>6</sup>.</p>
 <p><strong><sup><sub>1</sub></sup><sub> The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Normal (Academic) and Normal (Technical) Level Examinations.</sub></strong>
