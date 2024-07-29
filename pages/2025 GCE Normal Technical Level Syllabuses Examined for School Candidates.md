@@ -235,7 +235,7 @@ to candidates from schools that are approved to offer the subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Chinese</a>
 <br>[Revised]</p>
 <p>&nbsp;</p>
 </td>
@@ -246,10 +246,10 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3&nbsp;LC</u></a>
-<br><a href="/files/NT Level Syllabuses/School Candidates/1202_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
+<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>
+<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 LC</a>
+<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 Oral</a>
 <br>[2023]</p>
 </td>
 </tr>
