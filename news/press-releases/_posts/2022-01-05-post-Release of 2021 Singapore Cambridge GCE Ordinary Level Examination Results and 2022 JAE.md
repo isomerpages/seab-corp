@@ -72,7 +72,7 @@ The JAE-IS can be accessed using Singpass or the JAE PIN (found in the
 hard copy Form A). For more details on the JAE, applicants may refer to
 the JAE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/jae</u></a> or
 the 2022 JAE information booklet distributed to GCE O-Level students. A
-soft copy of the booklet is available at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/2022jaebooklet</u></a>.</p>
+soft copy of the booklet is available at www.moe.gov.sg/2022jaebooklet.</p>
 <p><strong><u>Application Results</u></strong>
 </p>
 <p>10. The posting results of the JAE application are scheduled for release
