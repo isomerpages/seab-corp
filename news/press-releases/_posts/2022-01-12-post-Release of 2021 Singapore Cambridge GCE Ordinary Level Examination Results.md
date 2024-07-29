@@ -52,9 +52,9 @@ available to them.</p>
 <p>7. To complement the ECG services provided by schools, students can make
 an appointment for online or phone counselling with an ECG Counsellor from
 the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>,
-calling the ECG hotline at 6831 1420, or emailing <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>. The MOE ECG Centre
-will offer online or phone counselling from 5 to 21 January 2022, 9.00am
-to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
+calling the ECG hotline at 6831 1420, or emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>. The MOE
+ECG Centre will offer online or phone counselling from 5 to 21 January
+2022, 9.00am to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
 <p><strong><sup><sub>1</sub></sup><sub> The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
 </p>
 <p><strong><sup><sub>2 </sub></sup><sub>Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
