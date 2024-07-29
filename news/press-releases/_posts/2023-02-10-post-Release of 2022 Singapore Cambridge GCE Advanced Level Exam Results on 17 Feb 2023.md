@@ -70,8 +70,9 @@ supporting their schools about their next steps. To complement the ECG
 services provided by schools, candidates may make an appointment for counselling
 with an ECG Counsellor from the ECG Centre at MOE (Grange Road) via the
 e-Appointment system at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/moe-ecg-centre</u></a>,
-calling the ECG hotline at 6831 1420, or emailing <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>. The MOE ECG Centre
-will offer online or phone counselling from Friday, 10 February 2023 to
-Saturday, 18 March 2023 (Weekdays: 9am to 5pm; Saturdays: 9am to 12pm).</p>
+calling the ECG hotline at 6831 1420, or emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>. The MOE
+ECG Centre will offer online or phone counselling from Friday, 10 February
+2023 to Saturday, 18 March 2023 (Weekdays: 9am to 5pm; Saturdays: 9am to
+12pm).</p>
 <p><strong><sup><sub>1 </sub></sup><sub>School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub></strong>
 </p>
