@@ -91,7 +91,7 @@ on career and education pathways</p>
 in their respective secondary schools about their next steps. To complement
 the ECG services provided by schools, candidates may make an appointment
 for counselling with an ECG Counsellor from the ECG Centre at MOE (Grange
-Road) via 6831 1420, <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
+Road) via 6831 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
 The MOE ECG Centre will offer counselling<a rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a>from
 9.00am to 5.00pm from Monday, 12 December 2022 to Saturday, 24 December
 2022<sup>6</sup>.</p>
