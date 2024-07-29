@@ -287,8 +287,7 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
 <br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>
 <br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 LC</a>
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
-</a><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 Oral</a>
+<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 Oral</a>
 <br>[2023]</p>
 </td>
 </tr>
