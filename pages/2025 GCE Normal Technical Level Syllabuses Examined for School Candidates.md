@@ -99,7 +99,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Level Syllabuses/School Candidates/7018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computer Applications</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Level Syllabuses/School Candidates/7062_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design and Technology Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7062_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Design and Technology Syllabus T</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Level Syllabuses/School Candidates/7066_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Elements of Business Skills</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7066_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
