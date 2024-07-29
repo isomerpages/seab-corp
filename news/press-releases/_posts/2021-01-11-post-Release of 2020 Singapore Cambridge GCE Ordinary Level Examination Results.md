@@ -72,9 +72,9 @@ available to them.</p>
 <p>To complement the ECG services provided by schools, students can make
 an appointment for online or phone counselling with an ECG Counsellor from
 the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>,
-calling the ECG hotline at 6831 1420, or emailing <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>. The MOE ECG Centre will
-offer online or phone counselling from 6 to 20 January 2021, 9.00am to
-5.00pm (Saturdays: 9.00am to 12.30pm).</p>
+calling the ECG hotline at 6831 1420, or emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>. The MOE ECG Centre
+will offer online or phone counselling from 6 to 20 January 2021, 9.00am
+to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
 </li>
 </ol>
 <p><strong><sup><sub>1 </sub></sup><sub>The Cambridge Assessment International Education, the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore-Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
