@@ -48,7 +48,7 @@ the S1 Option Form. Using the S1-IS, students can download a copy of the
 S1 Option Form and submit their school choices online.</p>
 <p>7. The S1-IS will be accessible from 11.30am on Wednesday, 23 November
 2022 to 3.00pm on Tuesday, 29 November 2022 through MOE’s S1 Posting website
-at <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a> .
+at <a href="https://www.moe.gov.sg/secondary/s1-posting/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>.
 To ensure smooth completion of their online submission, students should
 – in discussion with their parents – first consider their secondary school
 choices, make their decision, and complete the option form before logging
@@ -61,10 +61,10 @@ school’s distinctive programmes, subject offerings, Co-Curricular Activities
 if required.</p>
 <p>9. For a more holistic understanding of the offerings by the 139 secondary
 schools taking part in the 2022 S1 Posting Exercise, please visit SchoolFinder
-(<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/schoolfinder</u></a>).
+(<a href="https://moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/schoolfinder</u></a>).
 Parents and students are encouraged to take the time to explore the schools’
 websites, social media pages, as well as take part in their open houses
-( <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022</u></a> ),
+( <a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022</u></a> ),
 to find out more about the schools that interest them before selecting
 the schools.</p>
 <p><strong>Release of S1 Posting Results</strong>
@@ -78,7 +78,7 @@ through any of the following channels:</p>
 the applicant during the application process)</p>
 </li>
 <li>
-<p>S1-IS (<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>)
+<p>S1-IS (<a href="https://www.moe.gov.sg/secondary/s1-posting/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>)
 using the student’s Birth Certificate number / FIN, and the S1 PIN</p>
 </li>
 <li>
@@ -96,7 +96,7 @@ on the first day of school in January 2023 due to valid reasons, they should
 inform their posted secondary school directly after receiving their posting
 results to confirm that they are taking up the place, and the school will
 reserve the place for them. More information on S1 Posting and S1-IS are
-available at MOE's S1 Posting website. For enquiries, please visit <a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u></a>.</p>
+available at MOE's S1 Posting website. For enquiries, please visit <a href="http://www.moe.gov.sg/contact" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u></a>.</p>
 <p><strong><sup><sub>1</sub></sup><sub> For more details on the SBB eligibility criteria under the AL scoring system, please refer to: </sub><a href="https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html" rel="noopener noreferrer nofollow" target="_blank"><sub>https://moe.gov.sg/microsites/psle-fsbb/psle/faqs.html</sub></a><sub>.</sub></strong>
 </p>
 <p></p>
