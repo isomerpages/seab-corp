@@ -61,12 +61,12 @@ eligible for JAE may download a copy of the Form A from the JAE-Internet
 System (JAE-IS) using Singpass during the registration period.</p>
 <p>9. The JAE-IS will be accessible from 3.00pm on Thursday, 12 January 2023,
 to 4.00pm on Tuesday, 17 January 2023 for students to submit their course
-choices through the JAE website at <a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>. Applicants are
-strongly encouraged to use the JAE worksheet (provided in Form A or the
-JAE information booklet) before submitting their online application. The
-JAE-IS can be accessed using Singpass or the JAE PIN (found in the hard
-copy Form A). For more details on the JAE, applicants may refer to the
-JAE website at <a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a> or
+choices through the JAE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.
+Applicants are strongly encouraged to use the JAE worksheet (provided in
+Form A or the JAE information booklet) before submitting their online application.
+The JAE-IS can be accessed using Singpass or the JAE PIN (found in the
+hard copy Form A). For more details on the JAE, applicants may refer to
+the JAE website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a> or
 the 2023 JAE information booklet distributed to GCE O-Level students. A
 soft copy of the booklet is available at <a href="http://www.moe.gov.sg/jaebooklet" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaebooklet</a>.</p>
 <p><strong><u>Application Results</u></strong>
@@ -146,7 +146,7 @@ Students are eligible to apply if they obtain a raw ELMAB3 aggregate of
 19 points or lower, and meet the subject-specific requirements for their
 chosen course.</p>
 <p>24. Eligible Secondary 4 N(A) students may submit their DPP applications
-online via the DPP application portal at <a href="http://www.ite.edu.sg/apply-for-ite-courses" rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.
+online via the DPP application portal at <a href="https://www.ite.edu.sg/apply-for-ite-courses" rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.
 Applications for the DPP will open on from 12.01am on Thursday, 12 January
 2023, to 11.59pm on Tuesday, 17 January 2023.</p>
 <p>25. The DPP posting results for applications made under the final application
