@@ -94,7 +94,7 @@ teachers or ECG Counsellors in their respective secondary schools to help
 them make informed decisions about their next steps. To complement the
 ECG services provided by schools, candidates may also make an appointment
 for online or phone counselling with an ECG Counsellor from the ECG Centre
-at MOE (Grange Road) via 6831 1420, <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
+at MOE (Grange Road) via 6831 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>.
 The MOE ECG Centre will offer online or phone counselling from 10 to 24
 December 2021<sup>7</sup>, 9.00am to 5.00pm. Candidates can also refer
 to the MySkillsFuture website at <a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfsec</u></a> to
