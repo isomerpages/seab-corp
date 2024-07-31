@@ -45,7 +45,7 @@ their websites. More information is available at:</p>
 <p>SchoolFinder (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/secschoolfinder</u></a>)</p>
 </li>
 <li>
-<p>Open houses held by secondary schools (<a href="http://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022</u></a>)</p>
+<p>Open houses held by secondary schools (https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022)</p>
 </li>
 <li>
 <p>PSLE-FSBB Microsite (<a href="http://moe.gov.sg/microsites/psle-fsbb/" rel="noopener noreferrer nofollow" target="_blank"><u>http://moe.gov.sg/microsites/psle-fsbb/</u></a>)</p>
