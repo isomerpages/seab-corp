@@ -24,10 +24,10 @@ using the Antigen Rapid Test (ART) on the day of the results release before
 going to school. School candidates who are unwell or are required to self-isolate
 due to a positive COVID-19 test result should not return to school to collect
 their results. These students may check their results online via Singapore
-Examinations and Assessment Board’s (SEAB) Candidates Portal at www.seab.gov.sg
-from 3.15pm on 17 December 2021. School candidates who are eligible for
-Singpass can use their Singpass account to access SEAB’s Candidates Portal.
-School candidates who are International Students will receive their system-generated
+Examinations and Assessment Board’s (SEAB) Candidates Portal at <a href="www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from
+3.15pm on 17 December 2021. School candidates who are eligible for Singpass
+can use their Singpass account to access SEAB’s Candidates Portal. School
+candidates who are International Students will receive their system-generated
 username via email from 14 December 2021. SEAB’s Candidates Portal will
 be accessible from 17 December 2021 to 31 December 2021.</p>
 <p>4. School candidates who are unable to collect their results in person
@@ -59,13 +59,13 @@ copy application from the Customer &amp; Visitor Centres should book an
 appointment first by contacting the respective colleges via the email addresses
 or phone numbers provided at <a href="https://www.ite.edu.sg/who-we-are/get-in-touch" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/who-we-are/get-in-touch</a>.</p>
 <p>8. Starting with selected courses from Academic Year 2022, ITE will introduce
-an enhanced three-year curricular structure1 leading directly to a Higher
-Nitec certification. This will equip ITE graduates with deeper industry-relevant
-skills for employment, as well as provide a strong foundation for further
-education and skills upgrading over the course of their careers. Applications
-for Higher Nitec courses under the enhanced three-year curricular structure
-may be submitted via the ITE application portal, or via hard copy application
-forms.</p>
+an enhanced three-year curricular structure<sup>1</sup> leading directly
+to a Higher Nitec certification. This will equip ITE graduates with deeper
+industry-relevant skills for employment, as well as provide a strong foundation
+for further education and skills upgrading over the course of their careers.
+Applications for Higher Nitec courses under the enhanced three-year curricular
+structure may be submitted via the ITE application portal, or via hard
+copy application forms.</p>
 <p>9. For courses offered under Aptitude-Based Admissions, candidates may
 check the interview details online via the ITE application portal on 22
 December 2021 from 2.00pm.</p>
@@ -113,10 +113,16 @@ the GCE Ordinary-Level (O-Level) Examinations results release. Candidates
 eligible for the PFP will receive a copy of Form P on the same day, inviting
 them to apply for the PFP.</p>
 <p>20. For more information on the DPP and the PFP, please visit these websites:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP)
 <br>(<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>)</p>
+</li>
+<li>
 <p>Polytechnic Foundation Programme (PFP)
 <br>(<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
+</li>
+</ul>
 <p><strong>Provision of Education and Career Guidance (ECG) services</strong>
 </p>
 <p>21. School candidates may consult their teachers or ECG Counsellors in
@@ -128,7 +134,8 @@ to them. To complement the ECG services provided by schools, candidates
 may make an appointment for online or phone counselling with an ECG Counsellor
 from the ECG Centre at MOE (Grange Road) via 6831 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a> or
 <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The MOE ECG Centre will offer online
-or phone counselling from 13 to 24 December 20212, 9.00am to 5.00pm.</p>
+or phone counselling from 13 to 24 December 2021<sup>2</sup>, 9.00am to
+5.00pm.</p>
 <p><strong><sup><sub>1 </sub></sup><sub>More information can be found in MOE’s press release (30 April 2021): </sub><a href="https://go.gov.sg/itecs30apr" rel="noopener noreferrer nofollow" target="_blank"><sub>https://go.gov.sg/itecs30apr</sub></a></strong>
 </p>
 <p><strong><sup><sub>2</sub></sup><sub> Online or phone counselling services on 18 December and 24 December will only be available from 9.00am to 12.30pm.</sub></strong>
