@@ -33,8 +33,8 @@ that may be suited to their strengths, interests and abilities.</p>
 at the MOE ECG Centre @ Grange Road from 6 to 24 January 2020 via the e-Appointment
 system at https://bit.ly/moe_ecg, calling the ECG hotline at 6831 1420,
 or emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>.</p>
-<p><strong><sub>1 The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore- Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore- Cambridge General Certificate of Education Ordinary Level Examinations.</sub></strong>
 </p>
-<p><strong><sub>2 Candidates who receive 1 or more GCE O-Level passes will be awarded certificates.</sub></strong>
+<p><strong><sup><sub>2</sub></sup><sub> Candidates who receive 1 or more GCE O-Level passes will be awarded certificates.</sub></strong>
 </p>
 <p></p>
