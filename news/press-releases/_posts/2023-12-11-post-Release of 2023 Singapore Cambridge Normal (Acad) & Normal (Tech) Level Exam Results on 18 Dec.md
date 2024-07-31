@@ -30,7 +30,8 @@ account to obtain their results online via SEAB’s Candidates Portal from
 2.45pm on Monday, 18 December 2023. Private candidates who are not eligible
 for Singpass can view their results in the portal using the account that
 they have created during the registration.</p>
-<p>Application for Institute of Technical Education (ITE) courses</p>
+<p><strong>Application for Institute of Technical Education (ITE) courses</strong>
+</p>
 <p>5. Candidates who wish to apply for courses offered by the Institute of
 Technical Education (ITE) can submit their applications online via the
 ITE application portal (<a href="https://www.ite.edu.sg/apply-for-ITE-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/apply-for-ITE-courses</a>),
@@ -55,12 +56,12 @@ portal between 9.00am on Friday, 29 December 2023 and 11.59pm on Wednesday,
 </p>
 <p>9.&nbsp;The Direct-Entry-Scheme to Polytechnic Programme (DPP) prepares
 candidates for progression into selected polytechnic diploma courses via
-a two-year Higher Nitec course at ITE. Under the DPP, candidates who successfully
-complete their Higher Nitec course and attain the required minimum qualifying
-Higher Nitec Grade Point Average are guaranteed a place in a polytechnic
-diploma course mapped to their Higher Nitec course. School candidates eligible
-for the DPP will receive a copy of Form N from their secondary schools,
-inviting them to apply for the DPP.</p>
+a two-year <em>Higher Nitec</em> course at ITE. Under the DPP, candidates
+who successfully complete their <em>Higher Nitec</em> course and attain the
+required minimum qualifying <em>Higher Nitec</em> Grade Point Average are
+guaranteed a place in a polytechnic diploma course mapped to their <em>Higher Nitec</em> course.
+School candidates eligible for the DPP will receive a copy of Form N from
+their secondary schools, inviting them to apply for the DPP.</p>
 <p>10. Applications for the DPP can be submitted online via the ITE application
 portal between 2.30pm on Monday, 18 December 2023 and 5.00pm on Thursday,
 21 December 2023. &nbsp;</p>
