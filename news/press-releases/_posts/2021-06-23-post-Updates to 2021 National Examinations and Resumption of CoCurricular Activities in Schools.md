@@ -126,17 +126,17 @@ schools will resume in the fifth week of Term 3.</p>
 <p>14. MOE and SEAB will continue to monitor the COVID-19 situation and provide
 updates if there are further changes to the arrangements for this year’s
 national examinations and school activities.</p>
-<p><strong><sub>1 As of 22 June, 6pm.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> As of 22 June, 6pm.</sub></strong>
 </p>
-<p><strong><sub>2 For candidates who do not have surgical masks, provisions will be made at the examination venue.</sub></strong>
+<p><strong><sup><sub>2</sub></sup><sub> For candidates who do not have surgical masks, provisions will be made at the examination venue.</sub></strong>
 </p>
-<p><strong><sub>3 The PSLE and GCE oral and listening comprehension examination schedule can be found on SEAB’s website at </sub><a href="https://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.seab.gov.sg</sub></a><sub>.</sub></strong>
+<p><strong><sup><sub>3</sub></sup><sub> The PSLE and GCE oral and listening comprehension examination schedule can be found on SEAB’s website at </sub><a href="https://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.seab.gov.sg</sub></a><sub>.</sub></strong>
 </p>
-<p><strong><sub>4 Special consideration is a well-established procedure which awards affected candidates with projected grades through an evidence-based and data-driven approach. SEAB will consider multiple sources of evidence, such as the candidate’s performance in the other papers for that affected subject in national and school-based examinations as well as the school cohort's performance in national and school- based exams, to ensure a fair assessment. All special consideration applications are assessed on a case-by-case basis and subjected to a rigorous review process.</sub></strong>
+<p><strong><sup><sub>4</sub></sup><sub> Special consideration is a well-established procedure which awards affected candidates with projected grades through an evidence-based and data-driven approach. SEAB will consider multiple sources of evidence, such as the candidate’s performance in the other papers for that affected subject in national and school-based examinations as well as the school cohort's performance in national and school- based exams, to ensure a fair assessment. All special consideration applications are assessed on a case-by-case basis and subjected to a rigorous review process.</sub></strong>
 </p>
-<p><strong><sub>5 Common Last Topics (CLT) are a set of topics MOE has identified from the relevant subject syllabus that would be taught last by all schools for the graduating cohorts. In the event of unforeseen circumstances impacting the completion of schools' teaching for the graduation cohorts, CLT can be removed from the scope covered in the national examinations.</sub></strong>
+<p><strong><sup><sub>5</sub></sup><sub> Common Last Topics (CLT) are a set of topics MOE has identified from the relevant subject syllabus that would be taught last by all schools for the graduating cohorts. In the event of unforeseen circumstances impacting the completion of schools' teaching for the graduation cohorts, CLT can be removed from the scope covered in the national examinations.</sub></strong>
 </p>
-<p><strong><sub>6 More information on the arrangements for students returning back in schools under Phase 3 (Heightened Alert) can be found here: </sub><a href="https://www.moe.gov.sg/news/press-releases/20210614-arrangements-for-schools-and-institutes-of-higher-learning-under-phase-3-heightened-alert" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/news/press-releases/20210614-arrangements-for-schools-and-institutes-of-higher-learning-under-phase-3-heightened-alert</sub></a><sub>.</sub></strong>
+<p><strong><sup><sub>6</sub></sup><sub> More information on the arrangements for students returning back in schools under Phase 3 (Heightened Alert) can be found here: </sub><a href="https://www.moe.gov.sg/news/press-releases/20210614-arrangements-for-schools-and-institutes-of-higher-learning-under-phase-3-heightened-alert" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.moe.gov.sg/news/press-releases/20210614-arrangements-for-schools-and-institutes-of-higher-learning-under-phase-3-heightened-alert</sub></a><sub>.</sub></strong>
 </p>
 <p><strong>Annex A</strong>
 </p>
@@ -260,5 +260,5 @@ Special
 </tr>
 </tbody>
 </table>
-<p><sub>*For skill-based subjects such as English Language and Mother Tongue Language, it will not be meaningful and practical to identify CLT. In such instances, SEAB will take the disruption to curriculum time into consideration during marking and grading to ensure that all students are fairly assessed.<br>**Schools will cover the CLT removed as non-examinable learning during the post-PSLE period.</sub>
+<p><em><sub>*For skill-based subjects such as English Language and Mother Tongue Language, it will not be meaningful and practical to identify CLT. In such instances, SEAB will take the disruption to curriculum time into consideration during marking and grading to ensure that all students are fairly assessed.<br>**Schools will cover the CLT removed as non-examinable learning during the post-PSLE period.</sub></em>
 </p>
