@@ -59,12 +59,12 @@ websites, and applicants can approach the AUs directly for further clarification
 </p>
 <p>8. Students who would like guidance on their education options can approach
 their teachers or ECG Counsellors supporting their schools. Students can
-also refer to the interactive MySkillsFuture portal at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfpreu</u></a> to
+also refer to the interactive MySkillsFuture portal at <a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/mysfpreu</u></a> to
 find out more about the range of education options, career pathways and
 courses that are available to them.</p>
 <p>9. To complement the ECG services provided by schools, students can make
 an appointment for online or phone counselling with an ECG Counsellor from
-the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>,
-calling the ECG hotline at 6831 1420, or emailing <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>. The MOE
+the ECG Centre at MOE (Grange Road) via the e-Appointment system at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-ecg-centre</u></a>,
+calling the ECG hotline at 6831 1420, or emailing <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a>. The MOE
 ECG Centre will offer online or phone counselling from 14 February to 19
 March 2022, 9.00am to 5.00pm (Saturdays: 9.00am to 12.30pm).</p>
