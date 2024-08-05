@@ -24,7 +24,7 @@ using the Antigen Rapid Test (ART) on the day of the results release before
 going to school. School candidates who are unwell or are required to self-isolate
 due to a positive COVID-19 test result should not return to school to collect
 their results. These students may check their results online via Singapore
-Examinations and Assessment Board’s (SEAB) Candidates Portal at <a href="www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from
+Examinations and Assessment Board’s (SEAB) Candidates Portal at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from
 3.15pm on 17 December 2021. School candidates who are eligible for Singpass
 can use their Singpass account to access SEAB’s Candidates Portal. School
 candidates who are International Students will receive their system-generated
