@@ -2,5 +2,5 @@ collections:
   test-seablink-newsletter:
     output: true
     order:
-      - Read2Learn EL.md
+      - "Read2Learn EL: Assessing Reading Comprehension Made Easy.md"
       - Transformative Learnings from SEAB’s Study Trip to China.md
