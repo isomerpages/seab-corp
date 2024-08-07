@@ -4,7 +4,6 @@ permalink: /draft-seab-link-issue-3-2024/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Transformative Learnings from SEAB’s Study Trip to China</strong><br></h2>
 <p>In May 2024, Deputy Director, Research and Development Division, Dr Tay
 Poh Hua, Deputy Director, Exam Operations Division, Mr Oliver Junus and
 Assessment Officer (Sciences), Mr Tan Wee Siang went on a study trip to
