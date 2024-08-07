@@ -1,0 +1,4 @@
+collections:
+  test-seablink-newsletter:
+    output: true
+    order: []
