@@ -29,7 +29,7 @@ into classrooms and equip students with a forward-looking mindset.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anhui trip2" src="/images/2.jpg">
 </div>
-<p><em>Mr Tan Wee Siang and Mr Tay Poh Hua trying out an AI system in the classroom.</em>
+<p><em>Mr Tan Wee Siang and Mr Tay Poh Hua took on the role of examination candidates sitting for e-oral examinations, which would later be auto-marked.&nbsp;</em>
 </p>
 <p>Next, the team visited iFLYTEK, a Chinese information technology company
 known for its speech recognition technologies. There, they engaged in extensive
@@ -67,7 +67,7 @@ evaluation system.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anhui trip 6" src="/images/6.jpg">
 </div>
-<p><em>Mr Tay Poh Hua presenting a token of appreciation to the host of AEAA.</em>
+<p><em>Mr Tay Poh Hua (left) presenting a token of appreciation to Anhui Education Examinations Authority for their generous sharing on their experience in auto-marking.</em>
 </p>
 <p></p>
 <p>The next leg of the study trip was in Shanghai where the team visited
@@ -79,7 +79,7 @@ and suggestions for self-directed improvement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anhui trip 7" src="/images/7.jpg">
 </div>
-<p><em>Mr Tan Wee Siang presenting a token of appreciation to the host.</em>
+<p><em>Mr Tan Wee Siang (right)  presenting a token of appreciation to Shanghai University of Sport for their generous sharing on their experience in AI-enabled assessment of physical activities.&nbsp;</em>
 </p>
 <p></p>
 <p>The highlight of the&nbsp;last leg of the trip in Hangzhou was a visit
@@ -92,7 +92,7 @@ chatting in classrooms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anhui trip 8" src="/images/8.jpg">
 </div>
-<p><em>SEAB's visit to Alibaba's headquarters</em>
+<p><em>SEAB's visit to Alibaba's headquarters in Hangzhou to learn about their research in AI in education and assessment. </em>
 </p>
 <p></p>
 <p></p>
