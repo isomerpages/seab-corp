@@ -2,4 +2,5 @@ collections:
   test-seablink-newsletter:
     output: true
     order:
+      - test 2.md
       - Transformative Learnings from SEAB’s Study Trip to China.md
