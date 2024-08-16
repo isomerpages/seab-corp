@@ -1,5 +1,5 @@
 collections:
-  test-seablink-newsletter:
+  issue-x-seablink-newsletter:
     output: true
     order:
       - Test SEABlink Newsletter Issue X.md
