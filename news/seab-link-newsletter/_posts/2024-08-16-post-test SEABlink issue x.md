@@ -7,4 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Test link</p>
+<p><a href="/test-seablink-newsletter-issue-x/" rel="noopener noreferrer nofollow" target="_blank">Test link2</a>
+</p>
