@@ -312,7 +312,7 @@ Secondary Social Studies: Back to Basics (Structured-Response Questions)</p>
 </tbody>
 </table>
 <p></p>
-<p>Please write to <a href="https://www.seab.gov.sg/docs/default-source/assessment-services/certification-in-examination-and-assessment-in-education-(cea-in-edn)-capstone-assignment.pdf?sfvrsn=45c1f422_1" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB_Training@SEAB.gov.sg</u></a> if
+<p>Please write to <a href="mailto:seab_training@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB_Training@SEAB.gov.sg</u></a> if
 you have questions about the programme.</p>
 </div>
 </details>
