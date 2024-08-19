@@ -194,18 +194,19 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Saigon South</u></a>
+<p><a href="https://www.scia.edu.kh/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore (Cambodia) International Academy</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vietnam</p>
+<p>Cambodia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Chi Minh City</p>
+<p>Phnom Penh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Priddis
-<br>+84 2873013777<a href="mailto:mark.priddis@saigonsouth.sis.edu.vn" rel="noopener noreferrer nofollow" target="_blank"><br><u>mark.priddis@saigonsouth.sis.edu.vn</u></a>
+<p>Mr Edward Tiu
+<br>+855 61450970</p>
+<p><a href="mailto:edward.tiu@scia.edu.kh" rel="noopener noreferrer nofollow" target="_blank"><u>edward.tiu@scia.edu.kh</u></a>
 </p>
 </td>
 </tr>
@@ -214,19 +215,19 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://danang.sis.edu.vn/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Da Nang</u></a>
+<p><a href="http://wisc.edu.kh/" rel="noopener noreferrer nofollow" target="_blank"><u>World International School Cambodia</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vietnam</p>
+<p>Cambodia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Da Nang</p>
+<p>Phnom Penh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tran Cong Minh Huu
-<br>+84 905010683</p>
-<p><a href="mailto:huu.trancongminh@kinderworldgroup.com" rel="noopener noreferrer nofollow" target="_blank"><u>huu.trancongminh@kinderworldgroup.com</u></a>
+<p>Mr Bill Bahati
+<br>+855 966881702</p>
+<p><a href="mailto:billbahati672@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>billbahati672@gmail.com</u></a>
 </p>
 </td>
 </tr>
@@ -235,25 +236,87 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Gamuda Gardens</u></a>
+<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>Guangzhou SCA School</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vietnam</p>
+<p>China</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hanoi</p>
+<p>Guangzhou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nguyen Thu Huong
-<br>+84 2473040777</p>
-<p><a href="mailto:huong.nguyenthu@kinderworldgroup.com" rel="noopener noreferrer nofollow" target="_blank"><u>huong.nguyenthu@kinderworldgroup.com</u></a>
-</p>
+<p>Mr Eric Zhang</p>
+<p>+86 13922703951</p>
+<p><a href="mailto:zinan.zhang@scagz.com" rel="noopener noreferrer nofollow" target="_blank"><u>zinan.zhang@scagz.com</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pai-ipsle.com/" rel="noopener noreferrer nofollow" target="_blank"><u>PAI 𝑖PSLE Centre (East Malaysia)</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Malaysia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarawak, Sabah (Bordering Brunei)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Li Jiajun</p>
+<p>+65 63630330</p>
+<p><a href="mailto:admin@pai-ipsle.com" rel="noopener noreferrer nofollow" target="_blank"><u>admin@pai-ipsle.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://nh.piagetacademy.org/" rel="noopener noreferrer nofollow" target="_blank"><u>NationalHigh Jakarta School</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indonesia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jakarta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Larsen P. Buccahan
+<br>+62 2158902962</p>
+<p><a href="mailto:larsenpbuccahan@nh.piagetacademy.org" rel="noopener noreferrer nofollow" target="_blank"><u>larsenpbuccahan@nh.piagetacademy.org</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sna.sch.id/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore National Academy</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indonesia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Surabaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Prima Harun
+<br>+62 81901232888</p>
+<p><a href="mailto:primaharun@sna.piagetacademy.org" rel="noopener noreferrer nofollow" target="_blank"><u>primaharun@sna.piagetacademy.org</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.sis-pik.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore School, Pantai Indah Kapuk</u></a>
@@ -274,31 +337,73 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://internationalschoolsinbangkok.com/singapore-international-school-of-bangkok/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School of Bangkok</u></a>
+<p><a href="https://brightway.edu.mv/" rel="noopener noreferrer nofollow" target="_blank"><u>Brightway International School</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thailand</p>
+<p>Maldives</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bangkok</p>
+<p>Hulhumale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hero Lee
-<br>+66 21589191</p>
-<p><a href="mailto:hero@sisbschool.com" rel="noopener noreferrer nofollow" target="_blank"><u>hero@sisbschool.com</u></a>
+<p>Mr Moosa Rasheed
+<br>+960 7772670</p>
+<p><a href="mailto:moosa@brightway.edu.mv" rel="noopener noreferrer nofollow" target="_blank"><u>moosa@brightway.edu.mv</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.tsis.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Thai-Singapore International School</u></a>
+<p><a href="https://www.mctamandalay.com/" rel="noopener noreferrer nofollow" target="_blank"><u>MCTA: RVi Academy Mandalay</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Myanmar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mandalay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Su Mon Kyaw
+<br>+95 9592011406</p>
+<p><a href="mailto:registration@mctamandalay.com" rel="noopener noreferrer nofollow" target="_blank"><u>registration@mctamandalay.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.sismyanmar.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School: RVi Academy Yangon</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Myanmar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yangon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hlaing Mar Lar Kyaw
+<br>+95 9453369781</p>
+<p><a href="mailto:info@sismyanmar.com" rel="noopener noreferrer nofollow" target="_blank"><u>info@sismyanmar.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.acsp.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Assumption Samutprakarn School</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,15 +413,15 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>Samut Prakan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ricky See
-<br>+66 27105900 ext. 1</p>
-<p><a href="mailto:ricky@tsis.ac.th" rel="noopener noreferrer nofollow" target="_blank"><u>ricky@tsis.ac.th</u></a>
+<p>Ms Siriya Kanivaranon
+<br>+66 968164588</p>
+<p><a href="mailto:mewsiriya@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>mewsiriya@gmail.com</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.siamsingapore.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Siam Singapore International School: RVi Academy Bangkok</u></a>
@@ -341,10 +446,31 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.acsp.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Assumption Samutprakarn School</u></a>
+<p><a href="https://internationalschoolsinbangkok.com/singapore-international-school-of-bangkok/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School of Bangkok</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bangkok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hero Lee
+<br>+66 21589191</p>
+<p><a href="mailto:hero@sisbschool.com" rel="noopener noreferrer nofollow" target="_blank"><u>hero@sisbschool.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.tsis.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Thai-Singapore International School</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,135 +480,9 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>Samut Prakan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siriya Kanivaranon
-<br>+66 968164588</p>
-<p><a href="mailto:mewsiriya@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>mewsiriya@gmail.com</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://www.sismyanmar.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School: RVi Academy Yangon</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Myanmar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yangon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hlaing Mar Lar Kyaw
-<br>+95 9453369781</p>
-<p><a href="mailto:info@sismyanmar.com" rel="noopener noreferrer nofollow" target="_blank"><u>info@sismyanmar.com</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.mctamandalay.com/" rel="noopener noreferrer nofollow" target="_blank"><u>MCTA: RVi Academy Mandalay</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Myanmar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mandalay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Su Mon Kyaw
-<br>+95 9592011406</p>
-<p><a href="mailto:registration@mctamandalay.com" rel="noopener noreferrer nofollow" target="_blank"><u>registration@mctamandalay.com</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://wisc.edu.kh/" rel="noopener noreferrer nofollow" target="_blank"><u>World International School Cambodia</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cambodia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phnom Penh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bill Bahati
-<br>+855 966881702</p>
-<p><a href="mailto:billbahati672@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>billbahati672@gmail.com</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.scia.edu.kh/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore (Cambodia) International Academy</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cambodia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phnom Penh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Edward Tiu
-<br>+855 61450970</p>
-<p><a href="mailto:edward.tiu@scia.edu.kh" rel="noopener noreferrer nofollow" target="_blank"><u>edward.tiu@scia.edu.kh</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://brightway.edu.mv/" rel="noopener noreferrer nofollow" target="_blank"><u>Brightway International School</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maldives</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hulhumale</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Moosa Rasheed
-<br>+960 7772670</p>
-<p><a href="mailto:moosa@brightway.edu.mv" rel="noopener noreferrer nofollow" target="_blank"><u>moosa@brightway.edu.mv</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://nh.piagetacademy.org/" rel="noopener noreferrer nofollow" target="_blank"><u>NationalHigh Jakarta School</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indonesia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jakarta</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Larsen P. Buccahan
-<br>+62 2158902962</p>
-<p><a href="mailto:larsenpbuccahan@nh.piagetacademy.org" rel="noopener noreferrer nofollow" target="_blank"><u>larsenpbuccahan@nh.piagetacademy.org</u></a>
+<p>Mr Ricky See
+<br>+66 27105900 ext. 1</p>
+<p><a href="mailto:ricky@tsis.ac.th" rel="noopener noreferrer nofollow" target="_blank"><u>ricky@tsis.ac.th</u></a>
 </p>
 </td>
 </tr>
@@ -491,19 +491,19 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sna.sch.id/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore National Academy</u></a>
+<p><a href="http://danang.sis.edu.vn/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Da Nang</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indonesia</p>
+<p>Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Surabaya</p>
+<p>Da Nang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Prima Harun
-<br>+62 81901232888</p>
-<p><a href="mailto:primaharun@sna.piagetacademy.org" rel="noopener noreferrer nofollow" target="_blank"><u>primaharun@sna.piagetacademy.org</u></a>
+<p>Ms Tran Cong Minh Huu
+<br>+84 905010683</p>
+<p><a href="mailto:huu.trancongminh@kinderworldgroup.com" rel="noopener noreferrer nofollow" target="_blank"><u>huu.trancongminh@kinderworldgroup.com</u></a>
 </p>
 </td>
 </tr>
@@ -512,19 +512,20 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>Guangzhou SCA School</u></a>
+<p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Gamuda Gardens</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>China</p>
+<p>Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guangzhou</p>
+<p>Hanoi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Zhang</p>
-<p>+86 13922703951</p>
-<p><a href="mailto:zinan.zhang@scagz.com" rel="noopener noreferrer nofollow" target="_blank"><u>zinan.zhang@scagz.com</u></a>&nbsp;</p>
+<p>Ms Nguyen Thu Huong
+<br>+84 2473040777</p>
+<p><a href="mailto:huong.nguyenthu@kinderworldgroup.com" rel="noopener noreferrer nofollow" target="_blank"><u>huong.nguyenthu@kinderworldgroup.com</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -532,19 +533,18 @@ with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pai-ipsle.com/" rel="noopener noreferrer nofollow" target="_blank"><u>PAI 𝑖PSLE Centre (East Malaysia)</u></a>
+<p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Saigon South</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>East Malaysia</p>
+<p>Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sarawak, Sabah (Bordering Brunei)</p>
+<p>Ho Chi Minh City</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Li Jiajun</p>
-<p>+65 63630330</p>
-<p><a href="mailto:admin@pai-ipsle.com" rel="noopener noreferrer nofollow" target="_blank"><u>admin@pai-ipsle.com</u></a>
+<p>Mr Mark Priddis
+<br>+84 2873013777<a href="mailto:mark.priddis@saigonsouth.sis.edu.vn" rel="noopener noreferrer nofollow" target="_blank"><br><u>mark.priddis@saigonsouth.sis.edu.vn</u></a>
 </p>
 </td>
 </tr>
@@ -580,6 +580,7 @@ view what will be shown on the result slip and examination certificate.</p>
 <p>Overseas schools interested to apply to be an appointed 𝑖PSLE centres
 may complete an online application form via this link: <a href="https://go.gov.sg/application-ipslecentre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/application-ipslecentre</u></a>
 </p>
+<p></p>
 </div>
 </details>
 </div>
