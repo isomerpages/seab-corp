@@ -581,6 +581,11 @@ view what will be shown on the result slip and examination certificate.</p>
 may complete an online application form via this link: <a href="https://go.gov.sg/application-ipslecentre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/application-ipslecentre</u></a>
 </p>
 <p></p>
+<p>An overview of the application timelines can be found below.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="iPSLE flowchart" src="/images/ipsle_timeline.png">
+</div>
 </div>
 </details>
 </div>
