@@ -10,9 +10,10 @@ Secondary 1 to 2 in the&nbsp;same academic year. MOE has commissioned SEAB
 to conduct the registration and test administration of this exercise.</p>
 <p>The S-AEIS registration period can be found on&nbsp;<a href="https://www.moe.gov.sg/international-students/s-aeis" rel="noopener noreferrer nofollow" target="_blank"><u>MOE's website</u></a>.</p>
 <p>The S-AEIS registration may close early if all the seats are filled.</p>
-<p>Important information for overseas applicants
-<br>
-<br>MOE will not issue permits for entry into Singapore for applicants to
+<p></p>
+<p><strong>Important information for overseas applicants</strong> 
+</p>
+<p>MOE will not issue permits for entry into Singapore for applicants to
 sit for the S-AEIS tests. The applicant should only submit his/her registration
 if he/she is able to enter Singapore. Applicants should refer to the&nbsp;
 <a href="https://safetravel.ica.gov.sg/" rel="noopener noreferrer" target="_blank"><u>Immigration &amp; Checkpoints Authority (ICA)</u>
