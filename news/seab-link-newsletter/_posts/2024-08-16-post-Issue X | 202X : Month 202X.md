@@ -8,6 +8,10 @@ image: ""
 variant: tiptap
 ---
 <h2><strong>Contents</strong></h2>
+<p>Dear readers,</p>
+<p>We hope this message finds you in good health and high spirits. Since
+our last communication, we are eager to bring you up to speed on our latest
+developments.</p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/issue-x-seablink-newsletter/streamlining-assessment-through-onscreen-marking/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="osm marker" src="/images/osm_marker.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strengthening Assessment through Onscreen Marking</div><div class="isomer-card-link"></div></div></a>
