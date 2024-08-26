@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FINAL_shift.png
+      background: /images/FINAL_smaller.png
       variant: image
       title: Singapore Examinations and Assessment Board
       subtitle: Your Trusted Authority in Examinations and Assessments
