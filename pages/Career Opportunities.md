@@ -82,4 +82,4 @@ to obtain buy-in from stakeholder groups</p>
 <p></p>
 <p><strong>APPLICATION PROCEDURE</strong>
 <br>If you are interested in any of the above position, please submit your
-application with your educational certificateso&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
+application with your educational certificates to&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>
