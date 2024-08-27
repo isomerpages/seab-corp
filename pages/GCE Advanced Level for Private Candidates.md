@@ -7,7 +7,7 @@ description: GCE A Level Private Candidates
 <p>Information about the GCE A-Level examination for private candidates are
 available below.</p>
 <blockquote>
-<p><strong><a href="/files/Examinations/GCE A LEVEL/gce_a_level_timetable_26_april_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Updated as at 26 April 2024)</a></strong>
+<p><strong><a href="https://go.gov.sg/2024-gce-a-level-exam-timetable" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024 (Updated as at 26 April 2024)</a></strong>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"></div></div></a>
