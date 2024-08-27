@@ -13,7 +13,7 @@ English Language, Mathematics, Science and Chinese Language. Students may
 register for a minimum of one subject. The formats are similar to those
 of the Singapore PSLE.</p>
 <blockquote>
-<p><a href="/files/Timetable/2024_ipsle_exam_timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2024</a>
+<p><strong><a href="/files/Timetable/2024_ipsle_exam_timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2024</a></strong>
 </p>
 </blockquote>
 <p></p>
