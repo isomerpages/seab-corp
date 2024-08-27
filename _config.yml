@@ -14,7 +14,7 @@ colors:
     - title: media-color-four
       color: "#9b2e0d"
     - title: media-color-five
-      color: "#7f104d"
+      color: "#663d58"
 description: An Isomer site of Singapore Examinations and Assessment Board
 permalink: none
 baseurl: ""
