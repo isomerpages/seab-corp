@@ -9,22 +9,10 @@ that is taken by candidates at the end of their final year of primary school
 education, in Singapore.&nbsp;
 <br>
 <br>More information about the PSLE is available below.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <blockquote>
-<p><strong><a href="https://go.gov.sg/2024-psle-examination-calendar" rel="noopener noreferrer nofollow" target="_blank">Examination Calendar 2024</a></strong>
+<p><strong><a href="/files/Timetable/2024_psle_exam_timetable.pdf" rel="noopener nofollow" target="_blank">Examination Calendar 2024</a></strong>
 </p>
 </blockquote>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important dates Image" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-psle-exam-rules-and-regulation-booklet" class="isomer-card">
 <div class="isomer-card-image">
