@@ -13,7 +13,7 @@ English Language, Mathematics, Science and Chinese Language. Students may
 register for a minimum of one subject. The formats are similar to those
 of the Singapore PSLE.</p>
 <blockquote>
-<p><strong><a href="https://go.gov.sg/2024-ipsle-exam-timetable" rel="noopener noreferrer nofollow" target="_blank">Examination Timetable 2024</a></strong>
+<p><strong><a href="https://go.gov.sg/ipsle2024timetable" rel="noopener nofollow" target="_blank">Examination Timetable 2024</a></strong>
 </p>
 </blockquote>
 <p></p>
