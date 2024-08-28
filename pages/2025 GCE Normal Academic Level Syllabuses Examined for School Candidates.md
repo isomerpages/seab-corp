@@ -126,7 +126,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/2195_y25_sy.pdf?sfvrsn=d7b9100e_2" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,8 +136,8 @@ from SEAB.</p>
 <p>2195</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2195_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2195_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2195_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NA Level Syllabus Sch Cddts/2025/2195_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
