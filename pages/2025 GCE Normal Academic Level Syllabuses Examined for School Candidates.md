@@ -385,6 +385,20 @@ from SEAB.</p>
 <p>[2023]</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p># Last year of exam in 2025.</p>
@@ -472,10 +486,20 @@ format requires candidates to write their answers on the question paper.</p>
 <br>[2023]</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2246_y24_sp_1.pdf" rel="noopener nofollow" target="_blank">Paper 1</a>
-<a href="/files/NA Level Syllabus Sch Cddts/2025/6125_y25_sy.pdf" rel="noopener nofollow" target="_blank">Art</a>
-</p>
