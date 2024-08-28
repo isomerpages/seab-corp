@@ -455,10 +455,10 @@ candidates to write their answers on the question paper.</p>
 <p>1197</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1197_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1197_y25_sp2-(updated).pdf?sfvrsn=c2728520_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1197_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1197_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp2__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
