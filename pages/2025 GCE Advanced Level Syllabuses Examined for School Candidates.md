@@ -81,7 +81,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8829_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8829_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +206,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8836_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8836_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +224,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8837_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8837_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
