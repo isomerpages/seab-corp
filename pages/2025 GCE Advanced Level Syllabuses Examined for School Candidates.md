@@ -145,7 +145,7 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8841_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8841_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2024]</p>
 </td>
 </tr>
