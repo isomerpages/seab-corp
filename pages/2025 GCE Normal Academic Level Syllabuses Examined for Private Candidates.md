@@ -445,7 +445,7 @@ candidates to write their answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2174_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sy__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
