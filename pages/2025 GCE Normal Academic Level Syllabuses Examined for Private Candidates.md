@@ -269,7 +269,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/3239_y25_sy.pdf?sfvrsn=c9d16188_2" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/3239_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
