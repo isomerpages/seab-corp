@@ -340,7 +340,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/6125_y25_sy.pdf?sfvrsn=75fffa09_2" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/6125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
