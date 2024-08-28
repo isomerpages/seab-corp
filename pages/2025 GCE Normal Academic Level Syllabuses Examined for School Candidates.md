@@ -153,7 +153,7 @@ from SEAB.</p>
 <p>2246</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2246_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2246_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2246_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2246_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
@@ -476,4 +476,5 @@ format requires candidates to write their answers on the question paper.</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2246_y24_sp_1.pdf" rel="noopener nofollow" target="_blank">Paper 1</a>
+</p>
