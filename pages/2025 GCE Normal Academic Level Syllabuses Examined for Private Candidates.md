@@ -445,7 +445,7 @@ candidates to write their answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1197_y25_sy-(updated).pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/2174_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
