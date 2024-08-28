@@ -345,7 +345,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5106_y25_sy.pdf?sfvrsn=f7cbdae7_2" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5106_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,8 +355,8 @@ format.</p>
 <p>5106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5106_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5106_y24_sp_6.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 6</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5106_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
+<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/5106_y24_sp_6.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 6</u></a>
 <br>[2023]</p>
 </td>
 </tr>
