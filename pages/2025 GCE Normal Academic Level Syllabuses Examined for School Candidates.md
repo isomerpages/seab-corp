@@ -417,7 +417,7 @@ format requires candidates to write their answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1196_y25_sy.pdf?sfvrsn=27e7535_2" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -427,10 +427,10 @@ format requires candidates to write their answers on the question paper.</p>
 <p>1196</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1196_y25_sp1023586164dd741d2a7f583a95b7b73ac.pdf?sfvrsn=cce2c768_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1196_y25_sp2a227aa555919473fa8041df96e08a1f4.pdf?sfvrsn=e63eed9e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1196_y25_sp3oralc40537ea954c497e9405180375c32d07.pdf?sfvrsn=49497e93_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1196_y25_sp3lc26ac3ca51bb946db9548042e7ddfb178.pdf?sfvrsn=39157a06_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
