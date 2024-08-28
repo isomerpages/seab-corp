@@ -388,8 +388,8 @@ format.</p>
 <p>7086</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/7086_y24_insert.pdf?sfvrsn=f3c8c100_2" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 </p>
 <p>[2023]</p>
