@@ -109,7 +109,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/2127_y25_sy.pdf?sfvrsn=76ef9c47_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in English)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in English)</u></a>
 <br>
 </p>
 </td>
@@ -120,7 +120,7 @@ from SEAB.</p>
 <p>2127</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2127_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2127_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]</p>
 </td>
 </tr>
