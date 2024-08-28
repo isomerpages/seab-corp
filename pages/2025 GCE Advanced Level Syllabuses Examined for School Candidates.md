@@ -299,7 +299,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8867_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8867_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -316,7 +316,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8873_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8873_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -350,7 +350,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8879_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8879_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -367,7 +367,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8881_y25_sy_pdf__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8881_y25_sy_pdf__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -380,10 +380,9 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8881_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/A Level Syllabus Sch Cddts/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u> </a>|
-<a href="/files/A Level Syllabus Sch Cddts/8881_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8881_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2025/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<a href="/files/A Level Syllabus Sch Cddts/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>| <a href="/files/A Level Syllabus Sch Cddts/2025/8881_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u></a>
 <br>[2023]</p>
 </td>
 </tr>
