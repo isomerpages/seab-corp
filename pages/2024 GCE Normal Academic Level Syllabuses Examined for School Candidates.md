@@ -50,7 +50,7 @@ from SEAB.</p>
 <p>1190</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/N Level Syllabuses/School Candidates/1190_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>|
+<p><a href="/files/NA Level Syllabus Sch Cddts/2024/1190_y23_sp_1.pdf" rel="noopener nofollow" target="_blank">Paper 1</a>|
 <a href="/files/N Level Syllabuses/School Candidates/1190_y23_p1_si.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br><a href="/files/N Level Syllabuses/School Candidates/1190_y23_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>|
