@@ -468,7 +468,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9539_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u>&nbsp;</a>[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9539_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
