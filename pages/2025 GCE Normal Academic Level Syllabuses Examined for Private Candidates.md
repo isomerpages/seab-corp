@@ -224,7 +224,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/3236_y25_sy.pdf?sfvrsn=8d8d399_2" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/3236_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/3237_y25_sy.pdf?sfvrsn=9afbb7b5_2" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/3237_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,7 +254,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/3238_y25_sy.pdf?sfvrsn=88498e9e_2" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/3238_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
