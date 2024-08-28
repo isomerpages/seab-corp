@@ -369,7 +369,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/7086_y25_sy.pdf?sfvrsn=2349dbdb_2" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a> [Updated]^</p>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/7086_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a> [Updated]^</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -378,7 +378,7 @@ from SEAB.</p>
 <p>7086</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/7086_y24_sp.pdf?sfvrsn=5df0ee41_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/7086_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/7086_y24_insert.pdf?sfvrsn=f3c8c100_2" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 </p>
