@@ -201,7 +201,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/2246_y25_sy.pdf?sfvrsn=14e89d0_2" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,11 +211,11 @@ format.</p>
 <p>2246</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2246_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2246_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2246_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2246_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
+<a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]
 <br>
