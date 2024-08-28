@@ -151,7 +151,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8833_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8833_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -168,7 +168,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8834_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8834_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
