@@ -432,7 +432,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9508_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9508_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,7 +450,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9509_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;**</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9509_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
