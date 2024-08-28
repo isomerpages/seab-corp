@@ -612,7 +612,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9649_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u></a>&nbsp;[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9649_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u></a>&nbsp;[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
