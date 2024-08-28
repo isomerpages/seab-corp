@@ -99,7 +99,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/1190_y25_sy.pdf?sfvrsn=31c33091_2" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus A</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus A</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/2022_y25_sy.pdf?sfvrsn=d3879ec1_2" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2022_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/2125_y25_sy.pdf?sfvrsn=1dfcd35d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Geography)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Geography)</u></a>
 <br>
 </p>
 </td>
@@ -140,7 +140,7 @@ format.</p>
 <p>2125</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2125_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2125_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2125_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2125_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
@@ -149,7 +149,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/2126_y25_sy.pdf?sfvrsn=c5851bc3_2" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, History)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, History)</u></a>
 <br>
 </p>
 </td>
