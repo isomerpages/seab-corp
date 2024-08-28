@@ -189,7 +189,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8835_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8835_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
@@ -242,7 +242,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8838_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8838_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,7 +255,7 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]</p>
 </td>
 </tr>
