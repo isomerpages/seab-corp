@@ -45,8 +45,8 @@ have any questions.</p>
 <p>Designing P4 Assessment for Primary Schools – Tamil Language</p>
 </li>
 </ul>
-<p>Click <a href="https://go.gov.sg/registration-ast-online-workshops" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://go.gov.sg/registration-ast-online-workshops" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="pri_level" src="/images/Services/Training and Consultancy/ast_sponsored_workshops_pri.png">
@@ -68,8 +68,8 @@ scan the QR code to register now!</p>
 <p>Assessment – Biology</p>
 </li>
 </ul>
-<p>Click <a href="https://go.gov.sg/registration-ast-online-workshops" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://go.gov.sg/registration-ast-online-workshops" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="sec_level" src="/images/Services/Training and Consultancy/ast_sponsored_workshops_sec.png">
