@@ -376,7 +376,7 @@ about principles of developing rating scales and rubrics, understand the
 use of different rubrics for different assessment purposes and apply the
 concepts to develop or improvise a rubric or rating scale for their school’s
 assessment purpose.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/65af18a40fa3b700119aeff5" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
@@ -398,8 +398,8 @@ scan the QR code to do so now!</p>
 <p>1. Understand the criteria and guidelines of using video as stimulus for
 oral assessment</p>
 <p>2. Be equipped with skills to develop oral assessment items for learners
-with different proficiency level</p>
-<p>&nbsp;</p>
+with different proficiency level.</p>
+<p></p>
 <p>Register for the <a href="https://form.gov.sg/6567e18e43f269001121bfa1" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
@@ -424,7 +424,7 @@ N(T)-Level Basic Chinese</p>
 for O-level Chinese</p>
 <p>3. be equipped with skills to design interactive writing task and language
 use items of the appropriate levels</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/655c5a9fa2294500125c5b88" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
@@ -445,8 +445,8 @@ scan the QR code to do so now!</p>
 <td rowspan="1" colspan="1">
 <p>1. Understanding key assessment objectives of O-level Higher Chinese Oral</p>
 <p>2. Design of an oral presentation task</p>
-<p>3. Conducting discussion based on oral presentation&nbsp;</p>
-<p>&nbsp;</p>
+<p>3. Conducting discussion based on oral presentation.</p>
+<p></p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/655e9dbcfeeec4001244296e" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
@@ -467,7 +467,7 @@ scan the QR code to do so now!</p>
 <p>1. Understanding key assessment objectives of A-level H1 Chinese Oral</p>
 <p>2. Design of an oral presentation task</p>
 <p>3. Conducting discussion based on oral presentation</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/6567e2e29aeafd00126a0156" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
@@ -487,7 +487,7 @@ scan the QR code to do so now!</p>
 <p>1. Assessment tasks to enhance communication skills&nbsp;</p>
 <p>2. Use of AfL and AaL in assessment of communication skills</p>
 <p>3. Design of assessment rubrics for AfL and AaL</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/6567e38401ba2500111e13f3" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
@@ -510,7 +510,7 @@ use items based on the Secondary Malay Language curriculum. The workshop
 comprises topics on assessment of writing and reading skills, and item
 development.&nbsp; The full day workshop will also include hands-on sessions
 for participants to demonstrate their attainment of the programme objectives.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/655e9a3afeeec4001243f959" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
@@ -532,8 +532,8 @@ the knowledge and skills to develop interactive writing tasks and language
 use items based on the Secondary Tamil Language curriculum. The workshop
 comprises topics on assessment of writing and reading skills, and item
 development.&nbsp; The full day workshop will also include hands-on sessions
-for participants to demonstrate their attainment of the programme objectives.&nbsp;</p>
-<p>&nbsp;</p>
+for participants to demonstrate their attainment of the programme objectives.</p>
+<p></p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/6567e454142db20011bfe9a6" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
