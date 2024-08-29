@@ -321,8 +321,8 @@ you have questions about the programme.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Find out <a href="https://www.seab.gov.sg/docs/default-source/assessment-services/certificate-in-examination-and-assessment-in-education-(cea-in-edn)-core-modules846b9f4c-56aa-42af-a07f-0fe29e07bf57.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>more details</u></a> on
 core module workshops.</p>
-<p>Click <a href="https://form.gov.sg/637d9334361f4c0012a2952a" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/637d9334361f4c0012a2952a" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="core-modules" src="/images/Services/Training and Consultancy/core_modules.png">
@@ -334,8 +334,8 @@ scan the QR code to register now!</p>
 <summary>Certificate in Examination and Assessment in Education [Elective Modules]</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Find out more details on <a href="https://www.seab.gov.sg/docs/default-source/assessment-services/certification-in-examination-and-assessment-in-education-(cea-in-edn)-elective-modules8b5aac4c-972b-489e-810e-e660a8c71999.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>elective module workshops</u></a>.</p>
-<p>Click&nbsp;<a href="https://form.gov.sg/637d9738e5a2f10012e6ec1d" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the <a href="https://form.gov.sg/637d9738e5a2f10012e6ec1d" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="elective-modules" src="/images/Services/Training and Consultancy/elective_modules.png">
@@ -377,8 +377,8 @@ use of different rubrics for different assessment purposes and apply the
 concepts to develop or improvise a rubric or rating scale for their school’s
 assessment purpose.&nbsp;</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/65af18a40fa3b700119aeff5" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/65af18a40fa3b700119aeff5" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Design and use of rubrics and rating scales in assessing 21st century competencies" src="/images/Services/Training and Consultancy/Design_and_use_of_rubrics_and_rating_scales_in_assessing_21st_century_competencies.jpg">
@@ -400,8 +400,8 @@ oral assessment</p>
 <p>2. Be equipped with skills to develop oral assessment items for learners
 with different proficiency level</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/6567e18e43f269001121bfa1" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the <a href="https://form.gov.sg/6567e18e43f269001121bfa1" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Tasks including Video Stimulus for Conversation (CL Pri)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Tasks_including_Video_Stimulus_for_Conversation__CL_Pri_.jpg">
@@ -425,8 +425,8 @@ for O-level Chinese</p>
 <p>3. be equipped with skills to design interactive writing task and language
 use items of the appropriate levels</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/655c5a9fa2294500125c5b88" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/655c5a9fa2294500125c5b88" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Writing and Language Use Items for NTCL and OCL (Secondary CL)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Writing_and_Language_Use_Items_for_NTCL_and_OCL__Secondary_CL_.jpg">
@@ -447,8 +447,8 @@ scan the QR code to register now!</p>
 <p>2. Design of an oral presentation task</p>
 <p>3. Conducting discussion based on oral presentation&nbsp;</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/655e9dbcfeeec4001244296e" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/655e9dbcfeeec4001244296e" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Design of Oral Presentation and Discussion Tasks in Higher Chinese Language (Sec)" src="/images/Services/Training and Consultancy/Design_of_Oral_Presentation_and_Discussion_Tasks_in_Higher_Chinese_Language__Sec_.jpg">
@@ -468,8 +468,8 @@ scan the QR code to register now!</p>
 <p>2. Design of an oral presentation task</p>
 <p>3. Conducting discussion based on oral presentation</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/6567e2e29aeafd00126a0156" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/6567e2e29aeafd00126a0156" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Design of Oral Presentation and Discussion Tasks in H1 Chinese Language (JC/MI)" src="/images/Services/Training and Consultancy/Design_of_Oral_Presentation_and_Discussion_Tasks_in_H1_Chinese_Language__JCMI_.jpg">
@@ -488,8 +488,8 @@ scan the QR code to register now!</p>
 <p>2. Use of AfL and AaL in assessment of communication skills</p>
 <p>3. Design of assessment rubrics for AfL and AaL</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/6567e38401ba2500111e13f3" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/6567e38401ba2500111e13f3" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Assessment of 21 CC Communication Skills in Chinese Language" src="/images/Services/Training and Consultancy/Assessment_of_21_CC_Communication_Skills_in_Chinese_Language.jpg">
@@ -511,8 +511,8 @@ comprises topics on assessment of writing and reading skills, and item
 development.&nbsp; The full day workshop will also include hands-on sessions
 for participants to demonstrate their attainment of the programme objectives.&nbsp;</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/655e9a3afeeec4001243f959" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/655e9a3afeeec4001243f959" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Writing and Language Use Items (Secondary ML)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Writing_and_Language_Use_Items__Secondary_TL_.jpg">
@@ -534,8 +534,8 @@ comprises topics on assessment of writing and reading skills, and item
 development.&nbsp; The full day workshop will also include hands-on sessions
 for participants to demonstrate their attainment of the programme objectives.&nbsp;</p>
 <p>&nbsp;</p>
-<p>Click <a href="https://form.gov.sg/6567e454142db20011bfe9a6" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;or
-scan the QR code to register now!</p>
+<p>Register for the&nbsp;<a href="https://form.gov.sg/6567e454142db20011bfe9a6" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Design of Interactive Writing and Language Use Items (Secondary TL)" src="/images/Services/Training and Consultancy/Design_of_Interactive_Writing_and_Language_Use_Items__Secondary_TL_.jpg">
