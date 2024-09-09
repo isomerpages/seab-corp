@@ -984,7 +984,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9822_y25_sy_9_feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9822_y25_sy_9_feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -999,7 +999,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9823_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9823_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
