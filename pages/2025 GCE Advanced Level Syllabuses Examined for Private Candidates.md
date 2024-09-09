@@ -883,7 +883,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8655_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8655_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -901,7 +901,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9571_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9571_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -919,7 +919,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9575_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language &amp; Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9575_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language &amp; Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -937,7 +937,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9629_y25_sy08e9833720e842d18ddc6d7e8cd48068.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9629_y25.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -949,8 +949,8 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 <p>9629</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9629_y25_sp_1.pdf?sfvrsn=c1d2ded_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9629_y25_sp_2.pdf?sfvrsn=c6b91d9d_2" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9629_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2025/9629_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
