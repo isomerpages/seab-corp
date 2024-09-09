@@ -422,7 +422,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u> </a>[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
