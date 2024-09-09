@@ -434,7 +434,7 @@ from SEAB.</p>
 <p>9173</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sp_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>|
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sp_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
 <a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_si_1__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sp_2__1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
