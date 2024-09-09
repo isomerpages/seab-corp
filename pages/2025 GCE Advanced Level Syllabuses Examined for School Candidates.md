@@ -864,7 +864,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9805_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9805_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -879,7 +879,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9809_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9809_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -894,7 +894,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9813_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u> </a>#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9813_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -908,7 +908,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9814_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9814_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -922,7 +922,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9816_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/9816_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
