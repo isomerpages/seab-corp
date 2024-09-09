@@ -787,11 +787,11 @@ from SEAB.</p>
 <p>9758</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9758_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
-<a href="/files/A Level Syllabus Sch Cddts/9758_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
-<br><a href="/files/A Level Syllabus Sch Cddts/9758_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/A Level Syllabus Sch Cddts/9758_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
 </a>
 <br>[2024]</p>
 </td>
