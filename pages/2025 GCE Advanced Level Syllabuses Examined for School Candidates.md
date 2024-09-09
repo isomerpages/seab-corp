@@ -1214,7 +1214,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9921_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9921_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1235,7 +1235,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1256,7 +1256,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9577_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9577_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
