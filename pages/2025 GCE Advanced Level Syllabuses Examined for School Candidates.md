@@ -936,7 +936,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9818_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9818_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#
 <br>
 </p>
 </td>
@@ -952,7 +952,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9819_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9819_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1419,4 +1419,5 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9816_y25_sy.pdf" rel="noopener nofollow" target="_blank">Biology</a>
+</p>
