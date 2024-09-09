@@ -366,7 +366,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8876_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/8876_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
