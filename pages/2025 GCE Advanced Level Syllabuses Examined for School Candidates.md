@@ -1419,5 +1419,4 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9816_y25_sy.pdf" rel="noopener nofollow" target="_blank">Biology</a>
-</p>
+<p></p>
