@@ -670,7 +670,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9736_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9736_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -687,7 +687,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/9737_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9737_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
