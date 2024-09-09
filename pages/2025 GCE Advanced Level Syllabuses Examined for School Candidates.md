@@ -1172,7 +1172,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/8656_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8656_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
