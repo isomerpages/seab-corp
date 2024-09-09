@@ -992,7 +992,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/8657_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1010,7 +1010,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9577_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language &amp; Literature</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9577_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language &amp; Literature</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
