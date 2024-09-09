@@ -1354,4 +1354,5 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2024/9173_y24_sp_1__1_.pdf" rel="noopener nofollow" target="_blank">Paper 1</a>
+</p>
