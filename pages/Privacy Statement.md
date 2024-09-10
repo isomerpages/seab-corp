@@ -44,7 +44,7 @@ services.</p>
 <p><u>Contact Information</u>
 <br>7. Please <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>contact us</u></a> if
 you:
-<br>a.&nbsp;have any enquires or feedback on our data protection policies
+<br>a.&nbsp;have any enquiries or feedback on our data protection policies
 and procedures; or
 <br>b. need more information on or access to data which you have provided
 directly to us in the past.&nbsp;</p>
