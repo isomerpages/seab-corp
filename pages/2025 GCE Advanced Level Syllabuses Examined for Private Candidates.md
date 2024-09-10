@@ -237,7 +237,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8827_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8827_y25.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,7 +255,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8828_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8828_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,7 +273,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8829_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8829_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,7 +291,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8831_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8831_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
@@ -308,7 +308,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8841_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8841_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -320,7 +320,7 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/8841_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8841_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2024]</p>
 </td>
 </tr>
