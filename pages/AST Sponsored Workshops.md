@@ -7,8 +7,8 @@ description: AST Sponsored Workshops
 <p>SEAB conducts workshops that are sponsored by the Academy of Singapore
 Teachers (AST). More information and registration details can be found
 in <a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL2.0</a>.</p>
-<p>Please contact us at <a href="SEAB_Training@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAB_Training@seab.gov.sg</a> if you have
-any questions.</p>
+<p>Please contact us at <a href="mailto:SEAB_Training@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAB_Training@seab.gov.sg</a> if
+you have any questions.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>PRIMARY LEVEL</summary>
