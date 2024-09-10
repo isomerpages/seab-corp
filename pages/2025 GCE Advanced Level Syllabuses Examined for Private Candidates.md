@@ -642,9 +642,9 @@ understand the revised examination format.</p>
 <p>9539</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9539_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9539_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9539_y25_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9539_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2025/9539_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2025/9539_y25_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2024]</p>
 </td>
 </tr>
@@ -1030,4 +1030,5 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </table>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
 register for Mother Tongue Language Syllabus B can write to <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
-their request.</p>
+their request.<a href="/files/A Level Syllabus Private Cddts/2025/9539_y25_sy.pdf" rel="noopener nofollow" target="_blank">Literature in English</a>
+</p>
