@@ -326,7 +326,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8833_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8833_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -343,7 +343,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8834_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8834_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,7 +364,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8835_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8835_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
@@ -381,7 +381,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8836_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8836_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,7 +399,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8837_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8837_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -417,7 +417,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8838_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8838_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -430,7 +430,7 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]</p>
 </td>
 </tr>
