@@ -146,7 +146,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8058_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Law</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8058_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Law</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +161,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8059_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Theology</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8059_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Theology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +176,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Law</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Law</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +191,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9019_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Theology</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9019_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Theology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
