@@ -96,7 +96,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/gce_o_level_exam_timetable_as_at_24_may_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable </a>
+<p><a href="/files/Timetable/gce_o_level_exam_timetable_as_at_24_may_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
 </p>
 <p>(Updated as at 24 May 2024)</p>
 </td>
@@ -181,11 +181,13 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tbody>
 </table>
 <p>*<a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>Contact SEAB</u></a>&nbsp;if
-you have not received your Entry Proofs by the following dates:
-<br><strong>Mid-Year examination</strong> - 21 May 2024
-<br><strong>Science Practical examination</strong> - 7 days before the examination
-date
-<br><strong>Year-End examination</strong> - 27 June 2024
+you have not received the following by the dates indicated:
+<br><strong>Mid-Year examination</strong>  <strong>entry proof</strong> - 21
+May 2024
+<br><strong>Science Practical examination</strong>  <strong>schedule </strong>-
+7 days before the examination date
+<br><strong>Year-End examination</strong>  <strong>entry proof</strong> - 27
+June 2024
 <br>
 <br>^The actual date of the results release can only be confirmed when all
 processes have been completed. Once the date has been confirmed, it would
