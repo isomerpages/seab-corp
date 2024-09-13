@@ -8,7 +8,7 @@ description: Updates for Private Candidates
 not able to accept late registrations as the downstream processing of all
 examination entries has started.</p>
 <p>If you wish to register for the GCE-Level examinations, the next time
-you can do is in 2025. You can obtain more information on the 2025 Private
+you can do so is in 2025. You can obtain more information on the 2025 Private
 Candidates' Registration Exercise, including the registration procedures
 and timelines, from our website around March 2025.</p>
 <p>Information regarding entry proofs, subject amendments and withdrawals
@@ -30,16 +30,17 @@ the examinations.</p>
 the steps to retrieve your EPs from the system.</p>
 <p>You are required to bring a hardcopy EP for your examinations, as it will
 be used for attendance verification.</p>
-<p><strong>Science Practical Notifications</strong>
+<p><strong>Science Practical Examination Schedule</strong>
 </p>
 <p>Details regarding your assigned examination centres and reporting times
 for your Science practical examinations will be found in the Science practical
-notifications.</p>
-<p>These notifications are available for download from Candidates Portal,
-7 days before each of your Science practical examinations. You will receive
-an email notification. Please ensure that your email address is valid.</p>
-<p>Please contact SEAB if you have not received the notifications by the
-above-mentioned timeline.</p>
+examination schedule.</p>
+<p>These examination schedules are available for download from Candidates
+Portal, 7 days before each of your Science practical examinations. You
+will receive an email notification. Please ensure that your email address
+is valid.</p>
+<p>Please contact SEAB if you have not received the examination schedules
+by the above-mentioned timeline.</p>
 </div>
 </details>
 <details class="isomer-details">
