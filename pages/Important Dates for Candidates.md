@@ -123,7 +123,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Issue of Entry Proof<br>(Mid-Year Examination)*</strong>
+<p><strong>Issue of Mid-Year Examination Entry Proof*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
@@ -135,7 +135,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Issue of Entry Proof<br>(Science Practical Examination)*</strong>
+<p><strong>Issue of Science Practical Examination Schedule*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +150,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Issue of Entry Proof<br>(Year-End Examination)*</strong>
+<p><strong>Issue of Year-End Examination Entry Proof*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
@@ -182,11 +182,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </table>
 <p>*<a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>Contact SEAB</u></a>&nbsp;if
 you have not received the following by the dates indicated:
-<br><strong>Mid-Year examination</strong>  <strong>entry proof</strong> - 21
+<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 21
 May 2024
-<br><strong>Science Practical examination</strong>  <strong>schedule </strong>-
+<br><strong>Science Practical Examination</strong>  <strong>Schedule </strong>-
 7 days before the examination date
-<br><strong>Year-End examination</strong>  <strong>entry proof</strong> - 27
+<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 27
 June 2024
 <br>
 <br>^The actual date of the results release can only be confirmed when all
