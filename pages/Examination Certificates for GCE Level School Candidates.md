@@ -63,19 +63,19 @@ grades:</p>
 on the examination certificates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Examinations Certificates/School Candidates/nt_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(T)-Level</u></a>
+<p><a href="/files/Examinations/GCE NT LEVEL/N_T__Level_Explanatory_Note.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(T)-Level</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/Examinations Certificates/School Candidates/na_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(A)-Level</u></a>
+<p><a href="/files/Examinations/GCE NA LEVEL/N_A__Level_Explanatory_Note.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE N(A)-Level</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/Examinations Certificates/School Candidates/o_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE O-Level</u></a>
+<p><a href="/files/Examinations/GCE O LEVEL/O_Level_Explanatory_Note.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE O-Level</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/Examinations Certificates/School Candidates/a_level_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A-Level</u></a>
+<p><a href="/files/Examinations/GCE A LEVEL/A_Level_Explanatory_Note.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A-Level</u></a>
 </p>
 </li>
 </ul>
