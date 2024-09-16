@@ -578,8 +578,7 @@ view what will be shown on the result slip and examination certificate.</p>
 <summary>APPOINTMENT OF EXAMINATION CENTRES</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Overseas schools interested to apply to be an appointed 𝑖PSLE centres
-may complete an online application form via this link: <a href="https://go.gov.sg/application-ipslecentre" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/application-ipslecentre</u></a>
-</p>
+may write in to <a href="mailto:SEAB_iPSLE@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAB_iPSLE@seab.gov.sg</a>.</p>
 <p></p>
 <p>An overview of the application timelines can be found below.</p>
 <p></p>
