@@ -586,7 +586,7 @@ format.</p>
 <p><a href="https://go.gov.sg/nahumantiesrevisedssp1guide" rel="noopener noreferrer nofollow" target="_blank">Humanities (Revised) Paper 1 Social Studies</a>
 </p>
 <p></p>
-<p><a href="https://go.gov.sg/seabnahumanitiesp1ssdab" rel="noopener noreferrer nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
+<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -629,7 +629,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://drive.google.com/file/d/1QPWNITlGTFczbxYhZ-dctLFnjWIYdECT/view" rel="noopener noreferrer nofollow" target="_blank">English Language Paper 1</a>
+<p><a href="https://youtu.be/Th6K8jXbWSk" rel="noopener nofollow" target="_blank">English Language Paper 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
