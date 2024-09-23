@@ -144,4 +144,22 @@ consistent marking quality.</p>
 </tr>
 </tbody>
 </table>
+<h3>Suggested Reads</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-1-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/assessmt_sem24.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Empowering Tomorrow’s Minds: Insights from 2024 SEAB Assessment Seminar</div><div class="isomer-card-description">p.17</div><div class="isomer-card-link">SEAB-link Issue 1/2024</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-1-2024.pdf" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/afl2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Unveiling the Future of Education: SEAB’s Initiative for 21CC through
+Innovations in Assessment</div>
+<div class="isomer-card-description">p.38</div>
+<div class="isomer-card-link">SEAB-link Issue 1/2024</div>
+</div>
+</a>
+</div>
+<p></p>
 <p></p>
