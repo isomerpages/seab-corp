@@ -647,7 +647,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/ntsciencecandidateguide" rel="noopener noreferrer nofollow" target="_blank">Science Paper 1</a>
+<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">Science Paper 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
