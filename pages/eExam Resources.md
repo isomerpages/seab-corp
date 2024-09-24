@@ -543,10 +543,11 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">H2 Music</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9753</p>
 </td>
 </tr>
 <tr>
@@ -559,70 +560,6 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>A-Level</strong>
-</p>
-<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
-and Paper 2 online tutorial for the e-written examination to better understand
-the revised examination format.</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Subject Title</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject Code</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8611</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8613</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8614</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
