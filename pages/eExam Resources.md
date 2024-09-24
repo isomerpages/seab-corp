@@ -683,7 +683,7 @@ format.</p>
 <td rowspan="1" colspan="2">
 <p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">Humanities (Revised) Paper 1 Social Studies</a>
 </p>
-<p><a href="https://go.gov.sg/seabssdab" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Answer Booklet Video Guide</u></a>
+<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
