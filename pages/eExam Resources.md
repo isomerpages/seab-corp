@@ -744,7 +744,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/nt-science-candidate-guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Paper 1</u></a>
+<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">Science Paper 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
