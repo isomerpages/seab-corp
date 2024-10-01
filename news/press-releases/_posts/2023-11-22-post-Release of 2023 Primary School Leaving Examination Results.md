@@ -80,9 +80,8 @@ through any of the following channels:</p>
 during the application process)</p>
 </li>
 <li>
-<p>S1-IS (<a href="www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>
-<a href="https://www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>) using the student’s Birth Certificate number
-/ FIN, and the S1 PIN</p>
+<p>S1-IS (<a href="https://www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>)
+using the student’s Birth Certificate number / FIN, and the S1 PIN</p>
 </li>
 <li>
 <p>At the student’s primary school</p>
