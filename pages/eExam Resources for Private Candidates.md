@@ -484,9 +484,6 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
-and Paper 2 online tutorial for the e-written examination to better understand
-the revised examination format.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
