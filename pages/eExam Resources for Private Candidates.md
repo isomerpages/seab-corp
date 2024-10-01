@@ -302,6 +302,8 @@ their format and requirements.</p>
 <details class="isomer-details">
 <summary>PRACTICAL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Check out the online guides for the following examinations to better understand
+their formats and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
