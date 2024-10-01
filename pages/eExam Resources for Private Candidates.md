@@ -12,6 +12,7 @@ description: eExam Resources for Private Candidates
 <p>Check out the <a href="https://go.gov.sg/eoralcddtslides" rel="noopener noreferrer nofollow" target="_blank">online guides</a> or
 <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a>for the following examinations to better understand
 their format and requirements.</p>
+<p></p>
 <p><strong>A-Level</strong>
 </p>
 <table style="minWidth: 75px">
@@ -90,6 +91,7 @@ their format and requirements.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>O-Level</strong>
 </p>
 <table style="minWidth: 75px">
