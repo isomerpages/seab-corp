@@ -629,10 +629,6 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>N(A)-Level</strong>
 </p>
-<p>Check out the online guides (click on the respective papers in the table
-below) for the e-written examination to better understand the revised examination
-format.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -650,7 +646,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">Humanities (Revised) Paper 1 Social Studies</a>
+<p><a href="https://go.gov.sg/nahumantiesrevisedssp1guide" rel="noopener nofollow" target="_blank">Humanities (Revised) Paper 1 Social Studies</a>
 </p>
 <p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
 </p>
