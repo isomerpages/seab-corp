@@ -103,8 +103,8 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.seab.gov.sg/pages/e-Oral-Examination-Guide-for-Candidate/story_html5.html" rel="noopener noreferrer nofollow" target="_blank"><u>Online Tutorial</u></a> for
-Mother Tongue Language e-Oral examination and <a href="https://www.seab.gov.sg/content/eWrittenExaminationGuideforCandidate/story_html5.html" rel="noopener noreferrer nofollow" target="_blank"><u>H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</u></a> to
+<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener nofollow" target="_blank">Interactive guide</a> for
+Mother Tongue Language e-Oral examination and <a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</a> to
 understand the revised examination format.</p>
 <h4><strong>Subjects Examined at A- and AO-Levels</strong></h4>
 <table style="minWidth: 100px">
