@@ -669,12 +669,8 @@ their formats and requirements.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>N(T)-Level</strong>
 </p>
-<p>Check out the online guides (click on the respective papers in the table
-below) for the e-written examination to better understand the revised examination
-format.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
