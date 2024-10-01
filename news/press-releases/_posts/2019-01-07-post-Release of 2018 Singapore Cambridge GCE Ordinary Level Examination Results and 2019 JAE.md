@@ -133,7 +133,7 @@ PFP.</p>
 the DPP in December but have now decided to take up a PFP offer will need
 to apply to ITE to withdraw from the DPP first, before they are able to
 take up the PFP offer.</p>
-<p><strong><sub>1 Private candidates can visit </sub><a href="www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
+<p><strong><sub>1 Private candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/main" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.singpass.gov.sg/main </sub></a><sub>to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
 </p>
 <p><strong><sub>2 Form A will list the applicant’s GCE O-Level examination results, the courses which he/she is eligible to apply for under the JAE, and his/her JAE PIN (i.e. a personal password for the applicant to access JAE-IS).</sub></strong>
 </p>
