@@ -472,9 +472,8 @@ their formats and requirements.</p>
 <details class="isomer-details">
 <summary>E-WRITTEN EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Check out the online tutorial for the e-written examination to better
-understand the revised examination format.</p>
+<p>Check out the online guides for the following examinations to better understand
+their formats and requirements.</p>
 <p></p>
 <h4><strong>A-Level</strong></h4>
 <p></p>
@@ -495,7 +494,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Translation (Chinese)</u></a>&nbsp;[Revised]</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Translation (Chinese)</a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9571</p>
