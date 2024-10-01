@@ -457,7 +457,8 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Computing</p>
+<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">Computing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9569</p>
