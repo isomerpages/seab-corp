@@ -126,6 +126,6 @@ announcements on the dates of the GCE-level examinations’ results release.</p>
 <p>10. MOE and SEAB will continue to monitor the COVID-19 situation closely,
 and provide updates if there are further changes to the arrangements for
 this year’s release of results.</p>
-<p><strong><sub>1 Candidates can visit the </sub></strong><a href="https://www.singpass.gov.sg/main" rel="noopener nofollow" target="_blank"><sub>SingPass website</sub></a><strong><sub> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
+<p><strong><sub>1 Candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/main" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.singpass.gov.sg/main</sub></a><sub> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
 </p>
 <p></p>
