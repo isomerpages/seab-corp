@@ -127,6 +127,6 @@ announcements on the dates of the GCE-level examinations’ results release.</p>
 and provide updates if there are further changes to the arrangements for
 this year’s release of results.</p>
 <p><strong><sub>1 Candidates can visit the SingPass website at </sub></strong>
-<a rel="noopener nofollow" target="_blank">www.seab.gov.sg</a><strong><sub> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
+<a href="www.seab.gov.sg" rel="noopener nofollow" target="_blank">www.seab.gov.sg</a><strong><sub> to find out if they are eligible for SingPass, and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
 </p>
 <p></p>
