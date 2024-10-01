@@ -199,7 +199,6 @@ their format and requirements.</p>
 <p></p>
 <p><strong>N-Level</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -383,6 +382,7 @@ their format and requirements.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the online guides for the following examinations to better understand
 their formats and requirements.</p>
+<p></p>
 <p><strong>O-Level</strong>
 </p>
 <table style="minWidth: 50px">
@@ -475,8 +475,8 @@ their formats and requirements.</p>
 <p>Check out the online guides for the following examinations to better understand
 their formats and requirements.</p>
 <p></p>
-<h4><strong>A-Level</strong></h4>
-<p></p>
+<p><strong>A-Level</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -517,7 +517,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Chinese B</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -526,7 +526,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Malay B</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -535,7 +535,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
+<p><a href="Tamil B" rel="noopener nofollow" target="_blank">https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -564,10 +564,6 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial&nbsp;and
-Paper 2 online tutorial for the e-written examination to better understand
-the revised examination format.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
