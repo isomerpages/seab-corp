@@ -696,7 +696,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---n-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music Paper 1</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">Music Paper 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -714,7 +714,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---n-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Mother Tongue Paper 1</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">Basic Mother Tongue Paper 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
