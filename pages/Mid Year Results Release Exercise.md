@@ -97,9 +97,19 @@ deadline. No report on your performance in the examination will be provided.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>REGISTRATION FOR GCE O- AND A-LEVEL YEAR-END MOTHER TONGUE LANGUAGE WRITTEN
+PAPERS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>If you wish to resit the Mother Tongue Language (MTL) examination at the
+end of your examination year, the registration details and deadline will
+be provided in the same email that notifies you of the results release
+date.</p>
+<p></p>
+<p>It is important to note that the better of your Mid-Year and Year-End
+MTL examination grades will be reflected on your examination certificate,
+which will be issued during your GCE O- or A-Level results release exercises
+in January or February respectively of the year following your examination(s).</p>
 </div>
 </details>
 </div>
