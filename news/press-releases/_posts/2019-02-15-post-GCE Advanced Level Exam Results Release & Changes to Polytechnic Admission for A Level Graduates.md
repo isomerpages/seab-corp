@@ -45,7 +45,9 @@ of the shortened timeline is available in <u>Annex A</u>.</p>
 directly for these 110 courses in mid-August 2019, for matriculation at
 the start of AY2019 Semester 2 in October 2019. More details will be available
 on the respective polytechnics’ websites by March 2019.</p>
-<p><strong><sub>1 Private candidates can visit the </sub></strong><a href="https://www.singpass.gov.sg/main" rel="noopener nofollow" target="_blank"><sub>SingPass website</sub></a><strong><sub> to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> Private candidates can visit the </sub></strong>
+<a href="https://www.singpass.gov.sg/main" rel="noopener nofollow" target="_blank"><sub>SingPass website</sub>
+</a><strong><sub> to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.</sub></strong>
 </p>
 <p><strong>Annex A</strong>
 </p>
