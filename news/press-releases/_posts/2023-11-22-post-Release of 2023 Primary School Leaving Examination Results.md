@@ -50,7 +50,7 @@ S1 Option Form. Using the S1-IS, students can download a copy of the S1
 Option Form and submit their school choices online.</p>
 <p>8. The S1-IS will be accessible from 11.30am on Wednesday, 22 November
 2023 to 3.00pm on Tuesday, 28 November 2023 through MOE’s S1 Posting website
-at <a href="http://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>.
+at <a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/s1-posting</u></a>.
 To ensure smooth completion of their online submission, students should
 – in discussion with their parents – first consider their secondary school
 choices, make their decision, and complete the option form before logging
@@ -80,8 +80,9 @@ through any of the following channels:</p>
 during the application process)</p>
 </li>
 <li>
-<p>S1-IS (<a href="http://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/s1-posting</u></a>)
-using the student’s Birth Certificate number / FIN, and the S1 PIN</p>
+<p>S1-IS (<a href="www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>
+<a href="https://www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>) using the student’s Birth Certificate number
+/ FIN, and the S1 PIN</p>
 </li>
 <li>
 <p>At the student’s primary school</p>
