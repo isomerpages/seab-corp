@@ -99,5 +99,4 @@ inform their posted secondary school directly after receiving their posting
 results to confirm that they are taking up the place, and the school will
 reserve the place for them. More information on S1 Posting and S1-IS are
 available at MOE’s&nbsp;S1 Posting website. For enquiries, please visit
-<a href="http://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/contact</u>
-</a>.</p>
+<a href="https://www.moe.gov.sg/contact" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/contact</a>.</p>
