@@ -49,7 +49,7 @@ be provided.</p>
 </details>
 </div>
 <h4><strong>Year-End Results Release Exercise For GCE-Level Private Candidates</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>RELEASE OF RESULTS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -75,6 +75,45 @@ the specified period.</p>
 <p>You may access the portal using the credentials that you used to create
 your account during your examination registration. If you have forgotten
 your login credentials, you may refer to this set of <a href="https://myexams.seab.gov.sg/faq" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>APPEAL OF REVIEW OF RESULTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>You may appeal for a review of your results during the specified appeal
+period<strong>&nbsp;</strong>through <strong><a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB’s Candidates Portal</u></a>.</strong>
+<br>
+</p>
+<p>You will be notified of the appeal fee for each subject during each year's
+results release exercise.&nbsp; All appeal fees are inclusive of GST. The
+appeal is for the review of the marking of the scripts and a full clerical
+re-check.
+<br>
+</p>
+<p>Your appeal application would be submitted to SEAB for processing once
+you have made the payment successfully.
+<br>
+</p>
+<p>You will need to make payment via either of these e-payment options:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>PayNow</p>
+</li>
+<li>
+<p>eNets (Credit/ Debit)
+<br>
+</p>
+</li>
+</ol>
+<p><strong>Note:</strong>&nbsp;Applications submitted after the appeal deadline
+will not be accepted.
+<br>
+</p>
+<p><strong>Appeal Outcome</strong>
+</p>
+<p>You will receive the appeal outcome letter via email by the specified
+deadline. No report on your performance in the examination will be provided.</p>
 </div>
 </details>
 </div>
