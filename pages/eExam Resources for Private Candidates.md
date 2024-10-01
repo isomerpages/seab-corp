@@ -9,9 +9,9 @@ description: eExam Resources for Private Candidates
 <summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Check out the <a href="https://go.gov.sg/eoralcddtslides" rel="noopener noreferrer nofollow" target="_blank">online tutorial</a> or
-<a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive e-oral examination guide</a>for the e-oral examination to
-better understand the format and requirements.</p>
+<p>Check out the <a href="https://go.gov.sg/eoralcddtslides" rel="noopener noreferrer nofollow" target="_blank">online guides</a> or
+<a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a>for the e-oral examination to better understand
+the format and requirements.</p>
 <p><strong>A-Level</strong>
 </p>
 <table style="minWidth: 75px">
