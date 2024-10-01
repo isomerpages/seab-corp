@@ -82,7 +82,7 @@ your login credentials, you may refer to this set of <a href="https://myexams.se
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>You may appeal for a review of your results during the specified appeal
-period<strong>&nbsp;</strong>through <strong><a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB’s Candidates Portal</u></a>.</strong>
+period<strong>&nbsp;</strong>through <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB’s Candidates Portal</u></a><strong>.</strong>
 <br>
 </p>
 <p>You will be notified of the appeal fee for each subject during each year's
