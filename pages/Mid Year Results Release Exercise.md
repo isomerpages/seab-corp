@@ -13,7 +13,7 @@ description: Mid Year Results Release Exercise
 <p>The date of the Mid-Year results release exercise for the GCE O- and A-Level
 Mid-Year Mother Tongue Language examinations will be announced by your
 schools closer to the date of the exercise each year. Prior to the announcement,
-you can refer to the tentative dates of the exercise on&nbsp;SEAB's website.</p>
+you can refer to the tentative dates of the exercise on&nbsp;<a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's website</u></a>.</p>
 <p></p>
 <p>You are to return to your school on the day of the results release to
 collect your results.
@@ -37,8 +37,7 @@ provided on the day of each year's Mid-Year MTL results release.
 <p>You will receive the appeal outcome letter through your school by the
 specified deadline. No report on your performance in your examination will
 be provided.</p>
-<p>
-<br>If you have any clarifications, please contact your school.</p>
+<p>If you have any clarifications, please contact your school.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -57,4 +56,6 @@ in January or February respectively of the year following your examination(s).</
 </div>
 </details>
 </div>
+<h4><strong>Mid-Year Results Release Exercises for GCE O- and A-Level Mother Tongue Language examinations For Private Candidates</strong></h4>
+<p></p>
 <p></p>
