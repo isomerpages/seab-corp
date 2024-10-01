@@ -506,7 +506,7 @@ their formats and requirements.</p>
 <br>Malay Language and Literature [Revised]
 <br>Tamil Language and Literature [Revised]</p>
 <p></p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---a-level.pdf" rel="noopener noreferrer nofollow" target="_blank">For Candidate Reference</a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">For Candidate Reference</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
