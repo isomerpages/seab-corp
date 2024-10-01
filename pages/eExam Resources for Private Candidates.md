@@ -389,13 +389,11 @@ their formats and requirements.</p>
 <details class="isomer-details">
 <summary>E-WRITTEN EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Check out the online guides for the following examinations to better understand
+their formats and requirements.</p>
 <p></p>
 <p><strong>A-Level</strong>
-<br>
-<br>Check out the online tutorial for the e-written examination to better
-understand the revised examination format.</p>
-<p></p>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -435,37 +433,6 @@ understand the revised examination format.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Check out the Mother Tongue Language Syllabus B Paper 1 online tutorial
-and Paper 2 online tutorial for the e-written examination to better understand
-the revised examination format.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Subject Title</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject Code</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a>
 </p>
@@ -490,6 +457,15 @@ the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8614</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">H2 Music</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9753</p>
 </td>
 </tr>
 <tr>
