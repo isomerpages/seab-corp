@@ -49,6 +49,33 @@ be provided.</p>
 </details>
 </div>
 <h4><strong>Year-End Results Release Exercise For GCE-Level Private Candidates</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>RELEASE OF RESULTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>The date of the Year-End results release exercise for your examinations
+will be announced closer to the date of the exercise each year. Prior to
+the announcement, you can refer to the tentative dates of the exercise
+on&nbsp;<a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's website</u></a>.</p>
 <p></p>
+<p>You will receive your examination certificate if you have obtained at
+least one Pass grade on one or more subjects. You can refer to this&nbsp;
+<a href="https://www.seab.gov.sg/home/examinations/result-slips-examination-certificates-private-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>link</u>
+</a>&nbsp;for more information on the eligibility to receive an examination
+certificate.</p>
+<p></p>
+<p>Your examination certificates will be delivered via registered mail within
+one (1) month from the date of the release of the results, to&nbsp;the
+address that you had provided to SEAB.</p>
+<p></p>
+<p>You can also view your examination results online via <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB’s Candidates Portal</u></a>&nbsp;during
+the specified period.</p>
+<p>&nbsp;</p>
+<p>You may access the portal using the credentials that you used to create
+your account during your examination registration. If you have forgotten
+your login credentials, you may refer to this set of <a href="https://myexams.seab.gov.sg/faq" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a>.</p>
+</div>
+</details>
+</div>
 <p></p>
