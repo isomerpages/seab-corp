@@ -581,7 +581,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Chinese B</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -593,7 +593,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Malay B</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -605,7 +605,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Tamil B</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -617,7 +617,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eexam2_candidate_experience_guide_for_written_subjects_e-exam---o-level.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise and Sports Science</u></a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Exercise and Sports Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
