@@ -14,7 +14,6 @@ their format and requirements.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
