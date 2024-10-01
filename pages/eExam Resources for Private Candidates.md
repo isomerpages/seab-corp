@@ -344,6 +344,7 @@ their formats and requirements.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>A-Level</strong>
 </p>
 <table style="minWidth: 75px">
