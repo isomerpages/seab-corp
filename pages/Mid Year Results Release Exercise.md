@@ -57,5 +57,50 @@ in January or February respectively of the year following your examination(s).</
 </details>
 </div>
 <h4><strong>Mid-Year Results Release Exercises for GCE O- and A-Level Mother Tongue Language examinations For Private Candidates</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>RELEASE OF RESULTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>The date of the Mid-Year results release exercise for the GCE O- and A-Level
+Mid-Year Mother Tongue Language examinations will be announced closer to
+the date of the exercise each year. Prior to the announcement, you can
+refer to the tentative dates of the exercise on&nbsp;<a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's website</u></a>.
+<br>
+</p>
+<p>On the date of the exercise, you may view your results via <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's Candidates Portal</u></a>&nbsp;during
+the specified period and for about 2 weeks.
+<br>
+</p>
+<p>You may access the portal using the credentials that you used to create
+your account during your examination registration. If you have forgotten
+your login credentials, you may refer to this set of <a href="https://myexams.seab.gov.sg/faq" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a>.
+<br>
+</p>
+<p>No hardcopy result slips will be issued to you.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>APPEAL FOR REVIEW OF RESULTS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>You will be able to submit your appeal for a review of your Mid-Year Mother
+Tongue Language (MTL) examination results and make the payment via <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>.
+More details regarding the appeal process and fees will be provided on
+the day of each year's Mid-Year MTL results release.
+<br>
+</p>
+<p><strong>Appeal Outcome</strong>
+</p>
+<p>You will receive the appeal outcome letter via email by the specified
+deadline. No report on your performance in the examination will be provided.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
