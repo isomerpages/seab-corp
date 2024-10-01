@@ -307,7 +307,6 @@ their format and requirements.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>PSLE</strong>
 </p>
 <table style="minWidth: 50px">
