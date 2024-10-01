@@ -74,9 +74,9 @@ result slip and certificate.</p>
 polytechnics and the Institute of Technical Education to consider the candidates’
 re- examination results for off-cycle posting to these institutions and
 courses of study.</p>
-<p><strong><sub>1 Please refer to Cambridge Assessment’s press statement.</sub></strong>
+<p><strong><sup><sub>1 </sub></sup><sub>Please refer to Cambridge Assessment’s press statement.</sub></strong>
 </p>
-<p><strong><sub>2 </sub><u><sub>2018 GCE O-Level Additional Mathematics examination format:</sub></u></strong>
+<p><strong><sup><sub>2</sub></sup><sub> </sub><u><sub>2018 GCE O-Level Additional Mathematics examination format:</sub></u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
