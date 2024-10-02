@@ -37,7 +37,7 @@ their websites. More information is available at:</p>
 <p>Open houses held by secondary schools (<a href="http://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023" rel="noopener noreferrer nofollow" target="_blank">www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</a>)</p>
 </li>
 <li>
-<p>PSLE Full SBB Microsite (<a href="https://www.moe.gov.sg/microsites/psle-fsbb/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/</a>)</p>
+<p>PSLE Full SBB Microsite (<a href="http://moe.gov.sg/microsites/psle-fsbb/" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/microsites/psle-fsbb/</a>)</p>
 </li>
 <li>
 <p>Websites of secondary schools</p>
