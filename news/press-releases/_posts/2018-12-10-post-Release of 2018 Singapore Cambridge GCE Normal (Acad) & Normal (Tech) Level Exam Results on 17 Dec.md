@@ -87,6 +87,6 @@ with an ECG Counsellor at the ECG Centre at MOE (Grange Road) via 6831
 1420, <a href="mailto:MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_ECG@moe.gov.sg</u></a> or
 http://bit.ly/moe_ecg. The MOE ECG Centre will be open from 10 to 29 December
 2018, 9.00am to 5.00pm.</p>
-<p><strong><sup><sub>1 </sub></sup><sub>Private candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/main" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.singpass.gov.sg/main</sub></a><sub> to find out if they are eligible for SingPass.</sub></strong>
+<p><strong><sup><sub>1 </sub></sup><sub>Private candidates can visit the SingPass website at </sub><a href="http://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass.</sub></strong>
 </p>
 <p></p>
