@@ -66,7 +66,7 @@ schools taking part in the 2023 S1 Posting Exercise, please visit SchoolFinder
 (<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/schoolfinder</a>).
 Parents and students are encouraged to take the time to explore the schools’
 websites, social media pages, as well as take part in their open houses
-(<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</a>),
+(<a href="http://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023" rel="noopener noreferrer nofollow" target="_blank">www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</a>),
 to find out more about the schools that interest them before selecting
 the schools.</p>
 <p><strong>Release of S1 Posting Results</strong>
