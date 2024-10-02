@@ -190,6 +190,6 @@ Saturdays: 9.00am to 12.00pm).</p>
 <br><strong><sub>5 Except for Nursing courses, which require a net ELR2B2 aggregate of 28 points or lower. Applicants may combine results from no more than 2 sittings of the GCE O-Level examination.</sub></strong>
 <br><strong><sub>6&nbsp;More details on the ITE EAE can be found at </sub><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</sub></a></strong>
 <br><strong><sub>7&nbsp;The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects (including one relevant subject), and excludes CCA. CCA bonus points will be taken into account during posting.</sub></strong>
-<br><strong><sub>8&nbsp;More information on the DPP and eligibility requirements can be found at </sub><a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><sub>http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</sub></a><sub>.</sub></strong>
+<br><strong><sub>8&nbsp;More information on the DPP and eligibility requirements can be found at </sub><a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</sub></a><sub>.</sub></strong>
 </p>
 <p></p>
