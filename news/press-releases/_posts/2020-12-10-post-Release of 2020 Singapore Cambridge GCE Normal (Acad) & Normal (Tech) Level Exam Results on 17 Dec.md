@@ -121,6 +121,6 @@ or phone counselling from 10 to 23 December 2020, 9.00am to 5.00pm (Saturdays:
 9.00am to 12.30pm).
 <br>
 </p>
-<p><strong><sub>1 Candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass.</sub></strong>
+<p><strong><sup><sub>1 </sub></sup><sub>Candidates can visit the SingPass website at </sub><a href="https://www.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.singpass.gov.sg</sub></a><sub> to find out if they are eligible for SingPass.</sub></strong>
 </p>
 <p></p>
