@@ -101,7 +101,7 @@ through any of the following channels:</p>
 the applicant during the application process);</p>
 </li>
 <li>
-<p>S1-IS (<a href="https://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/s1-posting</a>)
+<p>S1-IS (<a href="http://www.moe.gov.sg/s1-posting" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>)
 using the student’s Birth Certificate number / FIN, and the S1 PIN; or</p>
 </li>
 <li>
