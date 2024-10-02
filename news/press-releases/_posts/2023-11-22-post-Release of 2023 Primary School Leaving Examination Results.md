@@ -50,7 +50,7 @@ S1 Option Form. Using the S1-IS, students can download a copy of the S1
 Option Form and submit their school choices online.</p>
 <p>8. The S1-IS will be accessible from 11.30am on Wednesday, 22 November
 2023 to 3.00pm on Tuesday, 28 November 2023 through MOE’s S1 Posting website
-at <a href="http://www.moe.gov.sg/secondary/s1-posting/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/s1-posting/</a>.
+at <a href="http://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/s1-posting</a>.
 To ensure smooth completion of their online submission, students should
 – in discussion with their parents – first consider their secondary school
 choices, make their decision, and complete the option form before logging
