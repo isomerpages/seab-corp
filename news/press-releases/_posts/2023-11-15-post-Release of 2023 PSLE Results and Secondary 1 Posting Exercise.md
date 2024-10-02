@@ -31,10 +31,10 @@ will provide students greater customisation and flexibility in their learning.</
 their websites. More information is available at:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SchoolFinder (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/secschoolfinder</a>)</p>
+<p>SchoolFinder (<a href="http://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/secschoolfinder</a>)</p>
 </li>
 <li>
-<p>Open houses held by secondary schools (<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</a>)</p>
+<p>Open houses held by secondary schools (<a href="http://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023" rel="noopener noreferrer nofollow" target="_blank">www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023</a>)</p>
 </li>
 <li>
 <p>PSLE Full SBB Microsite (<a href="https://www.moe.gov.sg/microsites/psle-fsbb/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/</a>)</p>
