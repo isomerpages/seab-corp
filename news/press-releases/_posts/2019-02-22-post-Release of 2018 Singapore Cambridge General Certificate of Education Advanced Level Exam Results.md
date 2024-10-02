@@ -113,7 +113,7 @@ directly in mid-August 2019. More details can be found on the respective
 polytechnics’ websites.</p>
 <p>4. Those who are interested in applying to the Autonomous Universities
 can apply directly via the respective universities’ websites.</p>
-<p><strong><sub>1 The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore- Cambridge General Certificate of Education Advanced Level Examinations.</sub></strong>
+<p><strong><sup><sub>1</sub></sup><sub> The University of Cambridge International Examinations (CIE), the Ministry of Education, Singapore and the Singapore Examinations and Assessment Board (SEAB) are the joint examining authorities for the Singapore- Cambridge General Certificate of Education Advanced Level Examinations.</sub></strong>
 </p>
 <p><strong>Annex A</strong>
 </p>
