@@ -50,11 +50,19 @@ strongly encouraged to use the JAE worksheet (www.moe.gov.sg/jaeworksheet)
 before submitting their online application. The JAE-IS can be accessed
 using Singpass.&nbsp;Applicants can find more information on the following
 MOE websites:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>JAE website for more details on the JAE (<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+</li>
+<li>
 <p>SchoolFinder for details of the offerings by and previous entry score
 ranges for JCs and MI (<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+</li>
+<li>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
 aggregate type and area of interest (<a href="http://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+</li>
+</ul>
 <p><strong>Application Results</strong>
 </p>
 <p>8. The posting results of the JAE application are scheduled for release
