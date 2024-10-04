@@ -83,5 +83,5 @@ sections:
       description: Try using our site-wide search or Frequently Asked Questions (FAQs)
         to find answers to your queries.
       button: 🔎 View FAQ
-      url: /faq
+      url: https://ask.gov.sg/seab
 ---
