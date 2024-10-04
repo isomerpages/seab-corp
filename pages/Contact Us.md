@@ -44,7 +44,7 @@ answers to your questions.</p>
 <br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/search/" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
 find answers to your queries.</p>
 <p><strong>Frequently Asked Questions (FAQs)</strong> 
-<br>Before contacting us, try our <strong><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/faq/" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
+<br>Before contacting us, try our <strong><a href="https://ask.gov.sg/seab" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
 You may be able to find the answers you need.</p>
 <p><strong>Candidates Portal</strong> 
 <br>Register for the GCE-Level examinations and view your results online via
