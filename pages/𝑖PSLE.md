@@ -563,15 +563,12 @@ admission tests refer to&nbsp;AEIS, S-AEIS, SPERS-Sec and SPE.</p>
 <p>The examination results are usually released in November of the examination
 year and the results will be reported in the form of Achievement Levels:
 1, 2, 3, 4, 5, 6, 7, 8.</p>
-<h4><strong>Result Slip</strong></h4>
-<p>You will receive your result slip from your examination centre when the
-examination results are released.</p>
 <h4><strong>Examination Certificate</strong></h4>
 <p>You will receive an 𝑖PSLE&nbsp;certificate if you are awarded a grade
 for at least one 𝑖PSLE subject.</p>
 <h4><strong>Explanatory Notes</strong></h4>
 <p>Please click on this <a href="/files/IPSLE/Internationalexaminations/ipsle_explanatory_notes.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> to
-view what will be shown on the result slip and examination certificate.</p>
+view what will be shown on the examination certificate.</p>
 </div>
 </details>
 <details class="isomer-details">
