@@ -692,9 +692,9 @@ candidates to write answers on the question paper.</p>
 <p>1116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1116_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]</p>
 </td>
 </tr>
@@ -710,10 +710,10 @@ candidates to write answers on the question paper.</p>
 <p>1160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_oe_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y24_lc_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]
 <br>
 </p>
