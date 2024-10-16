@@ -24,18 +24,10 @@ links:
         url: /distributors-of-past-years-question-papers
       - title: Past Years' Results
         url: /statements-of-results
-      - title: AEIS
-        url: /aeis/
-      - title: S-AEIS
-        url: /s-aeis/
-      - title: SPERS-Sec
-        url: /spers-sec
-      - title: SPE
-        url: /spe/
-      - title: 𝑖PSLE
-        url: /ipsle
       - title: Non-National Examinations
         url: /non-national-examinations
+      - title: 𝑖PSLE
+        url: /ipsle
   - title: News
     url: /news/
     sublinks:
