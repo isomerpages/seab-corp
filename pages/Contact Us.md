@@ -121,12 +121,15 @@ and 21 December 2023.</p>
 <summary><strong>VISIT US</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Counter services at SEAB's Visitor Centre are available by appointment
-only. Make an&nbsp;<strong><a href="https://form.gov.sg/#!/5ded051777515a0012069a05" rel="noopener noreferrer nofollow" target="_blank"><u>appointment</u></a></strong>&nbsp;at
-least 2 business days in advance to visit us at your preferred timeslot.
-<br>We will assess your request for an appointment and may contact you via
-email/phone if your request can be addressed via these channels.
-<br>We will aim to confirm your appointment within 2 business days.</p>
+<p>In-person assistance at SEAB’s Visitor Centre is strictly by appointment
+only, and it is for selected services that cannot be completed via email
+or call. Please make an appointment via our <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>online form</u></a> at
+least 2 business days in advance.</p>
+<p>Before confirming your appointment, we will contact you via email or a
+call to better understand your needs and assist you where possible. You
+may receive a call from us with this number&nbsp;6970 6255.</p>
+<p>If an in-person appointment is confirmed, we seek your understanding that
+you may experience longer wait times during peak periods.</p>
 <p><strong>Locate Us</strong> 
 <br>Singapore Examinations and Assessment Board (SEAB)
 <br>298 Jalan Bukit Ho Swee
