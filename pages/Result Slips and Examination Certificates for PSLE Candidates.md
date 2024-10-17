@@ -7,7 +7,7 @@ description: Result Slips and Examination Certificates for PSLE Candidates
 <p><strong>Result Slips</strong>
 <br>You will receive your result slip together with your examination certificate
 from your school when the examination results are released.</p>
-<p>Please refer to this <a href="https://go.gov.sg/explanatory-notes-from-2023" rel="noopener noreferrer nofollow" target="_blank">explanatory note</a> on
+<p>Please refer to this <a href="https://go.gov.sg/psle-explanatory-notes" rel="noopener noreferrer nofollow" target="_blank">explanatory note</a> on
 what will be shown on the result slip and examination certificate from
 2023 onwards.</p>
 <p><strong>Examination Certificates</strong>
