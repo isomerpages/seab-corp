@@ -19,12 +19,12 @@ to their school to collect their results, should they wish to. Details
 on the collection arrangements will be shared by the respective schools.</p>
 <p>3. School candidates who are unwell should exercise social responsibility
 and may access their results online<sup>1</sup> via Singapore Examinations
-and Assessment Board’s (SEAB) Candidates Portal at <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm
-on Friday, 17 February 2023 till 11.59pm on Friday, 3 March 2023. School
-candidates who are eligible for Singpass can use their Singpass account
-to access SEAB’s Candidates Portal. School candidates who are International
-Students will receive their system-generated username via email from Tuesday,
-14 February 2023.</p>
+and Assessment Board’s (SEAB) Candidates Portal at <a href="https://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm on Friday,
+17 February 2023 till 11.59pm on Friday, 3 March 2023. School candidates
+who are eligible for Singpass can use their Singpass account to access
+SEAB’s Candidates Portal. School candidates who are International Students
+will receive their system-generated username via email from Tuesday, 14
+February 2023.</p>
 <p>4. School candidates who are unable to collect their results in person
 can also appoint a proxy to collect a physical copy of their results on
 their behalf from the school. Proxies are required to produce the relevant
