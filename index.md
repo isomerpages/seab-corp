@@ -71,7 +71,7 @@ sections:
       button: VIEW DETAILS
       alt: sec-examinations
       url: /link
-      image: /images/HomePage/SEC_examinations.png
+      image: /images/shutterstock_1118685524.jpg
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
