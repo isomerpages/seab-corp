@@ -42,7 +42,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date of 2024 Result Release^</p>
+<p>Date of 2024 Results Release^</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed, 20 November – Fri, 22 November 2024</p>
@@ -162,7 +162,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2024 Result Release^</strong>
+<p><strong>Date of 2024 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
