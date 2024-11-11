@@ -13,7 +13,7 @@ English Language, Mathematics, Science and Chinese Language. Students may
 register for a minimum of one subject. The formats are similar to those
 of the Singapore PSLE.</p>
 <blockquote>
-<p><strong><a href="/files/Timetable/2024_ipsle_exam_timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2024</a></strong>
+<p><strong><a href="/files/Timetable/2025_iPSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2025</a></strong>
 </p>
 </blockquote>
 <p></p>
@@ -161,8 +161,8 @@ year</p>
 </tbody>
 </table>
 <p>If you are studying in an overseas school, and are not sitting for the
-Singapore PSLE, you will be able to register for the 𝑖PSLE examination
-with the following appointed overseas 𝑖PSLE centres:&nbsp;</p>
+Singapore PSLE, you will be able to register for the 𝑖PSLE with the following
+appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
