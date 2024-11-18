@@ -98,7 +98,7 @@ are also available in this <a href="https://go.gov.sg/guideretrieveopencertfiles
 obtain your digitised results from the <a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>MySkillsFuture</u></a> portal.</p>
 <p>Please note that SEAB will not send the digitised examination results
 to external parties on the candidates' behalf.</p>
-<h4>2. If you are not a SingPass holder</h4>
+<h4>2. If you are not a Singpass holder</h4>
 <p>Please&nbsp;<a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>submit your request</u></a>&nbsp;to
 us with the following information to obtain a digitised copy of your examination
 results at no cost:</p>
