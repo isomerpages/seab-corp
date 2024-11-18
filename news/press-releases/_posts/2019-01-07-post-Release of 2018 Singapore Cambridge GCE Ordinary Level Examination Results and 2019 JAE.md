@@ -53,17 +53,17 @@ posted to polytechnics and ITE will receive a letter from their respective
 institutions on the enrolment details.</p>
 <p><strong>Direct School Admission – Junior Colleges</strong>
 </p>
-<p>8. Students who had accepted offers through the 2018 Direct School Admission
+<p>9. Students who had accepted offers through the 2018 Direct School Admission
 – Junior Colleges (DSA-JC) Exercise will be admitted to their chosen JC
 if they have met the eligibility criteria for admission based on their
 GCE O-Level examination results. Students admitted to a JC through DSA-JC
 will not be eligible to participate in the JAE.</p>
-<p>9. Students who do not meet the JC admission criteria may take part in
+<p>10. Students who do not meet the JC admission criteria may take part in
 the JAE to apply for courses which they are eligible for. More details
 on DSA-JC can be found at https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc.</p>
 <p><strong>Early Admissions Exercise – Polytechnics</strong>
 </p>
-<p>10. Students who had accepted conditional offers to a polytechnic course
+<p>11. Students who had accepted conditional offers to a polytechnic course
 through the Early Admissions Exercise (EAE) in 2018 and have their offers
 confirmed based on their GCE O-Level examination results will not be eligible
 to participate in the JAE. Their EAE offers are confirmed if they meet
@@ -71,24 +71,24 @@ the following criteria:
 <br>a. A net ELR2B2<sup>3</sup> score of 26 points or better for the GCE O-Level
 examinations; and
 <br>b. Minimum Entry Requirements for the respective polytechnic course.</p>
-<p>11. Students who do not meet the above criteria may take part in the JAE.
+<p>12. Students who do not meet the above criteria may take part in the JAE.
 More details on the EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg</a>.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
-<p>12. Secondary 4 Normal (Academic) [N(A)] students who have sat for O-Level
+<p>13. Secondary 4 Normal (Academic) [N(A)] students who have sat for O-Level
 subjects in 2018 can use their O-Level results for these subjects to apply
 for a place in the Polytechnic Foundation Programme (PFP) and Direct-Entry-Scheme
 to Polytechnic Programme (DPP).</p>
 <p><strong><u>Polytechnic Foundation Programme (PFP)</u></strong>
 </p>
-<p>13. The PFP is an alternative to the Secondary 5 N(A) year. It is a one-year
+<p>14. The PFP is an alternative to the Secondary 5 N(A) year. It is a one-year
 foundation programme at the polytechnics that offers a practice-oriented
 approach to prepare students for entry into the relevant diploma courses.</p>
-<p>14. From 2019, students are eligible to apply for the PFP if they have
+<p>15. From 2019, students are eligible to apply for the PFP if they have
 obtained a raw ELMAB3 aggregate not exceeding 12 points, (up from 11 points
 previously<sup>4</sup>), and met subject-specific requirements for their
 chosen course.</p>
-<p>15. PFP-eligible students will receive a copy of Form P from their respective
+<p>16. PFP-eligible students will receive a copy of Form P from their respective
 secondary schools when they collect their GCE O-Level results on Monday,
 14 January. Each copy of Form P contains a unique password. Interested
 students should use the respective passwords to submit their applications
@@ -96,40 +96,40 @@ online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.
 More information on the eligibility requirements for the PFP, as well as
 how O-Level results are considered in the computation of the ELMAB3 aggregate,
 can be found on the PFP website.</p>
-<p>16. Applications for the PFP will be open from 2.00pm on Monday, 14 January
+<p>17. Applications for the PFP will be open from 2.00pm on Monday, 14 January
 2018 until 4.00pm on Friday, 18 January 2019. The PFP posting results will
 be released at 2.00pm on Tuesday, 22 January 2019 through the PFP website.
 Students will be required to indicate whether they wish to accept, reject,
 or appeal for a change of course by 4.00pm on Thursday, 24 January 2019.</p>
 <p><strong><u>Direct-Entry-Scheme to Polytechnic Programme (DPP)</u></strong>
 </p>
-<p>17. The DPP prepares students for progression into selected polytechnic
+<p>18. The DPP prepares students for progression into selected polytechnic
 diploma courses via a two-year Higher Nitec course at ITE. Students are
 eligible to apply if they have obtained a raw ELMAB3 aggregate not exceeding
 19 points and met the subject-specific requirements for their chosen course.
 More information on the DPP can be found at https://www.ite.edu.sg/wps/portal/definitely-dpp/
 .</p>
-<p>18. Secondary 4 N(A) students who are newly eligible after taking into
+<p>19. Secondary 4 N(A) students who are newly eligible after taking into
 account their O-Level examination results should submit their DPP applications
 online via the DPP application portal at <a href="https://www.ite.edu.sg/wps/portal/intake/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/intake/</a>.
 The final application phase for the Direct-Entry-Scheme to Polytechnic
 Programme (DPP) will open at 2.30pm on Monday, 14 January 2019 and close
 at 11.59pm of Friday, 18 January 2019.</p>
-<p>19. The DPP posting results for applications made under the final application
+<p>20. The DPP posting results for applications made under the final application
 phase will be released at 9.00am on Tuesday, 22 January 2019 through the
 DPP application portal. Students will be required to indicate whether they
 wish to accept or reject the DPP offer by 11.59pm of Thursday, 24 January
 2019.</p>
 <p><strong><u>For successful PFP and/or DPP applicants</u></strong>
 </p>
-<p>20. Students who have been offered a place in the DPP under the final
+<p>21. Students who have been offered a place in the DPP under the final
 application phase should report to ITE on Thursday, 24 January 2019, upon
 acceptance of their DPP course offer.</p>
-<p>21. The last day of school for Secondary 5 students who have accepted
+<p>22. The last day of school for Secondary 5 students who have accepted
 a place in the PFP will be on Friday, 25 January 2019. Students will be
 informed by the respective polytechnics on the enrolment dates for the
 PFP.</p>
-<p>22. Students who accepted a place in the earlier application phase of
+<p>23. Students who accepted a place in the earlier application phase of
 the DPP in December but have now decided to take up a PFP offer will need
 to apply to ITE to withdraw from the DPP first, before they are able to
 take up the PFP offer.</p>
