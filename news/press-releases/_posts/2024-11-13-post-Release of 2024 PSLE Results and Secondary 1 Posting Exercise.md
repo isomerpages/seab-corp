@@ -43,10 +43,10 @@ at:</p>
 <p>SchoolFinder (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/secschoolfinder</u></a>)</p>
 </li>
 <li>
-<p>Open houses held by secondary schools (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024</u></a>)</p>
+<p>Open houses held by secondary schools (<a href="(https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024" rel="noopener nofollow" target="_blank">(https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024</a>)</p>
 </li>
 <li>
-<p>PSLE Full SBB Microsite (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>moe.gov.sg/microsites/psle-fsbb/</u></a>)</p>
+<p>PSLE Full SBB Microsite (<a href="moe.gov.sg/microsites/psle-fsbb/" rel="noopener nofollow" target="_blank">moe.gov.sg/microsites/psle-fsbb/</a>)</p>
 </li>
 <li>
 <p>Websites of secondary schools</p>
@@ -62,11 +62,10 @@ towards practice-oriented, hands-on learning. The schools offer a customised
 skills-based curriculum and exposure to unique learning opportunities,
 putting students in good stead for progression to the Institute of Technical
 Education (ITE). More information on CSS and SSS can be found on their
-school websites (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.crestsec.edu.sg/</u></a> and
-<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.spectra.edu.sg/</u>
-</a>). The schools also organise open houses, where students can find out
-more about the schools’ distinctive programmes, subjects, culture, ethos,
-and other offerings.</p>
+school websites (<a href="https://www.crestsec.edu.sg/" rel="noopener nofollow" target="_blank">https://www.crestsec.edu.sg/</a> and
+<a href="https://www.spectra.edu.sg/" rel="noopener nofollow" target="_blank">https://www.spectra.edu.sg/</a>). The schools also organise open houses,
+where students can find out more about the schools’ distinctive programmes,
+subjects, culture, ethos, and other offerings.</p>
 <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Eligible students interested to study in CSS or SSS can apply directly
 by submitting their school application to CSS and SSS starting from 11.30am
@@ -93,7 +92,7 @@ PIN to log in to the Secondary 1 Internet System (S1-IS) and submit their
 S1 school choices and options online after discussion with their parents.
 The S1-IS will be accessible from 11.30am on Wednesday, 20 November 2024
 to 3.00pm on Tuesday, 26 November 2024 through MOE’s S1 Posting website
-at <a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/s1-posting</u></a>.</p>
+at <a href="https://www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/s1-posting</a>.</p>
 <p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who require
 assistance with their online submission may contact the student’s primary
 school before 3.00pm on Tuesday, 26 November 2024.</p>
@@ -109,7 +108,7 @@ following channels:</p>
 the applicant during the application process);</p>
 </li>
 <li>
-<p>S1-IS (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/s1-posting</u></a>)
+<p>S1-IS (<a href="https://www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/s1-posting</a>)
 using the student’s Birth Certificate number / FIN, and the S1 PIN; or</p>
 </li>
 <li>
@@ -130,4 +129,4 @@ in January 2025 due to valid reasons, they should inform their posted secondary
 school directly after receiving their posting results to confirm that they
 are taking up the place, and the school will be able to reserve the place
 for them. More information on S1 Posting and S1-IS are available at MOE’s&nbsp;S1
-Posting website. For enquiries, please visit <a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/contact</u></a>.</p>
+Posting website. For enquiries, please visit <a href="https://www.moe.gov.sg/contact" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/contact</a>.</p>
