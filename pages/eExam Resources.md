@@ -10,7 +10,8 @@ description: eExam Resources
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Check out the <a href="https://www.seab.gov.sg/docs/default-source/e-exam-resources/eoral-cddt_slides.ppsx" rel="noopener noreferrer nofollow" target="_blank"><u>online guides</u></a> or
 <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a>for the following examinations to better understand
-their format and requirements.</p>
+their format and requirements. You will need to download the online guide
+before you can play the file.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
