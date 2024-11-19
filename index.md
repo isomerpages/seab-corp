@@ -31,7 +31,7 @@ sections:
       title: 🔗 Quicklinks
       id: textcards
       cards:
-        - title: 📄 Past Years Results
+        - title: 📄 Past Years' Results
           description: ""
           linktext: ""
           url: /home/services/statements-of-results
