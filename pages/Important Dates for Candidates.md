@@ -25,10 +25,10 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Examination Calendar 2024</p>
+<p>Examination Calendar 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/2024_psle_exam_timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Calendar</a>
+<p><a href="https://go.gov.sg/2025-psle-exam-timetable" rel="noopener nofollow" target="_blank">Calendar</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <p>Date of 2024 Results Release^</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 20 November – Fri, 22 November 2024</p>
+<p>Wed, 20 November 2024</p>
 </td>
 </tr>
 </tbody>
@@ -87,23 +87,20 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Examination Timetable 2024</strong>
+<p><strong>Examination Timetable 2025 (Tentative)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/gce_n_level_exam_timetable_for_publication_as_at_24_may.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
+<p><a href="https://go.gov.sg/2025-gce-na-nt-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
-<p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/gce_o_level_exam_timetable_as_at_24_may_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
+<p><a href="https://go.gov.sg/2025-gce-o-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
-<p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable/gce_a_level_timetable_26_april_2024_for_publication.pdf" rel="noopener noreferrer nofollow" target="_blank">Timetable</a>
+<p><a href="https://go.gov.sg/2025-gce-a-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
-<p>(Updated as at 26 April 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
