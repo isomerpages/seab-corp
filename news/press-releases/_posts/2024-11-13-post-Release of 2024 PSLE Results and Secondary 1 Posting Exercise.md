@@ -43,10 +43,10 @@ at:</p>
 <p>SchoolFinder (<a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/secschoolfinder</u></a>)</p>
 </li>
 <li>
-<p>Open houses held by secondary schools (<a href="(https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024" rel="noopener nofollow" target="_blank">(https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024</a>)</p>
+<p>Open houses held by secondary schools (<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024</a>)</p>
 </li>
 <li>
-<p>PSLE Full SBB Microsite (<a href="moe.gov.sg/microsites/psle-fsbb/" rel="noopener nofollow" target="_blank">moe.gov.sg/microsites/psle-fsbb/</a>)</p>
+<p>PSLE Full SBB Microsite (<a href="https://moe.gov.sg/microsites/psle-fsbb/" rel="noopener nofollow" target="_blank">https://moe.gov.sg/microsites/psle-fsbb/</a>)</p>
 </li>
 <li>
 <p>Websites of secondary schools</p>
