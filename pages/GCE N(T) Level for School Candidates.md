@@ -58,14 +58,14 @@ is available below.</p>
 <a rel="noopener noreferrer nofollow" href="/mid-year-results-release-exercise/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mid-Year GCE-Level Results Release Exercises" src="/images/imptdates_candidates.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mid-Year GCE-Level Results Release Exercise" src="/images/imptdates_candidates.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mid-Year GCE-Level Results Release Exercises</div>
+<div class="isomer-card-title">Mid-Year GCE-Level Results Release Exercise</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercise/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercises" src="/images/eexamresources.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Year-End GCE-Level Results Release Exercises</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercise/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercise" src="/images/eexamresources.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Year-End GCE-Level Results Release Exercise</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/examination-certificates-school-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
