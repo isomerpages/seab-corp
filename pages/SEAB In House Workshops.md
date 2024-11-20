@@ -47,6 +47,7 @@ to give teachers greater flexibility to choose the modules to attend within
 for CEA in Edn, teachers would have to complete two core and one elective
 modules and the Capstone Assignment within the 3 years validity period.
 This adds up to 104 hours for the whole programme.</p>
+<p></p>
 <p>Find out <a href="https://go.gov.sg/cea-in-edn-capstone-assignment" rel="noopener nofollow" target="_blank">more details</a>&nbsp;on
 the Capstone Assignment.</p>
 <p>Upon completion of all required modules and the Capstone Assignment, teachers
