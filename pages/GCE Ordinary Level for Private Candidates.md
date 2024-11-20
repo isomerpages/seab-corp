@@ -7,7 +7,7 @@ description: GCE Ordinary Level for Private Candidates
 <p>Information about the GCE O-Level examination for private candidates are
 available below.</p>
 <blockquote>
-<p><strong><a href="/files/Timetable/gce_o_level_exam_timetable_as_at_24_may_2024_for_publication.pdf" rel="noopener nofollow" target="_blank">Examination Calendar 2024 (Updated as at 24 May 2024)</a></strong>
+<p><strong><a href="https://go.gov.sg/2025-gce-o-level-exam-timetable" rel="noopener nofollow" target="_blank">Examination Calendar 2025 (Tentative)</a></strong>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"></div></div></a>
