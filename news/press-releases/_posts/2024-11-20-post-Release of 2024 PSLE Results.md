@@ -110,6 +110,3 @@ school directly after receiving their posting results to confirm that they
 are taking up the place, and the school will reserve the place for them.
 More information on S1 Posting and S1-IS are available at MOE’s S1 Posting
 website. For enquiries, please visit <a href="https://www.moe.gov.sg/contact" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/contact</a>.</p>
-<p>
-<br>
-</p>
