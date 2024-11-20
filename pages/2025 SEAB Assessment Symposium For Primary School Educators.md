@@ -9,7 +9,6 @@ description: 2025 SEAB Assessment Symposium For Primary School Educators
 <p>SEAB is delighted to invite you to the 2025 SEAB Assessment Symposium
 for Primary School Educators, with a focus on "Mastering the Fundamentals
 of Assessment".</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services/Training and Consultancy/Assessment_Symposium.png">
 </div>
