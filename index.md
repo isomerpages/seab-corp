@@ -54,7 +54,7 @@ sections:
         proofs, results release dates.
       button: VIEW DETAILS
       alt: important-dates
-      url: /home/examinations/important-dates-for-candidates/
+      url: /important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
       title: Year-End GCE Level Results Release Exercise
@@ -63,7 +63,7 @@ sections:
         candidates.
       button: VIEW DETAILS
       alt: results release
-      url: home/year-end-gce-level-results-release-exercise/
+      url: /year-end-gce-level-results-release-exercise/
       image: /images/press_release_image.jpg
   - infopic:
       title: 2025 Private Candidate Registration Exercise
@@ -72,7 +72,7 @@ sections:
       button: VIEW DETAILS
       alt: registration
       image: /images/HomePage/registration.png
-      url: /home/examinations/updatesforprivatecandidates/
+      url: /updatesforprivatecandidates/
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
