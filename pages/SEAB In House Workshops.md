@@ -47,7 +47,7 @@ to give teachers greater flexibility to choose the modules to attend within
 for CEA in Edn, teachers would have to complete two core and one elective
 modules and the Capstone Assignment within the 3 years validity period.
 This adds up to 104 hours for the whole programme.</p>
-<p>Find out <a href="https://www.seab.gov.sg/docs/default-source/assessment-services/certification-in-examination-and-assessment-in-education-(cea-in-edn)-capstone-assignment.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>more details</u></a>&nbsp;on
+<p>Find out <a href="https://go.gov.sg/cea-in-edn-capstone-assignment" rel="noopener nofollow" target="_blank">more details</a>&nbsp;on
 the Capstone Assignment.</p>
 <p>Upon completion of all required modules and the Capstone Assignment, teachers
 will be awarded with a hardcopy certificate.</p>
@@ -60,7 +60,7 @@ you have questions about the programme.</p>
 <summary>Certificate in Examination and Assessment in Education [Core Modules]</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Find out <a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/assessment-services/1-seab-workshops-2025-(core-modules).pdf?sfvrsn=bb2f6ff6_1" rel="noopener noreferrer nofollow" target="_blank"><u>more details</u></a> on
+<p>Find out <a href="https://go.gov.sg/cea-in-edn-core-modules" rel="noopener nofollow" target="_blank">more details</a> on
 core module workshops.</p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/637d9334361f4c0012a2952a" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
@@ -74,7 +74,7 @@ scan the QR code to do so now!</p>
 <summary>Certificate in Examination and Assessment in Education [Elective Modules]</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Find out <a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/assessment-services/2-seab-workshops-2025-(elective-modules).pdf?sfvrsn=334992c8_1" rel="noopener noreferrer nofollow" target="_blank"><u>more details</u></a> on
+<p>Find out <a href="https://go.gov.sg/cea-in-edn-elective-modules" rel="noopener nofollow" target="_blank">more details</a> on
 elective module workshops.</p>
 <p>Register for the <a href="https://form.gov.sg/637d9738e5a2f10012e6ec1d" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
