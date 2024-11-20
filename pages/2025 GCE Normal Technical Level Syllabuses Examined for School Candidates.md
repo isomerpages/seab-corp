@@ -305,8 +305,8 @@ to candidates from schools that are approved to offer the subjects.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
 <br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y24_p1_video.mp4?sfvrsn=6345892b_2" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2025/5148_y24_p1_animation.mp4?sfvrsn=10366dc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
+<br><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
+<br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
 <br>[2023]</p>
 </td>
 </tr>
