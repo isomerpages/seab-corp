@@ -57,13 +57,14 @@ sections:
       url: /home/examinations/important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
-      title: Secondary Education Certificate (SEC) Examinations
+      title: Year-End GCE Level Results Release Exercise
       id: infopic
-      description: Find out more about the new SEC
+      description: Find information on the release of results for school and private
+        candidates.
       button: VIEW DETAILS
-      alt: sec-examinations
-      url: /link
-      image: /images/shutterstock_1118685524.jpg
+      alt: results release
+      url: home/year-end-gce-level-results-release-exercise/
+      image: /images/press_release_image.jpg
   - infopic:
       title: 2025 Private Candidate Registration Exercise
       id: infopic
