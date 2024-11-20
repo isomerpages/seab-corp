@@ -82,10 +82,37 @@ towards our staff.</p>
 <summary><strong>MESSAGE US</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You can send us your enquiry via the online <strong><a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong>.
-<br>You can report technical issues faced in Candidates Portal, such as system
-errors, payment issues, and the updating of your registration details via
-this <strong><a href="https://form.gov.sg/#!/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong>.</p>
+<p></p>
+<p><strong>Enquiry Form: </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="ask us" src="/images/askus_logo.jpg">
+</div>
+<p>For general assistance, please use our enquiry <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+<p><strong>National Examinations Candidates Portal Technical Issues Feedback Form: </strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="national exams form" src="/images/nex_logo.jpg">
+</div>
+<p>For technical issues with the Candidates Portal for GCE-Level examinations,
+please use this <a href="https://form.gov.sg/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+<p>This includes login problems, account creation difficulties, system errors,
+issues uploading supporting documents, problems updating personal details
+and difficulties amending or verifying subjects.</p>
+<p><strong>Non-National Examinations Candidates Portal Technical Issues Feedback Form: </strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="non national exams" src="/images/nonex_logo.jpg">
+</div>
+<p>For technical issues with the Candidates Portal related to the Admissions
+Exercise for International Students (AEIS), Supplementary Admissions Exercise
+for International Students (S-AEIS), School Placement Exercise for Returning
+Singaporeans-Secondary (SPERS-Sec), or Supplementary Placement Exercise
+(SPE), please use this <a href="https://form.gov.sg/62b55c05ea9e62001241f1b4" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+<p>This includes login problems, account creation difficulties, system errors,
+issues uploading supporting documents and problems updating personal details.</p>
 </div>
 </details>
 <details class="isomer-details">
