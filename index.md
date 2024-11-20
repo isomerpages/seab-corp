@@ -57,14 +57,6 @@ sections:
       url: /home/examinations/important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
-      title: 2024 Supplementary Private Candidate Registration Exercise
-      id: infopic
-      description: Registration for the 2024 GCE-Level examinations has ended.
-      button: VIEW DETAILS
-      alt: registration
-      image: /images/HomePage/registration.png
-      url: /home/examinations/updatesforprivatecandidates/
-  - infopic:
       title: Secondary Education Certificate (SEC) Examinations
       id: infopic
       description: Find out more about the new SEC
@@ -72,6 +64,14 @@ sections:
       alt: sec-examinations
       url: /link
       image: /images/shutterstock_1118685524.jpg
+  - infopic:
+      title: 2025 Private Candidate Registration Exercise
+      id: infopic
+      description: Find out more about the registration for 2025 GCE-Level examinations.
+      button: VIEW DETAILS
+      alt: registration
+      image: /images/HomePage/registration.png
+      url: /home/examinations/updatesforprivatecandidates/
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
