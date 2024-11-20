@@ -12,12 +12,12 @@ you have any questions.</p>
 <details class="isomer-details">
 <summary>Certificate in Examination and Assessment in Education [Overview]</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>Introduction</strong></h4>
+<h3><strong>Introduction</strong></h3>
 <p>Certificate in Examination and Assessment in Education (CEA in Edn) is
 part of the SkillsFuture for Educators (SFEd) Professional Development
 roadmap designed to support in-service teachers in their continuing professional
 growth in the area of Assessment Literacy.</p>
-<h4><strong>Programme Structure and Objectives</strong></h4>
+<h3><strong>Programme Structure and Objectives</strong></h3>
 <p>CEA in Edn was designed to develop teachers’ thought leadership in making
 decisions and recommendations in their context to address diverse assessment
 issues both in their daily classroom assessments and school-wide approach
@@ -40,7 +40,7 @@ practitioners in assessment within the teaching fraternity.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h4><strong>Criteria for Certificate Award</strong></h4>
+<h3><strong>Criteria for Certificate Award</strong></h3>
 <p>Based on the SkillsFuture model, the programme comprises stackable modules
 to give teachers greater flexibility to choose the modules to attend within
 3 years from attending the first module. To be awarded the Certificate
@@ -51,283 +51,23 @@ This adds up to 104 hours for the whole programme.</p>
 the Capstone Assignment.</p>
 <p>Upon completion of all required modules and the Capstone Assignment, teachers
 will be awarded with a hardcopy certificate.</p>
-<h4><strong>Modules Offered under the Certificate Programme</strong></h4>
-<p>The list of CEA in Edn modules is shown in the table below.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Module</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Module Title</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Number of Days</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Core</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Interpretation of Test Data</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Core</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Making Sense of Quality School-Based Assessment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Test Item Review for Primary English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics (Primary) – Designing Quality Mathematics Items</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics (Primary) – Understanding Assessment Demand</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics (Secondary) – Quality Assurance in Marking</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics (Secondary) – Understanding Assessment Demand</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language (Primary)&nbsp;– Reading Comprehension MCQ Items</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language (Primary) – Reading Comprehension Open-ended Items</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language (Secondary) – Reading Comprehension MCQ Items</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language (Secondary) – Reading Comprehension Open-ended Items</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Language (Secondary) – Assessing Reading Comprehension Skills in
-Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tamil Language (Secondary) – Assessing Reading Comprehension Skills in
-Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language (Secondary) Reading – Assessing Reading Skills in the
-English Language Classroom (Express / Normal Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language (Secondary) Writing – Assessing Writing Skills in the
-English Language Classroom (Express / Normal Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature (Secondary) – Assessing Literature in English in the Upper
-Secondary Classroom (Express / Normal Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science (Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies (Secondary) – Assessing Critical Thinking in Upper Secondary
-Social Studies: Back to Basics (Source-Based Case Study)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies (Secondary)&nbsp;– Assessing Critical Thinking in Upper
-Secondary Social Studies: Back to Basics (Structured-Response Questions)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Language (Primary)&nbsp;– Reading</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elective</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tamil Language (Primary)&nbsp;– Reading</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
-<p>Please write to <a href="mailto:seab_training@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB_Training@SEAB.gov.sg</u></a> if
+<p>Please write to <a href="https://www.seab.gov.sg/docs/default-source/assessment-services/certification-in-examination-and-assessment-in-education-(cea-in-edn)-capstone-assignment.pdf?sfvrsn=45c1f422_1" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB_Training@SEAB.gov.sg</u></a> if
 you have questions about the programme.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Certificate in Examination and Assessment in Education [Core Modules]</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Find out <a href="https://www.seab.gov.sg/docs/default-source/assessment-services/certificate-in-examination-and-assessment-in-education-(cea-in-edn)-core-modules846b9f4c-56aa-42af-a07f-0fe29e07bf57.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>more details</u></a> on
+<p>Find out <a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/assessment-services/1-seab-workshops-2025-(core-modules).pdf?sfvrsn=bb2f6ff6_1" rel="noopener noreferrer nofollow" target="_blank"><u>more details</u></a> on
 core module workshops.</p>
 <p>Register for the&nbsp;<a href="https://form.gov.sg/637d9334361f4c0012a2952a" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="core-modules" src="/images/Services/Training and Consultancy/core_modules.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Services/Training and Consultancy/registration_cea_core.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
