@@ -63,7 +63,7 @@ sections:
         candidates.
       button: VIEW DETAILS
       alt: results release
-      url: /year-end-gce-level-results-release-exercise/
+      url: /year-end-gce-level-results-release-exercises/
       image: /images/press_release_image.jpg
   - infopic:
       title: 2025 Private Candidate Registration Exercise
