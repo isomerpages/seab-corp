@@ -69,7 +69,7 @@ is available below.</p>
 <a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercises/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercises" src="/images/eexamresources.png">
+<img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercises" src="/images/press_release_image.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
