@@ -57,7 +57,7 @@ parents.</p>
 <p>8 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
 S1-IS will be accessible from 11.30am on Wednesday, 20 November 2024 to
 3.00pm on Tuesday, 26 November 2024 through MOE’s S1 Posting website at
-<a href="www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>.</p>
+<a href="https://www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>.</p>
 <p>9 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When
 choosing a secondary school that would be a good fit for the student’s
 overall educational needs, strengths and interests, students and parents
