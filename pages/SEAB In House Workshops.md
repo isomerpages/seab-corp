@@ -67,7 +67,7 @@ core module workshops.</p>
 scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Services/Training and Consultancy/registration_cea_core.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Services/Training and Consultancy/registration_cea_core.png">
 </div>
 </div>
 </details>
@@ -81,7 +81,7 @@ elective module workshops.</p>
 scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Services/Training and Consultancy/registration_cea_elective.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Services/Training and Consultancy/registration_cea_elective.png">
 </div>
 </div>
 </details>
