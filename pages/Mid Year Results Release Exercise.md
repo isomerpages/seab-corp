@@ -13,7 +13,7 @@ description: Mid Year Results Release Exercise
 <p>The date of the Mid-Year results release exercise for the GCE O- and A-Level
 Mid-Year Mother Tongue Language examinations will be announced by your
 schools closer to the date of the exercise each year. Prior to the announcement,
-you can refer to the tentative dates of the exercise on&nbsp;<a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's website</u></a>.</p>
+you can refer to the tentative dates of the exercise on&nbsp;<a href="/important-dates-for-candidates" rel="noopener nofollow" target="_blank">SEAB's website</a>.</p>
 <p></p>
 <p>You are to return to your school on the day of the results release to
 collect your results.
@@ -65,7 +65,7 @@ in January or February respectively of the year following your examination(s).</
 <br>The date of the Mid-Year results release exercise for the GCE O- and A-Level
 Mid-Year Mother Tongue Language examinations will be announced closer to
 the date of the exercise each year. Prior to the announcement, you can
-refer to the tentative dates of the exercise on&nbsp;<a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's website</u></a>.
+refer to the tentative dates of the exercise on&nbsp;<a href="/important-dates-for-candidates" rel="noopener nofollow" target="_blank">SEAB's website</a>.
 <br>
 </p>
 <p>On the date of the exercise, you may view your results via <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's Candidates Portal</u></a>&nbsp;during
