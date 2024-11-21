@@ -13,7 +13,7 @@ description: Year End GCE Level Results Release Exercise
 <p>The date of the Year-End results release exercise for your examinations
 will be announced by your schools closer to the date of the exercise each
 year. Prior to the announcement, you can refer to the tentative dates of
-the exercise on&nbsp;<a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's website</u></a>.</p>
+the exercise on&nbsp;<a href="/important-dates-for-candidates" rel="noopener nofollow" target="_blank">SEAB's website</a>.</p>
 <p></p>
 <p>You are to return to your school on the day of the release of the results
 to collect your results.
