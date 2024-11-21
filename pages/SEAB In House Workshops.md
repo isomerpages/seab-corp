@@ -53,7 +53,7 @@ the Capstone Assignment.</p>
 <p>Upon completion of all required modules and the Capstone Assignment, teachers
 will be awarded with a hardcopy certificate.</p>
 <p></p>
-<p>Please write to <a href="mailto:SEAB_Training@SEAB.gov.sg" rel="noopener nofollow" target="_blank">SEAB_Training@seab.gov.sg</a> if
+<p>Please write to <a href="mailto:SEAB_Training@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_Training@seab.gov.sg</a> if
 you have questions about the programme.</p>
 </div>
 </details>
