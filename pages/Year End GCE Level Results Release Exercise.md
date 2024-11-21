@@ -57,12 +57,11 @@ be provided.</p>
 <p>The date of the Year-End results release exercise for your examinations
 will be announced closer to the date of the exercise each year. Prior to
 the announcement, you can refer to the tentative dates of the exercise
-on&nbsp;<a href="https://www.seab.gov.sg/home/examinations/important-dates-for-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB's website</u></a>.</p>
+on&nbsp;<a href="/important-dates-for-candidates" rel="noopener nofollow" target="_blank">SEAB's website</a>.</p>
 <p></p>
 <p>You will receive your examination certificate if you have obtained at
 least one Pass grade on one or more subjects. You can refer to this&nbsp;
-<a href="https://www.seab.gov.sg/home/examinations/result-slips-examination-certificates-private-candidates" rel="noopener noreferrer nofollow" target="_blank"><u>link</u>
-</a>&nbsp;for more information on the eligibility to receive an examination
+<a href="/examination-certificates-private-candidates/" rel="noopener nofollow" target="_blank">link</a>&nbsp;for more information on the eligibility to receive an examination
 certificate.</p>
 <p></p>
 <p>Your examination certificates will be delivered via registered mail within
