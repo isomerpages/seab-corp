@@ -53,7 +53,7 @@ the Capstone Assignment.</p>
 <p>Upon completion of all required modules and the Capstone Assignment, teachers
 will be awarded with a hardcopy certificate.</p>
 <p></p>
-<p>Please write to <a href="https://www.seab.gov.sg/docs/default-source/assessment-services/certification-in-examination-and-assessment-in-education-(cea-in-edn)-capstone-assignment.pdf?sfvrsn=45c1f422_1" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB_Training@SEAB.gov.sg</u></a> if
+<p>Please write to <a href="mailto:SEAB_Training@SEAB.gov.sg" rel="noopener nofollow" target="_blank">SEAB_Training@SEAB.gov.sg</a> if
 you have questions about the programme.</p>
 </div>
 </details>
