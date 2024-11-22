@@ -65,7 +65,7 @@ available below.</p>
 <div class="isomer-card-title">Approved Calculator List</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/approveddictionaries" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Approved Dictionary List" src="/images/approveddict.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Approved Dictionary List</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-approveddictionaries" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Approved Dictionary List" src="/images/approveddict.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Approved Dictionary List</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/#!/60b86f3e4d466200116efec7" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
