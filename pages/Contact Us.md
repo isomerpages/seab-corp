@@ -82,62 +82,10 @@ towards our staff.</p>
 <summary><strong>MESSAGE US</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To ensure timely attention to your request or issue, please select the
-appropriate form for the right team to assist you.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GCE form" src="/images/3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>GCE-Level Examinations: Technical Issues with Candidates Portal </strong>
-</p>
-<p>Please use this <a href="https://form.gov.sg/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank">form</a> if
-you experience technical issues with the Candidates Portal. This includes
-difficulties with login, account creation, uploading supporting documents,
-updating personal details, amending or verifying subjects, system errors.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="nonex form" src="/images/2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tests for Admissions or Placement Exercises: Technical Issues with Candidates Portal </strong>
-</p>
-<p>Please use this <a href="https://form.gov.sg/62b55c05ea9e62001241f1b4" rel="noopener noreferrer nofollow" target="_blank">form</a> if
-you experience technical issues with the Candidates Portal. This includes
-difficulties with login, account creation, uploading supporting documents,
-updating personal details, system errors.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ask us form" src="/images/1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>General Enquiry </strong>
-</p>
-<p>For other enquiries, please use our enquiry <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>You can send us your enquiry via the online <strong><a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong>.</p>
+<p>You can report technical issues faced in Candidates Portal, such as system
+errors, payment issues, and the updating of your registration details via
+this <strong><a href="https://form.gov.sg/#!/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a></strong>.</p>
 </div>
 </details>
 <details class="isomer-details">
