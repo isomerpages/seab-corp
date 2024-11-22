@@ -100,7 +100,7 @@ of solutions as compared to short-answer questions.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade their answers for the multiple-choice
 questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
 </td>
