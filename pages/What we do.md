@@ -1,7 +1,7 @@
 ---
 title: What we do
 permalink: /what-we-do/
-variant: markdown
+variant: tiptap
 description: What we do
 ---
 <p>The Singapore Examinations and Assessment Board (SEAB) was established
@@ -35,7 +35,7 @@ improve our knowledge and skills.
 outcomes. Together, each achieves more.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Board Members</summary><section id="board-members">  
+<summary>Board Members</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -146,11 +146,12 @@ Minister’s Office</div>
 </div>
 <p></p>
 </div>
-</section></details>
+</details>
 <details class="isomer-details">
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><section id="management-team"><p></p>
+<p></p>
+<p></p>
 <p><strong>Chief Executive</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -235,10 +236,6 @@ Minister’s Office</div>
 <p>Ms Leow Yin Li Grace
 <br>Assistant Director, Human Resource and Organisation Capability</p>
 </li>
-<li>
-<p>Ms Seng Yuwei, Stacy
-<br>Assistant Director, Office and Estate Management</p>
-</li>
 </ul>
 <p></p>
 <p><strong>Planning and Finance Division</strong>
@@ -275,7 +272,7 @@ Minister’s Office</div>
 <br>Senior Assistant Director, Corporate Communications</p>
 </li>
 </ul>
-</section></div>
+</div>
 </details>
 </div>
 <p>
