@@ -15,7 +15,7 @@ studying overseas.</p>
 <p>Does not have a place in a local school; and</p>
 </li>
 <li>
-<p>Are applying for admission to Secondary 1, 2 or 3 in the following academic
+<p>Is applying for admission to Secondary 1, 2 or 3 in the following academic
 year.</p>
 </li>
 </ul>
