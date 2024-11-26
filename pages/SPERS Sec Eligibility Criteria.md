@@ -49,8 +49,8 @@ tests may participate in the <a href="https://www.moe.gov.sg/returning-singapore
 <li>
 <p>Create an account in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer" target="_blank"><u>Candidates Portal (CP)</u></a>.
 The applicant can start to do so from the application period. Please refer
-to the&nbsp;<a href="https://www.seab.gov.sg/docs/default-source/assessment-services/spers-user-guide-for-candidates-portal.pdf?sfvrsn=6e97c32f_2" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a>&nbsp;(618KB)
-on account creation in CP.
+to the&nbsp;<a href="https://www.moe.gov.sg/-/media/files/returning-singaporeans/spers-user-guide-for-candidates-portal.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a> on
+account creation in CP.
 <br>
 </p>
 </li>
