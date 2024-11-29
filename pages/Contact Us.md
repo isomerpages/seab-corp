@@ -84,16 +84,20 @@ towards our staff.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To ensure timely attention to your request or issue, please select the
 appropriate form for the right team to assist you.</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="GCE tech issues" src="/images/Contact us/GCE_tech_issues_logo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="GCE tech issues" src="/images/Contact us/GCE_tech_issues_logo.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>GCE-Level Examinations: Technical Issues with Candidates Portal</strong>
 </p>
 <p>Please use this <a href="https://form.gov.sg/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank">form</a> if
@@ -106,8 +110,10 @@ system errors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="non-national exams tech issues" src="/images/Contact us/Non_National_Exams_tech_issues_logo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="non-national exams tech issues" src="/images/Contact us/Non_National_Exams_tech_issues_logo.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Tests for Admissions or Placement Exercises: Technical Issues with Candidates Portal</strong>
 </p>
 <p>For AEIS, S-AEIS, SPERS or SPE, please use this <a href="https://form.gov.sg/62b55c05ea9e62001241f1b4" rel="noopener noreferrer nofollow" target="_blank">form</a> if you experience
@@ -119,8 +125,10 @@ personal details, missing fields, system errors.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="General enquiry" src="/images/Contact us/Gen_Enquiry_logo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="General enquiry" src="/images/Contact us/Gen_Enquiry_logo.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>General Queries</strong>
 </p>
 <p>For other queries, please use our feedback <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
