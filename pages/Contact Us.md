@@ -148,8 +148,8 @@ personal details, missing fields, system errors.</p>
 <p>Monday to Friday: 9:00am to 5:00pm</p>
 </li>
 <li>
-<p>We are closed on weekends, public holidays, 31 March 2023, 8 August 2023
-and 21 December 2023.</p>
+<p>We are closed on weekends, eve of Christmas, public holidays and 1 April
+2025.</p>
 </li>
 </ul>
 <p>Peak periods are:</p>
