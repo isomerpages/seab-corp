@@ -243,8 +243,6 @@ Minister’s Office</div>
 <li>
 <p>Ms Teng Mei Ling Adeline
 <br>Senior Assessment Specialist, Assessment Services</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
