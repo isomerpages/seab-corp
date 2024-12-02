@@ -229,15 +229,6 @@ Minister’s Office</div>
 </li>
 </ul>
 <p></p>
-<p><strong>Corporate Services Division</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Leow Yin Li Grace
-<br>Assistant Director, Human Resource and Organisation Capability</p>
-</li>
-</ul>
-<p></p>
 <p><strong>Planning and Finance Division</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -253,8 +244,10 @@ Minister’s Office</div>
 <p>Ms Teng Mei Ling Adeline
 <br>Senior Assessment Specialist, Assessment Services</p>
 </li>
-</ul>
+<li>
 <p></p>
+</li>
+</ul>
 <p><strong>Information Technology</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -270,6 +263,15 @@ Minister’s Office</div>
 <li>
 <p>Ms Wong Hui Woon Irene
 <br>Senior Assistant Director, Corporate Communications</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Human Resource and Organisation Capability</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Leow Yin Li Grace
+<br>Assistant Director, Human Resource and Organisation Capability</p>
 </li>
 </ul>
 </div>
