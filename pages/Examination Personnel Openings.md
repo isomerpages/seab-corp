@@ -4,7 +4,11 @@ permalink: /exam-personnel-openings/
 variant: tiptap
 description: Examination Personnel Openings
 ---
-<h2><strong><u>Invigilators for National Examinations and Tests</u></strong></h2>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Invigilators for National Examinations and Tests</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Roles and Responsibilities</u></strong>
 </p>
 <p>Your primary role is to perform invigilation duties during the conduct
@@ -36,3 +40,7 @@ applicants will be invited for an interview by end of January 2025.</p>
 <p><strong>Closing Date: 17 January 2025, 5pm.</strong>
 </p>
 <p>Thank you.</p>
+</div>
+</details>
+</div>
+<p></p>
