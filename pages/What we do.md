@@ -239,10 +239,6 @@ Minister’s Office</div>
 <li>
 <p>Mr Lee Kien Meng
 <br>Assistant Director, Finance and Procurement</p>
-</li>
-<li>
-<p>Ms Teng Mei Ling Adeline
-<br>Senior Assessment Specialist, Assessment Services</p>
 <p></p>
 </li>
 </ul>
