@@ -98,10 +98,10 @@ appropriate form for the right team to assist you.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GCE-Level Examinations: Technical Issues with Candidates Portal</strong>
+<p><strong>GCE-Level Examinations: Request for Technical Assistance with Candidates Portal</strong>
 </p>
 <p>Please use this <a href="https://form.gov.sg/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank">form</a> if
-you experience technical issues with the Candidates Portal. This includes
+you require technical assistance with the Candidates Portal. This includes
 difficulties with login, account creation, uploading supporting documents,
 updating personal details, amending or verifying subjects, missing fields,
 system errors.</p>
@@ -114,12 +114,12 @@ system errors.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tests for Admissions or Placement Exercises: Technical Issues with Candidates Portal</strong>
+<p><strong>Tests for Admissions or Placement Exercises: Request for Technical Assistance with Candidates Portal</strong>
 </p>
-<p>For AEIS, S-AEIS, SPERS or SPE, please use this <a href="https://form.gov.sg/62b55c05ea9e62001241f1b4" rel="noopener noreferrer nofollow" target="_blank">form</a> if you experience
-technical issues with the Candidates Portal. This includes difficulties
-with login, account creation, uploading supporting documents, updating
-personal details, missing fields, system errors.</p>
+<p>For AEIS, S-AEIS, SPERS-Sec or SPE, please use this <a href="https://form.gov.sg/62b55c05ea9e62001241f1b4" rel="noopener noreferrer nofollow" target="_blank">form</a> if
+you require technical assistance with the Candidates Portal. This includes
+difficulties with login, account creation, uploading supporting documents,
+updating personal details, missing fields, system errors.</p>
 </td>
 </tr>
 <tr>
