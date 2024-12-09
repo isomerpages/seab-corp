@@ -13,11 +13,11 @@ variant: tiptap
 <p>The results of the 2024 Singapore-Cambridge General Certificate of Education
 Normal (Academic)-[N(A)] and Normal (Technical)-[N(T)] Level Examinations
 will be released on Monday, 16 December 2024, 2.00pm.</p>
-<p></p>
+</li>
+</ol>
 <p><strong>Results Release for School Candidates</strong>
 </p>
-<p></p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>Arrangements have been made for school candidates to receive their results
 from their secondary schools from 2.00pm on Monday, 16 December 2024. Details
@@ -119,9 +119,9 @@ the ITE application portal between 2.00pm on Friday, 20 December 2024 and
 report to their secondary schools in 2025 for Secondary 5.</p>
 </li>
 </ol>
-<p>&nbsp;<strong>Application for the Polytechnic Foundation Programme (PFP)</strong>
+<p><strong>Application for the Polytechnic Foundation Programme (PFP)</strong>
 </p>
-<ol data-tight="true" class="tight">
+<ol start="14" data-tight="true" class="tight">
 <li>
 <p>The Polytechnic Foundation Programme (PFP) is a diploma-specific foundation
 programme conducted over two academic semesters at the polytechnics. It
@@ -146,40 +146,30 @@ to apply for the PFP.</p>
 </li>
 <li>
 <p>For more information on the DPP and the PFP, please visit these websites:</p>
-<p></p>
+<p>·&nbsp;Direct-Entry-Scheme to Polytechnic Programme (DPP)&nbsp; (<a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>)</p>
+<p>· Polytechnic Foundation Programme (PFP) (<a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
+</li>
+</ol>
+<p><strong>Education and Career Guidance (ECG) support</strong>
+</p>
+<ol start="18" data-tight="true" class="tight">
+<li>
+<p>Candidates are encouraged to explore the range of education and career
+pathways available to them to make informed decisions about their next
+steps. They may refer to the following websites for more information:</p>
+<p>· MOE’s CourseFinder ( <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
+on offerings and courses in the polytechnics and ITE</p>
+<p>·&nbsp;MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)
+on education and career pathways</p>
 <p></p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
-<p>Direct-Entry-Scheme to Polytechnic Programme (DPP)&nbsp; (<a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>)</p>
+<p>School candidates may also consult their teachers or ECG Counsellors in
+their respective secondary schools about their next steps. Alternatively,
+they can make an ECG counselling appointment via the ECG Centre @ MOE at
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The ECG Centre @ MOE offers online
+or phone counselling services from 9 to 24 December 2024, from 9.00 am
+to 5.00 pm on weekdays and 9.00 am to 12.00 pm on Saturdays.</p>
 </li>
 </ol>
 <p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Polytechnic
-Foundation Programme (PFP)</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
-<p>&nbsp;</p>
-<p>&nbsp;<strong>Education and Career Guidance (ECG) support</strong>
-</p>
-<p>&nbsp;</p>
-<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidates are encouraged
-to explore the range of education and career pathways available to them
-to make informed decisions about their next steps. They may refer to the
-following websites for more information:</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE’s CourseFinder (
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>) on offerings and courses in the
-polytechnics and ITE</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySkillsFuture Student
-Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)
-on education and career pathways</p>
-<p>&nbsp;</p>
-<p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates
-may also consult their teachers or ECG Counsellors in their respective
-secondary schools about their next steps. Alternatively, they can make
-an ECG counselling appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a> .
-The ECG Centre @ MOE offers online or phone counselling services from 9
-to 24 December 2024, from 9.00 am to 5.00 pm on weekdays and 9.00 am to
-12.00 pm on Saturdays.</p>
