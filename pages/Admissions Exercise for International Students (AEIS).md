@@ -6,7 +6,7 @@ description: Admissions Exercise for International Students (AEIS)
 ---
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/aeis/about-aeis" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About AEIS" src="/images/AEIS/Images for Cards/pexels_louis_bauer_249360.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About AEIS</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/international-students/aeis/eligibility-criteria" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/aeis/aeiseligibilitycriteria/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Eligibility Criteria" src="/images/AEIS/Images for Cards/pic2.jpg">
