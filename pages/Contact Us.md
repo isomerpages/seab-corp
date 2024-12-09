@@ -25,7 +25,7 @@ answers to your questions.</p>
 <p></p><a class="isomer-image-wrapper" href="/aeis/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="aeis application procedures" src="/images/Contact us/aeis_application_procedures.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/spers-sec/spers-sec-application-procedures"><img style="width: 100%" height="auto" width="100%" alt="spers-sec application procedures" src="/images/Contact us/spers_sec_application_procedures.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/spers-sec/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="spers-sec application procedures" src="/images/Contact us/spers_sec_application_procedures.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/faq/"><img style="width: 100%" height="auto" width="100%" alt="candidates portal" src="/images/Contact us/candidates_portal_faqs.png"></a>
