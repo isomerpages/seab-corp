@@ -49,13 +49,13 @@ that they have created during the registration.</p>
 <li>
 <p>Candidates who wish to apply for courses offered by the Institute of Technical
 Education (ITE) can submit their applications online via the ITE application
-portal (<a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/apply-for-ITE-courses</a>),
+portal (<a href="https://www.ite.edu.sg/apply-for-ITE-courses" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/apply-for-ITE-courses</a>),
 between 2.30pm on Monday, 16 December 2024 and 5.00pm on Thursday, 19 December
 2024. Hard copy application forms will also be available at the Customer
 &amp; Visitor Centres at the three ITE Colleges. Applicants who wish to
 collect hard copy applications from the Customer &amp; Visitor Centres
 should book an appointment first by contacting the respective colleges
-via the email addresses or phone numbers provided at <a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/who-we-are/get-in-touch</a>.</p>
+via the email addresses or phone numbers provided at <a href="https://www.ite.edu.sg/who-we-are/get-in-touch" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/who-we-are/get-in-touch</a>.</p>
 <p></p>
 </li>
 <li>
@@ -146,8 +146,8 @@ to apply for the PFP.</p>
 </li>
 <li>
 <p>For more information on the DPP and the PFP, please visit these websites:</p>
-<p>·&nbsp;Direct-Entry-Scheme to Polytechnic Programme (DPP)&nbsp; (<a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>)</p>
-<p>· Polytechnic Foundation Programme (PFP) (<a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
+<p>·&nbsp;Direct-Entry-Scheme to Polytechnic Programme (DPP)&nbsp; (<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>)</p>
+<p>· Polytechnic Foundation Programme (PFP) (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
 </li>
 </ol>
 <p><strong>Education and Career Guidance (ECG) support</strong>
@@ -157,7 +157,7 @@ to apply for the PFP.</p>
 <p>Candidates are encouraged to explore the range of education and career
 pathways available to them to make informed decisions about their next
 steps. They may refer to the following websites for more information:</p>
-<p>· MOE’s CourseFinder ( <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
+<p>· MOE’s CourseFinder ( <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
 on offerings and courses in the polytechnics and ITE</p>
 <p>·&nbsp;MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)
 on education and career pathways</p>
@@ -167,7 +167,7 @@ on education and career pathways</p>
 <p>School candidates may also consult their teachers or ECG Counsellors in
 their respective secondary schools about their next steps. Alternatively,
 they can make an ECG counselling appointment via the ECG Centre @ MOE at
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The ECG Centre @ MOE offers online
+<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The ECG Centre @ MOE offers online
 or phone counselling services from 9 to 24 December 2024, from 9.00 am
 to 5.00 pm on weekdays and 9.00 am to 12.00 pm on Saturdays.</p>
 </li>
