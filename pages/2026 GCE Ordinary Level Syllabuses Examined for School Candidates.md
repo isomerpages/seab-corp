@@ -680,7 +680,9 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>+ These subjects are applicable only for candidates from schools approved
+<p>*Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
+details.
+<br>+ These subjects are applicable only for candidates from schools approved
 to offer the subjects.
 <br># Last year of exam in 2025.
 <br>^ Change is to response format for Paper 2. The new response format requires
