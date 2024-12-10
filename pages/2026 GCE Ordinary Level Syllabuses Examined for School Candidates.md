@@ -40,7 +40,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1135_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Arabic as a 3rd Language</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1135_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Arabic as a 3rd Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1136_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bahasa Indonesia as a 3rd Language</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1136_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bahasa Indonesia as a 3rd Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
