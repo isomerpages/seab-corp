@@ -645,8 +645,8 @@ to understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p>^ Change is to response format for Paper 2. The new response format requires
-candidates to write answers on the question paper.</p>
+<p>*Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+details.</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
