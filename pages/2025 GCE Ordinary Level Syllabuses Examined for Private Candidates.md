@@ -622,7 +622,7 @@ to understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Private Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<br>Software required:</p>
+<br>[Revised] Software required:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Microsoft Office (Excel)</p>
