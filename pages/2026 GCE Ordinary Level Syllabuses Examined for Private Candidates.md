@@ -4,7 +4,7 @@ permalink: /gce-o-level/o-level-syllabuses-examined-for-private-candidates-2026/
 variant: tiptap
 description: O-Level Syllabuses Examined in 2026 for Private Candidates
 ---
-<p>Here are the 2025 GCE O-Level examination syllabuses that are offered
+<p>Here are the 2026 GCE O-Level examination syllabuses that are offered
 to private candidates:</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
