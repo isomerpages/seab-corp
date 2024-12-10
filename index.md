@@ -42,11 +42,11 @@ sections:
         - title: ➗ Approved Calculators
           description: ""
           linktext: ""
-          url: https://go.gov.sg/approved-calculators
+          url: https://go.gov.sg/seab-approvedcalculators
         - title: 📚 Approved Dictionaries
           description: ""
           linktext: ""
-          url: https://go.gov.sg/list-of-dictionaries-for-examination
+          url: https://go.gov.sg/seab-approveddictionaries
   - infopic:
       title: Important Dates
       id: infopic
