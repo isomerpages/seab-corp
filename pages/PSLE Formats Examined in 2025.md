@@ -9,8 +9,9 @@ description: PSLE Formats Examined in 2025
 Foundation Mother Tongue Languages will be conducted in the e-Examination
 format. Check out this <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> to
 understand the revised examination format.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -26,11 +27,16 @@ understand the revised examination format.</p>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
+<th rowspan="1" colspan="1">
+<p><strong>Specimen Papers for</strong>&nbsp;
+<br><strong>Revised Syllabus</strong>&nbsp;
+<br><strong>[Year of Posting]</strong>
+</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_el_0001_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
-</p>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -38,10 +44,20 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0001</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp1.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
+<a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp2.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>
+<a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp3.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>
+<a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
+<br>[2025]&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_cl_0005_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0005_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,10 +66,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0005</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_ml_0006_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
+<p><em><a href="/files/Examinations/PSLE/2024_psle_ml_0006_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,10 +81,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0006</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_tl_0007_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
+<p><em><a href="/files/Examinations/PSLE/2024_psle_tl_0007_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,10 +96,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0007</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_math_0008_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0008_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,10 +111,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0008</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_science_0009_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0009_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,10 +126,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0009</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Panjabi</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_ntil_y25.pdf" rel="noopener noreferrer nofollow" target="_blank">Panjabi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,10 +141,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0010</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Hindi</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_ntil_y25.pdf" rel="noopener noreferrer nofollow" target="_blank">Hindi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,10 +156,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0011</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Gujarati</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_ntil_y25.pdf" rel="noopener noreferrer nofollow" target="_blank">Gujarati</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,10 +171,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0012</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Bengali</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_ntil_y25.pdf" rel="noopener noreferrer nofollow" target="_blank">Bengali</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,10 +186,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0013</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_ntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Urdu</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_ntil_y25.pdf" rel="noopener noreferrer nofollow" target="_blank">Urdu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,10 +201,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0014</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_hcl_0015_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0015_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,10 +216,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0015</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_hml_0016_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay</a>
+<p><em><a href="/files/Examinations/PSLE/2024_psle_hml_0016_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,10 +231,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0016</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_htl_0017_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil</a>
+<p><em><a href="/files/Examinations/PSLE/2024_psle_htl_0017_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,10 +246,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0017</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Panjabi</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_fntil_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Panjabi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,10 +261,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0020</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Hindi</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_fntil_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Hindi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,10 +276,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0021</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Gujarati</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_fntil_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Gujarati</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,10 +291,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0022</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Bengali</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_fntil_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Bengali</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,10 +306,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0023</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fntil_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Urdu</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/psle_fntil_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Urdu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,10 +321,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fcl_0025_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese</a>
+<p><em><a href="/files/Examinations/PSLE/2024_psle_fcl_0025_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,10 +336,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fml_0026_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Malay</a>
+<p><em><a href="/files/Examinations/PSLE/2024_psle_fml_0026_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Malay</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,10 +351,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_ftl_0027_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Tamil</a>
+<p><em><a href="/files/Examinations/PSLE/2024_psle_ftl_0027_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Tamil</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,11 +366,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0027</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_el_0031_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation English</a>
-</p>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation English </a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -302,10 +380,20 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0031</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp1.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
+<a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp2.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>
+<a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp3.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>
+<a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
+<br>[2025]&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fmath_0038_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Mathematics</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0038_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Mathematics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -314,10 +402,13 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0038</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Examinations/PSLE/2024_psle_fscience_0039_exam_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Science</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0039_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Science</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,6 +416,9 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0039</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
