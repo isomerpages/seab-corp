@@ -6,10 +6,10 @@ description: About GCE A-Level
 ---
 <p>The Singapore-Cambridge General Certificate of Education Advanced Level
 (GCE A-Level) examination is an annual national examination that is taken
-by school and private candidates, in Singapore.</p>
+by school and private candidates in Singapore.</p>
 <p>More information about the GCE A-Level examination is available below.</p>
 <p>The Singapore-Cambridge General Certificate of Education Advanced Level
-(GCE A-Level) examination was introduced in 1975, and it was delinked from
+(GCE A-Level) examination was introduced in 1975. It was delinked from
 the United Kingdom’s GCE A-Level examination in 2002, as part of the Ministry
 of Education (MOE) Singapore’s efforts to gain greater control of the management
 of the examination. The GCE A-Level examination is closely aligned to the
@@ -31,7 +31,7 @@ the GCE A-Level examination.</p>
 Education&nbsp;are the joint examining authorities for the GCE A-Level
 examination.</p>
 <p>Candidates can opt to be examined on subjects at three levels of study&nbsp;–&nbsp;Higher
-1 (H1), Higher 2 (H2), and, for school candidates, Higher 3.</p>
+1 (H1), Higher 2 (H2), and, for school candidates, Higher 3 (H3).</p>
 <p><strong>Mother Tongue Language (MTL) Syllabus B</strong>
 </p>
 <p>The MTL Syllabus B subject is not an AO-, A-, H1- or H2-Level subject,
