@@ -159,7 +159,7 @@ to apply for the PFP.</p>
 <p>Candidates are encouraged to explore the range of education and career
 pathways available to them to make informed decisions about their next
 steps. They may refer to the following websites for more information:</p>
-<p>· MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
+<p>· MOE’s CourseFinder (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)
 on offerings and courses in the polytechnics and ITE</p>
 <p>·&nbsp;MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfsec</a>) on education
 and career pathways</p>
