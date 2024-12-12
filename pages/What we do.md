@@ -207,7 +207,7 @@ Minister’s Office</div>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Thong May Teng
+<p>Mr Lim Hock Seong Kelvin
 <br>Director, Research and Development</p>
 </li>
 <li>
