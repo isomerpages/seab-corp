@@ -31,8 +31,6 @@ links:
   - title: News
     url: /news/
     sublinks:
-      - title: Announcements
-        url: /news/announcements
       - title: Press Releases
         url: /news/press-releases
       - title: Media Responses
