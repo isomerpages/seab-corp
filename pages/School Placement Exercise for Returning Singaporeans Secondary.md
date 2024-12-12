@@ -9,11 +9,11 @@ description: SPERS-Sec
 <a rel="noopener noreferrer nofollow" href="/spers-sec/eligibility-criteria/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPERS Sec Eligibility Criteria" src="/images/pic2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Eligibility Criteria" src="/images/pic2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">SPERS Sec Eligibility Criteria</div>
+<div class="isomer-card-title">Eligibility Criteria</div>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/spers-sec/application-procedures/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application Procedures" src="/images/notebook_registration_06.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Procedures</div><div class="isomer-card-link"> </div></div></a>
