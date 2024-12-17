@@ -73,6 +73,13 @@ sections:
       alt: registration
       image: /images/HomePage/registration.png
       url: /updatesforprivatecandidates/
+  - infopic:
+      title: 2025 SEAB Assessment Symposium For Primary School Educators
+      id: infopic
+      button: VIEW DETAILS
+      url: /2025-seab-assessment-symposium-for-primary-school-educators/
+      image: /images/Services/Training and Consultancy/Assessment_Symposium.png
+      alt: Image alt text
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
