@@ -112,7 +112,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>2 September 2024</p>
+<p>1 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -124,7 +124,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>16 May 2024</p>
+<p>23 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -151,7 +151,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>24 June 2024</p>
+<p>1 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -179,12 +179,12 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </table>
 <p>*<a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>Contact SEAB</u></a>&nbsp;if
 you have not received the following by the dates indicated:
-<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 21
-May 2024
+<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 26
+May 2025
 <br><strong>Science Practical Examination</strong>  <strong>Schedule </strong>-
 7 days before the examination date
-<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 27
-June 2024
+<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 2 July
+2025
 <br>
 <br>^The actual date of the results release can only be confirmed when all
 processes have been completed. Once the date has been confirmed, it would
