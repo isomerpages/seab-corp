@@ -87,53 +87,60 @@ GCE O-Level Examination results release. Secondary 4 N(A) students who
 intend to apply for the PFP should first progress to Secondary 5 on 2 January
 2025. All PFP-bound students are required to attend their Secondary 5N(A)
 classes in their secondary schools until the last Friday of January 2025,
-i.e. 31 January 2025. For more information, please refer to <a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
+i.e. 31 January 2025. For more information, please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
+<p></p>
+</li>
+<li>
+<p>All N(A) course students who have completed their secondary education
+may also further their studies through ITE’s two-year <em>Nitec</em> or three-year <em>Higher Nitec</em> programmes.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All N(A) course students
-who have completed their secondary education may also further their studies
-through ITE’s two-year <em>Nitec</em> or three-year <em>Higher Nitec</em> programmes.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Progression Pathways for Normal (Technical) students</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All N(T) course students
-who complete their secondary education in 2024 may similarly further their
-studies through ITE’s two-year <em>Nitec</em> or three-year <em>Higher Nitec</em> programmes.</p>
-<p>&nbsp;</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schools may also laterally
-transfer Secondary 4 N(T) students to Secondary 4 N(A) if they have obtained
-Grade A for both English Language and Mathematics, and Grade B or better
-for one other subject at the GCE N(T)-Level Examination.</p>
-<p>&nbsp;</p>
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p>All N(T) course students who complete their secondary education in 2024
+may similarly further their studies through ITE’s two-year <em>Nitec</em> or
+three-year <em>Higher Nitec</em> programmes.</p>
+<p></p>
+</li>
+<li>
+<p>Schools may also laterally transfer Secondary 4 N(T) students to Secondary
+4 N(A) if they have obtained Grade A for both English Language and Mathematics,
+and Grade B or better for one other subject at the GCE N(T)-Level Examination.</p>
+</li>
+</ol>
 <p><strong>Education and Career Guidance (ECG) support</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidates are encouraged
-to explore the range of education and career pathways available to them
-to make informed decisions about their next steps. They may refer to the
-following websites for more information:</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE’s CourseFinder (
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>) on the offerings and courses
-of polytechnics and ITE</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySkillsFuture Student
-Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)
-on career and education pathways</p>
-<p>&nbsp;</p>
-<p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates
-may also consult their teachers or ECG Counsellors in their respective
-secondary schools about their next steps.&nbsp;Alternatively, they can
-make an ECG counselling appointment via the ECG Centre @ MOE at&nbsp;
+<ol start="14" data-tight="true" class="tight">
+<li>
+<p>Candidates are encouraged to explore the range of education and career
+pathways available to them to make informed decisions about their next
+steps. They may refer to the following websites for more information:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
+on the offerings and courses of polytechnics and ITE</p>
+</li>
+<li>
+<p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfsec</a>) on career
+and education pathways</p>
+</li>
+</ul>
+<ol start="15" data-tight="true" class="tight">
+<li>
+<p>School candidates may also consult their teachers or ECG Counsellors in
+their respective secondary schools about their next steps.&nbsp;Alternatively,
+they can make an ECG counselling appointment via the ECG Centre @ MOE at&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>. The ECG Centre @ MOE offers online
 or phone counselling services from 9 to 24 December 2024, from 9.00 am
 to 5.00 pm on weekdays and 9.00 am to 12.00 pm on Saturdays.</p>
-<p>
-<br><sup>1</sup> The Cambridge International Education, the Ministry of Education,
+<p></p>
+</li>
+</ol>
+<p><sup>1</sup>The Cambridge International Education, the Ministry of Education,
 Singapore and the Singapore Examinations and Assessment Board (SEAB) are
 the joint examining authorities for the Singapore-Cambridge General Certificate
 of Education Normal (Academic) and Normal (Technical) Level Examinations.</p>
