@@ -38,16 +38,21 @@ period:
 submit an accurate English translated copy.</p>
 </li>
 <li>
-<p>The applicant's passport with validity of at least 6 months.</p>
+<p>The applicant's passport bio-data page. The passport should have a validity
+of at least 6 months.</p>
 </li>
 <li>
-<p>The applicant's statement of results for the relevant Cambridge English
-Qualifications (CEQ) test taken within 12 months before the month of submission
-of their S-AEIS-Primary online application. There is no need to submit
+<p>The applicant’s passport-sized photo in JPEG or PNG format. Recommended
+image dimension: 410 x 514 px.</p>
+</li>
+<li>
+<p>(Primary school applicants) The applicant’s statement of results for the
+relevant Cambridge English Qualifications (CEQ) test taken from January
+2024 for 2025 S-AEIS Primary online application. There is no need to submit
 the Cambridge English certificate.</p>
 </li>
 <li>
-<p>The applicant's passport size photo.
+<p>Additional documents such as marriage certificate that may be required.
 <br>
 </p>
 </li>
