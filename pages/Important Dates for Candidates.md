@@ -163,7 +163,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16&nbsp;– 18 December 2024</p>
+<p>16&nbsp;December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 – 14 January 2025</p>
