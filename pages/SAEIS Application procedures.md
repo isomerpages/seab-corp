@@ -15,7 +15,7 @@ are filled.</p>
 <li>
 <p>Create your individual account in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer" target="_blank"><u>Candidates Portal (CP)</u></a>.
 The applicant can start to do so from the registration period. Please refer
-to the <a href="http://www.moe.gov.sg/-/media/files/international-students/saeis-user-guide-for-candidates-portal-cp_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a> on
+to the <a href="https://go.gov.sg/s-aeis-user-guide-for-candidates-portal" rel="noopener nofollow" target="_blank">user guide</a> on
 account creation in CP.
 <br>
 </p>
