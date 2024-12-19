@@ -1,7 +1,7 @@
 ---
 title: PSLE Formats Examined in 2025
 permalink: /psle/psle-formats-examined-in-2025/
-variant: markdown
+variant: tiptap
 description: PSLE Formats Examined in 2025
 ---
 <p>Here are the 2025 PSLE examination formats.</p>
@@ -46,11 +46,8 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp1.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 <br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp2.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>
-<a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 <br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp3.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>
-<a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 <br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
 <br>[2025]</p>
 </td>
