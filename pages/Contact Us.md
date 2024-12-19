@@ -5,7 +5,7 @@ variant: markdown
 description: SEAB Contact Us
 ---
 <h4><strong>Quick Links</strong></h4>
-<table style="minWidth: 125px">
+<table style="min-width: 125px">
 <colgroup>
 <col>
 <col>
