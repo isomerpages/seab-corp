@@ -172,7 +172,8 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <p>21&nbsp;– 25 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 – 26 August 2024</p>
+<p><a href="https://www.seab.gov.sg/home/news/announcements/results-of-the-2024-gce-o--and-a-level-mid-year-mother-tongue-language-(mtl)-examinations" rel="noopener nofollow" target="_blank">22 August 2024</a>
+</p>
 </td>
 </tr>
 </tbody>
