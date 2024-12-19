@@ -389,10 +389,6 @@ understand the revised examination format.</p>
 <a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 <br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
 <br>[2025]&nbsp;</p>
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp1.pdf" rel="noopener nofollow" target="_blank">Paper 1</a>
-</p>
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp2.pdf" rel="noopener nofollow" target="_blank">Paper 2</a>
-</p>
 </td>
 </tr>
 <tr>
