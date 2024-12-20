@@ -4,8 +4,7 @@ permalink: /about-us/contact-us/
 variant: markdown
 description: SEAB Contact Us
 ---
-<div id="top"></div>
-<h4><strong>Quick Links</strong></h4>
+<h4 id="top"><strong>Quick Links</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -202,3 +201,4 @@ you may experience longer wait times during peak periods.</p>
 </details>
 </div>
 <p></p>
+<a href="#top">Top</a><p></p>
