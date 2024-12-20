@@ -42,8 +42,8 @@ answers to your questions.</p>
 <h4><strong>Use Our Digital Services</strong></h4>
 <p><strong>Website Search</strong> 
 <br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="/search/?query=syllabus+and+examination" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
-find answers to your queries. Please use the magnifying glass located at
-the <strong><a href="#navbar" target="_self">top </a></strong>to
+find answers to your queries. Please click the magnifying glass icon located at
+the <strong><a href="#navbar" target="_self">top </a></strong> right corner of the page to
 find answers to your queries.</p>
 <p><strong>Frequently Asked Questions (FAQs)</strong> 
 <br>Before contacting us, try our <strong><a href="https://ask.gov.sg/seab" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
