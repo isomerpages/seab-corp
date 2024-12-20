@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Normal Academic Level Syllabuses Examined for School Candidates
 permalink: /gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/
-variant: markdown
+variant: tiptap
 description: N(A)-Level Syllabuses Examined in 2025 for School Candidates
 ---
 <p>Here are the 2025 GCE N(A)-Level examination syllabuses that are offered
@@ -102,7 +102,7 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NA Level Syllabus Sch Cddts/2025/2126_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2126_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
+<a rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
 </a><a href="/files/NA Level Syllabus Sch Cddts/2025/2126_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
