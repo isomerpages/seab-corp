@@ -4,6 +4,7 @@ permalink: /about-us/contact-us/
 variant: markdown
 description: SEAB Contact Us
 ---
+<div id="top"></div>
 <h4><strong>Quick Links</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -42,7 +43,7 @@ answers to your questions.</p>
 <h4><strong>Use Our Digital Services</strong></h4>
 <p><strong>Website Search</strong> 
 <br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="/search/?query=syllabus+and+examination" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
-find answers to your queries.</p>
+find answers to your queries. </p><p><a href="#top">Top</a></p>
 <p><strong>Frequently Asked Questions (FAQs)</strong> 
 <br>Before contacting us, try our <strong><a href="https://ask.gov.sg/seab" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
 You may be able to find the answers you need.</p>
