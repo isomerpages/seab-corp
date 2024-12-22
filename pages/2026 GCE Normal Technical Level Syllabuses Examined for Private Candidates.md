@@ -170,7 +170,8 @@ format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1202_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
-<br>[Revised]</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -185,7 +186,8 @@ format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1203_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
-<br>[Revised]</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -200,7 +202,8 @@ format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1204_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
-<br>[Revised]</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
