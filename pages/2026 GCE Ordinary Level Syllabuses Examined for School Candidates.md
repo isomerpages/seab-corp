@@ -1064,4 +1064,4 @@ agencies.</p>
 </tr>
 </tbody>
 </table>
-<p>+ Mother Tongue B is not a GCE O-Level subject</p>
+<p>+ Mother Tongue B is not a GCE O-Level subject.</p>
