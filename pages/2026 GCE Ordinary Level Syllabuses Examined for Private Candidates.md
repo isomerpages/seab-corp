@@ -582,7 +582,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7085_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/7085_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
