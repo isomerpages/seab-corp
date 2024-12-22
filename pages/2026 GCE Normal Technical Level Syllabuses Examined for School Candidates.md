@@ -85,7 +85,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="/files/NT Lvl Syllabus Sch Cddts/2025/6128_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a>#</p>
+<p>&nbsp;<a href="/files/NT Lvl Syllabus Sch Cddts/2025/6128_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -99,8 +99,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a>
-</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -144,7 +143,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p># Last year of exam in 2025.</p>
+<p># Last year of exam in 2026.</p>
 <p>&nbsp;</p>
 <p>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
 if NTIL is included. The list of NTILs can be found under the <a href="/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>2025 GCE N(A)-Level syllabuses</u></a> for
