@@ -181,8 +181,8 @@ from SEAB.</p>
 <p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2279_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
 <a href="/files/O Lvl Syllabus Sch Cddts/2026/2279_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/2279_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="/files/O Lvl Syllabus Sch Cddts/2025/2279_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/2279_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
+<a href="/files/O Lvl Syllabus Sch Cddts/2026/2279_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2023]</p>
 </td>
