@@ -70,7 +70,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Geography)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/2125_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Geography)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +89,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, History)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/2126_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, History)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +107,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Literature in English)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/2127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Literature in English)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +123,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History*</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/2195_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History*</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +140,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2246_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/2246_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +161,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/3236_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
+<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3236_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +176,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/3237_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
+<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3237_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +191,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/3238_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3238_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +206,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/3239_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
+<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3239_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +221,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/3240_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
+<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3240_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,7 +236,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/4045_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus A</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/4045_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus A</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,7 +251,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/4051_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Mathematics</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/4051_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,7 +266,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/5105_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Chemistry)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/5105_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Chemistry)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,7 +283,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/5106_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/5106_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,7 +300,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/5107_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/5107_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +317,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/6073_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/6073_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,7 +332,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/6125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;[Revised]</p>
+<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/6125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;</em>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -346,7 +346,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/7055_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design and Technology</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/7055_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design and Technology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -361,7 +361,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/7086_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a> 
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/7086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,7 +419,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/1196_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 <br>
 </p>
 </td>
@@ -431,7 +431,7 @@ details.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/NA Level Syllabus Sch Cddts/2026/1196_y26_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
 <br><a href="/files/NA Level Syllabus Sch Cddts/2025/1196_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
@@ -439,7 +439,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/1197_y25_sy__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/1197_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 <br>
 </p>
 </td>
@@ -459,7 +459,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/1198_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/1198_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
 <br>
 </p>
 </td>
