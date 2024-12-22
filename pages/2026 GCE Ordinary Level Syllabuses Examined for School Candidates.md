@@ -717,7 +717,7 @@ to offer the subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/as_np05_design_studies_syllabus_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design Studies</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/AS_NP05_Design_Studies_Syllabus_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Design Studies</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
