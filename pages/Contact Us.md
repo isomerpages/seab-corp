@@ -208,9 +208,8 @@ you may experience longer wait times during peak periods.</p>
 available for hire. Our event spaces include a range of Multipurpose Rooms
 and a Hall, suitable for a wide range of corporate events such as meetings,
 seminars, and retreats, except for events indicated in the Annex.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event_space.png">
+<img style="width: 100%" height="auto" width="100%" alt="event space" src="/images/Contact us/event_space.png">
 </div>
 <p></p>
 <table style="minWidth: 75px">
@@ -267,9 +266,8 @@ the QR code below at least twenty-one (21) calendar days prior to the intended
 date of use.
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="qr code event space" src="/images/qr_code_event_space.png">
+<img style="width: 30%;" height="auto" width="100%" alt="qr code event space" src="/images/Contact us/qr_code_event_space.png">
 </div>
 <p><strong>Annex</strong>
 <br>The Event Space is strictly to be used for official events of the Hirer,
