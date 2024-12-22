@@ -777,8 +777,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B&nbsp;+</u></a>
-</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a> +</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -787,10 +786,10 @@ agencies.</p>
 <p>1153</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
 <br>[2023]</p>
 </td>
 </tr>
