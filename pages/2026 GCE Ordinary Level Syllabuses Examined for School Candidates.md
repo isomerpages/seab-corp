@@ -451,7 +451,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/5088_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/5088_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,7 +461,7 @@ from SEAB.</p>
 <p>5088</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/5088_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/5088_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/O Lvl Syllabus Sch Cddts/2025/5088_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/O Lvl Syllabus Sch Cddts/2025/5088_y24_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
 <br><a href="/files/O Lvl Syllabus Sch Cddts/2025/5088_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
