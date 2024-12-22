@@ -323,7 +323,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/3199_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/3194_3196_3199_3203_3215_y26_sy__resized_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
