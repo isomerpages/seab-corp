@@ -212,8 +212,8 @@ from SEAB.</p>
 <p>2299</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2299_y25_sp_1_v0_4_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="/files/O Lvl Syllabus Sch Cddts/2025/2299_y25_spre_1_v0_4_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Pre-release</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2299_y25_sp_1_v0_4_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/O Lvl Syllabus Sch Cddts/2026/2299_y25_spre_1_v0_4_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Pre-release</u>
 </a>
 <br>[2024]</p>
 </td>
