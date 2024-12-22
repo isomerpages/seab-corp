@@ -85,7 +85,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="/files/NT Lvl Syllabus Sch Cddts/2025/6128_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p>&nbsp;<em><a href="/files/NT Lvl Syllabus Sch Cddts/2025/6128_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a></em> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -144,7 +144,7 @@ from SEAB.</p>
 </tbody>
 </table>
 <p># Last year of exam in 2026.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
 if NTIL is included. The list of NTILs can be found under the <a href="/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>2025 GCE N(A)-Level syllabuses</u></a> for
 school candidates.</p>
@@ -280,7 +280,7 @@ to candidates from schools that are approved to offer the subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science Syllabus T</a>
+<p><em><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science Syllabus T</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,16 +290,13 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>5148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>
-<br><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
-<br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
+<p><em><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a><br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a><br><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a><br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a></em>
 <br>[2023]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/6129_syll_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Music</a>
+<p><em><a href="/files/NT Lvl Syllabus Sch Cddts/2025/6129_syll_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Music</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
