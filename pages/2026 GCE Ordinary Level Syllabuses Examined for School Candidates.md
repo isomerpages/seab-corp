@@ -470,7 +470,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6063_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Electronics</u>&nbsp;</a>[Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6063_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Electronics</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -479,8 +479,8 @@ from SEAB.</p>
 <p>6063</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6063_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/6063_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6063_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/6063_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2025syllabus/6063_y25_sp_2.pdf?sfvrsn=de14567e_2" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
 </a>[2024]</p>
 </td>
