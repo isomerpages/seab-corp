@@ -792,7 +792,7 @@ candidates to write answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2080_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2080_Y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
