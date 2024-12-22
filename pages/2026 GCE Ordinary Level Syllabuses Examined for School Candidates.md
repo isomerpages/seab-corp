@@ -844,7 +844,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y26_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
