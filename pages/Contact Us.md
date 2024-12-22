@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 permalink: /about-us/contact-us/
-variant: markdown
+variant: tiptap
 description: SEAB Contact Us
 ---
 <h4><strong>Quick Links</strong></h4>
@@ -42,9 +42,9 @@ answers to your questions.</p>
 <h4><strong>Use Our Digital Services</strong></h4>
 <p><strong>Website Search</strong> 
 <br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="/search/?query=syllabus+and+examination" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
-find answers to your queries. Please click the magnifying glass icon located at
-the <strong><a href="#navbar" target="_self">top </a></strong> right corner of the page to
-find answers to your queries.</p>
+find answers to your queries. Please click the magnifying glass icon located
+at the <strong><a href="#navbar" rel="noopener noreferrer nofollow" target="_self">top </a></strong>right
+corner of the page to find answers to your queries.</p>
 <p><strong>Frequently Asked Questions (FAQs)</strong> 
 <br>Before contacting us, try our <strong><a href="https://ask.gov.sg/seab" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
 You may be able to find the answers you need.</p>
@@ -203,3 +203,88 @@ you may experience longer wait times during peak periods.</p>
 </details>
 </div>
 <p></p>
+<h4><strong>Event Space for Hire</strong></h4>
+<p>Our premises at 298 Jalan Bukit Ho Swee offer versatile spaces that are
+available for hire. Our event spaces include a range of Multipurpose Rooms
+and a Hall, suitable for a wide range of corporate events such as meetings,
+seminars, and retreats, except for events indicated in the Annex.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/event_space.png">
+</div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Event Space*</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Seating Capacity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 400 pax (based on theatre layout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>850sqm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Multipurpose Rooms (MPR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 pax for smallest MPR to 200 pax (based on theatre layout)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9sqm to 440sqm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*Note: Spaces can be booked separately.</em>
+<br>
+<br>Corporate entities holding a valid Unique Entity Number (UEN) are welcomed
+to book our spaces for your corporate events.&nbsp;&nbsp;
+<br>Please submit your interest and enquiries via this <a href="https://go.gov.sg/seab-event-space" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a> or by scanning
+the QR code below at least twenty-one (21) calendar days prior to the intended
+date of use.
+<br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="qr code event space" src="/images/qr_code_event_space.png">
+</div>
+<p><strong>Annex</strong>
+<br>The Event Space is strictly to be used for official events of the Hirer,
+that is to say, for training, seminars, workshops, corporate retreats and
+award ceremonies only. The Event Space shall not be used for any other
+purposes, including but not limited to the following:&nbsp;
+<br>
+<br>a) Live bands, concerts, performances, and trade exhibitions;&nbsp;
+<br>b) Political or religious activities (including political rallies or speeches,
+religious services, and attendance of speakers / guests-of-honour in their
+capacity as politicians or ministers of religion);&nbsp;
+<br>c) Activities related to multi-level-marketing or “pyramid schemes”;
+<br>d) Activities that encourage disharmony and discord among racial groups
+or cause societal division;&nbsp;
+<br>e) Personal activities e.g. birthdays and weddings.
+<br>
+<br>You may refer to SEAB’s <a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/documents/terms-and-conditions---hire-of-seab-event-space---final.pdf?sfvrsn=839d5cdd_1" rel="noopener noreferrer nofollow" target="_blank"><u>Terms and Conditions</u></a> relating
+to the Use of Space.</p>
