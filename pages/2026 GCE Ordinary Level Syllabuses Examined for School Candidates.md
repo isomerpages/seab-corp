@@ -517,7 +517,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6091_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6091_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -527,8 +527,8 @@ from SEAB.</p>
 <p>6091</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6091_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/6091_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6091_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/6091_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]
 <br>There is no specimen for Paper 3.</p>
 </td>
