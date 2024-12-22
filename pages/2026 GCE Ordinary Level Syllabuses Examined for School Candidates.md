@@ -146,7 +146,7 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2261_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/2261_y24_sp_2_sp_updated_15072024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2026/2261_y24_sp_2_sp_updated_15072024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>
@@ -1064,4 +1064,5 @@ agencies.</p>
 </tr>
 </tbody>
 </table>
-<p>+ Mother Tongue B is not a GCE O-Level subject.</p>
+<p>+ Mother Tongue B is not a GCE O-Level subject.<a href="/files/O Lvl Syllabus Private Cddts/2026/2261_y24_sp_2_sp_updated_15072024.pdf" rel="noopener nofollow" target="_blank">Paper 2</a>
+</p>
