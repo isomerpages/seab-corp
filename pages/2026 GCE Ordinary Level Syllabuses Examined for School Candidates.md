@@ -705,7 +705,7 @@ to offer the subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/AS_NP04_Biotechnology_Syllabus_2025_updated.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biotechnology</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/AS_NP04_Biotechnology_Syllabus_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biotechnology</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
