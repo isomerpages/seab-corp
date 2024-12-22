@@ -487,7 +487,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6085_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6085_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -502,7 +502,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6086_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Music</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Music</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
