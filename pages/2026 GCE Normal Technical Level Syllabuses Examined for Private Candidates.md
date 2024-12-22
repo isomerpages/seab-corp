@@ -110,7 +110,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1195_y25_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1195_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/4046_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,7 +169,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1202_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Chinese</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,16 +179,12 @@ format.</p>
 <p>1202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1202_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1203_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,16 +194,12 @@ format.</p>
 <p>1203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3&nbsp;LC</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1203_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1204_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,16 +209,12 @@ format.</p>
 <p>1204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a>
+<p><em><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,10 +224,7 @@ format.</p>
 <p>5148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
-<br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
+<p><em><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a><br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a><br><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a><br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a></em>
 <br>[2023]</p>
 </td>
 </tr>
