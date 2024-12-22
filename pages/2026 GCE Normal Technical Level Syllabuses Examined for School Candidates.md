@@ -40,7 +40,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1195_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/4046_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/5979_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/5979_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Nutrition and Food Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +99,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7018_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a> #</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7018_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -113,7 +113,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7062_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Design and Technology Syllabus T</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7062_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Design and Technology Syllabus T</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/7066_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7066_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +234,7 @@ to candidates from schools that are approved to offer the subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Chinese</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1202_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Chinese</a>
 <br>[Revised]</p>
 <p>&nbsp;</p>
 </td>
@@ -245,16 +245,12 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 LC</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 Oral</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1203_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Malay</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1203_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Malay</a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,16 +260,12 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1203_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1203_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1203_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 LC</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1203_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 Oral</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Tamil</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1204_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Tamil</a>
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,11 +275,7 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 LC</a>
-<br><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1204_y25_sporal.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3 Oral</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
