@@ -99,7 +99,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1190_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus A</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/1190_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language Syllabus A</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2022_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2022_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Geography)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2125_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Geography)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,16 +139,12 @@ format.</p>
 <p>2125</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2125_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/2125_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="/files/NA Lvl Syllabus Private Cddts/2025/2125_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, History)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2126_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, History)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,14 +154,12 @@ format.</p>
 <p>2126</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2126_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/2126_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in English)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Literature in English)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,13 +169,12 @@ format.</p>
 <p>2127</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2127_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2195_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2195_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History*</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,14 +184,12 @@ format.</p>
 <p>2195</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2195_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/2195_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2246_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Geography</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,13 +199,7 @@ format.</p>
 <p>2246</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="/files/NA Lvl Syllabus Private Cddts/2025/2246_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +279,8 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/4045_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus A</u></a>&nbsp;</p>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/4045_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics Syllabus A</u>&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -308,7 +294,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/4051_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Mathematics</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/4051_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Additional Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,7 +309,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5105_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Chemistry)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/5105_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Chemistry)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,14 +319,12 @@ format.</p>
 <p>5105</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5105_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/5105_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5106_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/5106_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -350,14 +334,12 @@ format.</p>
 <p>5106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5106_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/5106_y24_sp_6.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 6</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5107_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/5107_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -367,14 +349,13 @@ format.</p>
 <p>5107</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/5107_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/5107_y24_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a> [Updated]^</p>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/7086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u> </a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -383,17 +364,14 @@ format.</p>
 <p>7086</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-</p>
-<p>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>^ Change is to response format for Paper 2. The new response format requires
-candidates to write their answers on the question paper.</p>
+<p>*Subject/Paper with e-Examination. Refer to <u>e-Exam Resources for Private Candidates</u> for
+details.<strong>&nbsp;</strong>
+</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -421,8 +399,9 @@ candidates to write their answers on the question paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1196_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
-<br>[Revised]</p>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/1196_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -431,17 +410,13 @@ candidates to write their answers on the question paper.</p>
 <p>1196</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1196_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1196_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1196_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1196_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sy__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
-<br>[Revised]</p>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/1197_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u><br></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -450,17 +425,14 @@ candidates to write their answers on the question paper.</p>
 <p>1197</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp2__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1197_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1198_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
-<br>[Revised]</p>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/1198_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
@@ -469,11 +441,7 @@ candidates to write their answers on the question paper.</p>
 <p>1198</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/1198_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1198_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1198_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/NA Lvl Syllabus Private Cddts/2025/1198_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
