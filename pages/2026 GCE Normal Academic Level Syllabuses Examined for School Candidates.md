@@ -145,7 +145,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3236_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a></em>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/3236_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bengali</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -160,7 +160,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3237_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a></em>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/3237_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gujarati</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,7 +175,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3238_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a></em>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/3238_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,7 +190,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3239_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a></em>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/3239_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Panjabi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,7 +205,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/3240_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a></em>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/3240_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Urdu</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
