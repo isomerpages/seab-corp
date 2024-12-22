@@ -660,7 +660,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/7155_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -670,9 +670,9 @@ from SEAB.</p>
 <p>7155</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/7155_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/7155_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/O Lvl Syllabus Sch Cddts/2026/7155_y25_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 </p>
 <p>[2024]</p>
