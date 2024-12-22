@@ -169,7 +169,7 @@ school candidates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/a101_mr_exam_syllabus_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Robotics</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/A101_MR_Examination_Syllabus_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Robotics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +181,7 @@ school candidates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/a201_set_exam_syllabus_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Electrical Technology</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/A201_SET_Examination_Syllabus_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Electrical Technology</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +193,7 @@ school candidates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/a301_ro_exam_syllabus_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Retail Operations</a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/A301_RO_Examination_Syllabus_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Retail Operations</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
