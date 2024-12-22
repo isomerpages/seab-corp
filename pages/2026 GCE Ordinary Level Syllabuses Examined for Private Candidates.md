@@ -842,7 +842,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2033_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2033_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -857,7 +857,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2263_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2263_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
