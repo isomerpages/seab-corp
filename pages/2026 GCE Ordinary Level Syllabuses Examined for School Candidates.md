@@ -1049,7 +1049,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6081_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6081_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
