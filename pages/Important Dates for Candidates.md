@@ -186,9 +186,8 @@ May 2025
 <br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 2 July
 2025
 <br>
-<br>^The actual date of the results release can only be confirmed when all
-processes have been completed. Once the date has been confirmed, it would
-be announced through the media.</p>
+<br>
+</p>
 </div>
 </details>
 </div>
