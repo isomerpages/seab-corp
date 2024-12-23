@@ -41,7 +41,7 @@ answers to your questions.</p>
 </table>
 <h4><strong>Use Our Digital Services</strong></h4>
 <p><strong>Website Search</strong> 
-<br>Can't find what you are looking for? Try using our&nbsp;<strong><a href="/search/?query=syllabus+and+examination" rel="noopener noreferrer nofollow" target="_blank"><u>site-wide search</u></a></strong> to
+<br>Can't find what you are looking for? Try using our site-wide search to
 find answers to your queries. Please click the magnifying glass icon located
 at the <strong><a href="#navbar" rel="noopener noreferrer nofollow" target="_self">top </a></strong>right
 corner of the page to find answers to your queries.</p>
