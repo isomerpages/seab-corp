@@ -284,5 +284,5 @@ capacity as politicians or ministers of religion);&nbsp;
 or cause societal division;&nbsp;
 <br>e) Personal activities e.g. birthdays and weddings.
 <br>
-<br>You may refer to SEAB’s <a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/documents/terms-and-conditions---hire-of-seab-event-space---final.pdf?sfvrsn=839d5cdd_1" rel="noopener noreferrer nofollow" target="_blank"><u>Terms and Conditions</u></a> relating
+<br>You may refer to SEAB’s <a href="https://go.gov.sg/terms-and-conditions-hire-of-seab-event-space" rel="noopener noreferrer nofollow" target="_blank"><u>Terms and Conditions</u></a> relating
 to the Use of Space.</p>
