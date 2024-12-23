@@ -193,3 +193,6 @@ be announced through the media.</p>
 </details>
 </div>
 <p></p>
+<p>^The actual date of the results release can only be confirmed when all
+processes have been completed. Once the date has been confirmed, it would
+be announced through the media.</p>
