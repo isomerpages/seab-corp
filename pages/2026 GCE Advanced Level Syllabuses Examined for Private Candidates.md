@@ -842,8 +842,8 @@ understand the revised examination format.</p>
 </tbody>
 </table>
 <p>* Last year of exam in 2026.
-<br># Last year of exam in 2025.</p>
-<p>^ Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+<br># Last year of exam in 2025.
+<br>^ Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.</p>
 <p><a href="/files/A Level Syllabus Private Cddts/2025/seab_mathematics_mf27__approved_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
