@@ -722,8 +722,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> ^</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
