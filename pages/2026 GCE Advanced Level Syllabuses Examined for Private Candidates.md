@@ -524,7 +524,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/8879_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/8879_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#
+[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -554,11 +555,7 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/8881_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/A Level Syllabus Private Cddts/2025/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/A Level Syllabus Private Cddts/2025/8881_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
