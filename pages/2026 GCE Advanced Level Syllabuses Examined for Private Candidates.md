@@ -641,7 +641,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9569_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
 <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br><br></u>
 </a>Software required:
 <br>• Python IDLE 3.6.4
@@ -668,7 +668,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9570_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9570_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
