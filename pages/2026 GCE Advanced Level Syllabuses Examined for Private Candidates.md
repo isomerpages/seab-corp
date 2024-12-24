@@ -542,7 +542,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/8881_y25_sy_pdf__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8881_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>General Paper</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
