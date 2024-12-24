@@ -739,7 +739,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9649_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9649_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Further Mathematics</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -816,7 +817,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9758_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9758_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -839,7 +841,8 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p># Last year of exam in 2025</p>
+<p>* Last year of exam in 2026
+<br># Last year of exam in 2025</p>
 <p><a href="/files/A Level Syllabus Private Cddts/2025/seab_mathematics_mf27__approved_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
