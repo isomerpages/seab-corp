@@ -4,7 +4,7 @@ permalink: /gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/
 variant: tiptap
 description: 2026 GCE Advanced Level Syllabuses Examined for School Candidates
 ---
-<p>Here are the 2025 GCE A-Level examination syllabuses that are offered
+<p>Here are the 2026 GCE A-Level examination syllabuses that are offered
 to school candidates. These subjects are examined at Higher 1 (H1), Higher
 2 (H2) and Higher 3 (H3) levels.</p>
 <p>For syllabuses that have been revised, the specimen papers are available
