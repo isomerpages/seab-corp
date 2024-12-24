@@ -326,7 +326,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/8833_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8833_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
