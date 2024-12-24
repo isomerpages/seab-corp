@@ -752,8 +752,8 @@ understand the revised examination format.</p>
 <p>9649</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9649_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="/files/A Level Syllabus Private Cddts/2025/9649_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9649_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Private Cddts/2026/9649_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
 <br><a href="/files/A Level Syllabus Private Cddts/2025/9649_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
 <a href="/files/A Level Syllabus Private Cddts/2025/9649_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
