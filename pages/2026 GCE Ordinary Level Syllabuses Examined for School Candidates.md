@@ -162,7 +162,7 @@ from SEAB.</p>
 <p>2262</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2262_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2262_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2023]</p>
 </td>
 </tr>
