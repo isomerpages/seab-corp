@@ -282,8 +282,8 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8865_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
-<a href="/files/A Level Syllabus Sch Cddts/2025/8865_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8865_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/8865_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
 <br>[2024]</p>
 </td>
@@ -1406,4 +1406,5 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8865_y26_sy.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
