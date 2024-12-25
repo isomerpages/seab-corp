@@ -933,7 +933,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9629_y25.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
