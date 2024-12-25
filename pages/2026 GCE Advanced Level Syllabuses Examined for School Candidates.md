@@ -324,7 +324,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8876_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> #</p>
+<p>Biology #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -341,7 +341,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8879_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a> [Revised]</p>
+<p>Art [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
