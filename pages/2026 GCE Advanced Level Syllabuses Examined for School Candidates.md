@@ -177,7 +177,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8835_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
