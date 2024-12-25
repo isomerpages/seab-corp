@@ -1129,7 +1129,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9629_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9629_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
