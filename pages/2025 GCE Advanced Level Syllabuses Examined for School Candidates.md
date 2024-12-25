@@ -835,7 +835,7 @@ from SEAB.</p>
 </table>
 <p>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.</p>
 <p># Last year of exam in 2025.</p>
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/seab_mathematics_mf27__approved_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
 <h4><strong>H3 Cambridge Subjects</strong></h4>
@@ -1029,7 +1029,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tbody>
 </table>
 <p># Last year of exam in 2025.</p>
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/seab_mathematics_mf27__approved_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H3 Mathematics (9820) syllabus.</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 150px">
