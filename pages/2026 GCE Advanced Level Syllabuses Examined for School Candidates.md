@@ -1332,7 +1332,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8611_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8611_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1347,7 +1347,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8613_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8613_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1362,7 +1362,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8614_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8614_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
