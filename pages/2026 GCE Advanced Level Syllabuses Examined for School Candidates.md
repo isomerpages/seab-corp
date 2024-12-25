@@ -81,7 +81,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8829_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8827_8828_8829_8836_8837_y26_sy__resized_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Hindi</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +99,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/8831_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8831_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
