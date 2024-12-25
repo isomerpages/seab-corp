@@ -852,9 +852,9 @@ agencies.</p>
 <p>1117</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Sch Cddts/2025/1117_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2023]</p>
 </td>
 </tr>
