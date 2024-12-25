@@ -681,10 +681,10 @@ from SEAB.</p>
 <p>9737</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1</p>
-<p>Paper 2 | Insert</p>
-<p>Paper 3</p>
-<p>[2025]</p>
+<p>Paper 1
+<br>Paper 2 | Insert
+<br>Paper 3
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
