@@ -883,7 +883,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9813_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> #</p>
+<p>Chemistry #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
