@@ -33,17 +33,17 @@ available below.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-gce-a-exams-rules-regulations-final" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2024" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2024" src="/images/psleformats.png">
+<img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2025" src="/images/psleformats.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">A-Level Syllabuses Examined in 2024</div>
+<div class="isomer-card-title">A-Level Syllabuses Examined in 2025</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2025" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2025</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2026" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2026" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2026</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/e-exam-resources-for-private-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
