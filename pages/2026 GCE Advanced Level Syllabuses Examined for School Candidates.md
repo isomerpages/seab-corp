@@ -953,7 +953,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9820_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9820_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -963,8 +963,8 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 <p>9820</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9820_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
-<a href="/files/A Level Syllabus Sch Cddts/2025/9820_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9820_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/2026/9820_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
 <br>[2024]</p>
 </td>
