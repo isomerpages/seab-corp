@@ -742,7 +742,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9753_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9753_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Music</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -760,7 +760,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9758_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -773,11 +773,11 @@ from SEAB.</p>
 <p>9758</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
-<a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9758_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/9758_y25_spab_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer Booklet</u>
 </a>
-<br><a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/A Level Syllabus Sch Cddts/2025/9758_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9758_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/9758_y25_spab_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Printed Answer booklet</u>
 </a>
 <br>[2024]</p>
 </td>
