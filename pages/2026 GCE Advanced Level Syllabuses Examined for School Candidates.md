@@ -1377,8 +1377,7 @@ H3 Mathematics (9820) syllabus.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/2025_project_work__8882__examination_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Project Work</u></a>
-</p>
+<p>Project Work</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
