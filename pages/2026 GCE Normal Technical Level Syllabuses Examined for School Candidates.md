@@ -235,8 +235,8 @@ to candidates from schools that are approved to offer the subjects.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1202_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Chinese</a>
-<br>[Revised]</p>
-<p>&nbsp;</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -251,7 +251,8 @@ to candidates from schools that are approved to offer the subjects.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1203_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Malay</a>
-<br>[Revised]</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -266,7 +267,8 @@ to candidates from schools that are approved to offer the subjects.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1204_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic Tamil</a>
-<br>[Revised]</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
