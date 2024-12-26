@@ -182,9 +182,7 @@ to understand the revised examination format.</p>
 <p>2174</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2174_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/2174_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -199,11 +197,7 @@ to understand the revised examination format.</p>
 <p>2260</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2260_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/2260_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
-<a href="/files/O Lvl Syllabus Private Cddts/2026/2260_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -218,10 +212,7 @@ to understand the revised examination format.</p>
 <p>2261</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2261_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2261_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
-</a><a href="/files/O Lvl Syllabus Private Cddts/2026/2261_y24_sp_2_sp_updated_15072024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -236,8 +227,7 @@ to understand the revised examination format.</p>
 <p>2262</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2262_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -252,13 +242,7 @@ to understand the revised examination format.</p>
 <p>2279</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2279_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a> |
-<a href="/files/O Lvl Syllabus Private Cddts/2026/2279_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/2279_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/O Lvl Syllabus Private Cddts/2026/2279_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -483,11 +467,7 @@ to understand the revised examination format.</p>
 <p>5086</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/5086_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/5086_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/5086_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/5086_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -502,9 +482,7 @@ to understand the revised examination format.</p>
 <p>5087</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/5087_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/5087_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -519,11 +497,7 @@ to understand the revised examination format.</p>
 <p>5088</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/5088_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/5088_y24_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/5088_y24_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/5088_y24_sp_5.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 5</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -538,10 +512,7 @@ to understand the revised examination format.</p>
 <p>6091</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/6091_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/6091_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]
-<br>There is no specimen for Paper 3.</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -556,10 +527,7 @@ to understand the revised examination format.</p>
 <p>6092</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/6092_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/6092_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]
-<br>There is no specimen for Paper 3.</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -574,10 +542,7 @@ to understand the revised examination format.</p>
 <p>6093</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/6093_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/6093_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2023]
-<br>There is no specimen for Paper 3.</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -681,10 +646,7 @@ details.</p>
 <p>1116</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1116_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/1116_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/1116_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -699,11 +661,7 @@ details.</p>
 <p>1160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1160_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -733,10 +691,7 @@ details.</p>
 <p>1117</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -751,11 +706,7 @@ details.</p>
 <p>1148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1148_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1148_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/1148_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/1148_y25_sp3lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -815,10 +766,7 @@ details.</p>
 <p>1147</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1147_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1147_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1147_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -833,11 +781,7 @@ details.</p>
 <p>1157</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1157_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1157_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/1157_y25_sp3oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - Oral</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/1157_y25_splc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 - LC</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -867,8 +811,7 @@ details.</p>
 <p>2263</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2263_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -883,8 +826,7 @@ details.</p>
 <p>2264</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2264_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -899,8 +841,7 @@ details.</p>
 <p>2265</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2265_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br>[2023]</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
