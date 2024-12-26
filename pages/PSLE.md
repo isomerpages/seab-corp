@@ -24,7 +24,7 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">2024 PSLE Rules and Regulations For Candidates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/psle/psle-formats-examined-in-2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Formats Examined in 2024" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE Formats Examined in 2024</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/psle/psle-formats-examined-in-2025" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PSLE Formats Examined in 2025" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PSLE Formats Examined in 2025</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/e-exam-resources" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
