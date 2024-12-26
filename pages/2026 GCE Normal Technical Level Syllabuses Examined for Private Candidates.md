@@ -217,7 +217,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a></em>
+<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/5148_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science Syllabus T</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,7 +227,8 @@ format.</p>
 <p>5148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a><br><a href="/files/NT Lvl Syllabus  Private Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a><br><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a><br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a></em>
+<p><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
+<br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
 <br>[2023]</p>
 </td>
 </tr>
