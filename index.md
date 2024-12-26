@@ -21,10 +21,10 @@ sections:
         - title: GCE N(T)/N(A)
           description: ""
           url: /gce-n-t-or-gce-n-a/
-        - title: O-Level
+        - title: GCE O
           description: ""
           url: /gce-o-level
-        - title: A-Level
+        - title: GCE A
           description: ""
           url: /gce-a-level
   - textcards:
