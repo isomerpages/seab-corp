@@ -2,6 +2,8 @@ collections:
   issue-1-2025-seablink:
     output: true
     order:
+      - Reduction in number of days for oral examinations for GCE Level
+        examinations.md
       - Editor's Note.md
       - "SEAB@20: Joy at Work.md"
       - "SEAB@20: Pride in Work.md"
