@@ -380,10 +380,8 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NA Level Syllabus Sch Cddts/2025/7086_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/NA Level Syllabus Sch Cddts/2025/7086_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
-</a>
-</p>
-<p>[2023]</p>
+<a href="/files/NA Level Syllabus Sch Cddts/2025/7086_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert </u>
+</a>[2023]</p>
 </td>
 </tr>
 <tr>
