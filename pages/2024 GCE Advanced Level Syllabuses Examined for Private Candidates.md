@@ -410,7 +410,10 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+</a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -481,7 +484,8 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -499,7 +503,8 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br>[2022]</p>
 </td>
 </tr>
 <tr>
@@ -602,7 +607,11 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+</a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -619,7 +628,13 @@ understand the revised examination format.</p>
 <p>9173</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+</a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+</a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -636,7 +651,9 @@ understand the revised examination format.</p>
 <p>9174</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -717,7 +734,9 @@ understand the revised examination format.</p>
 <p>9570</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2022]</p>
 </td>
 </tr>
 <tr>
@@ -999,7 +1018,9 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 <p>9629</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9629_y25_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2025/9629_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
