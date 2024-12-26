@@ -19,29 +19,31 @@ information.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</summary>
+<summary>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH - 2 YEAR CONTRACT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>RESPONSIBILITIES</strong>
 </p>
-<p>Successful applicant will play an active role in conducting research on
-educational measurement and assessment issues, as well as in developing
-assessment services and products that are transforming for stakeholders.&nbsp;The
-key responsibilities include:&nbsp;&nbsp;</p>
+<p>Successful applicant will play an active role in handling, analysing and
+mining data to provide meaning analysis and visualisation for decision
+making.&nbsp;The key responsibilities include:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Conduct research studies which focus on harnessing technology to assess
-complex competencies for 21st Century education&nbsp;</p>
+<p>Analyse large amount of data for trends and patterns, and build predictive
+models and machine learning algorithms</p>
 </li>
 <li>
-<p>Apply statistical techniques to support assessment-related analysis</p>
+<p>Apply sound methodologies in data science, statistical analysis and data
+mining</p>
 </li>
 <li>
-<p>Provide project management and consultancy services for assessment projects</p>
+<p>Perform data visualisation to derive insights and value-add to decision
+making</p>
 </li>
 <li>
-<p>Develop assessment services and products that are fit for purpose, educationally
-sound and positively transforming for stakeholders&nbsp;</p>
+<p>Develop automated marking models for different subjects with constructed
+responses ranging from answers that are one sentence in length to complex
+answers requiring an essay or analysis</p>
 <p></p>
 </li>
 </ul>
@@ -51,28 +53,25 @@ sound and positively transforming for stakeholders&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Trained in Mathematics and/or statistics-related field</p>
+<p>Tertiary Qualification in Data Science, or Computer Science, or Statistics,
+with a minimum of 2-3 years’ experience in manipulating data sets, building
+statistical models and hands-on experience in machine learning applications</p>
 </li>
 <li>
-<p>Experience in the education sector will be an advantage</p>
+<p>Fresh graduates with relevant exposure can be considered</p>
 </li>
 <li>
-<p>Proficient in the use of statistical analysis software (e.g. STATA, SAS,
-RUMM2020, R-Programming)</p>
+<p>Strong in programming experience and proficient in Python/R/C++</p>
 </li>
 <li>
-<p>Experience in the use of coding applications (such as Visual Studio) with
-C/C#/C++, Visual Basic or Java Programming, will be useful</p>
+<p>Possess knowledge of a variety of machine learning techniques, such as
+clustering, recommender systems, Natural Language Processing, Deep learning
+etc., and their real-world applications</p>
 </li>
 <li>
-<p>Adaptable, meticulous individual with excellent analytical skills</p>
-</li>
-<li>
-<p>Ability to communicate complex concepts in an applied and practical manner
-to obtain buy-in from stakeholder groups</p>
-</li>
-<li>
-<p>Enjoy working in teams, in a dynamic and creative work environment</p>
+<p>Possess knowledge of advanced statistical techniques and concepts, such
+as regression, properties of distributions, statistical tests and proper
+usage, etc.</p>
 </li>
 </ul>
 </div>
