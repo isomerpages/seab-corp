@@ -4,102 +4,118 @@ permalink: /issue-1-2025-seablink-newsletter/stip-at-seab/
 variant: tiptap
 description: ""
 ---
-<p>In May 2024, Deputy Director, Research and Development Division, Dr Tay
-Poh Hua, Deputy Director, Exam Operations Division, Mr Oliver Junus and
-Assessment Officer (Sciences), Mr Tan Wee Siang went on a study trip to
-China together with a group of colleagues from MOE. The aim of the trip
-was to gain insights from technological companies, examinations authority,
-local schools and universities, on the future possibilities that can be
-afforded with the recent advancements in artificial intelligence (AI) and
-other educational technologies.</p>
+<p>The Short-Term Immersion Programme (STIP) is a Whole-Of-Government initiative
+for public service officers.&nbsp; It aims to provide experiential opportunities
+for officers to gain insights to the work of other public agencies, deepen
+and broaden competencies and professional networks, as well as inject fresh
+perspectives into officers’ core work and day-to-day work processes. &nbsp;</p>
+<p>SEAB hosted a series of STIP opportunities in 2024, where participating
+officers were assigned to the Exam Operations Division. Each run of the
+STIP was for two weeks, during which the officers were exposed to the examination
+operations, specifically the management of answer scripts. These officers
+gained first-hand experience and understood the challenges in the management
+of National Examination operations. Upon completion of their STIP, we took
+the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
+<p>You can also view their interviews on SEAB’s YouTube channel at &lt;insert
+link&gt;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="USTC" src="/images/1.jpg">
-</div>
-<p><em>The hosting team from University of Science and Technology of China (USTC)</em>
-</p>
+<h4><strong>Ms Khairunnisa Abdul Khalid | Majlis Ugama Islam Singapura</strong>&nbsp;</h4>
+<p>“I am a member of the Madrasah Policy and Planning Unit of the Majlis
+Ugama Islam Singapura (MUIS), and the unit oversees the planning and policy
+for the six Madrasahs in Singapore which adopt the dual curriculum. I believe
+that this immersion is timely as my unit was also embarking on a similar
+digitisation project. I am looking forward to share with my unit what I
+have learnt here to elevate the learning process in my organisation.&nbsp;</p>
+<p>The work culture in SEAB exudes positive culture. It was memorable for
+me to witness a lot of people supporting each other to ensure that the
+results processing is on time and accurate. Colleagues here are forward-looking
+and have embarked on using new technologies to ensure that the results
+processing is more efficient. I have gained insights to the digitisation
+process using cutting edge technology and I am also amazed by the growth
+mindset that was adopted by the team.&nbsp;</p>
+<p>I am truly excited to bring back what I have learnt in SEAB to MUIS so
+that my team can also adopt the similar mindset and embrace technology
+at its fullest.”&nbsp;</p>
 <p></p>
-<p>The first leg of their study trip was in Hefei, with the initial stop
-at the University of Science and Technology of China (USTC). The professors
-at USTC inspired the group by sharing their commitment to developing talents
-in science and technology. They discussed their efforts to integrate AI
-into classrooms and equip students with a forward-looking mindset.</p>
+<h4><strong>Mr Lan Yingjie | Ministry of Education</strong>&nbsp;</h4>
+<p>“I am currently a Special Assistant with the School Operations Policy
+Branch in Ministry of Education, Headquarters (MOE HQ) whereby we support
+the operationalisation of broader education policies. Prior to this, I
+was a teacher in schools and had performed the role of a Presiding Examiner
+and invigilator for the national examinations. I chose to do this STIP
+because I wanted to know more about the processes involved in the running
+of the national examinations, especially behind-the-scenes processes after
+observing examinations in school during challenging times like the COVID-19
+period.  &nbsp;</p>
+<p>Being involved in the digitisation and processing of papers was a very
+memorable experience for me. I have come to realise that it is not an easy
+task to account for all the papers considering the volume of papers that
+are received from all the schools in Singapore. I observed the coordination
+and the hard work displayed by the team and was impressed by how the team
+pulled it off in a very well-polished and clockwork manner.  &nbsp;</p>
+<p>I have gained a better understanding of the challenges that SEAB faces
+as a partner to MOE HQ and the schools. Through this STIP, I am better
+able to appreciate how SEAB aimed to design and implement processes with
+stakeholders in mind. In addition, I have gained a deeper understanding
+of assessment beyond the perspective of a teacher in school. I think SEAB
+is very forward-looking and innovative and I look forward to seeing these
+innovations benefitting the schools and students in the future.”&nbsp;</p>
 <p></p>
+<h4><strong>Mr Sandeep Shetty | Monetary Authority of Singapore&nbsp;</strong>&nbsp;</h4>
+<p><strong>“</strong>I am currently performing the role of a Lead Application
+Delivery Manager (ADM) who oversees the end-to-end delivery of software
+applications, managing the entire application lifecycle from requirements
+definition and tender procurement through to build, test, deployment, and
+maintenance in the Monetary Authority of Singapore (MAS).&nbsp;&nbsp;</p>
+<p>I chose SEAB for my immersion to gain more insights into the conduct and
+execution of the National Examinations. With my background, I hope I will
+also be able to provide suggestions to the SEAB team to further improve
+on their current processes.</p>
+<p>I was particularly impressed by the seamless coordination among the members
+of the SEAB team during the PSLE period. I remembered how officers from
+various SEAB departments came together, demonstrating exceptional teamwork
+and dedication. I have learnt the importance of cross-departmental collaboration
+in handling high-stakes situations.&nbsp;</p>
+<p>The STIP experience provided me with invaluable insights to the intricacies
+of education administration, particularly in the context of national examinations.
+I gained a deeper understanding of the multifaceted nature of organising
+such large-scale events. Specifically, I enhanced my skills in:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Crisis management: Observing how the team managed unexpected situations
+had taught me the importance of quick decision-making and adaptability.&nbsp;</p>
+</li>
+<li>
+<p>Stakeholder management: The experience improved my ability to balance
+the needs of various stakeholders.&nbsp;</p>
+</li>
+<li>
+<p>Project management: The strategies I observed for coordinating large-scale
+operations can be applied to enhance the efficiency of projects in my department.
+For example, I plan to implement a similar system of regular, brief check-ins
+during critical phases in my next project.”&nbsp;&nbsp;</p>
+</li>
+</ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anhui trip2" src="/images/2.jpg">
-</div>
-<p><em>Mr Tan Wee Siang and Mr Tay Poh Hua took on the role of examination candidates sitting for e-oral examinations, which would later be auto-marked.&nbsp;</em>
-</p>
-<p>Next, the team visited iFLYTEK, a Chinese information technology company
-known for its speech recognition technologies. There, they engaged in extensive
-discussions and learnt about the potential of smart classrooms, optical
-character recognition and auto-marking systems.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anhui trip 4" src="/images/4.jpg">
-</div>
-<p><em>Mr Tan Wee Siang plays a game Chinese chess with an AI robot.</em>
-</p>
-<p></p>
-<p>Some of the AI technologies used to facilitate learning and improve their
-daily lives included the use of robots. The team had the opportunity to
-play chess with an AI robot, and also got a ride on an AI-operated driverless
-car on the busy streets of Hefei!</p>
-<p>In Hefei, the team also visited Anhui Education Examinations Authority
-(AEEA) to learn about their implementation of AI-based auto-marking to
-supplement and enhance the accuracy of human marking of their <em>gaokao</em> (高考)
-&nbsp;taken by 50,000 candidates in Anhui.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anhui trip 5" src="/images/5.jpg">
-</div>
-<p><em>An engaging and candid dialogue session at Anhui Education Examinations Authority (AEEA)</em>
-</p>
-<p></p>
-<p>The personnel at AEEA generously shared about their research and learning
-process. It was especially heartening to hear them conclude that the application
-of AI technologies has widened the possibilities of educational evaluation
-and feedback, contributing to a more complete and holistic knowledge and
-evaluation system.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anhui trip 6" src="/images/6.jpg">
-</div>
-<p><em>Mr Tay Poh Hua (left) presenting a token of appreciation to Anhui Education Examinations Authority for their generous sharing on their experience in auto-marking.</em>
-</p>
-<p></p>
-<p>The next leg of the study trip was in Shanghai where the team visited
-East China Normal University and Shanghai University of Sport. Both institutions
-shared about how they have developed their own AI programme to analyse
-their sports students’ physical movements, providing real-time feedback
-and suggestions for self-directed improvement.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anhui trip 7" src="/images/7.jpg">
-</div>
-<p><em>Mr Tan Wee Siang (right)  presenting a token of appreciation to Shanghai University of Sport for their generous sharing on their experience in AI-enabled assessment of physical activities.&nbsp;</em>
-</p>
-<p></p>
-<p>The highlight of the&nbsp;last leg of the trip in Hangzhou was a visit
-to Alibaba’s headquarters. The personnel at Alibaba shared their latest
-innovations and introduced a system used in many schools to allow educators
-to monitor different aspects of education on a single platform. One of
-the modules involved the use of AI-monitored cameras around the school
-to detect abnormal or undesired behaviours like sleeping and irrelevant
-chatting in classrooms.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anhui trip 8" src="/images/8.jpg">
-</div>
-<p><em>SEAB's visit to Alibaba's headquarters in Hangzhou to learn about their research in AI in education and assessment. </em>
-</p>
-<p></p>
-<p></p>
-<p>The team deeply appreciated the warmth, generosity, professionalism and
-comprehensive sharing of expertise and experiences by the organisations
-and schools that they have visited. &nbsp;&nbsp;They left inspired and
-excited about the AI possibilities that can be trialed and tested in the
-years to come.</p>
-<p></p>
+<h4><strong>Ms Lee Huixian</strong>&nbsp;| <strong>Building and Construction Authority</strong>&nbsp;</h4>
+<p>“I work in the Procurement Policies Department in the Building and Construction
+Authority (BCA), and my team is responsible for implementing procurement
+policies for the construction and Facility Management sector.&nbsp;</p>
+<p>The advertisement for this STIP caught my eye because as a Singaporean
+student who had gone through a few rounds of National Examination, I was
+intrigued and interested to go behind-the-scenes of what happens before
+and after the National Examinations.&nbsp;</p>
+<p>During this STIP, I had the opportunity to see the end-to-end processes
+of script management and saw how efficiently and securely the scripts were
+managed. I was also impressed by the exhibitions in the Heritage Gallery,
+where I learnt about the evolution of our National Examinations over the
+past few decades in Singapore. During my short two-week stint in SEAB,
+I have gained a new-found appreciation for SEAB's efforts in safeguarding
+the integrity of our National Exams and accounting for each script. SEAB's
+devotion in continuously innovating and exploring new ways to enhance the
+quality of our National Examinations and assessment standards is inspiring.&nbsp;</p>
+<p>Seeing the crucial role that SEAB plays in our education system has reminded
+me of the broader impact of our work in the public service. This motivates
+me to continue improving our procurement policies for the benefit of all
+government agencies.”&nbsp;</p>
 <p></p>
