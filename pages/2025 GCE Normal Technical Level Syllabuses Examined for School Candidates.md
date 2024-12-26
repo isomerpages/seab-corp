@@ -243,7 +243,11 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1202</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2025/1202_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1202_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1202_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1202_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +262,11 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1203_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1203_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1203_y25_sp3_lc.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1203_y25_sp3_oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +281,11 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>1204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1204_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1204_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1204_y25_sp3LC.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 LC</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/1204_y25_sp3Oral.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3 Oral</u></a>
+<br>[2023]</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +300,9 @@ to candidates from schools that are approved to offer the subjects.</p>
 <p>5148</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
+<p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/5148_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/5148_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="https://youtu.be/20MYm2H6WVo" rel="noopener noreferrer nofollow" target="_blank"><u>Video Clip</u></a>
 <br><a href="https://youtu.be/6NjK9_FYgKA" rel="noopener noreferrer nofollow" target="_blank"><u>Animation Clip</u></a>
 <br>[2023]</p>
 </td>
