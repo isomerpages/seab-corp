@@ -34,7 +34,7 @@ sections:
         - title: 📄 Past Years' Results
           description: ""
           linktext: ""
-          url: /home/services/statements-of-results
+          url: /statements-of-results
         - title: 🖥️ Candidates Portal
           description: ""
           linktext: ""
