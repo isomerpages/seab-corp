@@ -2,9 +2,9 @@ collections:
   issue-1-2025-seablink:
     output: true
     order:
-      - "SEAB@20: Pride in Work.md"
       - Editor's Note.md
       - "SEAB@20: Joy at Work.md"
+      - "SEAB@20: Pride in Work.md"
       - "Empowering 21st Century Learners: Insights from SEAB's Workshop on
         Assessment as Learning.md"
       - Short Term Immersion Programme at SEAB.md
