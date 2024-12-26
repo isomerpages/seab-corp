@@ -1,5 +1,5 @@
 collections:
-  issue-x-seablink-newsletter:
+  issue-1-2025-seablink:
     output: true
     order:
       - Editor's Note.md
