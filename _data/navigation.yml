@@ -5,9 +5,9 @@ links:
     sublinks:
       - title: PSLE
         url: /psle
-      - title: GCE N(T) Level
+      - title: GCE N(T)-Level
         url: /gce-nt-level/
-      - title: GCE N(A) Level
+      - title: GCE N(A)-Level
         url: /gce-na-level
       - title: GCE O-Level
         url: /gce-o-level/
@@ -24,7 +24,7 @@ links:
         url: /distributors-of-past-years-question-papers
       - title: Past Years' Results
         url: /statements-of-results
-      - title: Admission, placement exercises
+      - title: Admission, Placement Exercises
         url: /tests-for-admissions-placement-exercises/
       - title: 𝑖PSLE
         url: /ipsle
@@ -42,7 +42,7 @@ links:
   - title: About Us
     url: /what-we-do
     sublinks:
-      - title: What we do
+      - title: What We Do
         url: /what-we-do
       - title: Board Members
         url: /what-we-do#board-members
