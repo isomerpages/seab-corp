@@ -1,9 +1,116 @@
 ---
 title: What we do
 permalink: /what-we-do/
-variant: markdown
+variant: tiptap
 description: What we do
 ---
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Wong Siew Hoong</div>
+<div class="isomer-card-description">Chairman, Singapore Examinations and Assessment Board Advisor, Ministry
+of Education</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Tan Cheong Yian Bernard</div>
+<div class="isomer-card-description">Senior Vice-Provost (Undergraduate Education), National University of
+Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Juthika Ramanathan</div>
+<div class="isomer-card-description">Chief Executive, Office of the Chief Justice, Judiciary</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Board Members/Mr_Chin_Chi_Leong.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Chin Chi Leong</div>
+<div class="isomer-card-description">Deputy Chief Executive Officer (Building Control)/ Commissioner of Buildings,
+Building and Construction Authority (BCA)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/Ms_Loo_Siew_Yee.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Loo Siew Yee</div>
+<div class="isomer-card-description">Assistant Managing Director (Policy, Payments &amp; Financial Crime),
+Monetary Authority of Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/Ms_Lee_Cher_Farn.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lee Cher Farn</div>
+<div class="isomer-card-description">Assistant Chief Executive (Strategy &amp; Corporate Group) &amp; Institute
+Director, Institute of Public Sector Leadership at Civil Service College</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/Ms_Jodie_Choo_Teck_Woan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Jodie Choo Teck Woan</div>
+<div class="isomer-card-description">Executive Director &amp; Group Head of Human Resources, Information Technology
+&amp; Administration, Far East Organization</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/Mr_Sng_Chern_Wei.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Sng Chern Wei</div>
+<div class="isomer-card-description">Deputy Director-General of Education (Curriculum), Ministry of Education</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/Mr_Yue_Lip_Sin.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Yue Lip Sin</div>
+<div class="isomer-card-description">Chief Executive, Singapore Examinations and Assessment Board</div>
+</div>
+</div>
+</div>
 <p>The Singapore Examinations and Assessment Board (SEAB) was established
 on 1 April 2004 as a statutory board. Formerly the Examinations Division
 of the Ministry of Education, we were formed to develop and conduct national
@@ -41,7 +148,7 @@ outcomes. Together, each achieves more.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:100%; aspect-ratio:1.6/1; object-fit:cover;" alt="Mr Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,7 +160,7 @@ of Education</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:100%; aspect-ratio:1.6/1; object-fit:cover;" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -65,7 +172,7 @@ Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:100%; aspect-ratio:1.6/1; object-fit:cover;" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -274,4 +381,3 @@ Minister’s Office</div>
 <p>
 <br>
 </p>
-
