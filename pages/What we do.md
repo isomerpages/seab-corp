@@ -41,7 +41,7 @@ outcomes. Together, each achieves more.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong1.png">
+<img style="width:100%; aspect-ratio:1.6/1; object-fit:cover;" alt="Mr Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,7 +53,7 @@ of Education</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
+<img style="width:100%; aspect-ratio:1.6/1; object-fit:cover;" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -65,7 +65,7 @@ Singapore</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
+<img style="width:100%; aspect-ratio:1.6/1; object-fit:cover;" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
 </div>
 </div>
 <div class="isomer-card-body">
