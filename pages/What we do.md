@@ -31,9 +31,9 @@ one makes a unique contribution to our organisation.
 <br>We live by high standards of work and conduct. We learn continuously to
 improve our knowledge and skills.
 <br>
-<br><strong>Teamwork<br></strong>We combine our talents and effort for superior
+<br><a id="board-members"></a><strong>Teamwork<br></strong>We combine our talents and effort for superior
 outcomes. Together, each achieves more.</p>
-<a id="board-members"></a>
+
 <h3><strong>Board Members</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
