@@ -33,6 +33,7 @@ improve our knowledge and skills.
 <br>
 <br><strong>Teamwork<br></strong>We combine our talents and effort for superior
 outcomes. Together, each achieves more.</p>
+ <a id="board-members"></a>
 <h3><strong>Board Members</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -145,6 +146,7 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <details class="isomer-details">
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<a id="management-team"></a>
 <p></p>
 <p></p>
 <p><strong>Chief Executive</strong>
