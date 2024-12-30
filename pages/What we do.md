@@ -144,9 +144,9 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+	<a id="management-team"></a>
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<a id="management-team"></a>
 <p></p>
 <p></p>
 <p><strong>Chief Executive</strong>
