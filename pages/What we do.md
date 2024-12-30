@@ -33,7 +33,8 @@ improve our knowledge and skills.
 <br>
 <br><strong>Teamwork<br></strong>We combine our talents and effort for superior
 outcomes. Together, each achieves more.</p>
-<h3 id="board-members"><strong>Board Members</strong></h3>
+<div style="position: relative; top: -80px;" id="board-members"></div>
+<h3><strong>Board Members</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
