@@ -502,7 +502,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Biology #</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
