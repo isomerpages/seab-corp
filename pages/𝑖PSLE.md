@@ -114,9 +114,8 @@ to the Singapore PSLE.</p>
 <details class="isomer-details">
 <summary>REGISTRATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The 𝑖PSLE is currently offered at 17 appointed examination centres in
-8 countries (Cambodia, China, East Malaysia, Indonesia, Maldives, Myanmar,
-Thailand and Vietnam).</p>
+<p>The 𝑖PSLE is currently offered at 14 appointed examination centres in
+6 countries (China, Indonesia, Maldives, Myanmar, Thailand and Vietnam).</p>
 <p>Please see the table below for the minimum and maximum age for taking
 𝑖PSLE.</p>
 <table style="minWidth: 75px">
@@ -194,48 +193,6 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.scia.edu.kh/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore (Cambodia) International Academy</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cambodia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phnom Penh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Edward Tiu
-<br>+855 61450970</p>
-<p><a href="mailto:edward.tiu@scia.edu.kh" rel="noopener noreferrer nofollow" target="_blank"><u>edward.tiu@scia.edu.kh</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://wisc.edu.kh/" rel="noopener noreferrer nofollow" target="_blank"><u>World International School Cambodia</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cambodia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phnom Penh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bill Bahati
-<br>+855 966881702</p>
-<p><a href="mailto:billbahati672@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>billbahati672@gmail.com</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>Guangzhou SCA School</u></a>
 </p>
 </td>
@@ -246,38 +203,21 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>Guangzhou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Zhang</p>
-<p>+86 13922703951</p>
+<p>Mr Eric Zhang
+<br>+86 13922703951</p>
 <p><a href="mailto:zinan.zhang@scagz.com" rel="noopener noreferrer nofollow" target="_blank"><u>zinan.zhang@scagz.com</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.pai-ipsle.com/" rel="noopener noreferrer nofollow" target="_blank"><u>PAI 𝑖PSLE Centre (East Malaysia)</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Malaysia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sarawak, Sabah (Bordering Brunei)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Li Jiajun</p>
-<p>+65 63630330</p>
-<p><a href="mailto:admin@pai-ipsle.com" rel="noopener noreferrer nofollow" target="_blank"><u>admin@pai-ipsle.com</u></a>
+<p></p>
+<p>Mr Stanley Ho</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">stanley.ho@scagz.com</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://nh.piagetacademy.org/" rel="noopener noreferrer nofollow" target="_blank"><u>NationalHigh Jakarta School</u></a>
+<p><a href="http://nh.piagetacademy.org/" rel="noopener noreferrer nofollow" target="_blank"><u>National High Jakarta School</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,7 +235,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sna.sch.id/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore National Academy</u></a>
@@ -316,7 +256,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.sis-pik.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore School, Pantai Indah Kapuk</u></a>
@@ -337,7 +277,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://brightway.edu.mv/" rel="noopener noreferrer nofollow" target="_blank"><u>Brightway International School</u></a>
@@ -358,7 +298,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.mctamandalay.com/" rel="noopener noreferrer nofollow" target="_blank"><u>MCTA: RVi Academy Mandalay</u></a>
@@ -379,7 +319,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.sismyanmar.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School: RVi Academy Yangon</u></a>
@@ -400,7 +340,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.acsp.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Assumption Samutprakarn School</u></a>
@@ -421,7 +361,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.siamsingapore.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Siam Singapore International School: RVi Academy Bangkok</u></a>
@@ -446,7 +386,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://internationalschoolsinbangkok.com/singapore-international-school-of-bangkok/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School of Bangkok</u></a>
@@ -467,7 +407,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.tsis.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Thai-Singapore International School</u></a>
@@ -488,7 +428,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://danang.sis.edu.vn/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Da Nang</u></a>
@@ -509,7 +449,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Gamuda Gardens</u></a>
@@ -530,7 +470,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Saigon South</u></a>
