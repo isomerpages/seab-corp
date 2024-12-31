@@ -76,6 +76,51 @@ usage, etc.</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary>ASSISTANT MANAGER / MANAGER, HUMAN RESOURCE - 2 YEAR CONTRACT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>RESPONSIBILITIES</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant will be involved in various Human Resources (HR)
+functions, which include attracting and recruiting talent, manage staff
+development and travel matters, as well as provide support in staff engagement
+matters, to provide a positive employee experience for staff and enable
+them to contribute towards SEAB’s growth and goals. The key responsibilities
+include:
+<br>• Partner divisions in their resourcing requirements, and manage the end-to-end
+recruitment process.
+<br>• Involved in the talent attraction and retention strategies review.
+<br>• Oversee the administration of staff awards and claims.
+<br>• Manage the administration of staff development programmes, overseas
+travel requests, staff awards and claims.
+<br>• Provide support in the conduct of staff orientation programmes
+<br>• Provide support in any other staff engagement activities when assigned.</p>
+</li>
+</ul>
+<p>
+<br><strong>REQUIREMENTS</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>• At least 4 years of relevant experience in Human Resource, preferably
+in the public service.
+<br>• Good understanding of the Public Service’s HR policies and Employment
+Act.
+<br>• Familiarity with the Public Service Human Resource and Payroll (HRP)
+Portal would be advantageous
+<br>• Outgoing personality with an abilty to engage various levels of internal
+and external stakeholders comfortably.
+<br>• Possess strong analytical thinking and problem-solving skills.
+<br>• Possess high level of integrity and work ethics.
+<br>• Experience in data analysis and reporting will be an added advantage.</p>
+</li>
+</ul>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>
