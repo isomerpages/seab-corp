@@ -304,7 +304,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chemistry #+</p>
+<p>Chemistry #~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -338,7 +338,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] +</p>
+<p>Art [Revised] ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -804,7 +804,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>+ Syllabus document will be made available in January 2025.
+<p>~ Syllabus document will be made available in January 2025.
 <br>* Last year of exam in 2026.
 <br>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.
 <br># Last year of exam in 2025.
@@ -911,7 +911,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art #+</p>
+<p>Art #~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -925,7 +925,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music +</p>
+<p>Music ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -1001,7 +1001,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 </tbody>
 </table>
-<p>+ Syllabus document will be made available in January 2025.
+<p>~ Syllabus document will be made available in January 2025.
 <br># Last year of exam in 2025.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H3 Mathematics (9820) syllabus.</p>
