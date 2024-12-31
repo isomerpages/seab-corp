@@ -130,7 +130,7 @@ Act.</p>
 would be advantageous</p>
 </li>
 <li>
-<p>Outgoing personality with an abilty to engage various levels of internal
+<p>Outgoing personality with an ability to engage various levels of internal
 and external stakeholders comfortably.</p>
 </li>
 <li>
