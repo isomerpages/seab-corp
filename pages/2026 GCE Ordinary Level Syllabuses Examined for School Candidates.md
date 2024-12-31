@@ -552,7 +552,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art # [Revised]</p>
+<p>Art [Revised] #~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -566,7 +566,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Art # [Revised]</p>
+<p>Higher Art [Revised] #~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -644,6 +644,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
+<p>~ Syllabus document will be made available in January 2025.</p>
 <p>* Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br>+ These subjects are applicable only for candidates from schools approved
