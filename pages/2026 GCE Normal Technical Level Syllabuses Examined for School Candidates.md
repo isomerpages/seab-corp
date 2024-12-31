@@ -85,7 +85,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<em><a href="/files/NT Lvl Syllabus Sch Cddts/2025/6128_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a></em> [Revised]</p>
+<p>Art [Revised] ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -143,6 +143,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
+<p>~ Syllabus document will be made available in January 2025.</p>
 <p># Last year of exam in 2026.</p>
 <p></p>
 <p>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
