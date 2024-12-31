@@ -368,8 +368,8 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Syllabus document will be made available in January 2025.</p>
-<p>*Subject/Paper with e-Examination. Refer to <u>e-Exam Resources for School Candidates</u> for
+<p>~ Syllabus document will be made available in January 2025.
+<br>*Subject/Paper with e-Examination. Refer to <u>e-Exam Resources for School Candidates</u> for
 details.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
