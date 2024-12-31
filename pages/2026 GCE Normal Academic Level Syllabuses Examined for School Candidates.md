@@ -310,7 +310,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em><a href="/files/NA Level Syllabus Sch Cddts/2025/6125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;</em>[Revised]</p>
+<p>Art<em> </em>[Revised] ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -368,6 +368,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
+<p>~ Syllabus document will be made available in January 2025.</p>
 <p>*Subject/Paper with e-Examination. Refer to <u>e-Exam Resources for School Candidates</u> for
 details.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
