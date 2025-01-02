@@ -1,7 +1,7 @@
 ---
 title: 2026 GCE Ordinary Level Syllabuses Examined for School Candidates
 permalink: /gce-o-level/o-level-syllabuses-examined-for-school-candidates-2026/
-variant: markdown
+variant: tiptap
 description: O-Level Syllabuses Examined in 2026 for School Candidates
 ---
 <p>Here are the 2026 GCE O-Level examination syllabuses that are offered
@@ -100,7 +100,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2174_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> *</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2174_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -552,7 +552,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] #~</p>
+<p>Art [Revised] ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -566,7 +566,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Art [Revised] #~</p>
+<p>Higher Art [Revised] ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -645,7 +645,7 @@ from SEAB.</p>
 </tbody>
 </table>
 <p>~ Syllabus document will be made available in January 2025.
-<br>* Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
+<br>° Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br>+ These subjects are applicable only for candidates from schools approved
 to offer the subjects.</p>
@@ -739,7 +739,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a> +</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -843,7 +843,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1151_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay B</a> +</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1151_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay B</a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -887,7 +887,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1152_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> +</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1152_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
@@ -991,4 +991,4 @@ agencies.</p>
 </tr>
 </tbody>
 </table>
-<p>+ Mother Tongue B is not a GCE O-Level subject.</p>
+<p>△ Mother Tongue B is not a GCE O-Level subject.</p>
