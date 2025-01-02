@@ -116,7 +116,7 @@ or appeal for a change of course by 4.00pm on Thursday, 23 January 2020.</p>
 diploma courses via a two-year Higher Nitec course at ITE. Students are
 eligible to apply if they have obtained a raw ELMAB3 aggregate not exceeding
 19 points and met the subject-specific requirements for their chosen course.
-More information on the DPP can be found at <a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/" rel="noopener noreferrer nofollow" target="_blank">http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp/</a>.</p>
+More information on the DPP can be found at http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/dpp.</p>
 <p>20. Secondary 4 N(A) students who are newly eligible after taking into
 account their O-Level examination results should submit their DPP applications
 online via the DPP application portal at <a href="http://www.ite.edu.sg/apply-now/dpp/" rel="noopener noreferrer nofollow" target="_blank">http://www.ite.edu.sg/apply-now/dpp/</a>.The
