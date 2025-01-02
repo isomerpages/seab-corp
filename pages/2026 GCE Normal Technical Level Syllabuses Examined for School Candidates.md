@@ -1,7 +1,7 @@
 ---
 title: 2026 GCE Normal Technical Level Syllabuses Examined for School Candidates
 permalink: /gce-nt-level/nt-level-syllabuses-examined-for-school-candidates-2026/
-variant: markdown
+variant: tiptap
 description: N(T)-Level Syllabuses Examined in 2026 for School Candidates
 ---
 <p>Here are the 2026 GCE N(T)-Level examination syllabuses that are offered
@@ -99,7 +99,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7018_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a> #</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7018_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -144,7 +144,7 @@ from SEAB.</p>
 </tbody>
 </table>
 <p>~ Syllabus document will be made available in January 2025.
-<br># Last year of exam in 2026.
+<br>* Last year of exam in 2026.
 <br>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
 if NTIL is included. The list of NTILs can be found under the <a href="/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>2025 GCE N(A)-Level syllabuses</u></a> for
 school candidates.</p>
