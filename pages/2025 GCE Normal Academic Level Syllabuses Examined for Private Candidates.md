@@ -129,7 +129,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Geography)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Geography)</u></a>
 <br>
 </p>
 </td>
@@ -149,10 +149,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, History)</u></a>
-<a href="/files/NA Lvl Syllabus Private Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, History)</u> <br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,8 +166,10 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Literature in English)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Literature in English)</u></a>
+<a href="/files/NA Lvl Syllabus Private Cddts/2026/2127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">
 <br>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
