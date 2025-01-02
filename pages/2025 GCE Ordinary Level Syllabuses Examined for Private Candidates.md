@@ -113,7 +113,7 @@ follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.seab.gov.sg/pages/e-Oral-Examination-Guide-for-Candidate/story_html5.html" rel="noopener noreferrer nofollow" target="_blank"><u>Online Tutorial</u></a> for
+<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank"><u>Online Tutorial</u></a> for
 Mother Tongue Language and Higher Mother Tongue Language e-Oral examination
 to understand the revised examination format.</p>
 <h4><strong>Cambridge Subjects</strong></h4>
