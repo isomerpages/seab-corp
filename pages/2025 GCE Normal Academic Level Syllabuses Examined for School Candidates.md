@@ -70,7 +70,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Geography)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°,<u> Geography)</u></a>
 <br>
 </p>
 </td>
@@ -90,7 +90,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, History)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2126_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, History)</u></a>
 <br>
 </p>
 </td>
@@ -109,7 +109,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Literature in English)</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Literature in English)</u></a>
 <br>
 </p>
 </td>
@@ -403,7 +403,7 @@ from SEAB.</p>
 <p># Last year of exam in 2025.</p>
 <p><sup>^</sup> Change is to response format for Paper 2. The new response
 format requires candidates to write their answers on the question paper.</p>
-<p>* Subject/Paper with e-Examination. Refer to ‘e-Exam Resources for School
+<p>° Subject/Paper with e-Examination. Refer to ‘e-Exam Resources for School
 Candidates’ for details.</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
