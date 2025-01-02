@@ -114,7 +114,7 @@ from SEAB.</p>
 <p>Paper 1
 <br>Paper 2 | Insert
 <br>Paper 3
-<br>[2025]</p>
+<br>[2025]~</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ from SEAB.</p>
 <p>Paper 1
 <br>Paper 2 | Insert
 <br>Paper 3
-<br>[2025]</p>
+<br>[2025]~</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ from SEAB.</p>
 <p>Paper 1
 <br>Paper 2 | Insert
 <br>Paper 3
-<br>[2025]</p>
+<br>[2025]~</p>
 </td>
 </tr>
 <tr>
@@ -514,7 +514,7 @@ from SEAB.</p>
 <p>Paper 1
 <br>Paper 2 | Insert
 <br>Paper 3
-<br>[2025]</p>
+<br>[2025]~</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ from SEAB.</p>
 <p>Paper 1
 <br>Paper 2 | Insert
 <br>Paper 3
-<br>[2025]</p>
+<br>[2025]~</p>
 </td>
 </tr>
 <tr>
@@ -649,7 +649,7 @@ from SEAB.</p>
 <p>Paper 1
 <br>Paper 2 | Insert
 <br>Paper 3
-<br>[2025]</p>
+<br>[2025]~</p>
 </td>
 </tr>
 <tr>
@@ -669,7 +669,7 @@ from SEAB.</p>
 <p>Paper 1
 <br>Paper 2 | Insert
 <br>Paper 3
-<br>[2025]</p>
+<br>[2025]~</p>
 </td>
 </tr>
 <tr>
@@ -804,7 +804,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Syllabus document will be made available in January 2025.
+<p>~ Syllabus document(s) will be made available in January 2025.
 <br>* Last year of exam in 2026.
 <br>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.
 <br># Last year of exam in 2025.
