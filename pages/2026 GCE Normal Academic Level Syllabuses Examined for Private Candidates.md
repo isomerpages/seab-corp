@@ -369,7 +369,7 @@ format.</p>
 </tr>
 </tbody>
 </table>
-<p>° Subject/Paper with e-Examination. Refer to <u>e-Exam Resources for Private Candidates</u> for
+<p>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.<strong>&nbsp;</strong>
 </p>
 <h4><strong>Local Subjects</strong></h4>
