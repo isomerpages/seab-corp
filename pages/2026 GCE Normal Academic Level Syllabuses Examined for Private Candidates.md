@@ -129,7 +129,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2125_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Geography)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2125_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Geography)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +144,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2126_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, History)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2126_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, History)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,7 +159,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies*, Literature in English)</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Literature in English)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2195_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History*</u></a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/2195_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u>°</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,7 +369,7 @@ format.</p>
 </tr>
 </tbody>
 </table>
-<p>*Subject/Paper with e-Examination. Refer to <u>e-Exam Resources for Private Candidates</u> for
+<p>° Subject/Paper with e-Examination. Refer to <u>e-Exam Resources for Private Candidates</u> for
 details.<strong>&nbsp;</strong>
 </p>
 <h4><strong>Local Subjects</strong></h4>
