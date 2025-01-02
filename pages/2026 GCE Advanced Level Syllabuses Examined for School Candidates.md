@@ -119,7 +119,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8841_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;^</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8841_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a>&nbsp;°</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -231,7 +231,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8838_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> ^</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8838_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -391,7 +391,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9174_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> ^</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9174_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>History</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -425,7 +425,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9539_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a> ^</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9539_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -555,7 +555,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9628_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> ^</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9628_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -808,7 +808,7 @@ from SEAB.</p>
 <br>* Last year of exam in 2026.
 <br>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.
 <br># Last year of exam in 2025.
-<br>^ Subject with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
+<br>° Subject with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
