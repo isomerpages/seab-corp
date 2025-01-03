@@ -644,7 +644,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Syllabus document will be made available in January 2025.
+<p>~ Document(s) will be made available in January 2025.
 <br>° Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br>+ These subjects are applicable only for candidates from schools approved
