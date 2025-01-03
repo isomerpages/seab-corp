@@ -401,8 +401,8 @@ from SEAB.</p>
 </table>
 <p></p>
 <p><sup>^</sup> Change is to response format for Paper 2. The new response
-format requires candidates to write their answers on the question paper.</p>
-<p>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
+format requires candidates to write their answers on the question paper.
+<br>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
