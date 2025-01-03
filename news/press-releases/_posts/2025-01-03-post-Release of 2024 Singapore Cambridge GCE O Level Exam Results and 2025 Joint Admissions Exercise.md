@@ -55,10 +55,11 @@ O-Level examination results.</p>
 <p></p>
 </li>
 <li>
-<p>Eligible school and private candidates will receive a digital copy of <u>Form A</u><sup>1</sup> via
-their registered email addresses from 3pm on Friday, 10 January 2025. All
-candidates eligible for JAE may also download a copy of Form A from the
-JAE-Internet System (JAE-IS) during the application period.</p>
+<p>Eligible school and private candidates will receive a digital copy of
+Form A<sup>1</sup> via their registered email addresses from 3pm on Friday,
+10 January 2025. All candidates eligible for JAE may also download a copy
+of Form A from the JAE-Internet System (JAE-IS) during the application
+period.</p>
 <p></p>
 </li>
 <li>
@@ -136,7 +137,7 @@ course through the Polytechnic Early Admissions Exercise<sup>3</sup> (EAE)
 in 2024, their offers would have been confirmed and they will not be eligible
 to participate in the JAE, if they meet the following criteri:
 <br>a. A net ELR2B2 score<sup>4</sup> of 26 points<sup>5 </sup>or lower for
-the GCE O-Level examinations; <u>and</u>
+the GCE O-Level examinations; and
 <br>b. Minimum Entry Requirements for the respective polytechnic courses.
 <br>
 </p>
@@ -186,10 +187,10 @@ requirements for their chosen course.</p>
 <p></p>
 </li>
 <li>
-<p>PFP-eligible students will receive a copy of <u>Form&nbsp;P</u> from their
-respective secondary schools in person. Each copy of Form P contains a
-unique password. Interested students should use their respective passwords
-to submit their applications online via the PFP website at <a href="pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>.
+<p>PFP-eligible students will receive a copy of Form&nbsp;P from their respective
+secondary schools in person. Each copy of Form P contains a unique password.
+Interested students should use their respective passwords to submit their
+applications online via the PFP website at <a href="pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>.
 More information on the eligibility requirements for the PFP, as well as
 how GCE O-Level results are considered in the computation of the ELMAB3
 aggregate, can be found on the PFP website indicated above.</p>
@@ -297,7 +298,7 @@ of 28 points or lower. Applicants may combine results from no more than
 <p><sup>6 </sup>More details on the ITE EAE can be found at <a rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</a>
 </p>
 <p><sup>7</sup> The raw ELMAB3 aggregate comprises English Language, Mathematics,
-and three other best subjects (including one relevant subject) and <u>excludes</u> CCA.
-CCA bonus points are taken into account during posting.</p>
+and three other best subjects (including one relevant subject) and excludes
+CCA. CCA bonus points are taken into account during posting.</p>
 <p><sup>8 </sup>More information on the DPP and eligibility requirements
 can be found at <a rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</a>.</p>
