@@ -648,7 +648,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u>&nbsp;</a>[Updated]
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a> [Updated]
 ^</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -666,7 +666,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u>&nbsp;</a>[Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -783,7 +783,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B&nbsp;+</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a> △
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -903,7 +903,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B&nbsp;+</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a> △
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -955,7 +955,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u> +</a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> △
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1065,7 +1065,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6081_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science </u></a><u>[Revised]</u>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6081_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science</u></a> [Revised]
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1080,4 +1080,4 @@ agencies.</p>
 </tr>
 </tbody>
 </table>
-<p>+ Mother Tongue B is not a GCE O-Level subject.</p>
+<p>△ Mother Tongue B is not a GCE O-Level subject.</p>
