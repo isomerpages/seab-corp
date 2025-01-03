@@ -804,7 +804,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Syllabus document(s) will be made available in January 2025.
+<p>~ Document(s) will be made available in January 2025.
 <br>* Last year of exam in 2026.
 <br>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.
 <br># Last year of exam in 2025.
