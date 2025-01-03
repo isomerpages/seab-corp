@@ -25,10 +25,10 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Examination Calendar 2024</p>
+<p>Examination Calendar 2025 (Tentative)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/2024-psle-exam-timetable.pdf?sfvrsn=5ef9c2bc_2" rel="noopener noreferrer nofollow" target="_blank"><u>Calendar</u></a>
+<p><a href="https://go.gov.sg/2025-psle-exam-timetable" rel="noopener nofollow" target="_blank">Calendar</a>
 </p>
 </td>
 </tr>
@@ -42,10 +42,10 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date of 2024 Result Release^</p>
+<p>Date of 2024 Results Release^</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 20 November – Fri, 22 November 2024</p>
+<p>Wed, 20 November 2024</p>
 </td>
 </tr>
 </tbody>
@@ -87,23 +87,20 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Examination Timetable 2024</strong>
+<p><strong>Examination Timetable 2025 (Tentative)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/examination-timetable/gce-n-level-exam-timetable-for-publication-as-at-24-may.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+<p><a href="https://go.gov.sg/2025-gce-na-nt-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
-<p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://t797-p242-blue-admin.prd.cwp2.sg/docs/default-source/examination-timetable/gce-o-level-exam-timetable-as-at-24-may-2024-for-publication.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+<p><a href="https://go.gov.sg/2025-gce-o-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
-<p>(Updated as at 24 May 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/docs/default-source/examination-timetable/gce-a-level-timetable-26-april-2024-for-publication.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Timetable</u></a>
+<p><a href="https://go.gov.sg/2025-gce-a-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
-<p>(Updated as at 26 April 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -115,7 +112,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>2 September 2024</p>
+<p>1 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -123,11 +120,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Issue of Entry Proof<br>(Mid-Year Examination)*</strong>
+<p><strong>Issue of Mid-Year Examination Entry Proof*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>16 May 2024</p>
+<p>23 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -135,7 +132,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Issue of Entry Proof<br>(Science Practical Examination)*</strong>
+<p><strong>Issue of Science Practical Examination Schedule*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,11 +147,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Issue of Entry Proof<br>(Year-End Examination)*</strong>
+<p><strong>Issue of Year-End Examination Entry Proof*</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>24 June 2024</p>
+<p>1 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -162,11 +159,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2024 Result Release^</strong>
+<p><strong>Date of 2024 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16&nbsp;– 18 December 2024</p>
+<p>16&nbsp;December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 – 14 January 2025</p>
@@ -175,22 +172,26 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <p>21&nbsp;– 25 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 – 26 August 2024</p>
+<p>22 August 2024</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>*<a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>Contact SEAB</u></a>&nbsp;if
-you have not received your Entry Proofs by the following dates:
-<br><strong>Mid-Year examination</strong> - 21 May 2024
-<br><strong>Science Practical examination</strong> - 7 days before the examination
-date
-<br><strong>Year-End examination</strong> - 27 June 2024
+you have not received the following by the dates indicated:
+<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 26
+May 2025
+<br><strong>Science Practical Examination</strong>  <strong>Schedule </strong>-
+7 days before the examination date
+<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 2 July
+2025
 <br>
-<br>^The actual date of the results release can only be confirmed when all
-processes have been completed. Once the date has been confirmed, it would
-be announced through the media.</p>
+<br>
+</p>
 </div>
 </details>
 </div>
 <p></p>
+<p>^The actual date of the results release can only be confirmed when all
+processes have been completed. Once the date has been confirmed, it would
+be announced through the media.</p>

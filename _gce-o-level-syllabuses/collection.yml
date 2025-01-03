@@ -1,8 +1,0 @@
-collections:
-  gce-o-level-syllabuses:
-    output: true
-    order:
-      - O Level Syllabuses Examined in 2024 for Private Candidates.md
-      - O Level Syllabuses Examined in 2025 for Private Candidates.md
-      - O Level Syllabuses Examined in 2024 for School Candidates.md
-      - O Level Syllabuses Examined in 2025 for School Candidates.md

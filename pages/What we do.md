@@ -1,7 +1,7 @@
 ---
 title: What we do
-permalink: /home/about-us/what-we-do/
-variant: tiptap
+permalink: /what-we-do/
+variant: markdown
 description: What we do
 ---
 <p>The Singapore Examinations and Assessment Board (SEAB) was established
@@ -31,125 +31,124 @@ one makes a unique contribution to our organisation.
 <br>We live by high standards of work and conduct. We learn continuously to
 improve our knowledge and skills.
 <br>
-<br><strong>Teamwork<br></strong>We combine our talents and effort for superior
-outcomes. Together, each achieves more.</p>
+    <a id="board-members"></a>
+    </p><p><strong>Teamwork<br></strong>We combine our talents and effort for superior
+    outcomes. Together, each achieves more.</p>
+
+<h3><strong>Board Members</strong></h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Wong Siew Hoong</div>
+<div class="isomer-card-description">Chairman, Singapore Examinations and Assessment Board Advisor, Ministry
+of Education</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Tan Cheong Yian Bernard</div>
+<div class="isomer-card-description">Senior Vice-Provost (Undergraduate Education), National University of
+Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Juthika Ramanathan</div>
+<div class="isomer-card-description">Chief Executive, Office of the Chief Justice, Judiciary</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Board Members/Mr_Chin_Chi_Leong.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Chin Chi Leong</div>
+<div class="isomer-card-description">Deputy Chief Executive Officer (Building Control)/ Commissioner of Buildings,
+Building and Construction Authority (BCA)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/Ms_Loo_Siew_Yee.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Loo Siew Yee</div>
+<div class="isomer-card-description">Assistant Managing Director (Policy, Payments &amp; Financial Crime),
+Monetary Authority of Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/Ms_Lee_Cher_Farn.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lee Cher Farn</div>
+<div class="isomer-card-description">Assistant Chief Executive (Strategy &amp; Corporate Group) &amp; Institute
+Director, Institute of Public Sector Leadership at Civil Service College</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/Ms_Jodie_Choo_Teck_Woan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Jodie Choo Teck Woan</div>
+<div class="isomer-card-description">Executive Director &amp; Group Head of Human Resources, Information Technology
+&amp; Administration, Far East Organization</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/Mr_Sng_Chern_Wei.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Sng Chern Wei</div>
+<div class="isomer-card-description">Deputy Director-General of Education (Curriculum), Ministry of Education</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/Mr_Yue_Lip_Sin.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Yue Lip Sin</div>
+<div class="isomer-card-description">Chief Executive, Singapore Examinations and Assessment Board</div>
+</div>
+</div>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Board Members</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Wong Siew Hoong" src="/images/Board Members/Wong_Siew_Hoong.png">
-</div>
-<p><strong>Mr Wong Siew Hoong Chairman, Singapore Examinations and Assessment Board</strong> 
-<br>Advisor, Ministry of Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Tan Cheng Yian Bernard" src="/images/Board Members/Tan_Cheng_Yian_Bernard.png">
-</div>
-<p><strong>Prof Tan Cheng Yian Bernard</strong> 
-<br>Senior Vice-Provost
-<br>(Undergraduate Education), National University of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="Juthika Ramanathan" src="/images/Board Members/Juthika_Ramanathan.png">
-</div>
-<p><strong>Ms Juthika Ramanathan</strong> 
-<br>Chief Executive, Office of the Chief Justice, Judiciary</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Chin Chi Leong" src="/images/Board Members/Chin_Chi_Leong.png">
-</div>
-<p><strong>Mr Chin Chi Leong</strong> 
-<br>Deputy Chief Executive Officer</p>
-<p>(Building Control)/Comissioner of Buildings, Building and Construction
-Authority (BCA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/ms_loo_siew_yeeeb7ac05f76ae4667a4e6f3dd59f784c2.jpg">
-</div>
-<p><strong>Ms Loo Siew Yee</strong> 
-<br>Assistant Managing Director (Policy, Payments &amp; Financial Crime),
-Monetary Authority of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="Ms Lee Cher Farn" src="/images/Board Members/ms_lee_cher_farn84a8441a532a490db08e9a48f2864175.jpg">
-</div>
-<p><strong>Ms Lee Cher Farn </strong>
-<br>Principal Private Secretary to Deputy Prime Minister Heng Swee Keat, Prime
-Minister's Office</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 67%;" height="auto" width="100%" alt="Ms Jodie Choo Teck Woan" src="/images/Board Members/ms_jodie_choo_teck_woan896da1044298417a8c73082e8d6fd2d1.jpg">
-</div>
-<p><strong>Ms Jodie Choo Teck Woan </strong>
-<br>Executive Director &amp; Group Head of Human Resources, Information Technology
-&amp; Administration, Far East Organisation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="Mr Sng Chern Wei" src="/images/Board Members/mr_sng_chern_wei48f54b2b325644a8820156edc5d0c231.jpg">
-</div>
-<p><strong>Mr Sng Chern Wei </strong>
-<br>Deputy Director-General of Education (Curriculum), Ministry of Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/mr_yue_lip_sin.jpg">
-</div>
-<p><strong>Mr Yue Lip Sin <br></strong>Chief Executive, Singapore Examinations
-and Assessment Board</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
+	<a id="management-team"></a>
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p></p>
 <p><strong>Chief Executive</strong>
 </p>
@@ -172,7 +171,7 @@ and Assessment Board</p>
 <br>Director, Assessment Planning and Development</p>
 </li>
 <li>
-<p>Ms Karen Chong Kwei Kuen
+<p>Ms Joys Ng
 <br>Deputy Director, Assessment Planning and Development</p>
 </li>
 <li>
@@ -180,8 +179,8 @@ and Assessment Board</p>
 <br>Deputy Director, Assessment Planning and Development</p>
 </li>
 <li>
-<p>Mr Yan Yee Kan
-<br>Deputy DIrector, Assessment Planning and Development</p>
+<p>Mr Tan Yee Kan
+<br>Deputy Director, Assessment Planning and Development</p>
 </li>
 </ul>
 <p></p>
@@ -206,7 +205,7 @@ and Assessment Board</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Thong May Teng
+<p>Mr Kelvin Lim Hock Seong
 <br>Director, Research and Development</p>
 </li>
 <li>
@@ -223,21 +222,8 @@ and Assessment Board</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Yeo Su-Lin Selena
+<p>Ms Selena Yeo Su-Lin
 <br>Senior Director, Corporate Cluster</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Corporate Services Division</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Leow Yin Li Grace
-<br>Assistant Director, Human Resource and Organisation Capability</p>
-</li>
-<li>
-<p>Ms Seng Yuwei, Stacy
-<br>Assistant Director, Office and Estate Management</p>
 </li>
 </ul>
 <p></p>
@@ -251,18 +237,14 @@ and Assessment Board</p>
 <li>
 <p>Mr Lee Kien Meng
 <br>Assistant Director, Finance and Procurement</p>
-</li>
-<li>
-<p>Ms Teng Mei Ling Adeline
-<br>Senior Assessment Specialist, Assessment Services</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Information Technology</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Woon Tien Kim Louis
+<p>Mr Louis Woon Tien Kim
 <br>Senior Assistant Director, Information Technology</p>
 </li>
 </ul>
@@ -271,13 +253,20 @@ and Assessment Board</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Wong Hui Woon Irene
+<p>Ms Irene Wong Hui Woon
 <br>Senior Assistant Director, Corporate Communications</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Human Resource and Organisation Capability</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Grace Leow Yin Li
+<br>Assistant Director, Human Resource and Organisation Capability</p>
 </li>
 </ul>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
+<p></p>

@@ -1,8 +1,0 @@
-collections:
-  gce-na-level-syllabuses:
-    output: true
-    order:
-      - N(A) Level Syllabuses Examined in 2024 for Private Candidates.md
-      - N(A) Level Syllabuses Examined in 2025 for Private Candidates.md
-      - N(A) Level Syllabuses Examined in 2024 for School Candidates.md
-      - N(A) Level Syllabuses Examined in 2025 for School Candidates.md

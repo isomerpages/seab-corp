@@ -1,6 +1,0 @@
-collections:
-  covid-19-updates:
-    output: true
-    order:
-      - GCE Precautionary Measures.md
-      - PSLE Precautionary Measures.md

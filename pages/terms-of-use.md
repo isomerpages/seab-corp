@@ -14,7 +14,7 @@ Thank you for visiting this Website. By accessing and using this Website, you sh
 2. The materials located on this Web Site including the information and Software Programs (the Contents) are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Content are owned by, licensed to or controlled by SEAB.
 
 #### **Privacy Policy**
-1. Click to view this Web Site Privacy Statement.
+1. Click to view this [Web Site Privacy Statement](/privacy/).
 
 #### **Restriction on use of Materials**
 1. Except the otherwise provided, the Contents of this Web Site shall not be reproduced, published, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of SEAB.

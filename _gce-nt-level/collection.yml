@@ -1,7 +1,0 @@
-collections:
-  gce-nt-level:
-    output: true
-    order:
-      - GCE N(T) Level for School Candidates.md
-      - GCE N(T) Level for Private Candidates.md
-      - About GCE N(T) Level.md

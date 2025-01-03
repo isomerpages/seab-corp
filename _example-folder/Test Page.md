@@ -1,7 +1,7 @@
 ---
 title: Test Page
 permalink: /example-folder/testpage/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>This is a <em>test</em> page to <em><u>test</u></em> formatting.</p>
@@ -40,5 +40,13 @@ description: ""
 <p>Bullet 2</p>
 </li>
 </ul>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>test</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>hello</p>
+</div>
+</details>
+</div>
+<p>test</p>
 <p></p>

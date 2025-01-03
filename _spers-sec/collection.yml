@@ -1,9 +1,0 @@
-collections:
-  spers-sec:
-    output: true
-    order:
-      - About SPERS Sec.md
-      - Application Procedures.md
-      - Test Details.md
-      - School Selections and Postings.md
-      - Key Activities and Milestones.md

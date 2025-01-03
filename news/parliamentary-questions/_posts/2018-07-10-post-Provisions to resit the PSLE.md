@@ -25,7 +25,7 @@ allow us to assess the students’ attainment levels.</p>
 <p></p>
 </li>
 <li>
-<p>Candidates who are absent from a subject at the PSLE with&nbsp; valid&nbsp;reason(s)
+<p>Candidates who are absent from a subject at the PSLE with&nbsp;valid&nbsp;reason(s)
 will be given a projected T-score for the subject. The projected T-score
 takes into consideration the candidate's performance in that subject in
 school, his/her peers' performance in the subject in school and national
@@ -36,6 +36,7 @@ examinations.</p>
 <p>If the candidate is absent for the entire PSLE, a PSLE aggregate score
 would similarly be projected for the candidate using the same approach.&nbsp;
 He/she will not be required to resit the PSLE.</p>
+<p></p>
 </li>
 </ol>
 <p></p>

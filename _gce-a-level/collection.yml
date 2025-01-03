@@ -1,7 +1,0 @@
-collections:
-  gce-a-level:
-    output: true
-    order:
-      - About GCE A Level.md
-      - GCE A Level for School Candidates.md
-      - GCE A Level for Private Candidates.md

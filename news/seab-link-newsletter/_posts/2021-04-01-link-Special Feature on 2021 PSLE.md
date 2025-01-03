@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://go.gov.sg/special-feature-on-2021-psle
+external: https://go.gov.sg/special-feature-on-psle-2021
 ---

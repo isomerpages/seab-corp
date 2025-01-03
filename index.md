@@ -4,14 +4,11 @@ title: SEAB - Singapore Examinations and Assessment Board
 description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
-notification: SEAB Website is scheduled for maintenance from 2 March 2024
-  (Saturday) 10pm to 3 March 2024 (Sunday) 6am. Access to  the website will be
-  intermittently affected during this period. We apologise for the inconvenience
-  caused.
+notification: ""
 sections:
   - hero:
-      background: /images/HomePage/seab_building_new3.png
-      variant: center
+      background: /images/HomePage/FINAL_collage_approved.jpg
+      variant: image
       title: Singapore Examinations and Assessment Board
       subtitle: Your Trusted Authority in Examinations and Assessments
       backgroundColor: gray
@@ -24,74 +21,66 @@ sections:
         - title: GCE N(T)/N(A)
           description: ""
           url: /gce-n-t-or-gce-n-a/
-        - title: O-Level
+        - title: GCE O
           description: ""
           url: /gce-o-level
-        - title: A-Level
+        - title: GCE A
           description: ""
           url: /gce-a-level
-  - textcards:
-      title: 👥 Personas
-      id: textcards
-      cards:
-        - title: 👨🏻‍🎓 School Candidates
-          description: ""
-          linktext: ""
-          url: /school-candidates/
-        - title: 🙋🏻‍♀️ Private Candidates
-          description: ""
-          linktext: ""
-          url: /private-candidates/
-        - title: 👨🏻‍🏫 Teachers
-          description: ""
-          linktext: ""
-          url: /teachers/
   - textcards:
       title: 🔗 Quicklinks
       id: textcards
       cards:
+        - title: 📄 Past Years' Results
+          description: ""
+          linktext: ""
+          url: /statements-of-results
         - title: 🖥️ Candidates Portal
           description: ""
           linktext: ""
           url: https://myexams.seab.gov.sg/auth/login
-        - title: 📅 Important Dates
-          description: ""
-          linktext: ""
-          url: /important-dates-for-candidates
         - title: ➗ Approved Calculators
           description: ""
           linktext: ""
-          url: https://go.gov.sg/approved-calculators
+          url: https://go.gov.sg/seab-approvedcalculators
         - title: 📚 Approved Dictionaries
           description: ""
           linktext: ""
-          url: https://go.gov.sg/list-of-dictionaries-for-examination
+          url: https://go.gov.sg/seab-approveddictionaries
   - infopic:
-      title: 2024 Assessment Seminar
+      title: Important Dates
       id: infopic
-      description: "Assessment in the 21st Century: Nurturing Future-Ready Learners."
-      button: VIEW PROGRAMME DETAILS
+      description: Check out the key dates for candidates, such as issuance of entry
+        proofs, results release dates.
+      button: VIEW DETAILS
+      alt: important-dates
+      url: /important-dates-for-candidates/
+      image: /images/HomePage/important_dates.png
+  - infopic:
+      title: Year-End GCE Level Results Release Exercise
+      id: infopic
+      description: Find information on the release of results for school and private
+        candidates.
+      button: VIEW DETAILS
+      alt: results release
+      url: /year-end-gce-level-results-release-exercises/
+      image: /images/press_release_image.jpg
+  - infopic:
+      title: 2025 Private Candidate Registration Exercise
+      id: infopic
+      description: Find out more about the registration for 2025 GCE-Level examinations.
+      button: VIEW DETAILS
+      alt: registration
+      image: /images/HomePage/registration.png
+      url: /updatesforprivatecandidates/
+  - infopic:
+      title: 2025 SEAB Assessment Symposium For Primary School Educators
+      id: infopic
+      button: VIEW DETAILS
+      url: /2025-seab-assessment-symposium-for-primary-school-educators/
+      image: /images/Services/Training and
+        Consultancy/2025_SEAB_Assessment_Symposium_for_Primary_School_Educators_cropped.png
       alt: Image alt text
-      url: /services/2024-assessment-seminar
-      image: /images/assessment_seminar_image2.png
-  - infopic:
-      title: SEAB-link Newsletter
-      id: infopic
-      description: Featuring the digital initiatives of SEAB.
-      button: VIEW ALL
-      alt: seab-link_img
-      image: /images/seab_link_img.png
-      url: /news/seab-link-newsletter/
-  - infopic:
-      title: Career Opportunities
-      id: infopic
-      description: We are looking for team players who enjoy working in a dynamic and
-        creative work environment. Join our team for a rewarding and challenging
-        career.
-      button: View all
-      alt: career_opportunities
-      url: /about-us/careers/
-      image: /images/careers.jpg
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
@@ -103,5 +92,5 @@ sections:
       description: Try using our site-wide search or Frequently Asked Questions (FAQs)
         to find answers to your queries.
       button: 🔎 View FAQ
-      url: /faq
+      url: https://ask.gov.sg/seab
 ---

@@ -1,7 +1,0 @@
-collections:
-  o-level:
-    output: true
-    order:
-      - GCE O Level for Private Candidates.md
-      - GCE O Level for School Candidates.md
-      - About GCE O Level.md
