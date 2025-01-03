@@ -211,22 +211,23 @@ or appeal for a change of course by 4pm on Monday, 27 January 2025.</p>
 <p>The DPP<sup>8 </sup>prepares students for progression into selected polytechnic
 diploma courses via a two-year <em>Higher Nitec </em>course at ITE. Students
 are eligible to apply if they obtain a raw ELMAB3 aggregate of 19 points
-or lower and meet the subject-specific requirements for their chosen course.</p>
-<p></p>
+or lower and meet the subject-specific requirements for their chosen course.
+<br>
+</p>
 </li>
 <li>
 <p>Eligible Secondary 4 N(A) students may submit their DPP applications online
 via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.
 Applications for the DPP will open from 12am on Friday, 10 January 2025,
-to 11.59pm on Tuesday, 14 January 2025.</p>
-<p></p>
+to 11.59pm on Tuesday, 14 January 2025.
+<br>
+</p>
 </li>
 <li>
 <p>The DPP posting results for applications made under the final application
 phase will be released at 9am on Wednesday, 17 January 2025 through the
 DPP application portal. Students will be required to indicate whether they
 accept or reject the DPP offer by 11.59pm on Tuesday, 21 January 2025.</p>
-<p></p>
 </li>
 </ol>
 <p><u>For successful DPP and/or PFP applicants</u>
