@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Advanced Level Syllabuses Examined for School Candidates
 permalink: /gce-a-level/a-level-syllabuses-examined-for-school-candidates-2025/
-variant: markdown
+variant: tiptap
 description: 2025 GCE Advanced Level Syllabuses Examined for School Candidates
 ---
 <p>Here are the 2025 GCE A-Level examination syllabuses that are offered
@@ -596,7 +596,7 @@ from SEAB.</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English °</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
