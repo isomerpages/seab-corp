@@ -1,7 +1,7 @@
 ---
 title: 2026 GCE Advanced Level Syllabuses Examined for School Candidates
 permalink: /gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/
-variant: markdown
+variant: tiptap
 description: 2026 GCE Advanced Level Syllabuses Examined for School Candidates
 ---
 <p>Here are the 2026 GCE A-Level examination syllabuses that are offered
@@ -779,7 +779,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9750_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9750_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;[Revised]
+*+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -874,7 +875,9 @@ from SEAB.</p>
 </tbody>
 </table>
 <p>~ Document(s) will be made available in January 2025.
-<br>* Last year of exam in 2026.
+<br>* Last year of exam in 2026.</p>
+<p>+ These subjects are applicable only for candidates from schools approved
+to offer the subjects.
 <br>° Subject with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
@@ -985,7 +988,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art ~</p>
+<p>Art [Revised] ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
