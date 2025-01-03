@@ -601,8 +601,8 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>&nbsp;[Updated]
-^</p>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>
+	<br>[Updated]^</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
