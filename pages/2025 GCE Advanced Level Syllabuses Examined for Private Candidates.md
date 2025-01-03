@@ -103,7 +103,7 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener nofollow" target="_blank">Interactive guide</a> for
+<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
 Mother Tongue Language e-Oral examination and <a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</a> to
 understand the revised examination format.</p>
 <h4><strong>Subjects Examined at A- and AO-Levels</strong></h4>
@@ -651,8 +651,9 @@ understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2025/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br><br></u>
-</a>Software required:
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
+</a>[Revised]<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a>Software
+required:
 <br>• Python IDLE 3.6.4
 <br>• Flask 0.12.2
 <br>• PyMongo 3.6.0
@@ -731,8 +732,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -850,6 +850,8 @@ understand the revised examination format.</p>
 </tbody>
 </table>
 <p># Last year of exam in 2025</p>
+<p>° Subject with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
+details.</p>
 <p><a href="/files/A Level Syllabus Private Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
