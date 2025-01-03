@@ -206,65 +206,80 @@ or appeal for a change of course by 4pm on Monday, 27 January 2025.</p>
 </ol>
 <p><u>Direct-Entry-Scheme to Polytechnic Programme (DPP)</u>
 </p>
-<p>&nbsp;</p>
-<p>21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DPP<a href="#_ftn8" rel="noopener noreferrer nofollow" target="_blank">[8]</a> prepares students
-for progression into selected polytechnic diploma courses via a two-year <em>Higher Nitec </em>course
-at ITE. Students are eligible to apply if they obtain a raw ELMAB3 aggregate
-of 19 points or lower and meet the subject-specific requirements for their
-chosen course.</p>
-<p>&nbsp;</p>
-<p>22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eligible Secondary 4 N(A)
-students may submit their DPP applications online via the DPP application
-portal <a rel="noopener noreferrer nofollow" target="_blank">at www.ite.edu.sg/apply-for-ite-courses</a>.
+<ol start="21" data-tight="true" class="tight">
+<li>
+<p>The DPP<sup>8 </sup>prepares students for progression into selected polytechnic
+diploma courses via a two-year <em>Higher Nitec </em>course at ITE. Students
+are eligible to apply if they obtain a raw ELMAB3 aggregate of 19 points
+or lower and meet the subject-specific requirements for their chosen course.</p>
+<p></p>
+</li>
+<li>
+<p>Eligible Secondary 4 N(A) students may submit their DPP applications online
+via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.
 Applications for the DPP will open from 12am on Friday, 10 January 2025,
 to 11.59pm on Tuesday, 14 January 2025.</p>
-<p>&nbsp;</p>
-<p>23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DPP posting results for
-applications made under the final application phase will be released at
-9am on Wednesday, 17 January 2025 through the DPP application portal. Students
-will be required to indicate whether they accept or reject the DPP offer
-by 11.59pm on Tuesday, 21 January 2025.</p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+<li>
+<p>The DPP posting results for applications made under the final application
+phase will be released at 9am on Wednesday, 17 January 2025 through the
+DPP application portal. Students will be required to indicate whether they
+accept or reject the DPP offer by 11.59pm on Tuesday, 21 January 2025.</p>
+<p></p>
+</li>
+</ol>
 <p><u>For successful DPP and/or PFP applicants</u>
 </p>
-<p>&nbsp;</p>
-<p>24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have been offered
-a place in the DPP under the final application phase should report to ITE
-on Wednesday, 22 January 2025 upon acceptance of their DPP course offer.</p>
-<p>&nbsp;</p>
-<p>25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The last day of school for
-Secondary 5 students who have accepted a place in the PFP will be on Friday,
-31 January 2025. Students will be informed by the respective polytechnics
-on the enrolment dates for the PFP.</p>
-<p>&nbsp;</p>
-<p>26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have accepted
-a place in the earlier application phase of the DPP in December but decide
-to take up a PFP offer now must withdraw from the DPP first before they
-are able to take up the PFP offer. DPP-enrolled students should check with
-their ITE class advisor for more details on the DPP withdrawal process
-and deadlines for withdrawal.</p>
-<p>&nbsp;</p>
+<ol start="24" data-tight="true" class="tight">
+<li>
+<p>Students who have been offered a place in the DPP under the final application
+phase should report to ITE on Wednesday, 22 January 2025 upon acceptance
+of their DPP course offer.</p>
+<p></p>
+</li>
+<li>
+<p>The last day of school for Secondary 5 students who have accepted a place
+in the PFP will be on Friday, 31 January 2025. Students will be informed
+by the respective polytechnics on the enrolment dates for the PFP.</p>
+<p></p>
+</li>
+<li>
+<p>Students who have accepted a place in the earlier application phase of
+the DPP in December but decide to take up a PFP offer now must withdraw
+from the DPP first before they are able to take up the PFP offer. DPP-enrolled
+students should check with their ITE class advisor for more details on
+the DPP withdrawal process and deadlines for withdrawal.</p>
+<p></p>
+</li>
+</ol>
 <p><strong>Education and Career Guidance (ECG) support</strong>
 </p>
-<p>&nbsp;</p>
-<p>27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to
-explore the range of education and career pathways available to them to
-make informed decisions about their next steps. They may refer to the following
-websites for more information:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE’s CourseFinder (
-<a rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySkillsFuture Student
-Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
-<p>&nbsp;</p>
-<p>28&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students may also consult
-their teachers or ECG Counsellors in their respective secondary schools
-about their next steps. Alternatively, they can make an ECG counselling
-appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
-The ECG Centre @ MOE offers online or phone counselling services from 6
-to 16 January 2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
-<p>
-<br>
-</p>
+<ol start="27" data-tight="true" class="tight">
+<li>
+<p>Students are encouraged to explore the range of education and career pathways
+available to them to make informed decisions about their next steps. They
+may refer to the following websites for more information:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE’s CourseFinder ( <a rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
+</li>
+<li>
+<p>MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+</li>
+</ul>
+<ol start="28" data-tight="true" class="tight">
+<li>
+<p>Students may also consult their teachers or ECG Counsellors in their respective
+secondary schools about their next steps. Alternatively, they can make
+an ECG counselling appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The ECG
+Centre @ MOE offers online or phone counselling services from 6 to 16 January
+2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
+</li>
+</ol>
+<p></p>
 <p><sup>1</sup> Form&nbsp;A will list the applicant’s gross aggregate scores
 for JC, MI, polytechnic, ITE aggregate types and courses which he/she is
 eligible to apply for under the JAE.</p>
