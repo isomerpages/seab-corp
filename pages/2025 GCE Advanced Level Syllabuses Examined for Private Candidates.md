@@ -849,10 +849,10 @@ required:
 </tr>
 </tbody>
 </table>
-<p># Last year of exam in 2025</p>
-<p>° Subject with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
-details.</p>
-<p><a href="/files/A Level Syllabus Private Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<p># Last year of exam in 2025
+<br>° Subject with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
+details.
+<br><a href="/files/A Level Syllabus Private Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
 <h4><strong>Local Subjects</strong></h4>
