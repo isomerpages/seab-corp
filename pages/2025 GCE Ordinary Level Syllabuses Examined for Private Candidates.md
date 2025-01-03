@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Ordinary Level Syllabuses Examined for Private Candidates
 permalink: /gce-o-level/o-level-syllabuses-examined-for-private-candidates-2025/
-variant: markdown
+variant: tiptap
 description: O-Level Syllabuses Examined in 2025 for Private Candidates
 ---
 <p>Here are the 2025 GCE O-Level examination syllabuses that are offered
@@ -601,8 +601,8 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>
-	<br>[Updated]^</p>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7087_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a> 
+<br>[Updated] ^</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
