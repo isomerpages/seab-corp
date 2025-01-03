@@ -505,8 +505,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9569_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -594,11 +593,10 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>English °</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -835,6 +833,8 @@ from SEAB.</p>
 </table>
 <p>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.</p>
 <p># Last year of exam in 2025.</p>
+<p>° Subject with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
+details.</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
