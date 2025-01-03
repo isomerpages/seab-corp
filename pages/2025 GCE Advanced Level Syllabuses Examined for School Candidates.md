@@ -829,7 +829,7 @@ from SEAB.</p>
 </tbody>
 </table>
 <p>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.
-<br># Last year of exam in 2025. &nbsp;* Last year of exam in 2026.
+<br># Last year of exam in 2025. <br>* Last year of exam in 2026.
 <br>° Subject with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.
 <br><a href="/files/A Level Syllabus Sch Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
