@@ -615,8 +615,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
-<p></p>
-<p>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-&nbsp;</p>
