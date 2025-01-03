@@ -621,8 +621,8 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<br>[Revised] Software required:</p>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/7155_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a> [Revised]
+<br>Software required:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Microsoft Office (Excel)</p>
