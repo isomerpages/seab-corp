@@ -520,7 +520,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] #~</p>
+<p>Art [Revised] ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -828,7 +828,7 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Syllabus document will be made available in January 2025.
+<p>~ Document(s) will be made available in January 2025.
 <br>* Last year of exam in 2026.
 <br># Last year of exam in 2025
 <br>° Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
