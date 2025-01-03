@@ -590,6 +590,69 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> [Revised]&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9476&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br>[2026]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> [Revised]&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9477&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br>[2026]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physics [Revised]&nbsp;~</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9478&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br>[2026]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9508_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
 </p>
 </td>
