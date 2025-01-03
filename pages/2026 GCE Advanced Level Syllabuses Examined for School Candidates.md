@@ -287,7 +287,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -304,7 +304,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chemistry #~</p>
+<p>Chemistry [Revised]~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -321,7 +321,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -806,8 +806,6 @@ from SEAB.</p>
 </table>
 <p>~ Document(s) will be made available in January 2025.
 <br>* Last year of exam in 2026.
-<br>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.
-<br># Last year of exam in 2025.
 <br>° Subject with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
