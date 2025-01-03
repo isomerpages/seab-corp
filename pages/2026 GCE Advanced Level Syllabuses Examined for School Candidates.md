@@ -429,8 +429,7 @@ from SEAB.</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-</p>
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
 <br>[2026]</p>
 </td>
 </tr>
@@ -451,8 +450,7 @@ from SEAB.</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-</p>
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
 <br>[2026]</p>
 </td>
 </tr>
@@ -473,8 +471,7 @@ from SEAB.</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
-</p>
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
 <br>[2026]</p>
 </td>
 </tr>
