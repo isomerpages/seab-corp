@@ -192,7 +192,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2286_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u> </a>+</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/2286_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a> +</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -475,7 +475,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6063_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Electronics</u>&nbsp;</a>[Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6063_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Electronics</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
