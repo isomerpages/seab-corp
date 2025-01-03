@@ -867,7 +867,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -876,12 +876,15 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 <p>9813</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+</a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -890,12 +893,13 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 <p>9814</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> #</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -904,12 +908,15 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 <p>9816</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>|
+<a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+</a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art #~</p>
+<p>Art ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -1000,8 +1007,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </tr>
 </tbody>
 </table>
-<p>~ Syllabus document will be made available in January 2025.
-<br># Last year of exam in 2025.
+<p>~ Document(s) will be made available in January 2025.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H3 Mathematics (9820) syllabus.</p>
 <h4><strong>Local Subjects</strong></h4>
