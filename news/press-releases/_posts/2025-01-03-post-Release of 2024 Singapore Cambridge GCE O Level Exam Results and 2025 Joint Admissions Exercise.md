@@ -59,125 +59,151 @@ O-Level examination results.</p>
 their registered email addresses from 3pm on Friday, 10 January 2025. All
 candidates eligible for JAE may also download a copy of Form A from the
 JAE-Internet System (JAE-IS) during the application period.</p>
+<p></p>
+</li>
+<li>
+<p>The JAE-IS will be accessible from 4pm on Friday, 10 January 2025, to
+4pm on Wednesday, 15 January 2025 for applicants to submit their course
+choices through the JAE website at <a href="www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>. Applicants are strongly
+encouraged to complete the JAE worksheet (<a href="www.moe.gov.sg/jaeworksheet" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) before
+submitting their online application. The JAE-IS can be accessed using Singpass.
+Applicants can find more information on the following MOE websites:</p>
 </li>
 </ol>
-<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The JAE-IS will
-be accessible from 4pm on Friday, 10 January 2025, to 4pm on Wednesday,
-15 January 2025 for applicants to submit their course choices through the
-JAE website at <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.
-Applicants are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
-before submitting their online application. The JAE-IS can be accessed
-using Singpass. Applicants can find more information on the following MOE
-websites:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JAE website for more
-details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SchoolFinder for details
-of the offerings by JCs and MI, and their previous entry score ranges (
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CourseFinder for courses
-offered by the polytechnics and ITE, based on aggregate type and area of
-interest (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
-<p>&nbsp;</p>
-<p><u>Application Results</u>
+<ul data-tight="true" class="tight">
+<li>
+<p>JAE website for more details on the JAE (<a href="www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+</li>
+<li>
+<p>SchoolFinder for details of the offerings by JCs and MI, and their previous
+entry score ranges ( <a href="www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+</li>
+<li>
+<p>CourseFinder for courses offered by the polytechnics and ITE, based on
+aggregate type and area of interest (<a href="www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+</li>
+</ul>
+<p>&nbsp;<u>Application Results</u>
 </p>
-<p>&nbsp;</p>
-<p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The posting results
-of the JAE application will be released on Tuesday, 4 February 2025 via:</p>
-<p>&nbsp;</p>
-<p>a.&nbsp;&nbsp;&nbsp; Short Message Service (SMS) to the Singapore mobile
-phone number provided by the applicant during application</p>
-<p>b.&nbsp;&nbsp;&nbsp; JAE-IS, which is accessible through the JAE website</p>
-<p>&nbsp;</p>
-<p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants posted
-to JCs and MI are to report to their posted institutions on Wednesday,
-5 February 2025. If they are unable to do so due to valid reasons, they
-should contact their posted school directly to confirm that they are taking
-up the place, and the school will reserve the place for them.</p>
-<p>&nbsp;</p>
-<p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants posted to ITE
-will receive an email with the enrolment details on Tuesday, 4 February
-2025, and applicants posted to polytechnics will receive their enrolment
-details by end-February 2025.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>The posting results of the JAE application will be released on Tuesday,
+4 February 2025 via:
+<br>a. Short Message Service (SMS) to the Singapore mobile phone number provided
+by the applicant during application
+<br>b. JAE-IS, which is accessible through the JAE website</p>
+</li>
+</ol>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>Applicants posted to JCs and MI are to report to their posted institutions
+on Wednesday, 5 February 2025. If they are unable to do so due to valid
+reasons, they should contact their posted school directly to confirm that
+they are taking up the place, and the school will reserve the place for
+them.</p>
+<p></p>
+</li>
+<li>
+<p>Applicants posted to ITE will receive an email with the enrolment details
+on Tuesday, 4 February 2025, and applicants posted to polytechnics will
+receive their enrolment details by end-February 2025.</p>
+<p></p>
+</li>
+</ol>
 <p><strong>Direct School Admission (DSA) – JCs</strong>
 </p>
-<p>&nbsp;</p>
-<p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who had accepted
-offers through the 2024 Direct School Admission for junior colleges<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> (DSA-JC) will be
-admitted to their chosen JC if they have met the JC admission criteria
-based on their GCE O-Level examination results. Students admitted to a
-JC through DSA-JC will not be eligible to participate in the JAE.</p>
-<p>&nbsp;</p>
-<p>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who do not meet
-the JC admission criteria may take part in the JAE to apply for other courses
-which they are eligible for.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p>Students who had accepted offers through the 2024 Direct School Admission
+for junior colleges<sup>2</sup> (DSA-JC) will be admitted to their chosen
+JC if they have met the JC admission criteria based on their GCE O-Level
+examination results. Students admitted to a JC through DSA-JC will not
+be eligible to participate in the JAE.</p>
+<p></p>
+</li>
+<li>
+<p>Students who do not meet the JC admission criteria may take part in the
+JAE to apply for other courses which they are eligible for.</p>
+<p></p>
+</li>
+</ol>
 <p><strong>Early Admissions Exercise (EAE) – Polytechnics</strong>
 </p>
-<p>&nbsp;</p>
-<p>13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For students who had earlier
-accepted conditional offers to a polytechnic course through the Polytechnic
-Early Admissions Exercise<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> (EAE) in 2024, their offers would have been confirmed
-and they will not be eligible to participate in the JAE, if they meet the
-following criteria:</p>
-<p>a.&nbsp;&nbsp;&nbsp; A net ELR2B2 score<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> of 26 points<a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> or lower for the GCE O-Level examinations; <u>and</u>
+<ol start="13" data-tight="true" class="tight">
+<li>
+<p>For students who had earlier accepted conditional offers to a polytechnic
+course through the Polytechnic Early Admissions Exercise<sup>3</sup> (EAE)
+in 2024, their offers would have been confirmed and they will not be eligible
+to participate in the JAE, if they meet the following criteri:
+<br>a. A net ELR2B2 score<sup>4</sup> of 26 points<sup>5 </sup>or lower for
+the GCE O-Level examinations; <u>and</u>
+<br>b. Minimum Entry Requirements for the respective polytechnic courses.
+<br>
 </p>
-<p>b.&nbsp;&nbsp;&nbsp; Minimum Entry Requirements for the respective polytechnic
-courses.</p>
-<p>&nbsp;</p>
-<p>14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who do not meet
-the above criteria may instead apply for polytechnic admission via the
-JAE for courses which they are eligible for.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Students who do not meet the above criteria may instead apply for polytechnic
+admission via the JAE for courses which they are eligible for.</p>
+<p></p>
+</li>
+</ol>
 <p><strong>Early Admissions Exercise (EAE) – ITE</strong>
 </p>
-<p>&nbsp;</p>
-<p>15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For students who had earlier
-accepted conditional offers to an ITE course through the ITE EAE<a href="#_ftn6" rel="noopener noreferrer nofollow" target="_blank">[6]</a> in 2024, their
-offers would have been confirmed based on their GCE O-Level examination
-results, once they meet the subject-specific Minimum Entry Requirements
-for the course.</p>
-<p>&nbsp;</p>
+<ol start="15" data-tight="true" class="tight">
+<li>
+<p>For students who had earlier accepted conditional offers to an ITE course
+through the ITE EAE<sup>6</sup> in 2024, their offers would have been confirmed
+based on their GCE O-Level examination results, once they meet the subject-specific
+Minimum Entry Requirements for the course.</p>
+<p></p>
+</li>
+</ol>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
-<p>&nbsp;</p>
-<p>16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 4 Normal (Academic)
-[N(A)] students who have sat for GCE O-Level subjects in 2024 can use their
-GCE O-Level results to apply for a place in the <a rel="noopener noreferrer nofollow" target="_blank">Polytechnic Foundation Programme (PFP) and </a>Direct-Entry-Scheme
-to Polytechnic Programme (DPP).</p>
-<p><u>&nbsp;</u>
-</p>
+<ol start="16" data-tight="true" class="tight">
+<li>
+<p>Secondary 4 Normal (Academic) [N(A)] students who have sat for GCE O-Level
+subjects in 2024 can use their GCE O-Level results to apply for a place
+in the Polytechnic Foundation Programme (PFP) and Direct-Entry-Scheme to
+Polytechnic Programme (DPP).</p>
+<p></p>
+</li>
+</ol>
 <p><u>Polytechnic Foundation Programme (PFP)</u>
 </p>
-<p>&nbsp;</p>
-<p>17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PFP is an alternative
-to the Secondary 5 N(A) year. It is a one-year foundation programme offered
-at the polytechnics which provides students with a practice-oriented approach
-to prepare them for entry into the relevant diploma courses.</p>
-<p>&nbsp;</p>
-<p>18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are eligible to
-apply for the PFP if they obtain a raw ELMAB3 aggregate<a href="#_ftn7" rel="noopener noreferrer nofollow" target="_blank">[7]</a> of 12 points or
-lower and meet the subject-specific requirements for their chosen course.</p>
-<p>&nbsp;</p>
-<p>19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PFP-eligible students will
-receive a copy of <u>Form&nbsp;P</u> from their respective secondary schools
-in person. Each copy of Form P contains a unique password. Interested students
-should use their respective passwords to submit their applications online
-via the PFP website at <a rel="noopener noreferrer nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>.
+<ol start="17" data-tight="true" class="tight">
+<li>
+<p>The PFP is an alternative to the Secondary 5 N(A) year. It is a one-year
+foundation programme offered at the polytechnics which provides students
+with a practice-oriented approach to prepare them for entry into the relevant
+diploma courses.</p>
+<p></p>
+</li>
+<li>
+<p>Students are eligible to apply for the PFP if they obtain a raw ELMAB3
+aggregate<sup>7</sup> of 12 points or lower and meet the subject-specific
+requirements for their chosen course.</p>
+<p></p>
+</li>
+<li>
+<p>PFP-eligible students will receive a copy of <u>Form&nbsp;P</u> from their
+respective secondary schools in person. Each copy of Form P contains a
+unique password. Interested students should use their respective passwords
+to submit their applications online via the PFP website at <a href="pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>.
 More information on the eligibility requirements for the PFP, as well as
 how GCE O-Level results are considered in the computation of the ELMAB3
 aggregate, can be found on the PFP website indicated above.</p>
-<p>&nbsp;</p>
-<p>20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications for the PFP
-will open from 1.30pm on Friday, 10 January 2025, to 4pm on Wednesday,
-15 January 2025. The PFP posting results will be released at 1.30pm on
-Wednesday, 22 January 2025 through the PFP website. Students will thereafter
-be required to indicate whether they wish to accept, reject, or appeal
-for a change of course by 4pm on Monday, 27 January 2025.</p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
+</li>
+<li>
+<p>Applications for the PFP will open from 1.30pm on Friday, 10 January 2025,
+to 4pm on Wednesday, 15 January 2025. The PFP posting results will be released
+at 1.30pm on Wednesday, 22 January 2025 through the PFP website. Students
+will thereafter be required to indicate whether they wish to accept, reject,
+or appeal for a change of course by 4pm on Monday, 27 January 2025.</p>
+<p></p>
+</li>
+</ol>
 <p><u>Direct-Entry-Scheme to Polytechnic Programme (DPP)</u>
 </p>
 <p>&nbsp;</p>
@@ -189,7 +215,7 @@ chosen course.</p>
 <p>&nbsp;</p>
 <p>22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eligible Secondary 4 N(A)
 students may submit their DPP applications online via the DPP application
-portal <a rel="noopener noreferrer nofollow" target="_blank">at </a><a rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.
+portal <a rel="noopener noreferrer nofollow" target="_blank">at www.ite.edu.sg/apply-for-ite-courses</a>.
 Applications for the DPP will open from 12am on Friday, 10 January 2025,
 to 11.59pm on Tuesday, 14 January 2025.</p>
 <p>&nbsp;</p>
