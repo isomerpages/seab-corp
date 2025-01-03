@@ -392,15 +392,14 @@ format.</p>
 <p><a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y24_sp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
 <a href="/files/NA Lvl Syllabus Private Cddts/2025/7086_y24_insert.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-</p>
-<p>[2023]</p>
+<br>[2023]</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>^ Change is to response format for Paper 2. The new response format requires
-candidates to write their answers on the question paper.</p>
-<p>° Subject/Paper with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+candidates to write their answers on the question paper.
+<br>° Subject/Paper with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
