@@ -691,8 +691,7 @@ understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9569_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<a rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
-</a>Software required:
+<br>Software required:
 <br>• Python IDLE 3.6.4
 <br>• Flask 0.12.2
 <br>• PyMongo 3.6.0
