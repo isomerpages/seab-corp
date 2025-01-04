@@ -598,7 +598,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="Tamil B" rel="noopener nofollow" target="_blank">https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel</a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Tamil B</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
