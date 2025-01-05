@@ -469,7 +469,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> #</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -486,7 +486,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chemistry #~</p>
+<p>Chemistry [Revised]~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -503,7 +503,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> #</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -590,8 +590,70 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9508_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> [Revised]&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9476&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br>[2026]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> [Revised]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9477&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br>[2026]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physics [Revised]&nbsp;~</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9478&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+<br>[2026]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9508_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language and Linguistics</u></a>&nbsp;*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -629,8 +691,7 @@ understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9569_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<a><u><br></u>
-</a>Software required:
+<br>Software required:
 <br>• Python IDLE 3.6.4
 <br>• Flask 0.12.2
 <br>• PyMongo 3.6.0
@@ -829,10 +890,9 @@ understand the revised examination format.</p>
 </tbody>
 </table>
 <p>~ Document(s) will be made available in January 2025.
-<br>* Last year of exam in 2026.
-<br># Last year of exam in 2025
 <br>° Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.
+<br>* Last year of exam in 2026.&nbsp;
 <br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>

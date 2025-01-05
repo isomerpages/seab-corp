@@ -1,7 +1,7 @@
 ---
 title: 2026 GCE Advanced Level Syllabuses Examined for School Candidates
 permalink: /gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/
-variant: markdown
+variant: tiptap
 description: 2026 GCE Advanced Level Syllabuses Examined for School Candidates
 ---
 <p>Here are the 2026 GCE A-Level examination syllabuses that are offered
@@ -580,10 +580,12 @@ from SEAB.</p>
 <p>9578</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1
-<br>Paper 2 | Insert
-<br>Paper 3
-<br>[2025]~</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9578_y26_1_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/9578_y26_1_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Transcript</a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9578_y26_2_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/9578_y26_2_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9578_y26_3_sp.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3</a> 
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
