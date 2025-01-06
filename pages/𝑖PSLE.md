@@ -507,7 +507,7 @@ year and the results will be reported in the form of Achievement Levels:
 <p>You will receive an 𝑖PSLE&nbsp;certificate if you are awarded a grade
 for at least one 𝑖PSLE subject.</p>
 <h4><strong>Explanatory Notes</strong></h4>
-<p>Please click on this <a href="go.gov.sg/ipslecertificateexplanatorynote" rel="noopener nofollow" target="_blank">link</a> to
+<p>Please click on this <a href="https://go.gov.sg/ipslecertificateexplanatorynote" rel="noopener nofollow" target="_blank">link</a> to
 view what will be shown on the examination certificate.</p>
 </div>
 </details>
