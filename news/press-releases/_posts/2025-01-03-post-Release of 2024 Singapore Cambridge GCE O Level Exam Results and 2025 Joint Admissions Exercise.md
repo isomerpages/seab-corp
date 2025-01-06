@@ -135,7 +135,7 @@ JAE to apply for other courses which they are eligible for.</p>
 <p>For students who had earlier accepted conditional offers to a polytechnic
 course through the Polytechnic Early Admissions Exercise<sup>3</sup> (EAE)
 in 2024, their offers would have been confirmed and they will not be eligible
-to participate in the JAE, if they meet the following criteri:
+to participate in the JAE, if they meet the following criteria:
 <br>a. A net ELR2B2 score<sup>4</sup> of 26 points<sup>5 </sup>or lower for
 the GCE O-Level examinations; and
 <br>b. Minimum Entry Requirements for the respective polytechnic courses.
