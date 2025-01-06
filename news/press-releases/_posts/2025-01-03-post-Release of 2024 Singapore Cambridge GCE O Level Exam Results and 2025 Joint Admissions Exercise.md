@@ -65,23 +65,24 @@ period.</p>
 <li>
 <p>The JAE-IS will be accessible from 4pm on Friday, 10 January 2025, to
 4pm on Wednesday, 15 January 2025 for applicants to submit their course
-choices through the JAE website at <a href="www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>. Applicants are strongly
-encouraged to complete the JAE worksheet (<a href="www.moe.gov.sg/jaeworksheet" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) before
-submitting their online application. The JAE-IS can be accessed using Singpass.
-Applicants can find more information on the following MOE websites:</p>
+choices through the JAE website at <a href="https://www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>. Applicants are
+strongly encouraged to complete the JAE worksheet (<a href="https://www.moe.gov.sg/jaeworksheet" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
+before submitting their online application. The JAE-IS can be accessed
+using Singpass. Applicants can find more information on the following MOE
+websites:</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>JAE website for more details on the JAE (<a href="www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+<p>JAE website for more details on the JAE (<a href="https://www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
 </li>
 <li>
 <p>SchoolFinder for details of the offerings by JCs and MI, and their previous
-entry score ranges ( <a href="www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+entry score ranges ( <a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
 </li>
 <li>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
-aggregate type and area of interest (<a href="www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+aggregate type and area of interest (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 </ul>
 <p>&nbsp;<u>Application Results</u>
@@ -190,7 +191,7 @@ requirements for their chosen course.</p>
 <p>PFP-eligible students will receive a copy of Form&nbsp;P from their respective
 secondary schools in person. Each copy of Form P contains a unique password.
 Interested students should use their respective passwords to submit their
-applications online via the PFP website at <a href="pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>.
+applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>.
 More information on the eligibility requirements for the PFP, as well as
 how GCE O-Level results are considered in the computation of the ELMAB3
 aggregate, can be found on the PFP website indicated above.</p>
@@ -218,7 +219,7 @@ or lower and meet the subject-specific requirements for their chosen course.
 </li>
 <li>
 <p>Eligible Secondary 4 N(A) students may submit their DPP applications online
-via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.
+via the DPP application portal at <a href="https://www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.
 Applications for the DPP will open from 12am on Friday, 10 January 2025,
 to 11.59pm on Tuesday, 14 January 2025.
 <br>
@@ -266,17 +267,17 @@ may refer to the following websites for more information:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE’s CourseFinder (<a href="moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
+<p>MOE’s CourseFinder (<a href="https://moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture Student Portal (<a href="go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+<p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
 </li>
 </ul>
 <ol start="28" data-tight="true" class="tight">
 <li>
 <p>Students may also consult their teachers or ECG Counsellors in their respective
 secondary schools about their next steps. Alternatively, they can make
-an ECG counselling appointment via the ECG Centre @ MOE at <a href="go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
+an ECG counselling appointment via the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
 The ECG Centre @ MOE offers online or phone counselling services from 6
 to 16 January 2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 </li>
@@ -285,9 +286,9 @@ to 16 January 2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p
 <p><sup>1</sup> Form&nbsp;A will list the applicant’s gross aggregate scores
 for JC, MI, polytechnic, ITE aggregate types and courses which he/she is
 eligible to apply for under the JAE.</p>
-<p><sup>2</sup> More details on DSA-JC can be found at <a href="www.moe.gov.sg/dsa-jc" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>
+<p><sup>2</sup> More details on DSA-JC can be found at <a href="https://www.moe.gov.sg/dsa-jc" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>
 </p>
-<p><sup>3 </sup>More details on Polytechnic EAE can be found at <a href="eae.polytechnic.edu.sg" rel="noopener nofollow" target="_blank">eae.polytechnic.edu.sg</a>
+<p><sup>3 </sup>More details on Polytechnic EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener nofollow" target="_blank">eae.polytechnic.edu.sg</a>
 </p>
 <p><sup>4 </sup>The ELR2B2 aggregate comprises English Language, 2 relevant
 subjects for the polytechnic course applied for and 2 other best subjects
@@ -295,10 +296,10 @@ which could be elective subjects.</p>
 <p><sup>5 </sup>Except for Nursing courses, which require a net ELR2B2 aggregate
 of 28 points or lower. Applicants may combine results from no more than
 2 sittings of the GCE O-Level examination.</p>
-<p><sup>6 </sup>More details on the ITE EAE can be found at <a href="www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener nofollow" target="_blank">www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</a>
+<p><sup>6 </sup>More details on the ITE EAE can be found at <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener nofollow" target="_blank">www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</a>
 </p>
 <p><sup>7</sup> The raw ELMAB3 aggregate comprises English Language, Mathematics,
 and three other best subjects (including one relevant subject) and excludes
 CCA. CCA bonus points are taken into account during posting.</p>
 <p><sup>8 </sup>More information on the DPP and eligibility requirements
-can be found at <a href="www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener nofollow" target="_blank">www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</a>.</p>
+can be found at <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener nofollow" target="_blank">www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</a>.</p>
