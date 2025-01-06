@@ -186,10 +186,10 @@ that are located near the various MRT stations.</p>
 <p>During the national examinations, the lists of secondary schools, junior
 colleges and centralised institutes that are located near each MRT station
 will be made available at all MRT stations.</p>
-<p>You may also download the Singapore Land Transport Authority’s <a href="http://MyTransport.SG" rel="noopener noreferrer nofollow" target="_blank">MyTransport.SG</a> mobile
-application, and access the “Exam Centre” option to obtain the lists.
-<a href="http://MyTransport.SG" rel="noopener noreferrer nofollow" target="_blank">MyTransport.SG</a>mobile application can be downloaded from App Store®
-and Google Play™.</p>
+<p>You may also download the Singapore Land Transport Authority’s MyTransport.SG
+mobile application, and access the “Exam Centre” option to obtain the lists.
+MyTransport.SG mobile application can be downloaded from App Store® and
+Google Play™.</p>
 <p><strong>If you are unable to arrive at a suitable examination centre until after your paper has ended, you should still report to your school or designated examination centre:</strong>
 </p>
 <ul data-tight="true" class="tight">
