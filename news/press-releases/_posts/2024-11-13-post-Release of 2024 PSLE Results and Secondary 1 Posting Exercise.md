@@ -71,14 +71,15 @@ Eligible students interested to study in CSS or SSS can apply directly
 by submitting their school application to CSS and SSS starting from 11.30am
 on Wednesday, 20 November 2024 to 3.00pm on Tuesday, 26 November 2024.
 Application forms for these two schools are available at students’ respective
-primary schools, or on the school websites of CSS and SSS. <u>Students who have applied directly should continue to submit the S1 Option Form</u>,
-to facilitate posting to another school of their choice if they are not
-admitted to CSS or SSS. Students who applied directly to CSS or SSS and
-are admitted will be informed of the outcome by Wednesday, 11 December
-2024, and their other S1 school choices will be voided. Eligible students
-who did not apply directly to CSS or SSS but wish to be considered for
-admission to these schools may indicate CSS and SSS as one of their school
-choices in the S1 Option Form.</p>
+primary schools, or on the school websites of CSS and SSS. Students who
+have applied directly should continue to submit the S1 Option Form, to
+facilitate posting to another school of their choice if they are not admitted
+to CSS or SSS. Students who applied directly to CSS or SSS and are admitted
+will be informed of the outcome by Wednesday, 11 December 2024, and their
+other S1 school choices will be voided. Eligible students who did not apply
+directly to CSS or SSS but wish to be considered for admission to these
+schools may indicate CSS and SSS as one of their school choices in the
+S1 Option Form.</p>
 <p><strong>Submission of Secondary 1 School Choices and Options</strong>
 </p>
 <p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
