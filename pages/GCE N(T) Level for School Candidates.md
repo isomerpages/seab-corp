@@ -11,7 +11,7 @@ is available below.</p>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates for Candidates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-gce-nt-na-o-level-registration-information-for-school-candidates-dd-29-feb-24" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-gce-nao-level-registration-information-for-school-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 Registration Information e-booklet" src="/images/registration.jpg">
@@ -21,7 +21,7 @@ is available below.</p>
 <div class="isomer-card-title">2024 Registration Information e-booklet</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-psle-exam-rules-and-regulation-booklet" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-secondary" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gce-nt-level/nt-level-syllabuses-examined-for-school-candidates-2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -66,7 +66,7 @@ is available below.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/mid-year-results-release-exercise/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mid-Year GCE-Level Results Release Exercise" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mid-Year GCE-Level Results Release Exercise</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercise/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercises/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercise" src="/images/press_release_image.jpg">
