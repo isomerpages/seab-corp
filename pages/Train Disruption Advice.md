@@ -93,7 +93,7 @@ end of the paper.</p>
 your arrival. You will be given the full duration of your paper.</p>
 </li>
 <li>
-<p>You can refer to the <a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024-train-disruption-listing---cec.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>list of papers held at centralised examination centres</u></a>.
+<p>You can refer to the <a href="/files/Train Disruption/2024_train_disruption_listing_cec.pdf" rel="noopener nofollow" target="_blank">list of papers held at centralised examination centres</a>.
 For these papers, you should report to the designated exam centre indicated
 in your entry proof even if you are unable to reach before the end of the
 paper.</p>
@@ -186,10 +186,10 @@ that are located near the various MRT stations.</p>
 <p>During the national examinations, the lists of secondary schools, junior
 colleges and centralised institutes that are located near each MRT station
 will be made available at all MRT stations.</p>
-<p>You may also download the Singapore Land Transport Authority’s &nbsp;
-<a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024-train-disruption-listing---cec.pdf" rel="noopener noreferrer nofollow" target="_blank">MyTransport.SG</a>mobile application, and access the “Exam Centre” option
-to obtain the lists. <a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024-train-disruption-listing---cec.pdf" rel="noopener noreferrer nofollow" target="_blank">MyTransport.SG</a> mobile
-application can be downloaded from App Store® and Google Play™.</p>
+<p>You may also download the Singapore Land Transport Authority’s <a href="/files/Train Disruption/2024_train_disruption_listing_cec.pdf" rel="noopener nofollow" target="_blank">MyTransport.SG</a> mobile
+application, and access the “Exam Centre” option to obtain the lists.
+<a href="/files/Train Disruption/2024_train_disruption_listing_cec.pdf" rel="noopener nofollow" target="_blank">MyTransport.SG</a>mobile application can be downloaded from App Store®
+and Google Play™.</p>
 <p><strong>If you are unable to arrive at a suitable examination centre until after your paper has ended, you should still report to your school or designated examination centre:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -198,7 +198,7 @@ application can be downloaded from App Store® and Google Play™.</p>
 </li>
 <li>
 <p>If you are a private candidate, report to the Chief Presiding Examiner
-of your examination centre or contact <a href="https://www.seab.gov.sg/home/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a>.</p>
+of your examination centre or contact <a href="/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a>.</p>
 </li>
 </ul>
 <p>Please provide the following details:</p>
