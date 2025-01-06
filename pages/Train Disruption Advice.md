@@ -108,78 +108,78 @@ that are located near the various MRT stations.</p>
 <p>Secondary Schools for <strong>GCE N(A)-/N(T)-/O-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_ns_line2d5ec900-de87-4ca3-be67-6eaf265cd240.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>North-South Line</u></a>
+<p><a href="/files/Train Disruption/2024_sec_ns_line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_ew_line9222fa3c-5d5a-4400-8c3b-c7a195235aca.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>East-West Line</u></a>
+<p><a href="/files/Train Disruption/2024_sec_ew_line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_ne_line.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>North-East Line</u></a>
+<p><a href="/files/Train Disruption/2024_sec_ne_line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_cc_line.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Circle Line</u></a>
+<p><a href="/files/Train Disruption/2024_sec_cc_line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_dt_line7f8fdb55-c508-4f1a-be50-766027c6e17b.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Downtown Line</u></a>
+<p><a href="/files/Train Disruption/2024_sec_dt_line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_te_line.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Thomson-East Coast Line</u></a>
+<p><a href="/files/Train Disruption/2024_sec_tec_line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_bp_lrtc5c66b15-0905-4bb3-a6a1-bc664500ce68.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bukit Panjang LRT</u></a>
+<p><a href="/files/Train Disruption/2024_sec_bp_lrt.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_punggol_lrt.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Punggol LRT</u></a>
+<p><a href="/files/Train Disruption/2024_sec_punggol_lrt.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_sec_sengkang_lrt.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sengkang LRT</u></a>
+<p><a href="/files/Train Disruption/2024_sec_sengkang_lrt.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
 </p>
 </li>
 </ul>
 <p>Junior Colleges/Centralised Institutes for <strong>GCE A-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_ns_line39c59e75-e74b-4282-a5dc-1688bcf9ef51.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>North-South Line</u></a>
+<p><a href="/files/Train Disruption/2024_jc_ns_line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_ew_line.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>East-West Line</u></a>
+<p><a href="/files/Train Disruption/2024_jc_ew_line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_ne_line.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>North-East Line</u></a>
+<p><a href="/files/Train Disruption/2024_jc_ne_line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_cc_line.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Circle Line</u></a>
+<p><a href="/files/Train Disruption/2024_jc_cc_line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_dt_line.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Downtown Line</u></a>
+<p><a href="/files/Train Disruption/2024_jc_dt_line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_te_line452e81f4-0aa0-438f-8692-1dc8a1f687bd.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Thomson-East Coast Line</u></a>
+<p><a href="/files/Train Disruption/2024_jc_tec_line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_bp_lrt.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bukit Panjang LRT</u></a>
+<p><a href="/files/Train Disruption/2024_jc_bp_lrt.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_punggol_lrt92c5a689-b7f8-47cf-b539-909a6529944b.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Punggol LRT</u></a>
+<p><a href="/files/Train Disruption/2024_jc_punggol_lrt.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/train-service-disruption/2024_jc_sengkang_lrt4c916936-5f87-48b6-a2ed-dcd4c7dcb135.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sengkang LRT</u></a>
+<p><a href="/files/Train Disruption/2024_jc_sengkang_lrt.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
 </p>
 </li>
 </ul>
