@@ -36,7 +36,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> [Revised]</p>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -369,7 +369,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation English </a>[Revised]</p>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation English Language</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
