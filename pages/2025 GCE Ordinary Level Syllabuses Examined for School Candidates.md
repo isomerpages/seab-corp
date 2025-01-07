@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Ordinary Level Syllabuses Examined for School Candidates
 permalink: /gce-o-level/o-level-syllabuses-examined-for-school-candidates-2025/
-variant: markdown
+variant: tiptap
 description: O-Level Syllabuses Examined in 2025 for School Candidates
 ---
 <p>Here are the 2025 GCE O-Level examination syllabuses that are offered
@@ -783,8 +783,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a> △
-</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1153_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese B</u></a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -903,8 +902,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a> △
-</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1151_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay B</u></a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -955,8 +953,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> △
-</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1152_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
@@ -1065,8 +1062,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6081_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science</u></a> [Revised]
-</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/6081_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Exercise And Sports Science</u></a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
