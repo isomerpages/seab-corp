@@ -667,8 +667,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9729_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9729_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -745,8 +744,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9744_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9744_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -763,8 +761,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9749_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9749_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
