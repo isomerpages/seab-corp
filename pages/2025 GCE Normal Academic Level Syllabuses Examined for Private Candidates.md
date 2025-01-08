@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Normal Academic Level Syllabuses Examined for Private Candidates
 permalink: /gce-na-level/na-level-syllabuses-examined-for-private-candidates-2025/
-variant: markdown
+variant: tiptap
 description: N(A) Level Syllabuses Examined in 2025 for Private Candidates
 ---
 <p>Here are the 2025 GCE N(A)-Level examination syllabuses that are offered

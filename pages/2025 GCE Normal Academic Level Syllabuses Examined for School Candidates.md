@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Normal Academic Level Syllabuses Examined for School Candidates
 permalink: /gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/
-variant: markdown
+variant: tiptap
 description: N(A)-Level Syllabuses Examined in 2025 for School Candidates
 ---
 <p>Here are the 2025 GCE N(A)-Level examination syllabuses that are offered

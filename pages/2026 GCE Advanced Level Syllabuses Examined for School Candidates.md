@@ -306,7 +306,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chemistry [Revised]~</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -667,8 +667,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9729_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9729_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -745,8 +744,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9744_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9744_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -763,8 +761,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9749_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9749_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -884,7 +881,9 @@ to offer the subjects.
 details.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
-(9649) syllabuses.</p>
+(9649) syllabuses
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Booklet</a> for
+H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <h4><strong>H3 Cambridge Subjects</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -1083,7 +1082,9 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 </table>
 <p>~ Document(s) will be made available in January 2025.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
-H3 Mathematics (9820) syllabus.</p>
+H3 Mathematics (9820) syllabus.
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Booklet</a> for
+H3 Chemistry (9813) syllabus.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
@@ -1281,8 +1282,8 @@ H3 Mathematics (9820) syllabus.</p>
 <p>9921</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp1_pt_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp1_pt_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2026]</p>
 </td>
 </tr>

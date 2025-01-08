@@ -802,7 +802,10 @@ candidates to write answers on the question paper.</p>
 <p>2080</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/2080_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2261_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
+</a><a href="/files/O Lvl Syllabus Private Cddts/2025/2080_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
