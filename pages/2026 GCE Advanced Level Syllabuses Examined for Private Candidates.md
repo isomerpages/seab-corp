@@ -898,8 +898,8 @@ details.
 <br>* Last year of exam in 2026.&nbsp;
 <br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
-(9649) syllabuses.</p>
-<p><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Data Booklet</u></a> for
+(9649) syllabuses.
+<br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Data Booklet</u></a> for
 H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 125px">
