@@ -1,7 +1,7 @@
 ---
 title: 2026 GCE Advanced Level Syllabuses Examined for Private Candidates
 permalink: /gce-a-level/a-level-syllabuses-examined-for-private-candidates-2026/
-variant: markdown
+variant: tiptap
 description: 2026 GCE Advanced Level Syllabuses Examined for Private Candidates
 ---
 <p>Here are the 2026 GCE A-Level examination syllabuses that are offered
@@ -811,8 +811,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9729_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9729_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -829,8 +828,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9744_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9744_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -847,8 +845,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9749_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9749_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> *</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -896,6 +893,8 @@ details.
 <br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Data Booklet</u></a> for
+H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
