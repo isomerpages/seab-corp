@@ -481,12 +481,14 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chemistry [Revised]~</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -498,7 +500,9 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8873_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/8873_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
@@ -515,7 +519,9 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
