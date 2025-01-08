@@ -1282,8 +1282,8 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <p>9921</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp1_pt_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp1_pt_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2026]</p>
 </td>
 </tr>
