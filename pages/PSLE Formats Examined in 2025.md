@@ -54,7 +54,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0005_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0005_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0006_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0006_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +84,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0007_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0007_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +204,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0015_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0015_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,7 +219,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0016_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0016_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,7 +234,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0017_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0017_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -324,7 +324,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0025_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0025_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,7 +339,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0026_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Malay</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0026_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Malay Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +354,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0027_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Tamil</a>
+<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0027_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Tamil Language</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -615,7 +615,37 @@ their formats and requirements.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>History ~</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8838, 9174</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
+<p>Literature in English ~</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8841, 9539</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>China Studies in English ~</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9628</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -624,6 +654,7 @@ their formats and requirements.</p>
 </tr>
 </tbody>
 </table>
+<p>~ e-Exam resources for these subjects will be made available once ready.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
@@ -688,6 +719,14 @@ their formats and requirements.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>History ~</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2174</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -700,6 +739,7 @@ their formats and requirements.</p>
 </tr>
 </tbody>
 </table>
+<p>~ e-Exam resources for these subjects will be made available once ready.</p>
 <p></p>
 <p><strong>N(A)-Level</strong>
 </p>
@@ -730,6 +770,14 @@ their formats and requirements.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>History ~</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2195</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -742,6 +790,7 @@ their formats and requirements.</p>
 </tr>
 </tbody>
 </table>
+<p>~ e-Exam resources for these subjects will be made available once ready.</p>
 <p></p>
 <p><strong>N(T)-Level</strong>
 </p>
