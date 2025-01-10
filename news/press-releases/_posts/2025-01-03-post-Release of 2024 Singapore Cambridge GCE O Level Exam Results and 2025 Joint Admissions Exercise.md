@@ -227,8 +227,8 @@ to 11.59pm on Tuesday, 14 January 2025.
 </li>
 <li>
 <p>The DPP posting results for applications made under the final application
-phase will be released at 9am on Wednesday, 17 January 2025 through the
-DPP application portal. Students will be required to indicate whether they
+phase will be released at 9am on Friday, 17 January 2025 through the DPP
+application portal. Students will be required to indicate whether they
 accept or reject the DPP offer by 11.59pm on Tuesday, 21 January 2025.</p>
 </li>
 </ol>
