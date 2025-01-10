@@ -23,7 +23,7 @@ and 5 or more O-Level subjects respectively. This is comparable to the
 performance of candidates for the GCE O-Level Examination in previous years.</p>
 </li>
 </ol>
-<p><strong><u>Joint Admissions Exercise</u></strong>
+<p><strong>Joint Admissions Exercise</strong>
 </p>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -65,7 +65,7 @@ year’s entry score ranges (<a href="https://www.moe.gov.sg/schoolfinder" rel="
 aggregate type and area of interest (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 </ul>
-<p>&nbsp;<strong><u>Education and Career Guidance (ECG) support</u></strong>
+<p><strong>Education and Career Guidance (ECG) support</strong>
 </p>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -98,9 +98,9 @@ and 9am to 12pm on Saturdays.</p>
 <p><sup>1 </sup>The Cambridge International Education, the Ministry of Education,
 Singapore and the Singapore Examinations and Assessment Board (SEAB) are
 the joint examining authorities for the Singapore-Cambridge General Certificate
-of Education Ordinary Level Examinations.</p>
-<p><sup>2</sup> The GCE O-Level certificate is awarded to candidates who obtain
-at least a Grade C6 or better in at least one subject.</p>
-<p><sup>3 </sup>Form&nbsp;A will list the applicant’s gross aggregate scores
+of Education Ordinary Level Examinations.
+<br><sup>2</sup> The GCE O-Level certificate is awarded to candidates who obtain
+at least a Grade C6 or better in at least one subject.
+<br><sup>3 </sup>Form&nbsp;A will list the applicant’s gross aggregate scores
 for JC, MI, polytechnics and ITE aggregate types, and courses which he/she
 is eligible to apply for under the JAE.</p>
