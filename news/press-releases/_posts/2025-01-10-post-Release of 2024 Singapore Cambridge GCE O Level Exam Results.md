@@ -17,10 +17,10 @@ from their secondary schools today<sup>1</sup>.</p>
 <li>
 <p>A total of 22,661 candidates sat for the 2024 GCE O-Level Examination.
 22,624 (99.8%) of these candidates have achieved Grade C6 or better in
-at least one O-Level subject<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><sup>[2]</sup></a>. 22,042 (97.3%) and 19,884 (87.7%) of
-the candidates have achieved Grade C6 or better in at least 3 or more and
-5 or more O-Level subjects respectively. This is comparable to the performance
-of candidates for the GCE O-Level Examination in previous years.</p>
+at least one O-Level subject<sup>2</sup>. 22,042 (97.3%) and 19,884 (87.7%)
+of the candidates have achieved Grade C6 or better in at least 3 or more
+and 5 or more O-Level subjects respectively. This is comparable to the
+performance of candidates for the GCE O-Level Examination in previous years.</p>
 </li>
 </ol>
 <p><strong><u>Joint Admissions Exercise</u></strong>
