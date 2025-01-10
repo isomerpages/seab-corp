@@ -45,11 +45,7 @@ understand the revised examination format.</p>
 <p>0001</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp1.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp2.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp3.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
-<br>[2025]</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -378,11 +374,7 @@ understand the revised examination format.</p>
 <p>0031</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp1.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp2.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp3.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
-<br>[2025]&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
