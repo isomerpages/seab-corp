@@ -9,9 +9,8 @@ description: PSLE Formats Examined in 2025
 Foundation Mother Tongue Languages will be conducted in the e-Examination
 format. Check out this <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> to
 understand the revised examination format.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -27,12 +26,6 @@ understand the revised examination format.</p>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Specimen Papers for</strong>&nbsp;
-<br><strong>Revised Syllabus</strong>&nbsp;
-<br><strong>[Year of Posting]</strong>
-</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,13 +36,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0001</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp1.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp2.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp3.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0001_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
-<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -63,9 +49,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0005</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -77,9 +60,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0006</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -93,9 +73,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0007</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -107,9 +84,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0008</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -123,9 +97,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0009</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,9 +108,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0010</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -153,9 +121,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0011</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -167,9 +132,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0012</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -183,9 +145,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0013</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -197,9 +156,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0014</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -213,9 +169,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0015</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -227,9 +180,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0016</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -243,9 +193,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0017</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -257,9 +204,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -273,9 +217,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0021</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -287,9 +228,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -303,9 +241,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0023</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -317,9 +252,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -333,9 +265,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0025</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -347,9 +276,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -363,9 +289,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0027</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -376,13 +299,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0031</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp1.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp2.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp3.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>
-<br><a href="/files/PSLE Syllabus documents/2025 PSLE/0031_y25_sp4.pdf" class="Hyperlink SCXW222356485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>
-<br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -396,9 +312,6 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p>0038</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -410,9 +323,6 @@ understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0039</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
