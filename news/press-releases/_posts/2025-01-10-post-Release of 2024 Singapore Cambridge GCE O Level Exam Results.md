@@ -11,8 +11,7 @@ variant: tiptap
 <li>
 <p>Candidates who sat for the 2024 Singapore-Cambridge General Certificate
 of Education Ordinary Level (GCE O-Level) Examination collected their results
-from their secondary schools today<sup>1</sup>.<sup> </sup>
-</p>
+from their secondary schools today<sup>1</sup>.</p>
 <p></p>
 </li>
 <li>
@@ -46,8 +45,8 @@ period.</p>
 <li>
 <p>The JAE-IS will be accessible from 4pm on Friday, 10 January 2025, to
 4pm on Wednesday, 15 January 2025 for applicants to submit their course
-choices through the JAE website at <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>.
-Applicants are strongly encouraged to use the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
+choices through the JAE website at <a href="https://www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>. Applicants are
+strongly encouraged to use the JAE worksheet (<a href="https://www.moe.gov.sg/jaeworksheet" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
 before submitting their online application. The JAE-IS can be accessed
 using Singpass. Applicants can find more information on the following MOE
 websites:&nbsp;</p>
@@ -55,48 +54,53 @@ websites:&nbsp;</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>JAE website for more details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+<p>JAE website for more details on the JAE (<a href="https://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
 </li>
 <li>
 <p>SchoolFinder for details of the offerings by JCs and MI and their previous
-year’s entry score ranges (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+year’s entry score ranges (<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
 </li>
 <li>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
-aggregate type and area of interest (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+aggregate type and area of interest (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong><u>Education and Career Guidance (ECG) support</u></strong>
+<p>&nbsp;<strong><u>Education and Career Guidance (ECG) support</u></strong>
 </p>
-<p><u>&nbsp;</u>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Students are encouraged to explore the range of education and career pathways
+available to them to make informed decisions about their next steps. They
+may refer to the following websites for more information:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+</li>
+<li>
+<p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)
+<br>
 </p>
-<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged
-to explore the range of education and career pathways available to them
-to make informed decisions about their next steps. They may refer to the
-following websites for more information:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE’s CourseFinder (
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.myskillsfuture.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a> Student
-Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
-<p>&nbsp;</p>
-<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students may also
-consult their teachers or ECG Counsellors in their respective secondary
-schools about their next steps. Alternatively, they can make an ECG counselling
-appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
+</li>
+</ul>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Students may also consult their teachers or ECG Counsellors in their respective
+secondary schools about their next steps. Alternatively, they can make
+an ECG counselling appointment via the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
 The ECG Centre @ MOE offers online or phone counselling services from Monday,
 6 January 2025 to Thursday, 16 January 2025, from 9am to 5pm on weekdays
 and 9am to 12pm on Saturdays.</p>
-<p>
-<br>
-</p>
+</li>
+</ol>
+<p></p>
 <p><sup>1 </sup>The Cambridge International Education, the Ministry of Education,
 Singapore and the Singapore Examinations and Assessment Board (SEAB) are
 the joint examining authorities for the Singapore-Cambridge General Certificate
 of Education Ordinary Level Examinations.</p>
 <p><sup>2</sup> The GCE O-Level certificate is awarded to candidates who obtain
 at least a Grade C6 or better in at least one subject.</p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> Form&nbsp;A
-will list the applicant’s gross aggregate scores for JC, MI, polytechnics
-and ITE aggregate types, and courses which he/she is eligible to apply
-for under the JAE.</p>
+<p><sup>3 </sup>Form&nbsp;A will list the applicant’s gross aggregate scores
+for JC, MI, polytechnics and ITE aggregate types, and courses which he/she
+is eligible to apply for under the JAE.</p>
