@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Ordinary Level Syllabuses Examined for School Candidates
 permalink: /gce-o-level/o-level-syllabuses-examined-for-school-candidates-2025/
-variant: markdown
+variant: tiptap
 description: O-Level Syllabuses Examined in 2025 for School Candidates
 ---
 <p>Here are the 2025 GCE O-Level examination syllabuses that are offered
@@ -800,7 +800,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2025/1160_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1160_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
