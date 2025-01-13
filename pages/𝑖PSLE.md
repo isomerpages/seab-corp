@@ -204,11 +204,12 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Zhang
-<br>+86 13922703951</p>
-<p><a href="mailto:zinan.zhang@scagz.com" rel="noopener noreferrer nofollow" target="_blank"><u>zinan.zhang@scagz.com</u></a>&nbsp;</p>
-<p></p>
-<p>Mr Stanley Ho</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">stanley.ho@scagz.com</a>
+<br>+86 13922703951
+<br><a href="mailto:zinan.zhang@scagz.com" rel="noopener noreferrer nofollow" target="_blank"><u>zinan.zhang@scagz.com</u></a>&nbsp;
+<br>
+<br>Janice Wang
+<br>+86 13825116913</p>
+<p><a href="mailto:janice.wang@scagz.com" rel="noopener noreferrer nofollow" target="_blank">janice.wang@scagz.com</a>
 </p>
 </td>
 </tr>
