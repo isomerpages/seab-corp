@@ -301,7 +301,7 @@ from SEAB.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/8867_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/8867_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ from SEAB.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/8873_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/8873_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -339,7 +339,7 @@ from SEAB.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/8876_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/8876_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +430,7 @@ from SEAB.</p>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -451,7 +451,7 @@ from SEAB.</p>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -472,7 +472,7 @@ from SEAB.</p>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -952,7 +952,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
 <a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -967,7 +967,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -984,7 +984,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>|
 <a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
