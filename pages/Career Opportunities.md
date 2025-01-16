@@ -76,77 +76,7 @@ usage, etc.</p>
 </ul>
 </div>
 </details>
-<details class="isomer-details">
-<summary>ASSISTANT MANAGER / MANAGER, HUMAN RESOURCE - 2 YEAR CONTRACT</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>RESPONSIBILITIES</strong>
-</p>
-<p></p>
-<p>Successful applicant will be involved in various Human Resources (HR)
-functions, which include attracting and recruiting talent, manage staff
-development and travel matters, as well as provide support in staff engagement
-matters, to provide a positive employee experience for staff and enable
-them to contribute towards SEAB’s growth and goals. The key responsibilities
-include:
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Partner divisions in their resourcing requirements, and manage the end-to-end
-recruitment process.</p>
-</li>
-<li>
-<p>Involved in the talent attraction and retention strategies review.</p>
-</li>
-<li>
-<p>Oversee the administration of staff awards and claims.</p>
-</li>
-<li>
-<p>Manage the administration of staff development programmes, overseas travel
-requests, staff awards and claims.</p>
-</li>
-<li>
-<p>Provide support in the conduct of staff orientation programmes</p>
-</li>
-<li>
-<p>Provide support in any other staff engagement activities when assigned.</p>
-</li>
-</ul>
-<p>
-<br><strong>REQUIREMENTS</strong>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>At least 4 years of relevant experience in Human Resource, preferably
-in the public service.</p>
-</li>
-<li>
-<p>Good understanding of the Public Service’s HR policies and Employment
-Act.</p>
-</li>
-<li>
-<p>Familiarity with the Public Service Human Resource and Payroll (HRP) Portal
-would be advantageous</p>
-</li>
-<li>
-<p>Outgoing personality with an ability to engage various levels of internal
-and external stakeholders comfortably.</p>
-</li>
-<li>
-<p>Possess strong analytical thinking and problem-solving skills.</p>
-</li>
-<li>
-<p>Possess high level of integrity and work ethics.</p>
-</li>
-<li>
-<p>Experience in data analysis and reporting will be an added advantage.</p>
-</li>
-</ul>
 </div>
-</details>
-</div>
-<p></p>
 <p></p>
 <p><strong>APPLICATION PROCEDURE</strong>
 <br>If you are interested in any of the above position, please submit your
