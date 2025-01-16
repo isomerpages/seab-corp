@@ -483,7 +483,7 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -502,7 +502,7 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/8873_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/8873_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -521,7 +521,7 @@ understand the revised examination format.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -612,7 +612,7 @@ understand the revised examination format.</p>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -633,7 +633,7 @@ understand the revised examination format.</p>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -654,7 +654,7 @@ understand the revised examination format.</p>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
-<br>[2026]</p>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
