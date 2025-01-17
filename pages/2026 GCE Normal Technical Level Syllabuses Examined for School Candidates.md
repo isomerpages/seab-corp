@@ -85,7 +85,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] ~</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/6128_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -143,8 +143,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Syllabus document will be made available in January 2025.
-<br>* Last year of exam in 2026.
+<p>* Last year of exam in 2026.
 <br>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
 if NTIL is included. The list of NTILs can be found under the <a href="/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>2025 GCE N(A)-Level syllabuses</u></a> for
 school candidates.</p>
