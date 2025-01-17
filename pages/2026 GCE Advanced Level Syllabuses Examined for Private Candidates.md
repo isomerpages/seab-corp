@@ -638,7 +638,7 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physics [Revised]&nbsp;~</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a> [Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
