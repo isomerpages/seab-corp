@@ -552,13 +552,14 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] ~</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6114_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]
+~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6123</p>
+<p>6114</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
