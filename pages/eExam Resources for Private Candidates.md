@@ -1,7 +1,7 @@
 ---
 title: eExam Resources for Private Candidates
 permalink: /e-exam-resources-for-private-candidates/
-variant: markdown
+variant: tiptap
 description: eExam Resources for Private Candidates
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -9,10 +9,9 @@ description: eExam Resources for Private Candidates
 <summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Check out the <a href="https://go.gov.sg/eoralcddtslides" rel="noopener noreferrer nofollow" target="_blank">online guides</a> or
-<a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a>for the following examinations to better understand
-their format and requirements. You will need to download the online guide
-before you can play the file.</p>
+<p>Check out the online guides<sup>~</sup> or <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a> for
+the following examinations to better understand their format and requirements.
+You will need to download the online guide before you can play the file.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
@@ -287,12 +286,13 @@ before you can play the file.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>~ Online guides will be made available at a later date.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
