@@ -2,6 +2,8 @@ collections:
   issue-1-2025-seablink:
     output: true
     order:
+      - SEAB's Participation in 7th International Conference on Education
+        Evaluation and Monitoring.md
       - Editor's Note.md
       - "SEAB@20: Joy at Work.md"
       - "SEAB@20: Pride in Work.md"
