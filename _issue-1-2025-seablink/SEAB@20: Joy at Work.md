@@ -26,10 +26,8 @@ papers.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest 1" src="/images/issue12025_collage_1__1_.png">
-</div>
 <p><em>Left: Let the celebrations begin!</em>
-</p>
-<p><em>Right: The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
+<br><em>Right: The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
 </p>
 <p>The event featured a vibrant array of activities, including exciting carnival
 games and a wide selection of assorted handicrafts, food and beverages.
@@ -39,9 +37,8 @@ Day songs. The event was a resounding success, with staff donating close
 to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
 <p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__3_.png">
-</div>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__2_.png">
 </div>
@@ -118,4 +115,4 @@ reinforcing the strong sense of camaraderie and unity that has been a cornerston
 of SEAB’s success. The year-end celebration was the perfect way to cap
 off a year of achievement, leaving everyone excited for the&nbsp; years
 ahead.</p>
-<p></p>
+<p></p></div>
