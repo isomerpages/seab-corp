@@ -552,13 +552,13 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] ~</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6114_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6123</p>
+<p>6114</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -566,7 +566,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Art [Revised] ~</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6124_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Art</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -644,8 +644,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Document(s) will be made available in January 2025.
-<br>° Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
+<p>° Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br>+ These subjects are applicable only for candidates from schools approved
 to offer the subjects.</p>

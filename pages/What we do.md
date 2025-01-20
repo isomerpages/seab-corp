@@ -1,7 +1,7 @@
 ---
 title: What we do
 permalink: /what-we-do/
-variant: markdown
+variant: tiptap
 description: What we do
 ---
 <p>The Singapore Examinations and Assessment Board (SEAB) was established
@@ -31,10 +31,9 @@ one makes a unique contribution to our organisation.
 <br>We live by high standards of work and conduct. We learn continuously to
 improve our knowledge and skills.
 <br>
-    <a id="board-members"></a>
-    </p><p><strong>Teamwork<br></strong>We combine our talents and effort for superior
-    outcomes. Together, each achieves more.</p>
-
+</p>
+<p><strong>Teamwork<br></strong>We combine our talents and effort for superior
+outcomes. Together, each achieves more.</p>
 <h3><strong>Board Members</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -145,7 +144,6 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-	<a id="management-team"></a>
 <summary>Management Team</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -227,16 +225,19 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </li>
 </ul>
 <p></p>
-<p><strong>Planning and Finance Division</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Ee Yuen Hui
-<br>Deputy Director, Planning and Finance</p>
+<br>Deputy Director, Corporate Cluster</p>
+<p></p>
 </li>
+</ul>
+<p><strong>Procurement</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Mr Lee Kien Meng
-<br>Assistant Director, Finance and Procurement</p>
+<br>Assistant Director, Procurement</p>
 <p></p>
 </li>
 </ul>
@@ -249,21 +250,21 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </li>
 </ul>
 <p></p>
-<p><strong>Corporate Communications</strong>
+<p><strong>Corporate Communications and Partnership</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Irene Wong Hui Woon
-<br>Senior Assistant Director, Corporate Communications</p>
+<br>Senior Assistant Director, Corporate Communications and Partnership</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Human Resource and Organisation Capability</strong>
+<p><strong>Human Resource</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Grace Leow Yin Li
-<br>Assistant Director, Human Resource and Organisation Capability</p>
+<br>Assistant Director, Human Resource</p>
 </li>
 </ul>
 </div>

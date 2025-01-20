@@ -344,7 +344,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] ~</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8879_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -407,6 +407,23 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9174</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9357_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9357</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -778,8 +795,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9750_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;[Revised]
-*+</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9750_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a> *+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -989,7 +1005,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art [Revised] ~</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9818_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
