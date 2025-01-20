@@ -23,6 +23,14 @@ fun-filled gathering.&nbsp;</p>
 Language moderators for over 10 years were recognised and appreciated at
 the event for their invaluable contributions to the development of examination
 papers.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest 1" src="/images/issue12025_collage_1__1_.png">
+</div>
+<p><em>Left: Let the celebrations begin!</em>
+</p>
+<p><em>Right: The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
+</p>
 <p>The event featured a vibrant array of activities, including exciting carnival
 games and a wide selection of assorted handicrafts, food and beverages.
 In celebration of National Day, attendees came together to proudly recite
@@ -31,6 +39,18 @@ Day songs. The event was a resounding success, with staff donating close
 to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__3_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__4_.png">
+</div>
+<p><em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br><br></strong>
+</p>
 <h4><strong>Old Shoe, New Future: Giving Footwear a Second Life Through Recycling</strong>&nbsp;</h4>
 <p>Between August and September 2024, an initiative to collect used shoes
 from staff with the goal of repurposing them for various sustainable uses
