@@ -148,8 +148,6 @@ updating personal details, missing fields, system errors.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Monday to Friday: 9:00am to 5:00pm</p>
-</li>
-<li>
 <p>We are closed on the following days:</p>
 </li>
 <li>
