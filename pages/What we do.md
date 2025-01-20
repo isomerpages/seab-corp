@@ -232,12 +232,12 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <p></p>
 </li>
 </ul>
-<p><strong>Finance and Procurement</strong>
+<p><strong>Procurement</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Lee Kien Meng
-<br>Assistant Director, Finance and Procurement</p>
+<br>Assistant Director, Procurement</p>
 <p></p>
 </li>
 </ul>
@@ -259,7 +259,7 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <p></p>
 </li>
 </ul>
-<p><strong>Human Resource </strong>
+<p><strong>Human Resource</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
