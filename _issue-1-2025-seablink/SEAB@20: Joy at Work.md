@@ -150,3 +150,18 @@ ahead.</p>
 <p><em>Wrapping up the year with festive cheer and joy all around at SEAB!</em>
 </p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="seab@20" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB@20: Our Memories (Part 1)</div><div class="isomer-card-description">p.30</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-1-2024.pdf" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SEAB Day: Cheers to 20 Years and Plenty More</div>
+<div class="isomer-card-description">p.4</div>
+<div class="isomer-card-link">SEAB-link Issue 1/2024</div>
+</div>
+</a>
+</div>
+<p></p>
