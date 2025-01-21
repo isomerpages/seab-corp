@@ -86,6 +86,11 @@ to pack essential medical supplies with care. SEAB is proud to have contributed
 to this important cause, while fostering teamwork and strengthening our
 commitment to community service.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="nkf" src="/images/SEABlink/nkf.jpg">
+</div>
+<p><em>Packing with purpose and pride - making a meaningful difference for those in need.</em>
+</p>
 <h4><strong>A Joyful Giving: SEAB’s School Readiness Bag Initiative for Students in Need</strong>&nbsp;</h4>
 <p>In 2024, SEAB embarked on a new corporate social responsibility effort
 and partnered with Project Hills to support the 'Sponsor a School Readiness
@@ -104,6 +109,11 @@ with joy as they received their bags. With these thoughtful contributions,
 SEAB’s efforts have given these students a good reason to look forward
 to their new school year.&nbsp;</p>
 <p></p>
+<p><em>Many hands make light work!</em>
+</p>
+<p></p>
+<p><em>Giving school bags, receiving smiles in return</em>
+</p>
 <h4><strong>Festive Cheers during SEAB's Year-end Celebrations&nbsp;</strong>&nbsp;</h4>
 <p>To close an incredible 20<sup>th</sup> year, the staff gathered for a memorable
 year-end celebration. The event was a vibrant reflection of the organisation's
@@ -131,3 +141,6 @@ reinforcing the strong sense of camaraderie and unity that has been a cornerston
 of SEAB’s success. The year-end celebration was the perfect way to cap
 off a year of achievement, leaving everyone excited for the&nbsp; years
 ahead.</p>
+<p></p>
+<p><em>Wrapping up the year with festive cheer and joy all around at SEAB!</em>
+</p>
