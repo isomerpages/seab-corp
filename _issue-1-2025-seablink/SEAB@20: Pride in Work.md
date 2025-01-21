@@ -125,6 +125,9 @@ to receive the two awards.</p>
 </div>
 <p><em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="dsa" src="/images/SEABlink/dsa_awards.png">
+</div>
 <p><em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
 </p>
 <p>The awards reflect the ongoing efforts in leveraging technology to serve
