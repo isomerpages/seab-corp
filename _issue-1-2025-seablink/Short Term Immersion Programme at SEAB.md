@@ -16,8 +16,7 @@ operations, specifically the management of answer scripts. These officers
 gained first-hand experience and understood the challenges in the management
 of National Examination operations. Upon completion of their STIP, we took
 the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
-<p>You can also view their interviews on SEAB’s YouTube channel at <a href="https://www.youtube.com/watch?v=61ULsPX2JBs" rel="noopener noreferrer nofollow" target="_blank">Short Term Immersion Programme (STIP) @ SEAB.</a>
-</p>
+<p>You can also view their interviews on SEAB’s YouTube channel at <a href="https://www.youtube.com/watch?v=61ULsPX2JBs" rel="noopener noreferrer nofollow" target="_blank">Short Term Immersion Programme (STIP) @ SEAB</a>.&nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
