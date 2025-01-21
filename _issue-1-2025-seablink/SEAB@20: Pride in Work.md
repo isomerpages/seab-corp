@@ -15,9 +15,8 @@ more.</p>
 (BCA) in August 2024. The recertification is valid until August 2027. Led
 by the Office and Estate Management Department, the recertification reflects
 SEAB’s commitment to creating a sustainable future.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BHS" src="/images/BHS_Overall.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="bhs" src="/images/SEABlink/BHS_Overall.jpg">
 </div>
 <p><em>Aerial view of our building at Jalan Bukit Ho Swee</em>
 </p>
@@ -40,15 +39,14 @@ pressure loss and achieve optimal chiller plant efficiency.</p>
 to supplement the water used in the central cooling system, and rainwater
 to irrigate the green spaces.</p>
 <p>c. Solar panels installed on the rooftop to offset electricity consumption.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="solar panels" src="/images/Solar_Panel__SEAB_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="solarpanel" src="/images/SEABlink/Solar_Panel__SEAB_.jpg">
 </div>
 <p><em>Solar panels installed on the roof of SEAB Building.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/green_spaces.png">
+<img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/SEABlink/green_spaces.png">
 </div>
 <p><em>Green spaces watered by the harvested rainwater.</em>
 </p>
