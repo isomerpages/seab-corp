@@ -70,16 +70,10 @@ the rest).</p>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>~90% of Oral Examiners indicated that the new arrangement helped save more than 20% of their time (e.g. travelling etc).</strong>
 </p>
-</li>
-<li>
 <p><strong>~90% of Oral Examiners indicated that the oral session timings were appropriate, and breaks were sufficient.</strong>
 </p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eod" src="/images/SEABlink/eod_oral.jpg">
