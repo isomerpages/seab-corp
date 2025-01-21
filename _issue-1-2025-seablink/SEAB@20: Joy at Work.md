@@ -49,6 +49,11 @@ Challenge, further underscoring the spirit of unity and giving.</p>
 </div>
 <p><em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_370.jpg">
+</div>
+<p><em>Celebrating unity, giving back, and honouring our nation!</em>
+</p>
 <h4><strong>Old Shoe, New Future: Giving Footwear a Second Life Through Recycling</strong>&nbsp;</h4>
 <p>Between August and September 2024, an initiative to collect used shoes
 from staff with the goal of repurposing them for various sustainable uses
