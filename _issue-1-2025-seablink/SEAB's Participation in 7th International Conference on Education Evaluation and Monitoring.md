@@ -57,6 +57,6 @@ education system.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic2.jpg">
 </div>
-<p><em>Presentation of SEAB’s efforts in adaptive testing at the conference</em>
+<p><em>Presentation of SEAB’s efforts in adaptive testing at the conference.</em>
 </p>
 <p></p>
