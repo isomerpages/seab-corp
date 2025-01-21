@@ -42,6 +42,12 @@ mindset that was adopted by the team.&nbsp;</p>
 <p>I am truly excited to bring back what I have learnt in SEAB to MUIS so
 that my team can also adopt the similar mindset and embrace technology
 at its fullest.”&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
+</div>
+<p><em>Ms Khairunnisa featured on the left in the photo.</em>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,6 +75,12 @@ stakeholders in mind. In addition, I have gained a deeper understanding
 of assessment beyond the perspective of a teacher in school. I think SEAB
 is very forward-looking and innovative and I look forward to seeing these
 innovations benefitting the schools and students in the future.”&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
+</div>
+<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -108,6 +120,11 @@ For example, I plan to implement a similar system of regular, brief check-ins
 during critical phases in my next project.”&nbsp;&nbsp;</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip3.jpg">
+</div>
+<p><em>Mr Sandeep Shetty</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,11 +150,14 @@ quality of our National Examinations and assessment standards is inspiring.&nbsp
 me of the broader impact of our work in the public service. This motivates
 me to continue improving our procurement policies for the benefit of all
 government agencies.”&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>Ms Lee Huixian </em>
+</p>
 <h4></h4>
 <p></p>
