@@ -47,12 +47,8 @@ the implementation in 2025 with the GCE N(A)/N(T)/O-Levels in a single
 window for all subjects (conducting O-level Mother Tongue Language with
 the rest).</p>
 <p>The survey feedback from oral examiners was positive:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>95% Oral Examiners were happy with the new oral exam arrangement.</strong>
 </p>
-</li>
-</ul>
 <p><strong>What they like most:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -70,9 +66,9 @@ the rest).</p>
 </li>
 </ul>
 <p></p>
-<p><strong>~90% of Oral Examiners indicated that the new arrangement helped save more than 20% of their time (e.g. travelling etc).</strong>
+<p><strong>90% of Oral Examiners indicated that the new arrangement helped save more than 20% of their time (e.g. travelling etc).</strong>
 </p>
-<p><strong>~90% of Oral Examiners indicated that the oral session timings were appropriate, and breaks were sufficient.</strong>
+<p><strong>90% of Oral Examiners indicated that the oral session timings were appropriate, and breaks were sufficient.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
