@@ -149,7 +149,7 @@ ahead.</p>
 </div>
 <p><em>Wrapping up the year with festive cheer and joy all around at SEAB!</em>
 </p>
-<p></p>
+<h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="seab@20" src="/images/SEABlink/eodkite.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB@20: Our Memories (Part 1)</div><div class="isomer-card-description">p.30</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-1-2024.pdf" class="isomer-card">
 <div class="isomer-card-image">
