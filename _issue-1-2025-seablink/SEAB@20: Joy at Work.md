@@ -25,14 +25,13 @@ the event for their invaluable contributions to the development of examination
 papers.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_196.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_196.jpg">
 </div>
-<p></p>
 <p><em>Let the celebrations begin!</em>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_212.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_212.jpg">
 </div>
 <p><em>The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
 </p>
@@ -43,14 +42,13 @@ the pledge, sing the national anthem, and join in a medley of National
 Day songs. The event was a resounding success, with staff donating close
 to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/funfest.png">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/funfest.png">
 </div>
 <p><em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_370.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_370.jpg">
 </div>
 <p><em>Celebrating unity, giving back, and honouring our nation!</em>
 </p>
