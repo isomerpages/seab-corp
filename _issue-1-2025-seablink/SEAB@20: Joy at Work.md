@@ -109,9 +109,14 @@ with joy as they received their bags. With these thoughtful contributions,
 SEAB’s efforts have given these students a good reason to look forward
 to their new school year.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags1.jpg">
+</div>
 <p><em>Many hands make light work!</em>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags2.jpg">
+</div>
 <p><em>Giving school bags, receiving smiles in return</em>
 </p>
 <h4><strong>Festive Cheers during SEAB's Year-end Celebrations&nbsp;</strong>&nbsp;</h4>
