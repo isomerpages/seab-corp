@@ -66,6 +66,16 @@ playgrounds, and jogging lanes. SEAB’s participation in this sustainability
 cause not only supports environmental stewardship but also promotes the
 creative reuse of materials in innovative ways. &nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240823_WA0003.jpg">
+</div>
+<p><em>The turnout was great, with staff generously donating their footwear for a worthy cause.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240904_WA0042.jpg">
+</div>
+<p><em>SEAB representatives dropped off the collected footwear at Cloop sorting facilities.</em>
+</p>
 <h4><strong>Packing with Purpose: Essential Medical Supplies for Dialysis Patients</strong>&nbsp;</h4>
 <p>SEAB staff engaged in a meaningful volunteering initiative with the National
 Kidney Foundation, which involved packing essential medical supplies for
