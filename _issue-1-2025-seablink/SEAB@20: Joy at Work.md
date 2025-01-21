@@ -1,7 +1,7 @@
 ---
 title: "SEAB@20: Joy at Work"
 permalink: /issue-1-2025-seablink-newsletter/seab-20-joy-at-work/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>In commemoration of SEAB's 20th anniversary, various initiatives were
@@ -25,8 +25,12 @@ the event for their invaluable contributions to the development of examination
 papers.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funfest 1" src="/images/issue12025_collage_1__1_.png">
-<p><em>Left: Let the celebrations begin!</em>
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_196.jpg">
+</div>
+<p></p>
+<p><em>Let </em>
+</p>
+<p><em>he celebrations begin!</em>
 <br><em>Right: The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
 </p>
 <p>The event featured a vibrant array of activities, including exciting carnival
@@ -37,16 +41,7 @@ Day songs. The event was a resounding success, with staff donating close
 to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
 <p></p>
-<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__3_.png">
-
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__2_.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/issue12025_collage_1__4_.png">
-</div>
-<p><em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br><br></strong>
+<p><em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br></strong>
 </p>
 <h4><strong>Old Shoe, New Future: Giving Footwear a Second Life Through Recycling</strong>&nbsp;</h4>
 <p>Between August and September 2024, an initiative to collect used shoes
@@ -115,4 +110,3 @@ reinforcing the strong sense of camaraderie and unity that has been a cornerston
 of SEAB’s success. The year-end celebration was the perfect way to cap
 off a year of achievement, leaving everyone excited for the&nbsp; years
 ahead.</p>
-<p></p></div>
