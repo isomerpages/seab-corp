@@ -89,8 +89,15 @@ expected to reap the following benefits:</p>
 to 860 man-days saved; and</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A potential annual cost avoidance of
 about $96,000 manpower costs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
+</div>
 <p><em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/ABSM_group_photo_1.jpg">
+</div>
 <p><em>The ABSM was a collaborative effort between SEAB’s Exam Operations Division and Singapore Polytechnic.</em>
 </p>
 <h4><strong>Celebrating Service Excellence: SEAB Shines at the Digital Services Awards 2024!</strong></h4>
@@ -98,9 +105,12 @@ about $96,000 manpower costs.</p>
 an event recognising excellence in public digital services.&nbsp; Launched
 in 2021, the DSA is organised by GovTech with support from the Smart Nation
 Group.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_1.jpg">
+</div>
 <p><em>The DSA ceremony, held at the Lifelong Learning Institute</em>
 </p>
-<p></p>
 <p>This year, SEAB's digital services – SEAB’s Corporate Website, Candidates
 Portal, and Exam Personnel Portal - received two awards: Best Search Engine
 Optimisation (SEO) and Best Functionality. Winners of these awards are
@@ -110,6 +120,9 @@ government websites and digital services.</p>
 <p>SEAB’s achievements were acknowledged at the DSA ceremony on 28 November
 2024, with Senior Director (SD), Ms Selena Yeo<u>,</u> representing SEAB
 to receive the two awards.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/S_Edited_238.jpg">
+</div>
 <p><em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
 </p>
 <p><em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
@@ -119,6 +132,9 @@ SEAB’s customers better. They are also a testament to the dedication and
 hard work put in by the project teams from SEAB’s Corporate Cluster and
 Exam Operations Division, with strong support rendered by the Ministry
 of Education’s Information Technology Division.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_group.jpg">
+</div>
 <p><em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
 </p>
 <p></p>
