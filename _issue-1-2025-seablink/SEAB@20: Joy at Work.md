@@ -28,10 +28,13 @@ papers.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_196.jpg">
 </div>
 <p></p>
-<p><em>Let </em>
+<p><em>Let the celebrations begin!</em>
+<br>
 </p>
-<p><em>he celebrations begin!</em>
-<br><em>Right: The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_212.jpg">
+</div>
+<p><em>The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
 </p>
 <p>The event featured a vibrant array of activities, including exciting carnival
 games and a wide selection of assorted handicrafts, food and beverages.
@@ -41,6 +44,9 @@ Day songs. The event was a resounding success, with staff donating close
 to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/funfest.png">
+</div>
 <p><em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br></strong>
 </p>
 <h4><strong>Old Shoe, New Future: Giving Footwear a Second Life Through Recycling</strong>&nbsp;</h4>
