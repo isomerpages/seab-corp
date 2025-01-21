@@ -141,6 +141,9 @@ reinforcing the strong sense of camaraderie and unity that has been a cornerston
 of SEAB’s success. The year-end celebration was the perfect way to cap
 off a year of achievement, leaving everyone excited for the&nbsp; years
 ahead.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="year-end celebrations" src="/images/SEABlink/yearend_2024.png">
+</div>
 <p><em>Wrapping up the year with festive cheer and joy all around at SEAB!</em>
 </p>
+<p></p>
