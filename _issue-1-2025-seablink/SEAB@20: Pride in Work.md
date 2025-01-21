@@ -139,11 +139,11 @@ of Education’s Information Technology Division.</p>
 <p><em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
 </p>
 <h4><strong>Suggested Reads</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://online.fliphtml5.com/qqqmg/vtzs/#p=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th anniversary" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">20 Years of Transformation: Commemorating 2004-2024</div><div class="isomer-card-link">20th Anniversary Commemorative Magazine</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://online.fliphtml5.com/qqqmg/vtzs/#p=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th anniversary" src="/images/SEABlink/20th_anniv_comm.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">20 Years of Transformation: Commemorating 2004-2024</div><div class="isomer-card-link">20th Anniversary Commemorative Magazine</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/2022seablinkissue2.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/dsa2022.png">
 </div>
 </div>
 <div class="isomer-card-body">
