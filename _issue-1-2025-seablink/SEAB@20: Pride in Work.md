@@ -9,7 +9,7 @@ the board’s key milestones in 2024. They reinforce SEAB’s commitment to
 innovation, sustainability, and service excellence. Read on to find out
 more.</p>
 <p></p>
-<h4>SEAB Building Achieves Remarkable Sustainability Milestone</h4>
+<h4><strong>SEAB Building Achieves Remarkable Sustainability Milestone</strong></h4>
 <p>SEAB Building has achieved a re-certification as a Green Mark Platinum
 (Super Low Energy) Building by the Building and Construction Authority
 (BCA) in August 2024. The recertification is valid until August 2027. Led
