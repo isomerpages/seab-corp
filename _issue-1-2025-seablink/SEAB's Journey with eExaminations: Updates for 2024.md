@@ -68,6 +68,8 @@ the questions via SEAB’s e-Examination system.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://online.fliphtml5.com/qqqmg/vtzs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e-exams" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Charting New Waters: Start of e-Examinations</div><div class="isomer-card-description">p.14</div><div class="isomer-card-link">20th Anniversary Commemorative Magazine</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-1-2023-final.pdf" class="isomer-card">
 <div class="isomer-card-image">
