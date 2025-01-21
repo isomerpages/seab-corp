@@ -16,7 +16,10 @@ more.</p>
 by the Office and Estate Management Department, the recertification reflects
 SEAB’s commitment to creating a sustainable future.</p>
 <p></p>
-<p><em>Aerial view of our building at Jalan Bukit Ho Swee </em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BHS" src="/images/BHS_Overall.jpg">
+</div>
+<p><em>Aerial view of our building at Jalan Bukit Ho Swee</em>
 </p>
 <p>SEAB Building features a passive architectural design where the orientation
 of the external and internal facades was deliberately designed to minimise
@@ -38,10 +41,15 @@ to supplement the water used in the central cooling system, and rainwater
 to irrigate the green spaces.</p>
 <p>c. Solar panels installed on the rooftop to offset electricity consumption.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="solar panels" src="/images/Solar_Panel__SEAB_.jpg">
+</div>
 <p><em>Solar panels installed on the roof of SEAB Building.</em>
 </p>
-<p><em> </em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/green_spaces.png">
+</div>
 <p><em>Green spaces watered by the harvested rainwater.</em>
 </p>
 <p>Collaborative efforts across our organisation have also further enhanced

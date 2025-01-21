@@ -23,6 +23,19 @@ fun-filled gathering.&nbsp;</p>
 Language moderators for over 10 years were recognised and appreciated at
 the event for their invaluable contributions to the development of examination
 papers.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_196.jpg">
+</div>
+<p></p>
+<p><em>Let the celebrations begin!</em>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_212.jpg">
+</div>
+<p><em>The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
+</p>
 <p>The event featured a vibrant array of activities, including exciting carnival
 games and a wide selection of assorted handicrafts, food and beverages.
 In celebration of National Day, attendees came together to proudly recite
@@ -31,6 +44,16 @@ Day songs. The event was a resounding success, with staff donating close
 to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/funfest.png">
+</div>
+<p><em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/Photo_370.jpg">
+</div>
+<p><em>Celebrating unity, giving back, and honouring our nation!</em>
+</p>
 <h4><strong>Old Shoe, New Future: Giving Footwear a Second Life Through Recycling</strong>&nbsp;</h4>
 <p>Between August and September 2024, an initiative to collect used shoes
 from staff with the goal of repurposing them for various sustainable uses
@@ -43,6 +66,16 @@ playgrounds, and jogging lanes. SEAB’s participation in this sustainability
 cause not only supports environmental stewardship but also promotes the
 creative reuse of materials in innovative ways. &nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240823_WA0003.jpg">
+</div>
+<p><em>The turnout was great, with staff generously donating their footwear for a worthy cause.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240904_WA0042.jpg">
+</div>
+<p><em>SEAB representatives dropped off the collected footwear at Cloop sorting facilities.</em>
+</p>
 <h4><strong>Packing with Purpose: Essential Medical Supplies for Dialysis Patients</strong>&nbsp;</h4>
 <p>SEAB staff engaged in a meaningful volunteering initiative with the National
 Kidney Foundation, which involved packing essential medical supplies for
@@ -53,6 +86,11 @@ to pack essential medical supplies with care. SEAB is proud to have contributed
 to this important cause, while fostering teamwork and strengthening our
 commitment to community service.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="nkf" src="/images/SEABlink/nkf.jpg">
+</div>
+<p><em>Packing with purpose and pride - making a meaningful difference for those in need.</em>
+</p>
 <h4><strong>A Joyful Giving: SEAB’s School Readiness Bag Initiative for Students in Need</strong>&nbsp;</h4>
 <p>In 2024, SEAB embarked on a new corporate social responsibility effort
 and partnered with Project Hills to support the 'Sponsor a School Readiness
@@ -71,6 +109,16 @@ with joy as they received their bags. With these thoughtful contributions,
 SEAB’s efforts have given these students a good reason to look forward
 to their new school year.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags1.jpg">
+</div>
+<p><em>Many hands make light work!</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags2.jpg">
+</div>
+<p><em>Giving school bags, receiving smiles in return</em>
+</p>
 <h4><strong>Festive Cheers during SEAB's Year-end Celebrations&nbsp;</strong>&nbsp;</h4>
 <p>To close an incredible 20<sup>th</sup> year, the staff gathered for a memorable
 year-end celebration. The event was a vibrant reflection of the organisation's
@@ -98,4 +146,9 @@ reinforcing the strong sense of camaraderie and unity that has been a cornerston
 of SEAB’s success. The year-end celebration was the perfect way to cap
 off a year of achievement, leaving everyone excited for the&nbsp; years
 ahead.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="year-end celebrations" src="/images/SEABlink/yearend_2024.png">
+</div>
+<p><em>Wrapping up the year with festive cheer and joy all around at SEAB!</em>
+</p>
 <p></p>

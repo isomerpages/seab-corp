@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Normal Academic Level Syllabuses Examined for School Candidates
 permalink: /gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/
-variant: tiptap
+variant: markdown
 description: N(A)-Level Syllabuses Examined in 2025 for School Candidates
 ---
 <p>Here are the 2025 GCE N(A)-Level examination syllabuses that are offered
@@ -340,7 +340,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2025/6125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;</p>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2025/6125_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Art</u></a>&nbsp;#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -400,7 +400,8 @@ from SEAB.</p>
 </tbody>
 </table>
 <p></p>
-<p><sup>^</sup> Change is to response format for Paper 2. The new response
+<p># Last year of exam in 2025.
+<br><sup>^</sup> Change is to response format for Paper 2. The new response
 format requires candidates to write their answers on the question paper.
 <br>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.</p>
