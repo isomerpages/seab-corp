@@ -27,9 +27,9 @@ papers.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_196.jpg">
 </div>
-<p><em>Let the celebrations begin!</em>
+<em>Let the celebrations begin!</em>
 <br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_212.jpg">
 </div>
