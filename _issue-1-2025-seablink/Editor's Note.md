@@ -1,6 +1,6 @@
 ---
 title: Editor's Note
-permalink: /issue-1-2025-seablink-newsletter/editor-note/
+permalink: /seab-link-issue-1-2025/
 variant: tiptap
 description: ""
 ---

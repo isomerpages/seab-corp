@@ -1,7 +1,7 @@
 ---
 title: "SEAB@20: Joy at Work"
 permalink: /issue-1-2025-seablink-newsletter/seab-20-joy-at-work/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>In commemoration of SEAB's 20th anniversary, various initiatives were
@@ -27,9 +27,9 @@ papers.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_196.jpg">
 </div>
-<p><em>Let the celebrations begin!</em>
+<em>Let the celebrations begin!</em>
 <br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_212.jpg">
 </div>

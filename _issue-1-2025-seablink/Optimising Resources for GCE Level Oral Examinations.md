@@ -4,10 +4,10 @@ permalink: /issue-1-2025-seablink-newsletter/optimising-resources-for-gce-level-
 variant: tiptap
 description: ""
 ---
-<p>The GCE N(A)/N(T), O- and A-Level oral examinations have been streamlined,
-resulting in a significant reduction in the overall number of examination
-days and related resources.</p>
-<p>GCE N(A)/N(T)/O-Level oral examinations have long been held in the afternoons,
+<p>The GCE N(A)/N(T)/O/A-Level oral examinations have been streamlined, resulting
+in a significant reduction in the overall number of examination days and
+related resources.</p>
+<p>GCE N(A)/N(T)/O/A-Level oral examinations have long been held in the afternoons,
 taking up a total of 23 school days. Similarly, the GCE A-Level oral examinations
 were also held over 10 school days in the afternoons. Since 2024, this
 has now reduced to just three full days and nine afternoons for GCE N(A)/N(T)/O-Level
