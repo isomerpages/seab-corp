@@ -16,8 +16,7 @@ operations, specifically the management of answer scripts. These officers
 gained first-hand experience and understood the challenges in the management
 of National Examination operations. Upon completion of their STIP, we took
 the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
-<p>You can also view their interviews on SEAB’s YouTube channel at &lt;insert
-link&gt;</p>
+<p>You can also view their interviews on SEAB’s YouTube channel at <a href="https://www.youtube.com/watch?v=61ULsPX2JBs" rel="noopener noreferrer nofollow" target="_blank">Short Term Immersion Programme (STIP) @ SEAB</a>.&nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -42,6 +41,12 @@ mindset that was adopted by the team.&nbsp;</p>
 <p>I am truly excited to bring back what I have learnt in SEAB to MUIS so
 that my team can also adopt the similar mindset and embrace technology
 at its fullest.”&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
+</div>
+<p><em>Ms Khairunnisa featured on the left in the photo.</em>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,6 +74,12 @@ stakeholders in mind. In addition, I have gained a deeper understanding
 of assessment beyond the perspective of a teacher in school. I think SEAB
 is very forward-looking and innovative and I look forward to seeing these
 innovations benefitting the schools and students in the future.”&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
+</div>
+<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -108,6 +119,11 @@ For example, I plan to implement a similar system of regular, brief check-ins
 during critical phases in my next project.”&nbsp;&nbsp;</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip3.jpg">
+</div>
+<p><em>Mr Sandeep Shetty</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,11 +149,16 @@ quality of our National Examinations and assessment standards is inspiring.&nbsp
 me of the broader impact of our work in the public service. This motivates
 me to continue improving our procurement policies for the benefit of all
 government agencies.”&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4></h4>
+<p><em>Ms Lee Huixian</em>
+</p>
+<h4><strong>Suggested Reads</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=61ULsPX2JBs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STIP" src="/images/SEABlink/stip_YT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Short Term Immersion Programme @ SEAB</div><div class="isomer-card-link">Watch the video here</div></div></a>
+</div>
 <p></p>

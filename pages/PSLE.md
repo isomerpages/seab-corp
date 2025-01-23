@@ -14,7 +14,7 @@ education, in Singapore.&nbsp;
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important dates Image" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/2024-psle-exam-rules-and-regulation-booklet" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-psle" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 PSLE Rules and Regulations For Candidates" src="/images/pslerulesandreg.png">
