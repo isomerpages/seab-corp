@@ -51,7 +51,7 @@ education system.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic1.jpg">
 </div>
-<p><em>Participating in the segment on future-oriented core competencies of students and their assessments.</em>
+<p><em>Participation in the segment on future-oriented core competencies of students and their assessments.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
