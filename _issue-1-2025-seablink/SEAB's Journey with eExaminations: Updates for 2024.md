@@ -182,6 +182,19 @@ of the eExam system intuitive and could navigate its interface with ease.&nbsp;&
 from the actual 2024 e-Examination. We hope you find them interesting!&nbsp;</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_4.jpg">
+</div>
+<p><em>Left: A PS in a computer lab of a school.</em>&nbsp;</p>
+<p><em>Right: A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/MCQ.jpg">
+</div>
+<p><em>A multiple-choice question in the 2024 e-Examination.</em>&nbsp;&nbsp;</p>
+<p><em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;</p>
+<p><em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;</p>
+<p><em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;</p>
 <p></p>
 <p></p>
 </td>
