@@ -192,8 +192,20 @@ from the actual 2024 e-Examination. We hope you find them interesting!&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/MCQ.jpg">
 </div>
 <p><em>A multiple-choice question in the 2024 e-Examination.</em>&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Drag_drop.jpg">
+</div>
 <p><em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/human_heart.jpg">
+</div>
 <p><em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Circuit.jpg">
+</div>
 <p><em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;</p>
 <p></p>
 <p></p>
