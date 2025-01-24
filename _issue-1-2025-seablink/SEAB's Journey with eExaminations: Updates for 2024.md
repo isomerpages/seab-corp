@@ -4,17 +4,18 @@ permalink: /issue-1-2025-seablink-newsletter/seabs-journey-with-eexaminations-up
 variant: tiptap
 description: ""
 ---
-<p>Since the introduction of e-Examinations in 2013, digital assessments
-have been integrated into classrooms to align students’ learning with the
-evolving needs of the modern workforce. In response to digitalisation and
-technological advancements, Singapore’s e-Examinations offer a relevant,
-authentic, and engaging assessment experience. By mirroring real-world
-environments, such as computer text input, and using interactive media,
-e-Examinations assess skills and knowledge that traditional pen-and-paper
-methods cannot. In 2024, three subjects were assessed electronically, with
-new assessment modes - N(A) Social Studies, N(T) Science, and N(T) Mother
-Tongue Languages. This article shares how SEAB has continued in its push
-towards modernising education assessments. &nbsp;</p>
+<p>Digital assessments have been integrated into classrooms to align students’
+learning with the evolving needs of the modern workforce. In response to
+digitalisation and technological advancements, e-Examinations was introduced
+in 2013 to offer a relevant, authentic, and engaging assessment experience.
+By mirroring real-world environments, such as writing email responses,
+and understanding information via interactive media, e-Examinations assess
+skills and knowledge that traditional pen-and-paper methods cannot. In
+2024, three subjects were assessed electronically, with the introduction
+of new examination formats to assess students more effectively using technology.
+These included N(A) Social Studies, N(T) Science, and N(T) Mother Tongue
+Languages. This article shares how SEAB has continued in its push towards
+modernising education assessments. &nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -28,9 +29,122 @@ e-Examinations in 2024. This marks the first GCE-Level Humanities subject
 to be examined using this mode in Singapore as well as the first e-Written
 examination to accommodate a large cohort of nearly ten thousand candidates.&nbsp;&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_1.png">
+</div>
+<p><em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;</p>
 <p></p>
+<p><strong><em>What does a hybrid e-Examinations mode mean?&nbsp;</em></strong>
+</p>
+<p>Candidates receive the question paper in hard copy and type their responses
+via laptops on a Digital Answer Booklet, which resides on SEAB’s eExam
+system.&nbsp;</p>
 <p></p>
+<p><em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;</p>
 <p></p>
+<p><strong>Key features of Digital Answer Booklet (DAB)</strong>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The DAB comes with the typical text editing tools such as bold, italic,
+underline, copy and paste that most of us are familiar with. This reiterates
+one key objective of the e-Examinations, which is to provide an authentic
+and relevant assessment experience that mirrors the workplace.&nbsp;&nbsp;</p>
+<p></p>
+<p><em>Image of DAB’s key features&nbsp;</em>&nbsp;</p>
+<p></p>
+<p>Another useful feature is the bookmarking function, which allows candidates
+to tag specific responses they wish to revisit before submission. These
+bookmarked responses are highlighted during the review phase, making it
+easy for candidates to quickly recall and refine their responses.&nbsp;&nbsp;</p>
+<p><em>Image of Bookmarked tags and Review</em>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Hands-on practice sessions</strong>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Prior to the examination, SEAB conducted practice sessions (PS) for students
+from 22 to 25 April 2024. The objective of the PS was to familiarise students
+with accessing the eExam system, as well as the interface and features
+of the DAB. During the PS, SEAB staff visited several schools to observe
+the sessions and provide technical support to the school personnel and
+students.&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<p>The survey conducted at the end of the PS (see Table 1) indicated that
+students welcomed the e-Examination mode. They found the eExam system easy
+to use, and they had a positive user experience when using the DAB. Students
+felt comfortable and confident sitting for their GCE N(A)-Level Social
+Studies e-Examination using the system.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>In addition to the PS, resources such as an information deck and a video
+guide on the e-Examination interface were made available on SEAB’s website&nbsp;
+(<a href="https://www.seab.gov.sg/home/examinations/e-exam-resources" class="Hyperlink SCXW196356877 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB - e-Exam Resources for School Candidates</u></a>),
+which allowed students to revisit them as and when needed.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Table 1- Survey results</strong>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Survey Statements</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>% Strongly Agree/Agree</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The eExam system is user friendly.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I felt that the Practice Session went on smoothly for me.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>93&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I find it easy to edit my responses.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I find it easy to organize my responses&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I found the timer useful.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>94&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Social Studies teachers’ feedback from PS and examination day</strong>&nbsp;</p>
+<p>Interviews were conducted with the Social Studies teachers at the PS and
+on the examination day, and they provided positive feedback. Some of the
+teachers’ comments include:&nbsp;</p>
+<p></p>
+<p><strong>Candidates’ experiences in the actual examinations</strong>&nbsp;</p>
+<p>Post-examination conversations with candidates reflected positive experiences
+as well. They preferred the electronic examination experience to the pen-based
+examination and found the functions in the DAB helpful.&nbsp; Here are
+some positive comments from candidates:&nbsp;</p>
 <p></p>
 </td>
 </tr>
