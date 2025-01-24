@@ -272,8 +272,8 @@ e-Examination interface with ease, requiring no assistance from invigilators.&nb
 </div>
 <p><em>Left: A candidate completing his BML examination*.</em>
 </p>
-<p><em>A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
-<p><em>Right: A candidate completing his BML examination*.</em>&nbsp;</p>
+<p><em>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture_4.jpg">
 </div>
