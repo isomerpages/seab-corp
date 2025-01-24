@@ -46,15 +46,13 @@ system.&nbsp;</p>
 <p><em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;</p>
 <p></p>
 <p><strong>Key features of Digital Answer Booklet (DAB)</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>T</p>
-<p>The DAB comes with the typical text editing tools such as bold, italic,
-underline, copy and paste that most of us are familiar with. This reiterates
-one key objective of the e-Examinations, which is to provide an authentic
-and relevant assessment experience that mirrors the workplace.&nbsp;&nbsp;</p>
+<p>&nbsp;The DAB comes with the typical text editing tools such as bold,
+italic, underline, copy and paste that mst of us are familiar with. This
+reiterates one key objective of the e-Examinations, which is to provide
+an authentic and relevant assessment experience that mirrors the workplace.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_key_feature_bookmarked.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/DAB_key_features.png">
 </div>
 <p><em>Image of DAB’s key features&nbsp;</em>&nbsp;</p>
 <p></p>
@@ -62,6 +60,9 @@ and relevant assessment experience that mirrors the workplace.&nbsp;&nbsp;</p>
 to tag specific responses they wish to revisit before submission. These
 bookmarked responses are highlighted during the review phase, making it
 easy for candidates to quickly recall and refine their responses.&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_key_feature_bookmarked.jpg">
+</div>
 <p><em>Image of Bookmarked tags and Review</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Hands-on practice sessions</strong>&nbsp;&nbsp;</p>
