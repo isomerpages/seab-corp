@@ -40,15 +40,22 @@ examination to accommodate a large cohort of nearly ten thousand candidates.&nbs
 via laptops on a Digital Answer Booklet, which resides on SEAB’s eExam
 system.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_Interface_for_Practice_Session.jpg">
+</div>
 <p><em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;</p>
 <p></p>
 <p><strong>Key features of Digital Answer Booklet (DAB)</strong>&nbsp;</p>
 <p>&nbsp;</p>
+<p>T</p>
 <p>The DAB comes with the typical text editing tools such as bold, italic,
 underline, copy and paste that most of us are familiar with. This reiterates
 one key objective of the e-Examinations, which is to provide an authentic
 and relevant assessment experience that mirrors the workplace.&nbsp;&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_key_feature_bookmarked.jpg">
+</div>
 <p><em>Image of DAB’s key features&nbsp;</em>&nbsp;</p>
 <p></p>
 <p>Another useful feature is the bookmarking function, which allows candidates
@@ -64,7 +71,7 @@ with accessing the eExam system, as well as the interface and features
 of the DAB. During the PS, SEAB staff visited several schools to observe
 the sessions and provide technical support to the school personnel and
 students.&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <p>The survey conducted at the end of the PS (see Table 1) indicated that
 students welcomed the e-Examination mode. They found the eExam system easy
 to use, and they had a positive user experience when using the DAB. Students
@@ -234,6 +241,10 @@ of the eExam system before the actual examinations.&nbsp;&nbsp;</p>
 <p>For schools, the PS gave them an understanding of the requirements for
 e-Examinations and the typical assistance that the students may need from
 the examination personnel.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture1.png">
+</div>
 <p><em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
 </p>
 <p>Feedback collected from surveys and interviews at the end of the PS showed
