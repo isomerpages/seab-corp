@@ -248,9 +248,21 @@ using Hanyu Pinyin.&nbsp;</p>
 and Development Division visited schools to observe <s>t</s>the first e-Examination
 for BMTL candidates first hand.&nbsp; Candidates generally navigated the
 e-Examination interface with ease, requiring no assistance from invigilators.&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_3.png">
+</div>
 <p><em>Candidates sitting for their BMTL e-Examination.</em>&nbsp;</p>
-<p><em>Left: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
+</div>
+<p><em>Left: A candidateA candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
 <p><em>Right: A candidate completing his BML examination*.</em>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture_4.jpg">
+</div>
 <p><em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;</p>
 <p>In post-examination discussions with candidates and teachers, both groups
 shared positive feedback on the first implementation of the BMTL e-Examination.
