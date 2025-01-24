@@ -58,7 +58,6 @@ easy for candidates to quickly recall and refine their responses.&nbsp;&nbsp;</p
 <p><em>Image of Bookmarked tags and Review</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Hands-on practice sessions</strong>&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p>Prior to the examination, SEAB conducted practice sessions (PS) for students
 from 22 to 25 April 2024. The objective of the PS was to familiarise students
 with accessing the eExam system, as well as the interface and features
@@ -150,7 +149,7 @@ some positive comments from candidates:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>N(T)-Level Science e-Examination&nbsp;</strong></h4>
+<h4><strong>N(T)-Level Science&nbsp;&nbsp;</strong></h4>
 <p>The first-ever Science electronic examination took place in Singapore
 on 13 September 2024 for 3,749 students offering the revised N(T)-Level
 Science.&nbsp; This e-Examination for Paper 1 incorporated questions with
@@ -158,7 +157,29 @@ media-rich interactive stimuli such as videos, animations and interactive
 simulations (VAI). The table provides a brief overview of the differences
 between the previous and revised examination syllabuses (ES).&nbsp; For
 detailed information on the assessment scheme and the electronic item formats,
-interested readers can refer to a previously published article <a href="https://www.seab.gov.sg/docs/default-source/publiccommunications/seab-link-newsletter/seab-link_issue-1_2022_final.pdf" class="Hyperlink SCXW240429030 BCX8" rel="noreferrer noopener" target="_blank"><u>here</u></a>.&nbsp;</p>
+interested readers can refer to a previously published article here.&nbsp;</p>
+<p>The journey to implementing the N(T)-Level Science e-Examination began
+as early as 2017. To assess its feasibility, SEAB conducted studies in
+20 secondary schools with students offering N(T)-Level Science.&nbsp; In
+addition, SEAB held consultations with approximately 80 school leaders,
+key personnel, and teachers from 34 other schools through various platforms
+such as focus groups and school visits. The feedback from stakeholders
+was positive with many expressing that the e-mode and VAI-embedded questions
+make Science assessments more engaging and authentic.&nbsp;</p>
+<p>In preparation for the changes to the examination, SEAB held training
+workshops and briefings for teachers and provided media resources to schools.&nbsp;
+Students also had an opportunity to familiarise themselves with the e-Examination
+system interface through practice sessions (PS) conducted in April 2024.&nbsp;
+The post-practice feedback from the students was highly favourable. For
+example, 90% of about 2,300 respondents liked the experience of taking
+the examination using a computer. Notably, 88% preferred to take the exam
+on a computer rather than on paper. The experience during the PS also impacted
+their views with around 92% reporting that they looked forward to taking
+other exams on a computer. Encouragingly, observational reports from schools
+showed that most students with approved access arrangements found the functionalities
+of the eExam system intuitive and could navigate its interface with ease.&nbsp;&nbsp;</p>
+<p>The following photographs display snippets of the PS and some questions
+from the actual 2024 e-Examination. We hope you find them interesting!&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
