@@ -222,7 +222,42 @@ MTL (BMTL) Papers 1 and 2 were examined electronically with effect from
 format was implemented for N(T) BMTL. Paper 1 required candidates to respond
 to an online post through text input, while Paper 2 consisted of 15 multiple-choice
 questions (MCQs). Candidates were required to submit their responses to
-the questions via SEAB’s e-Examination system.</p>
+the questions via SEAB’s eExam system.&nbsp;&nbsp;</p>
+<p>To better support schools and students, SEAB worked with schools to organise
+practice sessions (PS) in April 2024. The PS provided opportunities for
+the students to familiarise themselves with the e-Exam system. Students
+experienced answering questions through keyboard typing and tried out various
+features in the eExam system, such as text editing, copy and paste, countdown
+timers, and word count functions.&nbsp; Additionally, a <a href="https://file.go.gov.sg/eexam2experienceguidewrittensubjectsnlevel.pdf" class="Hyperlink SCXW35668396 BCX8" rel="noreferrer noopener" target="_blank"><u>guide</u></a> was
+also created to help students understand the interface and functionalities
+of the eExam system before the actual examinations.&nbsp;&nbsp;</p>
+<p>For schools, the PS gave them an understanding of the requirements for
+e-Examinations and the typical assistance that the students may need from
+the examination personnel.&nbsp;</p>
+<p><em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
+</p>
+<p>Feedback collected from surveys and interviews at the end of the PS showed
+that both students and teachers welcomed e-Examinations. They found the
+eExam system intuitive and user-friendly.&nbsp;&nbsp;</p>
+<p>The positive reception notwithstanding, there were some challenges. Students
+taking Basic Tamil Language needed more time and effort to adapt to the
+Tamil keyboard.&nbsp; Similarly, students taking Basic Chinese Language
+needed more practices to enhance their accuracy in typing Chinese characters
+using Hanyu Pinyin.&nbsp;</p>
+<p>On the day of the examination, several officers from the Assessment Planning
+and Development Division visited schools to observe <s>t</s>the first e-Examination
+for BMTL candidates first hand.&nbsp; Candidates generally navigated the
+e-Examination interface with ease, requiring no assistance from invigilators.&nbsp;&nbsp;</p>
+<p><em>Candidates sitting for their BMTL e-Examination.</em>&nbsp;</p>
+<p><em>Left: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
+<p><em>Right: A candidate completing his BML examination*.</em>&nbsp;</p>
+<p><em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;</p>
+<p>In post-examination discussions with candidates and teachers, both groups
+shared positive feedback on the first implementation of the BMTL e-Examination.
+Here are some of the feedback from students and teachers:&nbsp;</p>
+<p><strong>Feedback from Candidates:</strong>&nbsp;</p>
+<p><strong>Feedback from Teachers:</strong>&nbsp;</p>
+<p><em>*Note: All images used in the examination questions have been credited to the respective sources in the eExam system.</em>&nbsp;</p>
 </td>
 </tr>
 </tbody>
