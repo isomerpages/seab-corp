@@ -295,8 +295,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Moosa Rasheed
-<br>+960 7772670</p>
-<p><a href="mailto:moosa@brightway.edu.mv" rel="noopener nofollow" target="_blank">moosa@brightway.edu.mv</a>
+<br>+960 7772670
+<br><a href="mailto:moosa@brightway.edu.mv" rel="noopener nofollow" target="_blank">moosa@brightway.edu.mv</a>
 </p>
 </td>
 </tr>
@@ -316,8 +316,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Su Mon Kyaw
-<br>+95 9592011406</p>
-<p><a href="mailto:registration@mctamandalay.com" rel="noopener nofollow" target="_blank">registration@mctamandalay.com</a>
+<br>+95 9592011406
+<br><a href="mailto:registration@mctamandalay.com" rel="noopener nofollow" target="_blank">registration@mctamandalay.com</a>
 </p>
 </td>
 </tr>
@@ -337,8 +337,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hlaing Mar Lar Kyaw
-<br>+95 9453369781</p>
-<p><a href="mailto:info@sismyanmar.com" rel="noopener nofollow" target="_blank">info@sismyanmar.com</a>
+<br>+95 9453369781
+<br><a href="mailto:info@sismyanmar.com" rel="noopener nofollow" target="_blank">info@sismyanmar.com</a>
 </p>
 </td>
 </tr>
