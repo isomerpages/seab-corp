@@ -467,8 +467,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nguyen Thu Huong
-<br>+84 2473040777</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>huong.nguyenthu@kinderworldgroup.com</u></a>
+<br>+84 2473040777
+<br><a href="mailto:huong.nguyenthu@kinderworldgroup.com" rel="noopener nofollow" target="_blank">huong.nguyenthu@kinderworldgroup.com</a>
 </p>
 </td>
 </tr>
