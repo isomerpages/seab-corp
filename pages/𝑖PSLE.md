@@ -196,8 +196,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>Guangzhou SCA School</u></a>
-</p>
+<p>Guangzhou SCA School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>China</p>
