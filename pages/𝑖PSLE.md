@@ -426,7 +426,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Mr Ricky See
 <br>+66 27105900 ext. 1</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>ricky@tsis.ac.th</u></a>
+<p><a href="mailto:ricky@tsis.ac.th" rel="noopener nofollow" target="_blank">ricky@tsis.ac.th</a>
 </p>
 </td>
 </tr>
