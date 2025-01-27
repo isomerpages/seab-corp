@@ -497,7 +497,9 @@ for at least one 𝑖PSLE subject.</p>
 <h4><strong>Explanatory Notes</strong></h4>
 <p>Please click on this <a href="https://go.gov.sg/ipslecertificateexplanatorynote" rel="noopener nofollow" target="_blank"><u>link</u></a> to
 view what will be shown on the examination certificate.</p>
-<p></p>
+<h4>APPOINTMENT OF EXAMINATION CENTRES</h4>
+<p>Overseas schools interested to apply to be appointed 𝑖PSLE centres may
+write in to <a href="mailto:SEAB_iPSLE@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB_iPSLE@seab.gov.sg</u></a>.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
