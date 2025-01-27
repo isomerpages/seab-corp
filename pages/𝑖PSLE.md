@@ -16,6 +16,98 @@ of the Singapore PSLE.</p>
 <p><strong><a href="/files/Timetable/2025_iPSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2025</a></strong>
 </p>
 </blockquote>
+<p>EXAMINATION SUBJECTS AND SYLLABUS</p>
+<p>SEAB has made available for the 𝑖PSLE the following subjects:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>English Language</p>
+</li>
+<li>
+<p>Chinese Language</p>
+</li>
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Science</p>
+</li>
+</ul>
+<p>Candidates can sit for a maximum of 4 𝑖PSLE subjects, inclusive of English
+Language, Chinese Language, Mathematics and Science.</p>
+<p>The format, standards and testing requirements of the 𝑖PSLE are similar
+to the Singapore PSLE.</p>
+<p>Here are the 𝑖PSLE examination syllabuses for the various subjects:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Language Medium</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0901_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0901</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0905_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0905</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0908_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0908</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0909_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0909</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
