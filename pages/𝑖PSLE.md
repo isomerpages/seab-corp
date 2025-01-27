@@ -488,7 +488,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Priddis
-<br>+84 <a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank">2873013777<u><br>mark.priddis@saigonsouth.sis.edu.vn</u></a>
+<br>+84 2873013777<a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a>
+<a href="mailto:mark.priddis@saigonsouth.sis.edu.vn" rel="noopener nofollow" target="_blank">mark.priddis@saigonsouth.sis.edu.vn</a>
 </p>
 </td>
 </tr>
