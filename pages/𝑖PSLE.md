@@ -57,7 +57,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0901_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0901_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0905_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0905_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0908_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0908_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +93,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/IPSLE/Exam%20Subjects%20and%20Syllabus/0909_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science</u></a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0909_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,11 +207,12 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Zhang
-<br>+86 <a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank">13922703951<br><u>zinan.zhang@scagz.com</u></a>&nbsp;
+<br>+86 13922703951<a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="mailto:zinan.zhang@scagz.com" rel="noopener nofollow" target="_blank">zinan.zhang@scagz.com</a>
 <br>
 <br>Janice Wang
-<br>+86 13825116913</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>janice.wang@scagz.com</u></a>
+<br>+86 13825116913
+<br><a href="mailto:janice.wang@scagz.com" rel="noopener nofollow" target="_blank">janice.wang@scagz.com</a>
 </p>
 </td>
 </tr>
