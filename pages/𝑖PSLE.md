@@ -358,8 +358,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siriya Kanivaranon
-<br>+66 968164588</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>mewsiriya@gmail.com</u></a>
+<br>+66 968164588
+<br><a href="mailto:mewsiriya@gmail.com" rel="noopener nofollow" target="_blank">mewsiriya@gmail.com</a>
 </p>
 </td>
 </tr>
@@ -379,12 +379,12 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Pattama Ruensuk
-<br>+66 888751753</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>ssis.pattama@siamsingapore.com</u></a>
+<br>+66 888751753
+<br><a href="mailto:ssis.pattama@siamsingapore.com" rel="noopener nofollow" target="_blank">ssis.pattama@siamsingapore.com</a>
 </p>
 <p>Ms Trinity Apawan
-<br>+66 968895880</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>ssis.trinity@siamsingapore.com</u></a>
+<br>+66 968895880
+<br><a href="mailto:ssis.trinity@siamsingapore.com" rel="noopener nofollow" target="_blank">ssis.trinity@siamsingapore.com</a>
 </p>
 </td>
 </tr>
