@@ -404,8 +404,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hero Lee
-<br>+66 21589191</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>hero@sisbschool.com</u></a>
+<br>+66 21589191
+<br><a href="mailto:hero@sisbschool.com" rel="noopener nofollow" target="_blank">hero@sisbschool.com</a>
 </p>
 </td>
 </tr>
