@@ -253,8 +253,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Prima Harun
-<br>+62 81901232888</p>
-<p><a href="mailto:primaharun@sna.piagetacademy.org" rel="noopener nofollow" target="_blank">primaharun@sna.piagetacademy.org</a>
+<br>+62 81901232888
+<br><a href="mailto:primaharun@sna.piagetacademy.org" rel="noopener nofollow" target="_blank">primaharun@sna.piagetacademy.org</a>
 </p>
 </td>
 </tr>
