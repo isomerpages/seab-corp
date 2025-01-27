@@ -446,8 +446,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tran Cong Minh Huu
-<br>+84 905010683</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>huu.trancongminh@kinderworldgroup.com</u></a>
+<br>+84 905010683
+<br><a href="mailto:huu.trancongminh@kinderworldgroup.com" rel="noopener nofollow" target="_blank">huu.trancongminh@kinderworldgroup.com</a>
 </p>
 </td>
 </tr>
