@@ -232,8 +232,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Larsen P. Buccahan
-<br>+62 2158902962</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>larsenpbuccahan@nh.piagetacademy.org</u></a>
+<br>+62 2158902962
+<br><a href="mailto:larsenpbuccahan@nh.piagetacademy.org" rel="noopener nofollow" target="_blank">larsenpbuccahan@nh.piagetacademy.org</a>
 </p>
 </td>
 </tr>
@@ -254,7 +254,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Ms Prima Harun
 <br>+62 81901232888</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>primaharun@sna.piagetacademy.org</u></a>
+<p><a href="mailto:primaharun@sna.piagetacademy.org" rel="noopener nofollow" target="_blank">primaharun@sna.piagetacademy.org</a>
 </p>
 </td>
 </tr>
@@ -275,7 +275,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Ms Junaida Binte Abdul Aziz
 <br>+62 215883835</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>junaida.aziz@sis-pik.com</u></a>
+<p><a href="mailto:junaida.aziz@sis-pik.com" rel="noopener nofollow" target="_blank">junaida.aziz@sis-pik.com</a>
 </p>
 </td>
 </tr>
@@ -296,7 +296,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Mr Moosa Rasheed
 <br>+960 7772670</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>moosa@brightway.edu.mv</u></a>
+<p><a href="mailto:moosa@brightway.edu.mv" rel="noopener nofollow" target="_blank">moosa@brightway.edu.mv</a>
 </p>
 </td>
 </tr>
@@ -317,7 +317,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Ms Su Mon Kyaw
 <br>+95 9592011406</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>registration@mctamandalay.com</u></a>
+<p><a href="mailto:registration@mctamandalay.com" rel="noopener nofollow" target="_blank">registration@mctamandalay.com</a>
 </p>
 </td>
 </tr>
@@ -338,7 +338,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Ms Hlaing Mar Lar Kyaw
 <br>+95 9453369781</p>
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>info@sismyanmar.com</u></a>
+<p><a href="mailto:info@sismyanmar.com" rel="noopener nofollow" target="_blank">info@sismyanmar.com</a>
 </p>
 </td>
 </tr>
