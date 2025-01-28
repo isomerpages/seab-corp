@@ -1,7 +1,7 @@
 ---
 title: eExam Resources for Private Candidates
 permalink: /e-exam-resources-for-private-candidates/
-variant: markdown
+variant: tiptap
 description: eExam Resources for Private Candidates
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -833,4 +833,8 @@ their formats and requirements.</p>
 </td>
 </tr>
 </tbody>
-</table></div></details></div>
+</table>
+</div>
+</details>
+</div>
+<p></p>
