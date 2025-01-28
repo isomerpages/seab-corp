@@ -413,8 +413,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.tsis.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Thai-Singapore International School</u></a>
-</p>
+<p>Thai-Singapore International School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thailand</p>
