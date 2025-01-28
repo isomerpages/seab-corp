@@ -386,7 +386,7 @@ You will need to download the online guide before you can play the file.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0005</p>
@@ -397,7 +397,7 @@ You will need to download the online guide before you can play the file.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay</p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0006</p>
@@ -405,7 +405,7 @@ You will need to download the online guide before you can play the file.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil</p>
+<p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0007</p>
@@ -413,7 +413,7 @@ You will need to download the online guide before you can play the file.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Chinese</p>
+<p>Foundation Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0025</p>
@@ -424,7 +424,7 @@ You will need to download the online guide before you can play the file.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Malay</p>
+<p>Foundation Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0026</p>
@@ -432,7 +432,7 @@ You will need to download the online guide before you can play the file.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Tamil</p>
+<p>Foundation Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0027</p>
