@@ -16,11 +16,7 @@ of the Singapore PSLE.</p>
 <p><strong><a href="/files/Timetable/2025_iPSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2025</a></strong>
 </p>
 </blockquote>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>EXAMINATION SUBJECTS AND SYLLABUS</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>EXAMINATION SUBJECTS AND SYLLABUS</strong></h4>
 <p>SEAB has made available for the 𝑖PSLE the following subjects:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,7 +57,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0901_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0901_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +69,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0905_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0905_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +81,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0908_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0908_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +93,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0909_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0909_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,13 +103,20 @@ to the Singapore PSLE.</p>
 <p>0909</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary>REGISTRATION</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>REGISTRATION</strong></h4>
 <p>The 𝑖PSLE is currently offered at 14 appointed examination centres in
 6 countries (China, Indonesia, Maldives, Myanmar, Thailand and Vietnam).</p>
 <p>Please see the table below for the minimum and maximum age for taking
@@ -193,8 +196,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u>Guangzhou SCA School</u></a>
-</p>
+<p>Guangzhou SCA School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>China</p>
@@ -204,12 +206,12 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Zhang
-<br>+86 13922703951
-<br><a href="mailto:zinan.zhang@scagz.com" rel="noopener noreferrer nofollow" target="_blank"><u>zinan.zhang@scagz.com</u></a>&nbsp;
+<br>+86 13922703951<a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="mailto:zinan.zhang@scagz.com" rel="noopener nofollow" target="_blank">zinan.zhang@scagz.com</a>
 <br>
 <br>Janice Wang
-<br>+86 13825116913</p>
-<p><a href="mailto:janice.wang@scagz.com" rel="noopener noreferrer nofollow" target="_blank">janice.wang@scagz.com</a>
+<br>+86 13825116913
+<br><a href="mailto:janice.wang@scagz.com" rel="noopener nofollow" target="_blank">janice.wang@scagz.com</a>
 </p>
 </td>
 </tr>
@@ -229,8 +231,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Larsen P. Buccahan
-<br>+62 2158902962</p>
-<p><a href="mailto:larsenpbuccahan@nh.piagetacademy.org" rel="noopener noreferrer nofollow" target="_blank"><u>larsenpbuccahan@nh.piagetacademy.org</u></a>
+<br>+62 2158902962
+<br><a href="mailto:larsenpbuccahan@nh.piagetacademy.org" rel="noopener nofollow" target="_blank">larsenpbuccahan@nh.piagetacademy.org</a>
 </p>
 </td>
 </tr>
@@ -250,8 +252,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Prima Harun
-<br>+62 81901232888</p>
-<p><a href="mailto:primaharun@sna.piagetacademy.org" rel="noopener noreferrer nofollow" target="_blank"><u>primaharun@sna.piagetacademy.org</u></a>
+<br>+62 81901232888
+<br><a href="mailto:primaharun@sna.piagetacademy.org" rel="noopener nofollow" target="_blank">primaharun@sna.piagetacademy.org</a>
 </p>
 </td>
 </tr>
@@ -271,8 +273,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Junaida Binte Abdul Aziz
-<br>+62 215883835</p>
-<p><a href="mailto:junaida.aziz@sis-pik.com" rel="noopener noreferrer nofollow" target="_blank"><u>junaida.aziz@sis-pik.com</u></a>
+<br>+62 215883835
+<br><a href="mailto:junaida.aziz@sis-pik.com" rel="noopener nofollow" target="_blank">junaida.aziz@sis-pik.com</a>
 </p>
 </td>
 </tr>
@@ -292,8 +294,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Moosa Rasheed
-<br>+960 7772670</p>
-<p><a href="mailto:moosa@brightway.edu.mv" rel="noopener noreferrer nofollow" target="_blank"><u>moosa@brightway.edu.mv</u></a>
+<br>+960 7772670
+<br><a href="mailto:moosa@brightway.edu.mv" rel="noopener nofollow" target="_blank">moosa@brightway.edu.mv</a>
 </p>
 </td>
 </tr>
@@ -313,8 +315,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Su Mon Kyaw
-<br>+95 9592011406</p>
-<p><a href="mailto:registration@mctamandalay.com" rel="noopener noreferrer nofollow" target="_blank"><u>registration@mctamandalay.com</u></a>
+<br>+95 9592011406
+<br><a href="mailto:registration@mctamandalay.com" rel="noopener nofollow" target="_blank">registration@mctamandalay.com</a>
 </p>
 </td>
 </tr>
@@ -334,8 +336,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hlaing Mar Lar Kyaw
-<br>+95 9453369781</p>
-<p><a href="mailto:info@sismyanmar.com" rel="noopener noreferrer nofollow" target="_blank"><u>info@sismyanmar.com</u></a>
+<br>+95 9453369781
+<br><a href="mailto:info@sismyanmar.com" rel="noopener nofollow" target="_blank">info@sismyanmar.com</a>
 </p>
 </td>
 </tr>
@@ -355,8 +357,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siriya Kanivaranon
-<br>+66 968164588</p>
-<p><a href="mailto:mewsiriya@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>mewsiriya@gmail.com</u></a>
+<br>+66 968164588
+<br><a href="mailto:mewsiriya@gmail.com" rel="noopener nofollow" target="_blank">mewsiriya@gmail.com</a>
 </p>
 </td>
 </tr>
@@ -376,12 +378,12 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Pattama Ruensuk
-<br>+66 888751753</p>
-<p><a href="mailto:ssis.pattama@siamsingapore.com" rel="noopener noreferrer nofollow" target="_blank"><u>ssis.pattama@siamsingapore.com</u></a>
+<br>+66 888751753
+<br><a href="mailto:ssis.pattama@siamsingapore.com" rel="noopener nofollow" target="_blank">ssis.pattama@siamsingapore.com</a>
 </p>
 <p>Ms Trinity Apawan
-<br>+66 968895880</p>
-<p><a href="mailto:ssis.trinity@siamsingapore.com" rel="noopener noreferrer nofollow" target="_blank"><u>ssis.trinity@siamsingapore.com</u></a>
+<br>+66 968895880
+<br><a href="mailto:ssis.trinity@siamsingapore.com" rel="noopener nofollow" target="_blank">ssis.trinity@siamsingapore.com</a>
 </p>
 </td>
 </tr>
@@ -401,8 +403,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hero Lee
-<br>+66 21589191</p>
-<p><a href="mailto:hero@sisbschool.com" rel="noopener noreferrer nofollow" target="_blank"><u>hero@sisbschool.com</u></a>
+<br>+66 21589191
+<br><a href="mailto:hero@sisbschool.com" rel="noopener nofollow" target="_blank">hero@sisbschool.com</a>
 </p>
 </td>
 </tr>
@@ -411,8 +413,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.tsis.ac.th/" rel="noopener noreferrer nofollow" target="_blank"><u>Thai-Singapore International School</u></a>
-</p>
+<p>Thai-Singapore International School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thailand</p>
@@ -422,8 +423,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ricky See
-<br>+66 27105900 ext. 1</p>
-<p><a href="mailto:ricky@tsis.ac.th" rel="noopener noreferrer nofollow" target="_blank"><u>ricky@tsis.ac.th</u></a>
+<br>+66 27105900 ext. 1
+<br><a href="mailto:ricky@tsis.ac.th" rel="noopener nofollow" target="_blank">ricky@tsis.ac.th</a>
 </p>
 </td>
 </tr>
@@ -443,8 +444,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tran Cong Minh Huu
-<br>+84 905010683</p>
-<p><a href="mailto:huu.trancongminh@kinderworldgroup.com" rel="noopener noreferrer nofollow" target="_blank"><u>huu.trancongminh@kinderworldgroup.com</u></a>
+<br>+84 905010683
+<br><a href="mailto:huu.trancongminh@kinderworldgroup.com" rel="noopener nofollow" target="_blank">huu.trancongminh@kinderworldgroup.com</a>
 </p>
 </td>
 </tr>
@@ -464,8 +465,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nguyen Thu Huong
-<br>+84 2473040777</p>
-<p><a href="mailto:huong.nguyenthu@kinderworldgroup.com" rel="noopener noreferrer nofollow" target="_blank"><u>huong.nguyenthu@kinderworldgroup.com</u></a>
+<br>+84 2473040777
+<br><a href="mailto:huong.nguyenthu@kinderworldgroup.com" rel="noopener nofollow" target="_blank">huong.nguyenthu@kinderworldgroup.com</a>
 </p>
 </td>
 </tr>
@@ -485,8 +486,26 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Priddis
-<br>+84 2873013777<a href="mailto:mark.priddis@saigonsouth.sis.edu.vn" rel="noopener noreferrer nofollow" target="_blank"><br><u>mark.priddis@saigonsouth.sis.edu.vn</u></a>
+<br>+84 2873013777<a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a>
+<a href="mailto:mark.priddis@saigonsouth.sis.edu.vn" rel="noopener nofollow" target="_blank">mark.priddis@saigonsouth.sis.edu.vn</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -495,12 +514,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 the national examinations or admission tests* in the same examination year.</p>
 <p>*National examinations refer to PSLE and GCE-Level examinations while
 admission tests refer to&nbsp;AEIS, S-AEIS, SPERS-Sec and SPE.</p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>RELEASE OF EXAMINATION RESULTS</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>RELEASE OF EXAMINATION RESULTS</strong></h4>
 <p>The examination results are usually released in November of the examination
 year and the results will be reported in the form of Achievement Levels:
 1, 2, 3, 4, 5, 6, 7, 8.</p>
@@ -508,16 +522,10 @@ year and the results will be reported in the form of Achievement Levels:
 <p>You will receive an 𝑖PSLE&nbsp;certificate if you are awarded a grade
 for at least one 𝑖PSLE subject.</p>
 <h4><strong>Explanatory Notes</strong></h4>
-<p>Please click on this <a href="https://go.gov.sg/ipslecertificateexplanatorynote" rel="noopener nofollow" target="_blank">link</a> to
+<p>Please click on this <a href="https://go.gov.sg/ipslecertificateexplanatorynote" rel="noopener nofollow" target="_blank"><u>link</u></a> to
 view what will be shown on the examination certificate.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>APPOINTMENT OF EXAMINATION CENTRES</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>APPOINTMENT OF EXAMINATION CENTRES</strong></h4>
 <p>Overseas schools interested to apply to be appointed 𝑖PSLE centres may
-write in to <a href="mailto:SEAB_iPSLE@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SEAB_iPSLE@seab.gov.sg</a>.</p>
-</div>
-</details>
-</div>
+write in to <a href="mailto:SEAB_iPSLE@seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB_iPSLE@seab.gov.sg</u></a>.</p>
+<p></p>
 <p></p>
