@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Advanced Level Syllabuses Examined for Private Candidates
 permalink: /gce-a-level/a-level-syllabuses-examined-for-private-candidates-2025/
-variant: markdown
+variant: tiptap
 description: 2025 GCE Advanced Level Syllabuses Examined for Private Candidates
 ---
 <p>Here are the 2025 GCE A-Level examination syllabuses that are offered
