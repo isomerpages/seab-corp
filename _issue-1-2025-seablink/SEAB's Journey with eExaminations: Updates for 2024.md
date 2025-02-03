@@ -149,7 +149,7 @@ and critical thinking.</p>
 <em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="PS science" src="/images/SEABlink/science.jpg">
+<img style="width: 70%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
 </div>
 <em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
 <p></p>
