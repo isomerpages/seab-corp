@@ -26,13 +26,11 @@ papers.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_196.jpg">
-</div>
 <em>Let the celebrations begin!</em>
 <br>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_212.jpg">
-</div>
 <em>The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
 <p></p>
 <p>The event featured a vibrant array of activities, including exciting carnival
@@ -44,7 +42,6 @@ to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/funfest.png">
-</div>
 <em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br></strong>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -66,12 +63,10 @@ creative reuse of materials in innovative ways. &nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240823_WA0003.jpg">
-</div>
 <em>The turnout was great, with staff generously donating their footwear for a worthy cause.</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240904_WA0042.jpg">
-</div>
 <em>SEAB representatives dropped off the collected footwear at Cloop sorting facilities.</em>
 <p></p>
 <h4><strong>Packing with Purpose: Essential Medical Supplies for Dialysis Patients</strong>&nbsp;</h4>
@@ -86,7 +81,6 @@ commitment to community service.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="nkf" src="/images/SEABlink/nkf.jpg">
-</div>
 <em>Packing with purpose and pride - making a meaningful difference for those in need.</em>
 <p></p>
 <h4><strong>A Joyful Giving: SEAB’s School Readiness Bag Initiative for Students in Need</strong>&nbsp;</h4>
@@ -109,12 +103,10 @@ to their new school year.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags1.jpg">
-</div>
 <em>Many hands make light work!</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags2.jpg">
-</div>
 <em>Giving school bags, receiving smiles in return</em>
 <p></p>
 <h4><strong>Festive Cheers during SEAB's Year-end Celebrations&nbsp;</strong>&nbsp;</h4>
@@ -146,7 +138,6 @@ off a year of achievement, leaving everyone excited for the&nbsp; years
 ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="year-end celebrations" src="/images/SEABlink/yearend_2024.png">
-</div>
 <em>Wrapping up the year with festive cheer and joy all around at SEAB!</em>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
@@ -164,4 +155,4 @@ ahead.</p>
 </div>
 </a>
 </div>
-<p></p>
+<p></p></div></div></div></div></div></div></div></div></div>
