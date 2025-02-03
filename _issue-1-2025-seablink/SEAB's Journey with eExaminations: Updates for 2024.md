@@ -100,7 +100,7 @@ experience.</p>
 <p></p>
 <p>In addition to the PS, resources such as an information deck and a video
 guide on the e-Examination interface were also made available on SEAB’s
-website&nbsp;(<a href="https://www.seab.gov.sg/home/examinations/e-exam-resources" rel="noopener noreferrer nofollow" target="_blank">SEAB - e-Exam Resources for School Candidates</a>),
+website&nbsp;(<a href="https://www.seab.gov.sg/e-exam-resources/" rel="noopener noreferrer nofollow" target="_blank">SEAB - e-Exam Resources for School Candidates</a>),
 which allowed students to revisit them as and when needed.&nbsp;</p>
 <p><strong>Feedback from Social Studies teachers</strong>
 </p>
