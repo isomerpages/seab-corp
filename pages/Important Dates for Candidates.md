@@ -25,7 +25,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Examination Calendar 2025 (Tentative)</p>
+<p>Examination Calendar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/2025-psle-exam-timetable" rel="noopener nofollow" target="_blank">Calendar</a>
@@ -87,7 +87,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Examination Timetable 2025 (Tentative)</strong>
+<p><strong>Examination Timetable 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
