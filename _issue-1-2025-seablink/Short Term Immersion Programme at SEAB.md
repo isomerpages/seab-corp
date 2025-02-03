@@ -25,7 +25,7 @@ the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Ms Khairunnisa Abdul Khalid | Majlis Ugama Islam Singapura&nbsp;</h4>
-<p>“I am a member of the Madrasah Policy and Planning Unit of the Majlis
+<p>I am a member of the Madrasah Policy and Planning Unit of the Majlis
 Ugama Islam Singapura (MUIS), and the unit oversees the planning and policy
 for the six Madrasahs in Singapore which adopt the dual curriculum. I believe
 that this immersion is timely as my unit was also embarking on a similar
@@ -40,19 +40,19 @@ process using cutting edge technology and I am also amazed by the growth
 mindset that was adopted by the team.&nbsp;</p>
 <p>I am truly excited to bring back what I have learnt in SEAB to MUIS so
 that my team can also adopt the similar mindset and embrace technology
-at its fullest.”&nbsp;</p>
+at its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
 </div>
-<p><em>Ms Khairunnisa featured on the left in the photo.</em>
-</p>
+<em>Ms Khairunnisa featured on the left in the photo.</em>
+<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Mr Lan Yingjie | Ministry of Education&nbsp;</h4>
-<p>“I am currently a Special Assistant with the School Operations Policy
+<p>I am currently a Special Assistant with the School Operations Policy
 Branch in Ministry of Education, Headquarters (MOE HQ) whereby we support
 the operationalisation of broader education policies. Prior to this, I
 was a teacher in schools and had performed the role of a Presiding Examiner
@@ -73,19 +73,19 @@ able to appreciate how SEAB aimed to design and implement processes with
 stakeholders in mind. In addition, I have gained a deeper understanding
 of assessment beyond the perspective of a teacher in school. I think SEAB
 is very forward-looking and innovative and I look forward to seeing these
-innovations benefitting the schools and students in the future.”&nbsp;</p>
+innovations benefitting the schools and students in the future.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
 </div>
-<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
-</p>
+<em>Mr Lan Yingjie featured on the left in the photo.</em>
+<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Mr Sandeep Shetty | Monetary Authority of Singapore&nbsp;&nbsp;</h4>
-<p><strong>“</strong>I am currently performing the role of a Lead Application
+<p><strong></strong>I am currently performing the role of a Lead Application
 Delivery Manager (ADM) who oversees the end-to-end delivery of software
 applications, managing the entire application lifecycle from requirements
 definition and tender procurement through to build, test, deployment, and
@@ -116,20 +116,20 @@ the needs of various stakeholders.&nbsp;</p>
 <p>Project management: The strategies I observed for coordinating large-scale
 operations can be applied to enhance the efficiency of projects in my department.
 For example, I plan to implement a similar system of regular, brief check-ins
-during critical phases in my next project.”&nbsp;&nbsp;</p>
+during critical phases in my next project.&nbsp;&nbsp;</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip3.jpg">
 </div>
-<p><em>Mr Sandeep Shetty</em>
-</p>
+<em>Mr Sandeep Shetty</em>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Ms Lee Huixian&nbsp;| Building and Construction Authority&nbsp;</h4>
-<p>“I work in the Procurement Policies Department in the Building and Construction
+<p>I work in the Procurement Policies Department in the Building and Construction
 Authority (BCA), and my team is responsible for implementing procurement
 policies for the construction and Facility Management sector.&nbsp;</p>
 <p>The advertisement for this STIP caught my eye because as a Singaporean
@@ -148,7 +148,7 @@ quality of our National Examinations and assessment standards is inspiring.&nbsp
 <p>Seeing the crucial role that SEAB plays in our education system has reminded
 me of the broader impact of our work in the public service. This motivates
 me to continue improving our procurement policies for the benefit of all
-government agencies.”&nbsp;</p>
+government agencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
 </div>
@@ -156,8 +156,8 @@ government agencies.”&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><em>Ms Lee Huixian</em>
-</p>
+<em>Ms Lee Huixian</em>
+<p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=61ULsPX2JBs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STIP" src="/images/SEABlink/stip_YT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Short Term Immersion Programme @ SEAB</div><div class="isomer-card-link">Watch the video here</div></div></a>
 </div>
