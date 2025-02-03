@@ -29,14 +29,14 @@ fresh perspectives on how AI could be leveraged to enhance educational
 assessment practices.</p>
 <p>Through participation in this conference, SEAB gained valuable insights
 into:</p>
-<p>(1)&nbsp;&nbsp; Global advancements in personalised assessments: How advancements
+&nbsp;&nbsp; Global advancements in personalised assessments: How advancements
 have been made around the world with the greater emphasis on personalising
 assessments for students, and how they could be adapted and applied in
-the Singaporean context,</p>
-<p>(2)&nbsp;&nbsp; New perspectives on large-scale assessments: Emerging
+the Singaporean context,<p></p>
+&nbsp;&nbsp; New perspectives on large-scale assessments: Emerging
 ways to analyse trends and patterns in results of large-scale assessments
 such as PISA and TIMMS, offering a deeper understanding of global educational
-outcomes</p>
+outcomes<p></p>
 <p>Overall, this conference was a valuable opportunity for SEAB to exchange
 ideas with global leaders in educational assessment, reinforcing SEAB’s
 commitment to continuously improve assessment practices in Singapore’s
@@ -45,18 +45,18 @@ education system.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic3.jpg">
 </div>
-<p><em>Opening ceremony of the&nbsp;7<sup>th</sup> international conference on education evaluation and monitoring.</em>
-</p>
+<em>Opening ceremony of the&nbsp;7<sup>th</sup> international conference on education evaluation and monitoring.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic1.jpg">
 </div>
-<p><em>Participation in the segment on future-oriented core competencies of students and their assessments.</em>
-</p>
+<em>Participation in the segment on future-oriented core competencies of students and their assessments.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic2.jpg">
 </div>
-<p><em>Presentation of SEAB’s efforts in adaptive testing at the conference.</em>
-</p>
+<em>Presentation of SEAB’s efforts in adaptive testing at the conference.</em>
+<p></p>
 <p></p>
