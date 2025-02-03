@@ -16,13 +16,13 @@ videos, and improved readability across various devices. In addition, we
 have taken advantage of web technologies to suggest relevant content for
 selected articles for you to explore the topic further.&nbsp;&nbsp;</p>
 <p>SEAB commemorates our 20<sup>th</sup> Anniversary in 2024. It is thus fitting
-that we share a heartwarming glimpse into the various&nbsp; activities
-held in 2024 to commemorate our 20th anniversary, arranged thematically
-under ‘Joy At Work’ and ‘Pride In Work’, Under the “Joy At Work” series,
-SEAB staff were engaged in a series of meaningful corporate social responsibility
+that we share a heartwarming glimpse into the various&nbsp;activities held
+in 2024 to commemorate our 20th anniversary, arranged thematically under
+‘Joy at Work’ and ‘Pride in Work’. Under the 'Joy at Work' series, SEAB
+staff were engaged in a series of meaningful corporate social responsibility
 and team bonding activities that brought us closer as an organisation as
 well as reinforced the sense of purpose and joy.&nbsp;</p>
-<p>Under "Pride in Work", we share the substantial progress in both our examination
+<p>Under 'Pride in Work', we share the substantial progress in both our examination
 processes and corporate initiatives, demonstrating our commitment to innovation
 and excellence.&nbsp;</p>
 <p>In line with our digital transformation efforts, we have successfully
