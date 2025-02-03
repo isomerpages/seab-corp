@@ -21,7 +21,6 @@ communication and civic literacy.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="21cc" src="/images/SEABlink/21cc.png">
-</div>
 <em>Engaged participants from the W3 Cluster Workshop</em>
 <p></p>
 <p>The following feedback from some of the workshop participants highlights
@@ -30,4 +29,4 @@ the diverse and insightful takeaways they gained from the session:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="21cc feedback" src="/images/SEABlink/21cc_feedback.png">
 </div>
-<p></p>
+<p></p></div>
