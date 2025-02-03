@@ -57,7 +57,6 @@ candidates.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_1.png">
-</div>
 <em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;<p></p>
 <p></p>
 <p></p>
@@ -112,7 +111,7 @@ provided positive feedback. Some of the comments include:</p>
 </div>
 <p></p>
 <p></p>
-</td>
+</div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -134,7 +133,6 @@ elements within a virtual environment, giving them an alternative approach
 to process and demonstrate their understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Drag_drop.jpg">
-</div>
 <em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;<p></p>
 <p></p>
 <p>Another question utilised an animation depicting the treatment of heart
@@ -180,7 +178,7 @@ navigate its interface with ease.</p>
 <p>For more detailed information on the assessment scheme and the electronic
 item formats, interested readers can refer to a previously published article
 <a href="https://go.gov.sg/seab-link-issue-1-2022-final" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</td>
+</div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,7 +215,6 @@ for BMTL candidates firsthand.&nbsp; Candidates generally navigated the
 eExam system interface with ease, requiring no assistance from invigilators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
-</div>
 <em>Left: A candidate completing his BML examination*.
 <br>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;<p></p>
 <p></p>
@@ -267,7 +264,7 @@ and effective in meeting the education goals of Singapore.</p>
 </a>
 </div>
 <p></p>
-</td>
+</div></td>
 </tr>
 </tbody>
 </table>
