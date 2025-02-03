@@ -4,18 +4,41 @@ permalink: /issue-1-2025-seablink-newsletter/seabs-journey-with-eexaminations-up
 variant: tiptap
 description: ""
 ---
-<p>Digital assessments have been integrated into classrooms to align students’
-learning with the evolving needs of the modern workforce. In response to
-digitalisation and technological advancements, e-Examinations was introduced
-in 2013 to offer a relevant, authentic, and engaging assessment experience.
-By mirroring real-world environments, such as writing email responses,
-and understanding information via interactive media, e-Examinations assess
-skills and knowledge that traditional pen-and-paper methods cannot. In
-2024, three subjects were assessed electronically, with the introduction
-of new examination formats to assess students more effectively using technology.
-These included N(A) Social Studies, N(T) Science, and N(T) Mother Tongue
-Languages. This article shares how SEAB has continued in its push towards
-modernising education assessments. &nbsp;</p>
+<p>Digital literacy has been integrated into teaching and learning to prepare
+our students for &nbsp;future work. Taking alignment with this, e-Examinations
+was introduced in 2013 to provide students with a more relevant, authentic
+and engaging assessment experience. e-Examinations also offer personalisation
+and assess skills and knowledge that traditional pen-and-paper methods
+cannot.</p>
+<p>In 2024, three more subjects were assessed electronically- N(A)-Level
+Social Studies, N(T)-Level Science, and N(T)-Level Basic Mother Tongue
+Languages.</p>
+<p>As with any new subjects that were brought onboard e-Examinations, efforts
+were made to ensure a smooth transition for both educators and students.
+To this end, SEAB proactively</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>engaged with stakeholders prior to the implementation. Consultations and
+feedback sessions were conducted via focus groups and school visits, involving
+school leaders, key school personnel, and teachers; &nbsp;</p>
+</li>
+<li>
+<p>organised training workshops and briefings for teachers, equipping them
+with the necessary knowledge and skills for the setup and conduct of the
+e-Examinations;</p>
+</li>
+<li>
+<p>provided media resources such as online guides &nbsp;to familiarise educators
+and students &nbsp;with the eExam system interface and processes; and</p>
+</li>
+<li>
+<p>organised practice sessions (PS) for students to &nbsp;familiarise themselves
+with the eExam system interface and features .</p>
+</li>
+</ul>
+<p>This article shares the latest development in SEAB’s push towards modernising
+education assessments for the N(A)-Level Social Studies, N(T)-Level Science,
+and N(T)-Level Basic Mother Tongue Languages.&nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -25,20 +48,17 @@ modernising education assessments. &nbsp;</p>
 <td rowspan="1" colspan="1">
 <h4><strong>N(A)-Level Social Studies</strong>&nbsp;</h4>
 <p>The GCE N(A)-Level Social Studies paper transited to a hybrid mode of
-e-Examinations in 2024. This marks the first GCE-Level Humanities subject
-to be examined using this mode in Singapore as well as the first e-Written
-examination to accommodate a large cohort of nearly ten thousand candidates.&nbsp;&nbsp;</p>
+e-Examinations in 2024. Candidates received the question paper in hard
+copy and typed their responses via laptops on a Digital Answer Booklet
+(DAB), which resided on SEAB’s eExam system. It was the first GCE Humanities
+subject to be examined using this mode in Singapore as well as the first
+e-Written examination to accommodate a large cohort of nearly ten thousand
+candidates.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_1.png">
 </div>
 <p><em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;</p>
-<p></p>
-<p><strong><em>What does a hybrid e-Examinations mode mean?&nbsp;</em></strong>
-</p>
-<p>Candidates receive the question paper in hard copy and type their responses
-via laptops on a Digital Answer Booklet, which resides on SEAB’s eExam
-system.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_Interface_for_Practice_Session.jpg">
