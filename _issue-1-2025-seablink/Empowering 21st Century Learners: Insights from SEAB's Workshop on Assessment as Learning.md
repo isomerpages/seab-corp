@@ -1,8 +1,8 @@
 ---
 title: "Empowering 21st Century Learners: Insights from SEAB's Workshop on
   Assessment as Learning"
-permalink: /issue-1-2025-seablink-newsletter/workshop-on-assessment-as-learning/
-variant: tiptap
+permalink: /seab-link-issue-1-2025/21cc-workshop-on-assessment-as-learning/
+variant: markdown
 description: ""
 ---
 <p>On 4 March2024, 31 key personnel and teachers from the West 3 (W3) Cluster
@@ -21,13 +21,12 @@ communication and civic literacy.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="21cc" src="/images/SEABlink/21cc.png">
-</div>
-<p><em>Engaged participants from the W3 Cluster Workshop</em>
-</p>
+<em>Engaged participants from the W3 Cluster Workshop</em>
+<p></p>
 <p>The following feedback from some of the workshop participants highlights
 the diverse and insightful takeaways they gained from the session:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="21cc feedback" src="/images/SEABlink/21cc_feedback.png">
 </div>
-<p></p>
+<p></p></div>

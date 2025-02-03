@@ -1,7 +1,7 @@
 ---
 title: Optimising Resources for GCE Level Oral Examinations
-permalink: /issue-1-2025-seablink-newsletter/optimising-resources-for-gce-level-oral-examinations/
-variant: tiptap
+permalink: /seab-link-issue-1-2025/optimising-resources-for-gce-level-oral-examinations/
+variant: markdown
 description: ""
 ---
 <p>The GCE N(A)/N(T)/O/A-Level oral examinations have been streamlined, resulting
@@ -51,21 +51,10 @@ the rest).</p>
 </p>
 <p><strong>What they like most:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>“We don't have to teach the whole day, settle classes that we are leaving beforehand and rush to the venue for the testing.”</em>
-</p>
-</li>
-<li>
-<p><em>“We had time for a proper meal before going for our afternoon sessions. Yeah!”</em>
-</p>
-</li>
-<li>
-<p><em>“I am able to focus on conducting the exam, as I do not need to rush from school to exam centre. Also, I do not need to miss lessons, due to early reporting to exam venue.”</em>
-</p>
-</li>
-</ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="oral feedback" src="/images/SEABlink/oral1.png">
+</div>
 <p><strong>90% of Oral Examiners indicated that the new arrangement helped save more than 20% of their time (e.g. travelling etc).</strong>
 </p>
 <p><strong>90% of Oral Examiners indicated that the oral session timings were appropriate, and breaks were sufficient.</strong>
@@ -73,6 +62,6 @@ the rest).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eod" src="/images/SEABlink/eod_oral.jpg">
-</div>
-<p><em>A group photo of the Exam Operations team posing with Mr Yue Lip Sin, Chief Executive, SEAB.</em>
-</p>
+<em>A group photo of the Exam Operations team posing with Mr Yue Lip Sin, Chief Executive, SEAB.</em>
+<p></p>
+<p></p></div>
