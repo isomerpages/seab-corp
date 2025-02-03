@@ -74,10 +74,9 @@ processing. This aligns with our key objective to provide authentic and
 relevant assessment experience that mirror the workplace through e-Examinations.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/DAB_key_features.png">
+<img style="width: 100%" height="auto" width="100%" alt="DAB key features" src="/images/SEABlink/DAB_key_features.png">
 </div>
 <p><em>Image of DAB’s key features&nbsp;</em>&nbsp;</p>
-<p></p>
 <p></p>
 <p>Another useful feature is the bookmarking function, which allows candidates
 to tag specific responses they wish to revisit before submission. These
@@ -123,8 +122,8 @@ on 13 September 2024 for 3,749 students offering the revised N(T)-Level
 Science. &nbsp;This e-Examination for Paper 1 incorporated questions with
 media-rich interactive stimuli such as videos, animations and interactive
 simulations (VAI), which provide students with dynamic visual representations
-of complex concepts.This media integration in the e-Examination supports
-modern educational trends, creating a more immersive and exciting &nbsp;testing
+of complex concepts. This media integration in the e-Examination supports
+modern educational trends, creating a more immersive and exciting testing
 experience. It caters to different learning styles (e.g., visual and kinesthetic),
 and promotes critical thinking by encouraging active engagement with the
 stimuli.</p>
@@ -161,7 +160,7 @@ and critical thinking.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
+<img style="width: 60%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
 </div>
 <p><em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
 </p>
