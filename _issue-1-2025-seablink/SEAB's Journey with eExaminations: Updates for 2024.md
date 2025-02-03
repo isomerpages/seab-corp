@@ -1,11 +1,11 @@
 ---
 title: "SEAB's Journey with eExaminations: Updates for 2024"
 permalink: /seab-link-issue-1-2025/journey-with-eexaminations-updates-for-2024/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Digital literacy has been integrated into teaching and learning to prepare
-our students for &nbsp;future work. Taking alignment with this, e-Examinations
+our students for future work. Taking alignment with this, e-Examinations
 was introduced in 2013 to provide students with a more relevant, authentic
 and engaging assessment experience. e-Examinations also offer personalisation
 and assess skills and knowledge that traditional pen-and-paper methods
@@ -28,12 +28,12 @@ with the necessary knowledge and skills for the setup and conduct of the
 e-Examinations;</p>
 </li>
 <li>
-<p>provided media resources such as online guides &nbsp;to familiarise educators
-and students &nbsp;with the eExam system interface and processes; and</p>
+<p>provided media resources such as online guides to familiarise educators
+and students with the eExam system interface and processes; and</p>
 </li>
 <li>
 <p>organised practice sessions (PS) for students to &nbsp;familiarise themselves
-with the eExam system interface and features .</p>
+with the eExam system interface and features.</p>
 </li>
 </ul>
 <p>This article shares the latest development in SEAB’s push towards modernising
@@ -58,12 +58,14 @@ candidates.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_1.png">
 </div>
-<em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;<p></p>
+<p><em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_Interface_for_Practice_Session.jpg">
 </div>
-<em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;<p></p>
+<p><em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;</p>
+<p></p>
 <p></p>
 <p><strong>Key features of Digital Answer Booklet (DAB)</strong>&nbsp;</p>
 <p>The DAB comes with the typical text editing tools such as bold, italic,
@@ -74,22 +76,29 @@ relevant assessment experience that mirror the workplace through e-Examinations.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/DAB_key_features.png">
 </div>
-<em>Image of DAB’s key features&nbsp;</em>&nbsp;<p></p>
+<p><em>Image of DAB’s key features&nbsp;</em>&nbsp;</p>
+<p></p>
 <p></p>
 <p>Another useful feature is the bookmarking function, which allows candidates
 to tag specific responses they wish to revisit before submission. These
-bookmarked responses are highlighted during the review phase, and is a
-personalisation feature that makes it easy for candidates to quickly recall
-and refine their responses.&nbsp;</p>
+bookmarked responses are highlighted during the review phase an is a personalisation
+feature that makes it easy for candidates to quickly recall and refine
+their responses.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_key_feature_bookmarked.jpg">
 </div>
-<em>Image of Bookmarked Tags and Review</em>&nbsp;<p></p>
+<p><em>Image of Bookmarked Tags and Review</em>&nbsp;</p>
+<p></p>
 <p></p>
 <p><strong>Feedback from Candidates</strong>
-
-The feedback gathered from candidates highlighted a generally positive experience with the e-Examination mode. Candidates found the eExam system user-friendly and expressed confidence in using the system, particularly when engaging with the Digital Answer Booklet (DAB). They found the DAB functions helpful, contributing to a smooth and comfortable examination
+</p>
+<p>The feedback gathered from candidates highlighted a generally positive
+experience with the e-Examination mode. Candidates found the eExam system
+user-friendly and expressed confidence in using the system, particularly
+when engaging with the Digital Answer Booklet (DAB). They found the DAB
+functions helpful, contributing to a smooth and comfortable examination
 experience.</p>
+<p></p>
 <p>In addition to the PS, resources such as an information deck and a video
 guide on the e-Examination interface were also made available on SEAB’s
 website&nbsp;(<a href="https://www.seab.gov.sg/home/examinations/e-exam-resources" rel="noopener noreferrer nofollow" target="_blank">SEAB - e-Exam Resources for School Candidates</a>),
@@ -127,7 +136,8 @@ to process and demonstrate their understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Drag_drop.jpg">
 </div>
-<em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;<p></p>
+<p><em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;</p>
+<p></p>
 <p>Another question utilised an animation depicting the treatment of heart
 patients with plaque in the arteries. The animation features a realistic,
 step-by-step visualisation of a complex medical procedure and offers an
@@ -136,7 +146,8 @@ learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/human_heart.jpg">
 </div>
-<em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;<p></p>
+<p><em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;</p>
+<p></p>
 <p>Additionally, another question featured a video on electrical circuits,
 where candidates observed the use of a multimeter to measure current flow
 and analyse the behaviour of circuit components.&nbsp; The interactive
@@ -146,12 +157,14 @@ and critical thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Circuit.jpg">
 </div>
-<em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;<p></p>
+<p><em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
 </div>
-<em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
+<p><em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
+</p>
 <p></p>
 <p>The feedback from stakeholders was positive with many expressing that
 the e-mode and VAI-embedded questions make Science assessments more engaging
@@ -191,7 +204,8 @@ an intuitive and streamlined examination process.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture1.png">
 </div>
-<em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
+<p><em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
+</p>
 <p></p>
 <p></p>
 <p>During the PS, it was discovered that students taking Basic Tamil Language
@@ -205,13 +219,14 @@ eExam system interface with ease, requiring no assistance from invigilators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
 </div>
-<em>Left: A candidate completing his BML examination*.</em>
-<em>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;<p></p>
+<p><em>Left: A candidate completing his BML examination*.Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture_4.jpg">
 </div>
-<em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;<p></p>
+<p><em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;</p>
+<p></p>
 <p>Overall, candidates and teachers shared positive feedback on the first
 implementation of the BMTL e-Examination. Here are some of their feedback:&nbsp;</p>
 <p><strong>Feedback from Candidates</strong>
@@ -225,6 +240,7 @@ implementation of the BMTL e-Examination. Here are some of their feedback:&nbsp;
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="teachers" src="/images/SEABlink/eExam_BMTL_tr.png">
+</div>
 <p>The successful implementation of the e-Examinations for the N(A)-Level
 Social Studies, N(T)-Level Science, and N(T)-Level Basic Mother Tongue
 Languages in 2024 reinforces SEAB’s continued dedication to assessment
@@ -250,4 +266,9 @@ and effective in meeting the education goals of Singapore.</p>
 </div>
 </a>
 </div>
-<p></p></div></td></tr></tbody></table>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
