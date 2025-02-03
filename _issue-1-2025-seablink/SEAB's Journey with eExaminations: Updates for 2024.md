@@ -179,7 +179,7 @@ found the functionalities of the eExam system intuitive and were able to
 navigate its interface with ease.</p>
 <p>For more detailed information on the assessment scheme and the electronic
 item formats, interested readers can refer to a previously published article
-<a href="https://here" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="https://go.gov.sg/seab-link-issue-1-2022-final" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
