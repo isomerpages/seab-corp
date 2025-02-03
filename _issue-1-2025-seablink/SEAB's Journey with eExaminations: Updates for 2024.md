@@ -103,6 +103,9 @@ which allowed students to revisit them as and when needed.&nbsp;</p>
 <p>Interviews were also conducted with the Social Studies teachers, and they
 provided positive feedback. Some of the comments include:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SS" src="/images/SEABlink/eExam_SS.png">
+</div>
 <p></p>
 <p></p>
 </td>
@@ -149,6 +152,9 @@ and critical thinking.</p>
 </div>
 <p><em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="PS science" src="/images/SEABlink/science.jpg">
+</div>
 <p><em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
 </p>
 <p>The feedback from stakeholders was positive with many expressing that
@@ -197,8 +203,8 @@ needed more time and effort to adapt to the Tamil keyboard.&nbsp; Similarly,
 students taking Basic Chinese Language needed more practices to enhance
 their accuracy in typing Chinese characters using Hanyu Pinyin.</p>
 <p>On the day of the examination, several officers from the Assessment Planning
-and Development Division visited schools to observe <s>t</s>the first e-Examination
-for BMTL candidates first hand.&nbsp; Candidates generally navigated the
+and Development Division visited schools to observe the first e-Examination
+for BMTL candidates firsthand.&nbsp; Candidates generally navigated the
 eExam system interface with ease, requiring no assistance from invigilators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
