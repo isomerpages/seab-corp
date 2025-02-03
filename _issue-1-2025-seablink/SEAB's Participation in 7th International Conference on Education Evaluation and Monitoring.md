@@ -51,21 +51,20 @@ education system.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic3.jpg">
 </div>
-<p><em>Opening ceremony of the&nbsp;7<sup>th</sup> international conference on education evaluation and monitoring.</em>
-</p>
+<em>Opening ceremony of the&nbsp;7<sup>th</sup> international conference on education evaluation and monitoring.</em>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic1.jpg">
 </div>
-<p><em>Participation in the segment on future-oriented core competencies of students and their assessments.</em>
-</p>
+<em>Participation in the segment on future-oriented core competencies of students and their assessments.</em>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iceem" src="/images/SEABlink/pic2.jpg">
-</div>
-<p><em>Presentation of SEAB’s efforts in adaptive testing at the conference.</em>
-</p>
+<em>Presentation of SEAB’s efforts in adaptive testing at the conference.</em>
 <p></p>
 <p></p>
+<p></p></div>
