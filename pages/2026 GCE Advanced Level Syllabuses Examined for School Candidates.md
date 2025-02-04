@@ -1096,8 +1096,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>~ Document(s) will be made available in January 2025.
-<br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H3 Mathematics (9820) syllabus.
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Booklet</a> for
 H3 Chemistry (9813) syllabus.&nbsp;</p>
