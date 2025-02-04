@@ -48,12 +48,11 @@ that my team can also adopt the similar mindset and embrace technology
 at its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
-</div>
 <em>Ms Khairunnisa featured on the left in the photo.</em>
 <p></p>
 <p></p>
 <p></p>
-</td>
+</div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,12 +81,11 @@ is very forward-looking and innovative and I look forward to seeing these
 innovations benefitting the schools and students in the future.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
-</div>
 <em>Mr Lan Yingjie featured on the left in the photo.</em>
 <p></p>
 <p></p>
 <p></p>
-</td>
+</div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -127,10 +125,9 @@ during critical phases in my next project.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/sandeep.jpg">
-</div>
 <em>Mr Sandeep Shetty</em>
 <p></p>
-</li>
+</div></li>
 </ul>
 </td>
 </tr>
@@ -159,9 +156,8 @@ me to continue improving our procurement policies for the benefit of all
 government agencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
-</div>
 <em>Ms Lee Huixian</em>
-</td>
+</div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
