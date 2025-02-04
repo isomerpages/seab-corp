@@ -172,7 +172,7 @@ and critical thinking.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
+<img style="width: 40%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
 </div>
 <p><em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
 </p>
@@ -233,7 +233,6 @@ eExam system interface with ease, requiring no assistance from invigilators.</p>
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
 </div>
 <p><em>Left: A candidate completing his BML examination*. <br>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
-<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
