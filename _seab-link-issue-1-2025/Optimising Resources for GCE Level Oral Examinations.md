@@ -1,7 +1,7 @@
 ---
 title: Optimising Resources for GCE Level Oral Examinations
 permalink: /seab-link-issue-1-2025/optimising-resources-for-gce-level-oral-examinations/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>The GCE N(A)/N(T)/O/A-Level oral examinations have been streamlined, resulting
@@ -60,8 +60,7 @@ Tongue Language with the rest).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eod" src="/images/SEABlink/eod_oral.jpg">
-</div>
-<p><em>A group photo of the Exam Operations team posing with Mr Yue Lip Sin, Chief Executive, SEAB.</em>
-</p>
+<em>A group photo of the Exam Operations team posing with Mr Yue Lip Sin, Chief Executive, SEAB.</em>
 <p></p>
 <p></p>
+<p></p></div>

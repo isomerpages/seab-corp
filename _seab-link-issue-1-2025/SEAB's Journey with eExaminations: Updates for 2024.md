@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Digital literacy has been integrated into teaching and learning to prepare
 our students for future work. Taking alignment with this, e-Examinations
-was introduced in 2013 to provide students with a more relevant, authentic
+were introduced in 2013 to provide students with a more relevant, authentic
 and engaging assessment experience. e-Examinations also offer personalisation
 and assess skills and knowledge that traditional pen-and-paper methods
 cannot.</p>
@@ -62,15 +62,15 @@ candidates.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_1.png">
-</div>
 <em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_Interface_for_Practice_Session.jpg">
-</div>
 <em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -82,8 +82,8 @@ relevant assessment experience that mirror the workplace through e-Examinations.
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DAB key features" src="/images/SEABlink/DAB_key_features.png">
-</div>
 <em>Image of DAB’s key features&nbsp;</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>Another useful feature is the bookmarking function, which allows candidates
@@ -93,8 +93,8 @@ feature that makes it easy for candidates to quickly recall and refine
 their responses.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_key_feature_bookmarked.jpg">
-</div>
 <em>Image of Bookmarked Tags and Review</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -120,8 +120,7 @@ provided positive feedback. Some of the comments include:</p>
 <img style="width: 100%" height="auto" width="100%" alt="SS" src="/images/SEABlink/eExam_SS.png">
 </div>
 <p></p>
-<p></p>
-</td>
+</div></div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -143,8 +142,8 @@ elements within a virtual environment, giving them an alternative approach
 to process and demonstrate their understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Drag_drop.jpg">
-</div>
 <em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>Another question utilised an animation depicting the treatment of heart
@@ -154,8 +153,8 @@ immersive learning experience that appeals to both visual and kinesthetic
 learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/human_heart.jpg">
-</div>
 <em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>Additionally, another question featured a video on electrical circuits,
@@ -166,15 +165,15 @@ the setup and apply their knowledge, encourages active problem-solving
 and critical thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Circuit.jpg">
-</div>
 <em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
-</div>
 <em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -193,11 +192,12 @@ navigate its interface with ease.</p>
 <p>For more detailed information on the assessment scheme and the electronic
 item formats, interested readers can refer to a previously published article
 <a href="https://go.gov.sg/seab-link-issue-1-2022-final" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</td>
+<p></p>
+</div></div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>N(T)-Level Basic Mother Tongue language&nbsp;&nbsp;</strong></h4>
+<h4><strong>N(T)-Level Basic Mother Tongue Language&nbsp;&nbsp;</strong></h4>
 <p>Following the successful implementation and scaling up of e-Written examinations
 for several Mother Tongue Languages (MTL) subjects, the N(T)-Level Basic
 MTL (BMTL) Papers 1 and 2 were examined electronically with effect from
@@ -215,8 +215,8 @@ and control during the examination. These features work together to create
 an intuitive and streamlined examination process.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture1.png">
-</div>
 <em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -231,14 +231,14 @@ for BMTL candidates firsthand.&nbsp; Candidates generally navigated the
 eExam system interface with ease, requiring no assistance from invigilators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
-</div>
 <em>Left: A candidate completing his BML examination*. <br>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture_4.jpg">
-</div>
 <em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>Overall, candidates and teachers shared positive feedback on the first
@@ -255,7 +255,7 @@ implementation of the BMTL e-Examination. Here are some of their feedback:&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="teachers" src="/images/SEABlink/eExam_BMTL_tr.png">
 </div>
-</td>
+</div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
