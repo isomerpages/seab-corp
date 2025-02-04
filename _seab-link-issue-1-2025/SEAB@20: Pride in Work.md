@@ -91,7 +91,6 @@ expected to reap the following benefits:</p>
 to 860 man-days saved; and</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A potential annual cost avoidance of
 about $96,000 manpower costs.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
 </div>
