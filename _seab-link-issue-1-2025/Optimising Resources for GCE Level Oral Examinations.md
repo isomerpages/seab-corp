@@ -21,9 +21,8 @@ students do not lose curriculum time.</p>
 Institute (MI) were divided into two groups and conducted examinations
 over a three-day period, effectively reducing the oral period by seven
 days for each group.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="oral" src="/images/SEABlink/conceptoral.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/image.png">
 </div>
 <p>Other than reducing the number of oral examination days, the change resulted
 in the following benefits:
