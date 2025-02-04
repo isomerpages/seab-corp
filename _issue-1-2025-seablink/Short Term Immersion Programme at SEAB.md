@@ -44,8 +44,8 @@ at its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
 </div>
-<p><em>Ms Khairunnisa featured on the left in the photo.</em>
-</p>
+<em>Ms Khairunnisa featured on the left in the photo.</em>
+<p></p>
 <p></p>
 <p></p>
 </td>
@@ -78,8 +78,8 @@ innovations benefitting the schools and students in the future.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
 </div>
-<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
-</p>
+<em>Mr Lan Yingjie featured on the left in the photo.</em>
+<p></p>
 <p></p>
 <p></p>
 </td>
@@ -121,16 +121,10 @@ For example, I plan to implement a similar system of regular, brief check-ins
 during critical phases in my next project.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="sandeep" src="/images/SEABlink/IMG_20250203_192015.jpg">
-</div>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip3.jpg">
-</div>
-<p><em>Mr Sandeep Shetty</em>
-</p>
+<em>Mr Sandeep Shetty</em>
 <p></p>
-</td>
+<p></p>
+</div></li></ul></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -158,8 +152,8 @@ government agencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
 </div>
-<p><em>Ms Lee Huixian</em>
-</p>
+<em>Ms Lee Huixian</em>
+<p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=61ULsPX2JBs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STIP" src="/images/SEABlink/stip_YT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Short Term Immersion Programme @ SEAB</div><div class="isomer-card-link">Watch the video here</div></div></a>
