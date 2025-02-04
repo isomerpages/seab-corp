@@ -78,18 +78,18 @@ efforts in operations.</p>
 </p>
 <p>The ABSM handles a daily capacity of 8,000 to 10,000 scripts, with the
 following key features:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accurately account scripts using candidate
+<p>a. Accurately account scripts using candidate
 QR or bar codes;</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detect additional booklets used by candidates
+<p>b. Detect additional booklets used by candidates
 using thickness sensing; and</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Precision cutting of the booklets using
+<p>c. Precision cutting of the booklets using
 a high-quality roller cutter to allow scanning.</p>
 <p></p>
 <p>ABSM will be further enhanced to meet SEAB’s total script volume and is
 expected to reap the following benefits:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An 80% reduction in manual efforts, translating
+<p>a. An 80% reduction in manual efforts, translating
 to 860 man-days saved; and</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A potential annual cost avoidance of
+<p>b. A potential annual cost avoidance of
 about $96,000 manpower costs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
