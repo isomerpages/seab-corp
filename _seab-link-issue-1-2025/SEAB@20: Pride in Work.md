@@ -10,7 +10,7 @@ innovation, sustainability, and service excellence. Read on to find out
 more.</p>
 <p></p>
 <h4><strong>SEAB Building Achieves Remarkable Sustainability Milestone</strong></h4>
-<p>SEAB Building has achieved a re-certification as a Green Mark Platinum
+<p>SEAB Building has achieved a recertification as a Green Mark Platinum
 (Super Low Energy) Building by the Building and Construction Authority
 (BCA) in August 2024. The recertification is valid until August 2027. Led
 by the Office and Estate Management Department, the recertification reflects
