@@ -94,15 +94,15 @@ about $96,000 manpower costs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
 </div>
-<p><em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
-</p>
+<em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/ABSM_group_photo_1.jpg">
 </div>
-<p><em>The ABSM was a collaborative effort between SEAB’s Exam Operations Division and Singapore Polytechnic.</em>
-</p>
+<em>The ABSM was a collaborative effort between SEAB’s Exam Operations Division and Singapore Polytechnic.</em>
+<p></p>
 <p></p>
 <h4><strong>Celebrating Service Excellence: SEAB Shines at the Digital Services Awards 2024!</strong></h4>
 <p>SEAB has made notable progress in the <a href="https://www.digitalservicesawards.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">2024 Digital Services Awards (DSA)</a>,
@@ -113,8 +113,8 @@ Group.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_1.jpg">
 </div>
-<p><em>The DSA ceremony, held at the Lifelong Learning Institute</em>
-</p>
+<em>The DSA ceremony, held at the Lifelong Learning Institute</em>
+<p></p>
 <p></p>
 <p>This year, SEAB's digital services – SEAB’s Corporate Website, Candidates
 Portal, and Exam Personnel Portal - received two awards: Best Search Engine
@@ -128,14 +128,14 @@ to receive the two awards.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/S_Edited_238.jpg">
 </div>
-<p><em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
-</p>
+<em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="dsa" src="/images/SEABlink/dsa_awards.png">
 </div>
-<p><em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
-</p>
+<em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
+<p></p>
 <p></p>
 <p>The awards reflect the ongoing efforts in leveraging technology to serve
 SEAB’s customers better. They are also a testament to the dedication and
@@ -145,8 +145,8 @@ of Education’s Information Technology Division.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_group.jpg">
 </div>
-<p><em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
-</p>
+<em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
+<p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://online.fliphtml5.com/qqqmg/vtzs/#p=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th anniversary" src="/images/SEABlink/20anni_mag.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">20 Years of Transformation: Commemorating 2004-2024</div><div class="isomer-card-link">20th Anniversary Commemorative Magazine</div></div></a>
