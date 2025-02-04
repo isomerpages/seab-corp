@@ -18,8 +18,8 @@ SEAB’s commitment to creating a sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="bhs" src="/images/SEABlink/BHS_Overall.jpg">
 </div>
-<p><em>Aerial view of our building at Jalan Bukit Ho Swee</em>
-</p>
+<em>Aerial view of our building at Jalan Bukit Ho Swee</em>
+<p></p>
 <p></p>
 <p>SEAB Building features a passive architectural design where the orientation
 of the external and internal facades was deliberately designed to minimise
@@ -43,15 +43,15 @@ to irrigate the green spaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="solarpanel" src="/images/SEABlink/Solar_Panel__SEAB_.jpg">
 </div>
-<p><em>Solar panels installed on the roof of SEAB Building.</em>
-</p>
+<em>Solar panels installed on the roof of SEAB Building.</em>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/SEABlink/green_spaces.png">
 </div>
-<p><em>Green spaces watered by the harvested rainwater.</em>
-</p>
+<em>Green spaces watered by the harvested rainwater.</em>
+<p></p>
 <p></p>
 <p>Collaborative efforts across our organisation have also further enhanced
 our sustainability initiatives to promote environmental consciousness and
