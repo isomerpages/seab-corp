@@ -53,7 +53,7 @@ the rest).</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="oral feedback" src="/images/SEABlink/oral1.png">
+<img style="width: 120%" height="auto" width="120%" alt="oral feedback" src="/images/SEABlink/oral1.png">
 </div>
 <p><strong>90% of Oral Examiners indicated that the new arrangement helped save more than 20% of their time (e.g. travelling etc).</strong>
 </p>

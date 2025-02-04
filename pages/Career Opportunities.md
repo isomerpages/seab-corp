@@ -76,8 +76,120 @@ usage, etc.</p>
 </ul>
 </div>
 </details>
-</div>
+<details class="isomer-details">
+<summary>ASSISTANT MANAGER / MANAGER (MARKING AND MODERATION), EXAM OPERATIONS
+- 2 YEAR CONTRACT</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>RESPONSIBILITIES</strong>
+</p>
+<p>Successful applicant will play an active role inmanaging post-examination
+activities.&nbsp;The key responsibilities include:&nbsp;</p>
+<p></p>
+<p>Resource Planning and Procurement&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plan and nominate qualified marking/moderation personnel to ensure the
+accuracy of marking/moderation</p>
+</li>
+<li>
+<p>Source and secure appropriate venues, considering factors such as capacity,
+accessibility, and necessary facilities</p>
+</li>
+<li>
+<p>Procure, configure, and distribute essential equipment and materials to
+support marking processes</p>
+</li>
+<li>
+<p>Develop and prepare communication materials, training programmes, and
+instructions for all stakeholders</p>
+<p></p>
+</li>
+</ul>
+<p>Oversee the conduct of Post-Examination Activities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Supervise all post-examination activities, ensuring adherence to protocols
+and timelines</p>
+</li>
+<li>
+<p>Provide first-level logistical support to address immediate concerns and
+minimise disruptions</p>
+</li>
+<li>
+<p>Work with vendor to deliver technical assistance for digital marking platforms,
+ensuring smooth operation and swift resolution of any issues</p>
+</li>
+<li>
+<p>Track progress in real-time, proactively addressing potential delays</p>
+</li>
+<li>
+<p>Support the script digitisation process, ensuring timely availability
+of examination materials</p>
+</li>
+</ul>
+<p></p>
+<p>Examination Results Management</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Implement procedures for processing and collating examination marks and
+results</p>
+</li>
+<li>
+<p>Conduct comprehensive checks to verify the accuracy and integrity of all
+marks and results</p>
+</li>
+</ul>
+<p></p>
+<p>Process and System Improvement</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Facilitate after-action reviews and perform data analysis to identify
+areas for enhancement</p>
+</li>
+<li>
+<p>Develop and implement targeted process improvements to increase efficiency
+and effectiveness in future examination cycles</p>
+</li>
+<li>
+<p>Participate in requirement gatherings and User Acceptance Testing to improve
+systems</p>
+</li>
+</ul>
+<p></p>
+<p><strong>REQUIREMENTS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Preferably a bachelor’s degree with at least 2 years of relevant experience
+in educational assessment or examination management</p>
+</li>
+<li>
+<p>Experience in project management and knowledge of procurement processes</p>
+</li>
+<li>
+<p>Possess strong organisational, problem-solving and planning skills</p>
+</li>
+<li>
+<p>Able to lead and coordinate small group or project teams</p>
+</li>
+<li>
+<p>A team player with excellent communication and interpersonal skills</p>
+</li>
+<li>
+<p>Able to work under pressure, meet deadlines, and demonstrate adaptability</p>
+</li>
+<li>
+<p>Proficiency in data analysis and interpretation</p>
+</li>
+<li>
+<p>Proficiency in Microsoft Office suite or equivalent, with a good understanding
+of IT systems and basic troubleshooting skills</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p><strong>APPLICATION PROCEDURE</strong>
 <br>If you are interested in any of the above position, please submit your
 application with your educational certificates to&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=seab" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>.</p>

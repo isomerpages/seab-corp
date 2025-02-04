@@ -27,6 +27,6 @@ communication and civic literacy.&nbsp;</p>
 the diverse and insightful takeaways they gained from the session:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="21cc feedback" src="/images/SEABlink/21cc_feedback.png">
+<img style="width: 90%" height="auto" width="90%" alt="21cc feedback" src="/images/SEABlink/21cc_feedback.png">
 </div>
 <p></p></div>

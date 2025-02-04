@@ -24,10 +24,15 @@ the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Ms Khairunnisa Abdul Khalid | Majlis Ugama Islam Singapura&nbsp;</h4>
-<p>I am a member of the Madrasah Policy and Planning Unit of the Majlis
-Ugama Islam Singapura (MUIS), and the unit oversees the planning and policy
-for the six Madrasahs in Singapore which adopt the dual curriculum. I believe
+<p>I am a member of the Madrasah Policy and Planning Unit of the Majlis Ugama
+Islam Singapura (MUIS), and the unit oversees the planning and policy for
+the six Madrasahs in Singapore which adopt the dual curriculum. I believe
 that this immersion is timely as my unit was also embarking on a similar
 digitisation project. I am looking forward to share with my unit what I
 have learnt here to elevate the learning process in my organisation.&nbsp;</p>
@@ -47,18 +52,19 @@ at its fullest.&nbsp;</p>
 <em>Ms Khairunnisa featured on the left in the photo.</em>
 <p></p>
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Mr Lan Yingjie | Ministry of Education&nbsp;</h4>
-<p>I am currently a Special Assistant with the School Operations Policy
-Branch in Ministry of Education, Headquarters (MOE HQ) whereby we support
-the operationalisation of broader education policies. Prior to this, I
-was a teacher in schools and had performed the role of a Presiding Examiner
-and invigilator for the national examinations. I chose to do this STIP
+<p>I am currently a Special Assistant with the School Operations Policy Branch
+in Ministry of Education, Headquarters (MOE HQ) whereby we support the
+operationalisation of broader education policies. Prior to this, I was
+a teacher in schools and had performed the role of a Presiding Examiner
+and invigilator for the National Examinations. I chose to do this STIP
 because I wanted to know more about the processes involved in the running
-of the national examinations, especially behind-the-scenes processes after
+of the National Examinations, especially behind-the-scenes processes after
 observing examinations in school during challenging times like the COVID-19
 period.  &nbsp;</p>
 <p>Being involved in the digitisation and processing of papers was a very
@@ -80,16 +86,17 @@ innovations benefitting the schools and students in the future.&nbsp;</p>
 <em>Mr Lan Yingjie featured on the left in the photo.</em>
 <p></p>
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Mr Sandeep Shetty | Monetary Authority of Singapore&nbsp;&nbsp;</h4>
-<p><strong></strong>I am currently performing the role of a Lead Application
-Delivery Manager (ADM) who oversees the end-to-end delivery of software
-applications, managing the entire application lifecycle from requirements
-definition and tender procurement through to build, test, deployment, and
-maintenance in the Monetary Authority of Singapore (MAS).&nbsp;&nbsp;</p>
+<p>I am currently performing the role of a Lead Application Delivery Manager
+(ADM) who oversees the end-to-end delivery of software applications, managing
+the entire application lifecycle from requirements definition and tender
+procurement through to build, test, deployment, and maintenance in the
+Monetary Authority of Singapore (MAS).&nbsp;&nbsp;</p>
 <p>I chose SEAB for my immersion to gain more insights into the conduct and
 execution of the National Examinations. With my background, I hope I will
 also be able to provide suggestions to the SEAB team to further improve
@@ -100,7 +107,7 @@ various SEAB departments came together, demonstrating exceptional teamwork
 and dedication. I have learnt the importance of cross-departmental collaboration
 in handling high-stakes situations.&nbsp;</p>
 <p>The STIP experience provided me with invaluable insights to the intricacies
-of education administration, particularly in the context of national examinations.
+of education administration, particularly in the context of National Examinations.
 I gained a deeper understanding of the multifaceted nature of organising
 such large-scale events. Specifically, I enhanced my skills in:&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -117,13 +124,14 @@ the needs of various stakeholders.&nbsp;</p>
 operations can be applied to enhance the efficiency of projects in my department.
 For example, I plan to implement a similar system of regular, brief check-ins
 during critical phases in my next project.&nbsp;&nbsp;</p>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/sandeep.jpg">
 </div>
 <em>Mr Sandeep Shetty</em>
 <p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -133,18 +141,18 @@ during critical phases in my next project.&nbsp;&nbsp;</p>
 Authority (BCA), and my team is responsible for implementing procurement
 policies for the construction and Facility Management sector.&nbsp;</p>
 <p>The advertisement for this STIP caught my eye because as a Singaporean
-student who had gone through a few rounds of National Examination, I was
-intrigued and interested to go behind-the-scenes of what happens before
-and after the National Examinations.&nbsp;</p>
+student who had gone through a few rounds of the National Examinations,
+I was intrigued and interested to go behind-the-scenes of what happens
+before and after the National Examinations.&nbsp;</p>
 <p>During this STIP, I had the opportunity to see the end-to-end processes
 of script management and saw how efficiently and securely the scripts were
 managed. I was also impressed by the exhibitions in the Heritage Gallery,
 where I learnt about the evolution of our National Examinations over the
 past few decades in Singapore. During my short two-week stint in SEAB,
 I have gained a new-found appreciation for SEAB's efforts in safeguarding
-the integrity of our National Exams and accounting for each script. SEAB's
-devotion in continuously innovating and exploring new ways to enhance the
-quality of our National Examinations and assessment standards is inspiring.&nbsp;</p>
+the integrity of our National Examinations and accounting for each script.
+SEAB's devotion in continuously innovating and exploring new ways to enhance
+the quality of our National Examinations and assessment standards is inspiring.&nbsp;</p>
 <p>Seeing the crucial role that SEAB plays in our education system has reminded
 me of the broader impact of our work in the public service. This motivates
 me to continue improving our procurement policies for the benefit of all
@@ -153,8 +161,17 @@ government agencies.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
 </div>
 <em>Ms Lee Huixian</em>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=61ULsPX2JBs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STIP" src="/images/SEABlink/stip_YT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Short Term Immersion Programme @ SEAB</div><div class="isomer-card-link">Watch the video here</div></div></a>
 </div>
-<p></p></td></tr></tbody></table>
+<p></p>
+<p></p>
