@@ -255,6 +255,15 @@ implementation of the BMTL e-Examination. Here are some of their feedback:&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="teachers" src="/images/SEABlink/eExam_BMTL_tr.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The successful implementation of the e-Examinations for the N(A)-Level
 Social Studies, N(T)-Level Science, and N(T)-Level Basic Mother Tongue
 Languages in 2024 reinforces SEAB’s continued dedication to assessment
@@ -263,8 +272,8 @@ positive responses from the educators and students highlighted the eExam
 system's user-friendliness, and the engaging, authentic nature of the assessment
 experience. SEAB will continue to design assessments that are relevant
 and effective in meeting the education goals of Singapore.</p>
-<p></p>
-<p><em>*Note: All images used in the examination questions have been credited to the respective sources in the eExam system.</em>&nbsp;</p>
+<p><em><sub>*Note: All images used in the examination questions have been credited to the respective sources in the eExam system.</sub></em><sub>&nbsp;</sub>
+</p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://online.fliphtml5.com/qqqmg/vtzs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e-exams" src="/images/SEABlink/e_exam1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Charting New Waters: Start of e-Examinations</div><div class="isomer-card-description">p.14</div><div class="isomer-card-link">20th Anniversary Commemorative Magazine</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-1-2023-final.pdf" class="isomer-card">
@@ -280,9 +289,7 @@ and effective in meeting the education goals of Singapore.</p>
 </div>
 </a>
 </div>
+<h4></h4>
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p></p>
