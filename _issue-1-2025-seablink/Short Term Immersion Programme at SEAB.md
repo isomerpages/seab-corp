@@ -1,7 +1,7 @@
 ---
 title: Short Term Immersion Programme at SEAB
 permalink: /seab-link-issue-1-2025/stip-at-seab/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>The Short-Term Immersion Programme (STIP) is a Whole-Of-Government initiative
@@ -49,7 +49,8 @@ at its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
 </div>
-<em>Ms Khairunnisa featured on the left in the photo.</em>
+<p><em>Ms Khairunnisa featured on the left in the photo.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -83,7 +84,8 @@ innovations benefitting the schools and students in the future.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
 </div>
-<em>Mr Lan Yingjie featured on the left in the photo.</em>
+<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -128,7 +130,8 @@ during critical phases in my next project.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/sandeep.jpg">
 </div>
-<em>Mr Sandeep Shetty</em>
+<p><em>Mr Sandeep Shetty</em>
+</p>
 <p></p>
 </li>
 </ul>
@@ -160,15 +163,19 @@ government agencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
 </div>
-<em>Ms Lee Huixian</em>
-<p></p>
-<p></p>
-<h4><strong>Suggested Reads</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=61ULsPX2JBs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STIP" src="/images/SEABlink/stip_YT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Short Term Immersion Programme @ SEAB</div><div class="isomer-card-link">Watch the video here</div></div></a>
-</div>
+<p><em>Ms Lee Huixian</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Suggested Reads</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=61ULsPX2JBs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STIP" src="/images/SEABlink/stip_YT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Short Term Immersion Programme @ SEAB</div><div class="isomer-card-link">Watch the video here</div></div></a>
+</div>
+<p></p>
 <p></p>
