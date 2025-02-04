@@ -17,7 +17,6 @@ by the Office and Estate Management Department, the recertification reflects
 SEAB’s commitment to creating a sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="bhs" src="/images/SEABlink/BHS_Overall.jpg">
-</div>
 <em>Aerial view of our building at Jalan Bukit Ho Swee</em>
 <p></p>
 <p></p>
@@ -42,14 +41,12 @@ to irrigate the green spaces.</p>
 <p>c. Solar panels installed on the rooftop to offset electricity consumption.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="solarpanel" src="/images/SEABlink/Solar_Panel__SEAB_.jpg">
-</div>
 <em>Solar panels installed on the roof of SEAB Building.</em>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/SEABlink/green_spaces.png">
-</div>
 <em>Green spaces watered by the harvested rainwater.</em>
 <p></p>
 <p></p>
@@ -93,14 +90,12 @@ to 860 man-days saved; and</p>
 about $96,000 manpower costs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
-</div>
 <em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/ABSM_group_photo_1.jpg">
-</div>
 <em>The ABSM was a collaborative effort between SEAB’s Exam Operations Division and Singapore Polytechnic.</em>
 <p></p>
 <p></p>
@@ -112,7 +107,6 @@ Group.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_1.jpg">
-</div>
 <em>The DSA ceremony, held at the Lifelong Learning Institute</em>
 <p></p>
 <p></p>
@@ -127,13 +121,11 @@ government websites and digital services.</p>
 to receive the two awards.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/S_Edited_238.jpg">
-</div>
 <em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="dsa" src="/images/SEABlink/dsa_awards.png">
-</div>
 <em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
 <p></p>
 <p></p>
@@ -144,7 +136,6 @@ Exam Operations Division, with strong support rendered by the Ministry
 of Education’s Information Technology Division.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_group.jpg">
-</div>
 <em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
 <p></p>
 <p></p>
@@ -164,4 +155,4 @@ of Education’s Information Technology Division.</p>
 </div>
 </a>
 </div>
-<p></p>
+<p></p></div></div></div></div></div></div></div></div></div>
