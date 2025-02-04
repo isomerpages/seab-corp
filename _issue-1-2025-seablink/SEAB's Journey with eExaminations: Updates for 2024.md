@@ -63,14 +63,14 @@ candidates.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_1.png">
 </div>
-<p><em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;</p>
+<em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_Interface_for_Practice_Session.jpg">
 </div>
-<p><em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;</p>
+<em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -83,7 +83,7 @@ relevant assessment experience that mirror the workplace through e-Examinations.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DAB key features" src="/images/SEABlink/DAB_key_features.png">
 </div>
-<p><em>Image of DAB’s key features&nbsp;</em>&nbsp;</p>
+<em>Image of DAB’s key features&nbsp;</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p>Another useful feature is the bookmarking function, which allows candidates
@@ -94,7 +94,7 @@ their responses.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_key_feature_bookmarked.jpg">
 </div>
-<p><em>Image of Bookmarked Tags and Review</em>&nbsp;</p>
+<em>Image of Bookmarked Tags and Review</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -144,7 +144,7 @@ to process and demonstrate their understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Drag_drop.jpg">
 </div>
-<p><em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;</p>
+<em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p>Another question utilised an animation depicting the treatment of heart
@@ -167,15 +167,15 @@ and critical thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Circuit.jpg">
 </div>
-<p><em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;</p>
+<em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
 </div>
-<p><em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
-</p>
+<em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
+<p></p>
 <p></p>
 <p></p>
 <p>The feedback from stakeholders was positive with many expressing that
@@ -216,8 +216,8 @@ an intuitive and streamlined examination process.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture1.png">
 </div>
-<p><em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
-</p>
+<em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -232,13 +232,13 @@ eExam system interface with ease, requiring no assistance from invigilators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
 </div>
-<p><em>Left: A candidate completing his BML examination*. <br>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
+<em>Left: A candidate completing his BML examination*. <br>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture_4.jpg">
 </div>
-<p><em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;</p>
+<em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p>Overall, candidates and teachers shared positive feedback on the first
