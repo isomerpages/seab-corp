@@ -49,8 +49,7 @@ at its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
 </div>
-<p><em>Ms Khairunnisa featured on the left in the photo.</em>
-</p>
+<em>Ms Khairunnisa featured on the left in the photo.</em>
 <p></p>
 <p></p>
 <p></p>
