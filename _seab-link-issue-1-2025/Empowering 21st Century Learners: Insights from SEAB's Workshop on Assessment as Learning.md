@@ -5,11 +5,10 @@ permalink: /seab-link-issue-1-2025/21cc-workshop-on-assessment-as-learning/
 variant: markdown
 description: ""
 ---
-<p>On 4 March2024, 31 key personnel and teachers from the West 3 (W3) Cluster
+<p>On 4 March 2024, 31 key personnel and teachers from the West 3 (W3) Cluster
 participated in a half-day workshop conducted by SEAB at Frontier Primary
 School. Titled “<em>Strengthening 21<sup>st</sup> Century Competencies (CC) through Assessment as Learning (AaL)</em>”,
-the workshop was adapted from an established in-house training programme,
-the workshop delved into the concepts, principles, and practical applications
+the workshop was adapted from an established in-house training programme. The workshop delved into the concepts, principles, and practical applications
 of AaL to enhance students’ 21CC. The primary goal was to deepen participants’
 understanding of how AaL fosters self-awareness, self-reflection and self-regulation
 - crucial metacognitive processes for cultivating the skills essential
