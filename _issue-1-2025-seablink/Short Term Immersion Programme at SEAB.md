@@ -84,8 +84,7 @@ innovations benefitting the schools and students in the future.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
 </div>
-<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
-</p>
+<em>Mr Lan Yingjie featured on the left in the photo.</em>
 <p></p>
 <p></p>
 <p></p>
@@ -130,8 +129,7 @@ during critical phases in my next project.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/sandeep.jpg">
 </div>
-<p><em>Mr Sandeep Shetty</em>
-</p>
+<em>Mr Sandeep Shetty</em>
 <p></p>
 </li>
 </ul>
@@ -163,8 +161,7 @@ government agencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
 </div>
-<p><em>Ms Lee Huixian</em>
-</p>
+<em>Ms Lee Huixian</em>
 </td>
 </tr>
 <tr>
