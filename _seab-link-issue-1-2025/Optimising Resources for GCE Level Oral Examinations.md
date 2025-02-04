@@ -60,8 +60,7 @@ Tongue Language with the rest).</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eod" src="/images/SEABlink/eod_oral.jpg">
-</div>
-<p><em>A group photo of the Exam Operations team posing with Mr Yue Lip Sin, Chief Executive, SEAB.</em>
-</p>
+<em>A group photo of the Exam Operations team posing with Mr Yue Lip Sin, Chief Executive, SEAB.</em>
 <p></p>
 <p></p>
+<p></p></div>
