@@ -1,7 +1,7 @@
 ---
 title: Short Term Immersion Programme at SEAB
 permalink: /seab-link-issue-1-2025/stip-at-seab/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>The Short-Term Immersion Programme (STIP) is a Whole-Of-Government initiative
@@ -25,9 +25,9 @@ the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Ms Khairunnisa Abdul Khalid | Majlis Ugama Islam Singapura&nbsp;</h4>
-<p>I am a member of the Madrasah Policy and Planning Unit of the Majlis
-Ugama Islam Singapura (MUIS), and the unit oversees the planning and policy
-for the six Madrasahs in Singapore which adopt the dual curriculum. I believe
+<p>I am a member of the Madrasah Policy and Planning Unit of the Majlis Ugama
+Islam Singapura (MUIS), and the unit oversees the planning and policy for
+the six Madrasahs in Singapore which adopt the dual curriculum. I believe
 that this immersion is timely as my unit was also embarking on a similar
 digitisation project. I am looking forward to share with my unit what I
 have learnt here to elevate the learning process in my organisation.&nbsp;</p>
@@ -44,7 +44,8 @@ at its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
 </div>
-<em>Ms Khairunnisa featured on the left in the photo.</em>
+<p><em>Ms Khairunnisa featured on the left in the photo.</em>
+</p>
 <p></p>
 <p></p>
 </td>
@@ -52,10 +53,10 @@ at its fullest.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Mr Lan Yingjie | Ministry of Education&nbsp;</h4>
-<p>I am currently a Special Assistant with the School Operations Policy
-Branch in Ministry of Education, Headquarters (MOE HQ) whereby we support
-the operationalisation of broader education policies. Prior to this, I
-was a teacher in schools and had performed the role of a Presiding Examiner
+<p>I am currently a Special Assistant with the School Operations Policy Branch
+in Ministry of Education, Headquarters (MOE HQ) whereby we support the
+operationalisation of broader education policies. Prior to this, I was
+a teacher in schools and had performed the role of a Presiding Examiner
 and invigilator for the national examinations. I chose to do this STIP
 because I wanted to know more about the processes involved in the running
 of the national examinations, especially behind-the-scenes processes after
@@ -77,7 +78,8 @@ innovations benefitting the schools and students in the future.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
 </div>
-<em>Mr Lan Yingjie featured on the left in the photo.</em>
+<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
+</p>
 <p></p>
 <p></p>
 </td>
@@ -85,11 +87,11 @@ innovations benefitting the schools and students in the future.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Mr Sandeep Shetty | Monetary Authority of Singapore&nbsp;&nbsp;</h4>
-<p><strong></strong>I am currently performing the role of a Lead Application
-Delivery Manager (ADM) who oversees the end-to-end delivery of software
-applications, managing the entire application lifecycle from requirements
-definition and tender procurement through to build, test, deployment, and
-maintenance in the Monetary Authority of Singapore (MAS).&nbsp;&nbsp;</p>
+<p>I am currently performing the role of a Lead Application Delivery Manager
+(ADM) who oversees the end-to-end delivery of software applications, managing
+the entire application lifecycle from requirements definition and tender
+procurement through to build, test, deployment, and maintenance in the
+Monetary Authority of Singapore (MAS).&nbsp;&nbsp;</p>
 <p>I chose SEAB for my immersion to gain more insights into the conduct and
 execution of the National Examinations. With my background, I hope I will
 also be able to provide suggestions to the SEAB team to further improve
@@ -117,12 +119,16 @@ the needs of various stakeholders.&nbsp;</p>
 operations can be applied to enhance the efficiency of projects in my department.
 For example, I plan to implement a similar system of regular, brief check-ins
 during critical phases in my next project.&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sandeep" src="/images/SEABlink/IMG_20250203_192015.jpg">
+</div>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip3.jpg">
 </div>
-<em>Mr Sandeep Shetty</em>
+<p><em>Mr Sandeep Shetty</em>
+</p>
 <p></p>
 </td>
 </tr>
@@ -152,9 +158,15 @@ government agencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
 </div>
-<em>Ms Lee Huixian</em>
+<p><em>Ms Lee Huixian</em>
+</p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=61ULsPX2JBs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STIP" src="/images/SEABlink/stip_YT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Short Term Immersion Programme @ SEAB</div><div class="isomer-card-link">Watch the video here</div></div></a>
 </div>
-<p></p></td></tr></tbody></table>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
