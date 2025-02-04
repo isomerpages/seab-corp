@@ -26,12 +26,16 @@ papers.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_196.jpg">
+</div>
 <em>Let the celebrations begin!</em>
 <br>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_212.jpg">
+</div>
 <em>The long-serving Mother Tongue Language moderators joined SEAB in our festivities and were recognised for their dedicated service.</em>
+<p></p>
 <p></p>
 <p>The event featured a vibrant array of activities, including exciting carnival
 games and a wide selection of assorted handicrafts, food and beverages.
@@ -42,12 +46,15 @@ to $10,000 in support of charitable organisations under the President's
 Challenge, further underscoring the spirit of unity and giving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/funfest.png">
+</div>
 <em>The event attracted a lively crowd, with staff and their families enjoying the games and food stalls.</em><strong><br></strong>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="funfest" src="/images/SEABlink/Photo_370.jpg">
 </div>
 <em>Celebrating unity, giving back, and honouring our nation!</em>
+<p></p>
 <p></p>
 <h4><strong>Old Shoe, New Future: Giving Footwear a Second Life Through Recycling</strong>&nbsp;</h4>
 <p>Between August and September 2024, an initiative to collect used shoes
@@ -63,11 +70,15 @@ creative reuse of materials in innovative ways. &nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240823_WA0003.jpg">
+</div>
 <em>The turnout was great, with staff generously donating their footwear for a worthy cause.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="shoescollection" src="/images/SEABlink/IMG_20240904_WA0042.jpg">
+</div>
 <em>SEAB representatives dropped off the collected footwear at Cloop sorting facilities.</em>
+<p></p>
 <p></p>
 <h4><strong>Packing with Purpose: Essential Medical Supplies for Dialysis Patients</strong>&nbsp;</h4>
 <p>SEAB staff engaged in a meaningful volunteering initiative with the National
@@ -81,7 +92,9 @@ commitment to community service.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="nkf" src="/images/SEABlink/nkf.jpg">
+</div>
 <em>Packing with purpose and pride - making a meaningful difference for those in need.</em>
+<p></p>
 <p></p>
 <h4><strong>A Joyful Giving: SEAB’s School Readiness Bag Initiative for Students in Need</strong>&nbsp;</h4>
 <p>In 2024, SEAB embarked on a new corporate social responsibility effort
@@ -95,19 +108,23 @@ generous donations from SEAB staff, which helped provide 50 school readiness
 bags for less privileged students, ranging from preschoolers to students
 in Institutes of Higher Learning.&nbsp;&nbsp;</p>
 <p>SEAB staff came together to volunteer, packing the 50 bags with essential
-school supplies and.&nbsp; then distributed the bags to the recipients.
-On the day of the bag distribution, the recipients’ faces were beaming
-with joy as they received their bags. With these thoughtful contributions,
-SEAB’s efforts have given these students a good reason to look forward
-to their new school year.&nbsp;</p>
+school supplies and then distributed the bags to the recipients. On the
+day of the bag distribution, the recipients’ faces were beaming with joy
+as they received their bags. With these thoughtful contributions, SEAB’s
+efforts have given these students a good reason to look forward to their
+new school year.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags1.jpg">
+</div>
 <em>Many hands make light work!</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="schoolbags" src="/images/SEABlink/schbags2.jpg">
+</div>
 <em>Giving school bags, receiving smiles in return</em>
+<p></p>
 <p></p>
 <h4><strong>Festive Cheers during SEAB's Year-end Celebrations&nbsp;</strong>&nbsp;</h4>
 <p>To close an incredible 20<sup>th</sup> year, the staff gathered for a memorable
@@ -127,7 +144,7 @@ the name reflects the organisation’s culture trait of collaboration, with
 the new platform designed to enhance internal communication and accessibility
 of information.&nbsp;</p>
 <p>The event’s mood then went into festive cheer, featuring a lively Christmas
-bingo game. a meet-and-greet with two SEAB staff members dressed as Christmas
+bingo game, a meet-and-greet with two SEAB staff members dressed as Christmas
 mascots, and the organisation’s first-ever gift exchange. During the gift
 exchange segment, staff eagerly participated, exchanging thoughtful gifts
 as a symbol of appreciation for each other. The gift exchange not only
@@ -138,7 +155,9 @@ off a year of achievement, leaving everyone excited for the&nbsp; years
 ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="year-end celebrations" src="/images/SEABlink/yearend_2024.png">
+</div>
 <em>Wrapping up the year with festive cheer and joy all around at SEAB!</em>
+<p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="seab@20" src="/images/SEABlink/eodkite.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB@20: Our Memories (Part 1)</div><div class="isomer-card-description">p.30</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
@@ -155,4 +174,4 @@ ahead.</p>
 </div>
 </a>
 </div>
-<p></p></div></div></div></div></div></div></div></div></div>
+<p></p>

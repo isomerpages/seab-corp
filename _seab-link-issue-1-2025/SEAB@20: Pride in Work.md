@@ -10,7 +10,7 @@ innovation, sustainability, and service excellence. Read on to find out
 more.</p>
 <p></p>
 <h4><strong>SEAB Building Achieves Remarkable Sustainability Milestone</strong></h4>
-<p>SEAB Building has achieved a re-certification as a Green Mark Platinum
+<p>SEAB Building has achieved a recertification as a Green Mark Platinum
 (Super Low Energy) Building by the Building and Construction Authority
 (BCA) in August 2024. The recertification is valid until August 2027. Led
 by the Office and Estate Management Department, the recertification reflects
@@ -18,6 +18,7 @@ SEAB’s commitment to creating a sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="bhs" src="/images/SEABlink/BHS_Overall.jpg">
 <em>Aerial view of our building at Jalan Bukit Ho Swee</em>
+<p></p>
 <p></p>
 <p>SEAB Building features a passive architectural design where the orientation
 of the external and internal facades was deliberately designed to minimise
@@ -43,9 +44,11 @@ to irrigate the green spaces.</p>
 <em>Solar panels installed on the roof of SEAB Building.</em>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/SEABlink/green_spaces.png">
 <em>Green spaces watered by the harvested rainwater.</em>
+<p></p>
 <p></p>
 <p>Collaborative efforts across our organisation have also further enhanced
 our sustainability initiatives to promote environmental consciousness and
@@ -70,28 +73,31 @@ several reviews to increase the machine's throughput and to reduce manual
 efforts in operations.</p>
 <p><strong><em>What does the ABSM do?</em></strong>
 </p>
-The ABSM handles a daily capacity of 8,000 to 10,000 scripts, with the
-following key features: <p></p>
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accurately account scripts using candidate
-QR or bar codes;<p></p>
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detect additional booklets used by candidates
-using thickness sensing; and<p></p>
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Precision cutting of the booklets using
-a high-quality roller cutter to allow scanning.<p></p>
+<p>The ABSM handles a daily capacity of 8,000 to 10,000 scripts, with the
+following key features:</p>
+<p>a. Accurately account scripts using candidate
+QR or bar codes;</p>
+<p>b. Detect additional booklets used by candidates
+using thickness sensing; and</p>
+<p>c. Precision cutting of the booklets using
+a high-quality roller cutter to allow scanning.</p>
+<p></p>
 <p>ABSM will be further enhanced to meet SEAB’s total script volume and is
 expected to reap the following benefits:</p>
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An 80% reduction in manual efforts, translating
-to 860 man-days saved; and<p></p>
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A potential annual cost avoidance of
-about $96,000 manpower costs.<p></p>
+<p>a. An 80% reduction in manual efforts, translating
+to 860 man-days saved; and</p>
+<p>b. A potential annual cost avoidance of
+about $96,000 manpower costs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
 <em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/ABSM_group_photo_1.jpg">
 <em>The ABSM was a collaborative effort between SEAB’s Exam Operations Division and Singapore Polytechnic.</em>
+<p></p>
 <p></p>
 <h4><strong>Celebrating Service Excellence: SEAB Shines at the Digital Services Awards 2024!</strong></h4>
 <p>SEAB has made notable progress in the <a href="https://www.digitalservicesawards.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">2024 Digital Services Awards (DSA)</a>,
@@ -102,6 +108,7 @@ Group.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_1.jpg">
 <em>The DSA ceremony, held at the Lifelong Learning Institute</em>
+<p></p>
 <p></p>
 <p>This year, SEAB's digital services – SEAB’s Corporate Website, Candidates
 Portal, and Exam Personnel Portal - received two awards: Best Search Engine
@@ -116,9 +123,11 @@ to receive the two awards.</p>
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/S_Edited_238.jpg">
 <em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="dsa" src="/images/SEABlink/dsa_awards.png">
 <em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
+<p></p>
 <p></p>
 <p>The awards reflect the ongoing efforts in leveraging technology to serve
 SEAB’s customers better. They are also a testament to the dedication and
@@ -128,6 +137,7 @@ of Education’s Information Technology Division.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_group.jpg">
 <em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
+<p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://online.fliphtml5.com/qqqmg/vtzs/#p=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="20th anniversary" src="/images/SEABlink/20anni_mag.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">20 Years of Transformation: Commemorating 2004-2024</div><div class="isomer-card-link">20th Anniversary Commemorative Magazine</div></div></a>
