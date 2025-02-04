@@ -1,7 +1,7 @@
 ---
 title: Short Term Immersion Programme at SEAB
 permalink: /seab-link-issue-1-2025/stip-at-seab/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>The Short-Term Immersion Programme (STIP) is a Whole-Of-Government initiative
@@ -24,6 +24,11 @@ the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Ms Khairunnisa Abdul Khalid | Majlis Ugama Islam Singapura&nbsp;</h4>
 <p>I am a member of the Madrasah Policy and Planning Unit of the Majlis Ugama
 Islam Singapura (MUIS), and the unit oversees the planning and policy for
@@ -44,7 +49,8 @@ at its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
 </div>
-<em>Ms Khairunnisa featured on the left in the photo.</em>
+<p><em>Ms Khairunnisa featured on the left in the photo.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -78,7 +84,8 @@ innovations benefitting the schools and students in the future.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip2.jpg">
 </div>
-<em>Mr Lan Yingjie featured on the left in the photo.</em>
+<p><em>Mr Lan Yingjie featured on the left in the photo.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -119,12 +126,15 @@ the needs of various stakeholders.&nbsp;</p>
 operations can be applied to enhance the efficiency of projects in my department.
 For example, I plan to implement a similar system of regular, brief check-ins
 during critical phases in my next project.&nbsp;&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sandeep" src="/images/SEABlink/IMG_20250203_192015.jpg">
-<em>Mr Sandeep Shetty</em>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/sandeep.jpg">
+</div>
 <p></p>
 <p></p>
-</div></li></ul></td>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -133,7 +143,7 @@ during critical phases in my next project.&nbsp;&nbsp;</p>
 Authority (BCA), and my team is responsible for implementing procurement
 policies for the construction and Facility Management sector.&nbsp;</p>
 <p>The advertisement for this STIP caught my eye because as a Singaporean
-student who had gone through a few rounds of National Examination, I was
+student who had gone through a few rounds of National Examinatin, I was
 intrigued and interested to go behind-the-scenes of what happens before
 and after the National Examinations.&nbsp;</p>
 <p>During this STIP, I had the opportunity to see the end-to-end processes
@@ -142,9 +152,9 @@ managed. I was also impressed by the exhibitions in the Heritage Gallery,
 where I learnt about the evolution of our National Examinations over the
 past few decades in Singapore. During my short two-week stint in SEAB,
 I have gained a new-found appreciation for SEAB's efforts in safeguarding
-the integrity of our National Exams and accounting for each script. SEAB's
-devotion in continuously innovating and exploring new ways to enhance the
-quality of our National Examinations and assessment standards is inspiring.&nbsp;</p>
+the integrity of our National Examinations and accounting for each script.
+SEAB's devotion in continuously innovating and exploring new ways to enhance
+the quality of our National Examinations and assessment standards is inspiring.&nbsp;</p>
 <p>Seeing the crucial role that SEAB plays in our education system has reminded
 me of the broader impact of our work in the public service. This motivates
 me to continue improving our procurement policies for the benefit of all
@@ -152,7 +162,8 @@ government agencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip4.jpg">
 </div>
-<em>Ms Lee Huixian</em>
+<p><em>Ms Lee Huixian</em>
+</p>
 <p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
