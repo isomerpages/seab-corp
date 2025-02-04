@@ -155,7 +155,7 @@ learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/human_heart.jpg">
 </div>
-<p><em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;</p>
+<em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p>Additionally, another question featured a video on electrical circuits,
