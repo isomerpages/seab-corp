@@ -63,9 +63,9 @@ at its fullest.&nbsp;</p>
 in Ministry of Education, Headquarters (MOE HQ) whereby we support the
 operationalisation of broader education policies. Prior to this, I was
 a teacher in schools and had performed the role of a Presiding Examiner
-and invigilator for the national examinations. I chose to do this STIP
+and invigilator for the National Examinations. I chose to do this STIP
 because I wanted to know more about the processes involved in the running
-of the national examinations, especially behind-the-scenes processes after
+of the National Examinations, especially behind-the-scenes processes after
 observing examinations in school during challenging times like the COVID-19
 period.  &nbsp;</p>
 <p>Being involved in the digitisation and processing of papers was a very
@@ -109,7 +109,7 @@ various SEAB departments came together, demonstrating exceptional teamwork
 and dedication. I have learnt the importance of cross-departmental collaboration
 in handling high-stakes situations.&nbsp;</p>
 <p>The STIP experience provided me with invaluable insights to the intricacies
-of education administration, particularly in the context of national examinations.
+of education administration, particularly in the context of National Examinations.
 I gained a deeper understanding of the multifaceted nature of organising
 such large-scale events. Specifically, I enhanced my skills in:&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -130,7 +130,8 @@ during critical phases in my next project.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/sandeep.jpg">
 </div>
-<p></p>
+<p><em>Mr Sandeep Shetty</em>
+</p>
 <p></p>
 </li>
 </ul>
@@ -143,9 +144,9 @@ during critical phases in my next project.&nbsp;&nbsp;</p>
 Authority (BCA), and my team is responsible for implementing procurement
 policies for the construction and Facility Management sector.&nbsp;</p>
 <p>The advertisement for this STIP caught my eye because as a Singaporean
-student who had gone through a few rounds of National Examinatin, I was
-intrigued and interested to go behind-the-scenes of what happens before
-and after the National Examinations.&nbsp;</p>
+student who had gone through a few rounds of the National Examinations,
+I was intrigued and interested to go behind-the-scenes of what happens
+before and after the National Examinations.&nbsp;</p>
 <p>During this STIP, I had the opportunity to see the end-to-end processes
 of script management and saw how efficiently and securely the scripts were
 managed. I was also impressed by the exhibitions in the Heritage Gallery,
