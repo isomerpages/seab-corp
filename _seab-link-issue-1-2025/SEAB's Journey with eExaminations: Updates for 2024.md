@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Digital literacy has been integrated into teaching and learning to prepare
 our students for future work. Taking alignment with this, e-Examinations
-was introduced in 2013 to provide students with a more relevant, authentic
+were introduced in 2013 to provide students with a more relevant, authentic
 and engaging assessment experience. e-Examinations also offer personalisation
 and assess skills and knowledge that traditional pen-and-paper methods
 cannot.</p>
