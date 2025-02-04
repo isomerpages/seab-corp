@@ -62,16 +62,14 @@ candidates.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_1.png">
-</div>
-<p><em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;</p>
+<em>Candidates from Tampines and East Spring Secondary Schools during actual examination day on 11 Sep 2024</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_Interface_for_Practice_Session.jpg">
-</div>
-<p><em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;</p>
+<em>Cover page of a Digital Answer Booklet on SEAB’s eExam system</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -84,8 +82,7 @@ relevant assessment experience that mirror the workplace through e-Examinations.
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DAB key features" src="/images/SEABlink/DAB_key_features.png">
-</div>
-<p><em>Image of DAB’s key features&nbsp;</em>&nbsp;</p>
+<em>Image of DAB’s key features&nbsp;</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -96,8 +93,7 @@ feature that makes it easy for candidates to quickly recall and refine
 their responses.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/2024_NA_SS_DAB_key_feature_bookmarked.jpg">
-</div>
-<p><em>Image of Bookmarked Tags and Review</em>&nbsp;</p>
+<em>Image of Bookmarked Tags and Review</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -124,7 +120,7 @@ provided positive feedback. Some of the comments include:</p>
 <img style="width: 100%" height="auto" width="100%" alt="SS" src="/images/SEABlink/eExam_SS.png">
 </div>
 <p></p>
-</td>
+</div></div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -146,8 +142,7 @@ elements within a virtual environment, giving them an alternative approach
 to process and demonstrate their understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Drag_drop.jpg">
-</div>
-<p><em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;</p>
+<em>A drag-and-drop question assessing concepts of energy in the 2024 e-Examination.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -158,8 +153,7 @@ immersive learning experience that appeals to both visual and kinesthetic
 learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/human_heart.jpg">
-</div>
-<p><em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;</p>
+<em>A question in the 2024 e-Examination based on an animation involving the human heart.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -171,17 +165,15 @@ the setup and apply their knowledge, encourages active problem-solving
 and critical thinking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Circuit.jpg">
-</div>
-<p><em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;</p>
+<em>A question in the 2024 e-Examination using a video featuring electrical circuits.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="70%" alt="PS science" src="/images/SEABlink/science.jpg">
-</div>
-<p><em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
-</p>
+<em>A student in a PS watching an animation to answer a question on the adjoining panel in the e-Examination interface.</em>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -201,7 +193,7 @@ navigate its interface with ease.</p>
 item formats, interested readers can refer to a previously published article
 <a href="https://go.gov.sg/seab-link-issue-1-2022-final" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-</td>
+</div></div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -223,9 +215,8 @@ and control during the examination. These features work together to create
 an intuitive and streamlined examination process.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture1.png">
-</div>
-<p><em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
-</p>
+<em>Interface and features of the BMTL Paper 1* e-Exam system (taken from the PS).</em>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -240,15 +231,13 @@ for BMTL candidates firsthand.&nbsp; Candidates generally navigated the
 eExam system interface with ease, requiring no assistance from invigilators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eexam" src="/images/SEABlink/eexam_2.png">
-</div>
-<p><em>Left: A candidate completing his BML examination*. <br>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;</p>
+<em>Left: A candidate completing his BML examination*. <br>Right: A candidate using the Hanyu Pinyin feature found in the eExam system* for BCL.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="eexam" src="/images/SEABlink/Picture_4.jpg">
-</div>
-<p><em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;</p>
+<em>A BTL candidate completing his examination* using the Tamil keyboard.</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -266,7 +255,7 @@ implementation of the BMTL e-Examination. Here are some of their feedback:&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="teachers" src="/images/SEABlink/eExam_BMTL_tr.png">
 </div>
-</td>
+</div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
