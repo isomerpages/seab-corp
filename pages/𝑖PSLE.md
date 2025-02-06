@@ -359,7 +359,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>Ms Siriya Kanivaranon/
 <br>Ms Ratchanee Buranasatitnon
 <br>+66 968164588
-<br><a href="mailto:mewsiriya@gmail.com" rel="noopener nofollow" target="_blank">acsp@scsp.ac.th</a>
+<br><a href="mailto:acsp@acsp.ac.th" rel="noopener nofollow" target="_blank">acsp@acsp.ac.th</a>
 </p>
 </td>
 </tr>
