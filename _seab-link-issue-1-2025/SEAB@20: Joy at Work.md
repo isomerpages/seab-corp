@@ -79,7 +79,7 @@ creative reuse of materials in innovative ways. &nbsp;</p>
 Kidney Foundation, which involved packing essential medical supplies for
 dialysis patients. This effort played a crucial role in supporting those
 who rely on regular dialysis treatments to manage their kidney health.&nbsp;</p>
-<p>Dedicated volunteers from various SEAB divisions came together on an afternoon
+<p>Dedicated volunteers from various SEAB Divisions came together on an afternoon
 to pack essential medical supplies with care. SEAB is proud to have contributed
 to this important cause, while fostering teamwork and strengthening our
 commitment to community service.&nbsp;</p>
