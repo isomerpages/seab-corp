@@ -34,18 +34,18 @@ the opportunity to ask some of them about their experience.&nbsp;&nbsp;</p>
 Islam Singapura (MUIS), and the unit oversees the planning and policy for
 the six Madrasahs in Singapore which adopt the dual curriculum. I believe
 that this immersion is timely as my unit was also embarking on a similar
-digitisation project. I am looking forward to share with my unit what I
+digitisation project. I was looking forward to share with my unit what I
 have learnt here to elevate the learning process in my organisation.&nbsp;</p>
 <p>The work culture in SEAB exudes positive culture. It was memorable for
 me to witness a lot of people supporting each other to ensure that the
 results processing is on time and accurate. Colleagues here are forward-looking
-and have embarked on using new technologies to ensure that the results
+and have embarked on new technologies to ensure that the results
 processing is more efficient. I have gained insights to the digitisation
 process using cutting edge technology and I am also amazed by the growth
-mindset that was adopted by the team.&nbsp;</p>
+mindset that is adopted by the team.&nbsp;</p>
 <p>I am truly excited to bring back what I have learnt in SEAB to MUIS so
-that my team can also adopt the similar mindset and embrace technology
-at its fullest.&nbsp;</p>
+that my team can also adopt a similar mindset and embrace technology
+to its fullest.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="stip" src="/images/SEABlink/stip1.jpg">
 <em>Ms Khairunnisa featured on the left in the photo.</em>

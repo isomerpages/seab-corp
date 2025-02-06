@@ -1,7 +1,7 @@
 ---
 title: 𝑖PSLE
 permalink: /ipsle/
-variant: tiptap
+variant: markdown
 description: iPSLE
 ---
 <p>The Singapore International Primary&nbsp;School Examination (𝑖PSLE) is
@@ -209,7 +209,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <br>+86 13922703951<a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 <a href="mailto:zinan.zhang@scagz.com" rel="noopener nofollow" target="_blank">zinan.zhang@scagz.com</a>
 <br>
-<br>Janice Wang
+<br>Ms Janice Wang
 <br>+86 13825116913
 <br><a href="mailto:janice.wang@scagz.com" rel="noopener nofollow" target="_blank">janice.wang@scagz.com</a>
 </p>
@@ -356,9 +356,10 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>Samut Prakan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siriya Kanivaranon
+<p>Ms Siriya Kanivaranon/
+<br>Ms Ratchanee Buranasatitnon
 <br>+66 968164588
-<br><a href="mailto:mewsiriya@gmail.com" rel="noopener nofollow" target="_blank">mewsiriya@gmail.com</a>
+<br><a href="mailto:acsp@acsp.ac.th" rel="noopener nofollow" target="_blank">acsp@acsp.ac.th</a>
 </p>
 </td>
 </tr>
@@ -392,7 +393,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://internationalschoolsinbangkok.com/singapore-international-school-of-bangkok/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School of Bangkok</u></a>
+<p><a href="https://www.sisb.ac.th" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School of Bangkok</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -454,7 +455,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Gamuda Gardens</u></a>
+<p><a href="https://gamudagardens.sis.edu.vn" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Gamuda Gardens</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -475,7 +476,7 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://kinderworld.net/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Saigon South</u></a>
+<p><a href="https://saigonsouth.sis.edu.vn" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore International School @ Saigon South</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
