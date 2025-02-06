@@ -242,7 +242,7 @@ eExam system interface with ease, requiring no assistance from invigilators.</p>
 <p></p>
 <p></p>
 <p>Overall, candidates and teachers shared positive feedback on the first
-implementation of the BMTL e-Examination. Here are some of their feedback:&nbsp;</p>
+implementation of the BMTL e-Examination. Here is some of their feedback:&nbsp;</p>
 <p><strong>Feedback from Candidates</strong>
 </p>
 <p></p>
