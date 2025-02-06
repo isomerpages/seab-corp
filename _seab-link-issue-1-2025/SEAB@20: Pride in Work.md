@@ -65,7 +65,7 @@ leverages technology to achieve an efficient operation and one such initiative
 is the development of the Automated Booklet Accounting and Slitting Machine
 (ABSM), a collaboration with Singapore Polytechnic (SP). Piloted in June
 2024 for locally marked scripts, the ABSM has demonstrated success in automated
-accounting of approximately 180,000 GCE-Level and PSLE scripts.&nbsp;</p>
+accounting of approximately 180, 000 GCE-Level and PSLE scripts.&nbsp;</p>
 <p>This success was the result of continuous design work and enhancements
 to the processes and machine since 2023.&nbsp; Key parts such as the machine
 software, safety functionalities and the feeding module, have undergone
@@ -73,7 +73,7 @@ several reviews to increase the machine's throughput and to reduce manual
 efforts in operations.</p>
 <p><strong><em>What does the ABSM do?</em></strong>
 </p>
-<p>The ABSM handles a daily capacity of 8,000 to 10,000 scripts, with the
+<p>The ABSM handles a daily capacity of 8, 000 to 10, 000 scripts, with the
 following key features:</p>
 <p>a. Accurately account scripts using candidate
 QR or bar codes;</p>
@@ -87,7 +87,7 @@ expected to reap the following benefits:</p>
 <p>a. An 80% reduction in manual efforts, translating
 to 860 man-days saved; and</p>
 <p>b. A potential annual cost avoidance of
-about $96,000 manpower costs.</p>
+about $96, 000 manpower costs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
 <em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
