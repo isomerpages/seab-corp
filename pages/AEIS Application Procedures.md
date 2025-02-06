@@ -80,4 +80,4 @@ reflected in CP.</p>
 <p>All communications related to your application will be via email, and
 therefore, you should check the email account you have registered in the
 CP. For technical assistance, please use the online form in CP under Non-national
-exams. For other matters, you may contact us at <a href="mailto: ask_us@seab.gov.sg" rel="noopener nofollow" target="_blank">ask_us@seab.gov.sg</a>.</p>
+exams. For other matters, you may contact us by completing this <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener nofollow" target="_blank">form</a>.</p>
