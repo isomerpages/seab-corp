@@ -1,7 +1,7 @@
 ---
 title: 𝑖PSLE
 permalink: /ipsle/
-variant: markdown
+variant: tiptap
 description: iPSLE
 ---
 <p>The Singapore International Primary&nbsp;School Examination (𝑖PSLE) is
@@ -486,9 +486,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>Ho Chi Minh City</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Priddis
-<br>+84 2873013777<a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><u><br></u></a>
-<a href="mailto:mark.priddis@saigonsouth.sis.edu.vn" rel="noopener nofollow" target="_blank">mark.priddis@saigonsouth.sis.edu.vn</a>
+<p>Mr Donovan Ryan Neethling
+<br>+84 2873013777<a href="mailto:donovan.neethling@saigonsouth.sis.edu.vn" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>donovan.neethling@saigonsouth.sis.edu.vn</a>
 </p>
 </td>
 </tr>
