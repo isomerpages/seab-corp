@@ -1,7 +1,7 @@
 ---
 title: "SEAB@20: Pride in Work"
 permalink: /seab-link-issue-1-2025/seab-20-pride-in-work/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>As SEAB celebrates its 20th anniversary, this series of articles highlights
@@ -17,7 +17,9 @@ by the Office and Estate Management Department, the recertification reflects
 SEAB’s commitment to creating a sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="bhs" src="/images/SEABlink/BHS_Overall.jpg">
-<em>Aerial view of our building at Jalan Bukit Ho Swee</em>
+</div>
+<p><em>Aerial view of our building at Jalan Bukit Ho Swee</em>
+</p>
 <p></p>
 <p></p>
 <p>SEAB Building features a passive architectural design where the orientation
@@ -41,13 +43,16 @@ to irrigate the green spaces.</p>
 <p>c. Solar panels installed on the rooftop to offset electricity consumption.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="solarpanel" src="/images/SEABlink/Solar_Panel__SEAB_.jpg">
-<em>Solar panels installed on the roof of SEAB Building.</em>
-<p></p>
+</div>
+<p><em>Solar panels installed on the roof of SEAB Building.</em>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/SEABlink/green_spaces.png">
-<em>Green spaces watered by the harvested rainwater.</em>
+<img style="width: 100%" height="auto" width="100%" alt="green spaces" src="/images/SEABlink/L6_landscape.jpg">
+</div>
+<p><em>Green spaces watered by the harvested rainwater.</em>
+</p>
 <p></p>
 <p></p>
 <p>Collaborative efforts across our organisation have also further enhanced
@@ -75,28 +80,30 @@ efforts in operations.</p>
 </p>
 <p>The ABSM handles a daily capacity of 8, 000 to 10, 000 scripts, with the
 following key features:</p>
-<p>a. Accurately account scripts using candidate
-QR or bar codes;</p>
-<p>b. Detect additional booklets used by candidates
-using thickness sensing; and</p>
-<p>c. Precision cutting of the booklets using
-a high-quality roller cutter to allow scanning.</p>
+<p>a. Accurately account scripts using candidate QR or bar codes;</p>
+<p>b. Detect additional booklets used by candidates using thickness sensing;
+and</p>
+<p>c. Precision cutting of the booklets using a high-quality roller cutter
+to allow scanning.</p>
 <p></p>
 <p>ABSM will be further enhanced to meet SEAB’s total script volume and is
 expected to reap the following benefits:</p>
-<p>a. An 80% reduction in manual efforts, translating
-to 860 man-days saved; and</p>
-<p>b. A potential annual cost avoidance of
-about $96, 000 manpower costs.</p>
+<p>a. An 80% reduction in manual efforts, translating to 860 man-days saved;
+and</p>
+<p>b. A potential annual cost avoidance of about $96, 000 manpower costs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/1732676788134.jpg">
-<em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
+</div>
+<p><em>Partial view of the Automated Booklet Accounting and Slitting Machine</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="absm" src="/images/SEABlink/ABSM_group_photo_1.jpg">
-<em>The ABSM was a collaborative effort between SEAB’s Exam Operations Division and Singapore Polytechnic.</em>
+</div>
+<p><em>The ABSM was a collaborative effort between SEAB’s Exam Operations Division and Singapore Polytechnic.</em>
+</p>
 <p></p>
 <p></p>
 <h4><strong>Celebrating Service Excellence: SEAB Shines at the Digital Services Awards 2024!</strong></h4>
@@ -107,7 +114,9 @@ Group.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_1.jpg">
-<em>The DSA ceremony, held at the Lifelong Learning Institute</em>
+</div>
+<p><em>The DSA ceremony, held at the Lifelong Learning Institute</em>
+</p>
 <p></p>
 <p></p>
 <p>This year, SEAB's digital services – SEAB’s Corporate Website, Candidates
@@ -121,12 +130,16 @@ government websites and digital services.</p>
 to receive the two awards.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/S_Edited_238.jpg">
-<em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
+</div>
+<p><em>Ms Selena Yeo, Senior Director, Corporate Cluster, receiving the Best SEO and Best Functionality awards from Dr Janil Puthucheary,&nbsp;Senior Minister of State for Digital Development and Information &amp; Health, and Minister-in-Charge of GovTech.</em>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="dsa" src="/images/SEABlink/dsa_awards.png">
-<em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
+</div>
+<p><em>SEAB is honoured to receive the Best SEO and Best Functionality awards</em>
+</p>
 <p></p>
 <p></p>
 <p>The awards reflect the ongoing efforts in leveraging technology to serve
@@ -136,7 +149,9 @@ Exam Operations Division, with strong support rendered by the Ministry
 of Education’s Information Technology Division.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dsa" src="/images/SEABlink/DSA_group.jpg">
-<em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
+</div>
+<p><em>Project team members from SEAB’s Corporate Cluster and Exam Operations Division, and members of MOE’s Information Technology Division</em>
+</p>
 <p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
@@ -155,4 +170,4 @@ of Education’s Information Technology Division.</p>
 </div>
 </a>
 </div>
-<p></p></div></div></div></div></div></div></div></div></div>
+<p></p>
