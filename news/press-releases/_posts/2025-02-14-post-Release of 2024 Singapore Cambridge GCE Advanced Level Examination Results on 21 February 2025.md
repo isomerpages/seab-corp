@@ -57,5 +57,5 @@ an ECG counselling appointment via the ECG Centre at <a href="https://go.gov.sg/
 The ECG Centre offers online or phone counselling services to GCE A-Level
 candidates from 17 February 2025 to 19 March 2025 from 9am to 5pm on weekdays,
 and 9am to 12pm on Saturdays.</p>
-<p><sub>1 School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub>
+<p><sup><sub>1</sub></sup><sub> School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub>
 </p>
