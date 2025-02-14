@@ -65,5 +65,5 @@ make an ECG counselling appointment at <a href="https://go.gov.sg/moe-ecg-centre
 The MOE ECG Centre offers online or phone counselling services to GCE A-Level
 candidates from Monday, 19 February 2024 to Saturday, 16 March 2024 (Weekdays:
 9.00am to 5.00pm; Saturdays: 9.00am to 12.00pm).</p>
-<p><sub>1 School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub>
+<p><sup><sub>1</sub></sup><sub> School candidates viewing their results online can still contact their schools and teachers for consultation on their next steps.</sub>
 </p>
