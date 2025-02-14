@@ -49,8 +49,8 @@ the universities directly for further assistance.</p>
 <p>6. Students are encouraged to explore the range of education and career
 pathways available to them to make informed decisions about their next
 steps. They may refer to the following websites for more information:</p>
-<p>• MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
-<p>• MySkillsFuture (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
+<p>• MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)<br>
+• MySkillsFuture (<a href="https://go.gov.sg/mysfpreu" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfpreu</a>)</p>
 <p>7. Students may also consult their teachers or ECG Counsellors in their
 respective schools about their next steps. Alternatively, they can make
 an ECG counselling appointment via the ECG Centre at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.
