@@ -17,13 +17,13 @@ services.</p>
 <p>If you are interested, please refer to <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Careers@Gov</u></a>&nbsp;for further
 information.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Assistant Manager / Manager (Exam Admin), EOD- 2 Years Contract</strong>
+<summary><strong>Assistant Manager / Manager (Exam Admin), Exam Operations Division- 2 Years Contract</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Responsibilities: </strong>
+<p><strong>Responsibilities:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -94,6 +94,65 @@ will have an added advantage</p>
 <li>
 <p>Possess good knowledge in IT applications (MS Word, Excel, PowerPoint)
 and handling of system-based work.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Assistant Manager / Manager, Human Resource, Corporate Cluster - 2 Years Contract</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Responsibilities:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Partner divisions in their resourcing requirements, and manage the end-to-end
+recruitment process.</p>
+</li>
+<li>
+<p>Involved in the talent attraction and retention strategies review. Oversee
+the administration of staff awards and claims.</p>
+</li>
+<li>
+<p>Manage the administration of staff development programmes, overseas travel
+requests, staff awards and claims.</p>
+</li>
+<li>
+<p>Provide support in the conduct of staff orientation programmes</p>
+</li>
+<li>
+<p>Provide support in any other staff engagement activities when assigned</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Requirements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>At least 4 years of relevant experience in Human Resource, preferably
+in the public service.</p>
+</li>
+<li>
+<p>Good understanding of the Public Service’s HR policies and Employment
+Act.</p>
+</li>
+<li>
+<p>Familiarity with the Public Service Human Resource and Payroll (HRP) Portal
+would be advantageous</p>
+</li>
+<li>
+<p>Outgoing personality with an abilty to engage various levels of internal
+and external stakeholders comfortably.</p>
+</li>
+<li>
+<p>Possess strong analytical thinking and problem-solving skills.</p>
+</li>
+<li>
+<p>Possess high level of integrity and work ethics.</p>
+</li>
+<li>
+<p>Experience in data analysis and reporting will be an added advantage.</p>
 </li>
 </ul>
 </div>
