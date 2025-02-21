@@ -12,9 +12,9 @@ of Education Advanced Level (GCE A-Level) examination received their results
 from their schools today<sup>1</sup>.</p>
 <p>2. A total of 10,889 candidates sat for the 2024 GCE A-Level examination.
 10,255 (94.2%) of these candidates have attained at least 3 H2 passes,
-with a pass in General Paper (GP) or Knowledge and Inquiry (KI)2. This
-is comparable to the performance of candidates for the GCE A-Level Examination
-in previous years.</p>
+with a pass in General Paper (GP) or Knowledge and Inquiry (KI)<sup>2</sup>.
+This is comparable to the performance of candidates for the GCE A-Level
+Examination in previous years.</p>
 <p><strong>Applications to Autonomous Universities</strong>
 </p>
 <p>3. Students who wish to apply for admission to the autonomous universities
