@@ -21,7 +21,7 @@ available below.</p>
 <div class="isomer-card-title">Key Activities and Milestones</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/updatesforprivatecandidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Registration Exercises" src="/images/registration.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Registration Exercise For Private Candidates</div><div class="isomer-card-link"></div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/updatesforprivatecandidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Registration Exercises" src="/images/registration.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Updates For Private Candidates</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/registration-information-for-private-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
