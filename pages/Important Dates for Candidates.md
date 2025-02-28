@@ -42,7 +42,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date of 2024 Results Release^</p>
+<p>Date of 2024 Results Release</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed, 20 November 2024</p>
@@ -159,7 +159,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2024 Results Release^</strong>
+<p><strong>Date of 2024 Results Release</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,6 +173,15 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </td>
 <td rowspan="1" colspan="1">
 <p>22 August 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tentative dates of 2025 Results Release</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>The dates will be updated soon.</p>
 </td>
 </tr>
 </tbody>
@@ -192,6 +201,6 @@ May 2025
 </details>
 </div>
 <p></p>
-<p>^The actual date of the results release can only be confirmed when all
+<p>The actual dates of the results release can only be confirmed when all
 processes have been completed. Once the date has been confirmed, it would
 be announced through the media.</p>
