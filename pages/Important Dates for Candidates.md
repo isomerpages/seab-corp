@@ -50,10 +50,10 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tentative dates of 2025 Results Release</p>
+<p>Tentative date of 2025 Results Release</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The dates will be updated soon.</p>
+<p>The date will be updated soon.</p>
 </td>
 </tr>
 </tbody>
