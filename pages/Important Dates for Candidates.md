@@ -34,10 +34,10 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Marking Exercise</p>
+<p>2025 Marking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 14 October&nbsp;– Wed, 16 October 2024</p>
+<p>Mon, 13 October&nbsp;– Wed, 15 October 2025</p>
 </td>
 </tr>
 <tr>
