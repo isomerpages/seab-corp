@@ -982,7 +982,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <p>9814</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
 <br>[2025]</p>
 </td>
 </tr>
@@ -997,7 +997,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <p>9816</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u>&nbsp;</a>|
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
 <a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
 <br>[2025]</p>
