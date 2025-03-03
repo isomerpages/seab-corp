@@ -25,7 +25,8 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Examination Calendar 2025</p>
+<p><strong>Examination Calendar 2025</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/2025-psle-exam-timetable" rel="noopener nofollow" target="_blank">Calendar</a>
@@ -34,18 +35,29 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Marking Exercise</p>
+<p><strong>2025 Marking Exercise</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 14 October&nbsp;– Wed, 16 October 2024</p>
+<p>Mon, 13 October&nbsp;– Wed, 15 October 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date of 2024 Results Release^</p>
+<p><strong>Date of 2024 Results Release</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed, 20 November 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tentative date of 2025 Results Release^</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The date will be updated soon.</p>
 </td>
 </tr>
 </tbody>
@@ -159,7 +171,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2024 Results Release^</strong>
+<p><strong>Date of 2024 Results Release</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,6 +185,15 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </td>
 <td rowspan="1" colspan="1">
 <p>22 August 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tentative dates of 2025 Results Release^</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p>The dates will be updated soon.</p>
 </td>
 </tr>
 </tbody>
@@ -192,6 +213,6 @@ May 2025
 </details>
 </div>
 <p></p>
-<p>^The actual date of the results release can only be confirmed when all
+<p>^The actual dates of the results release can only be confirmed when all
 processes have been completed. Once the date has been confirmed, it would
 be announced through the media.</p>
