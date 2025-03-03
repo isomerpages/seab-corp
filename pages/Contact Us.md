@@ -160,10 +160,7 @@ updating personal details, missing fields, system errors.</p>
 <p>Afternoons on the eve of Chinese New Year, Christmas, and New Year;</p>
 </li>
 <li>
-<p>Corporate events on 7 February 2025;</p>
-</li>
-<li>
-<p>and 1 April 2025.</p>
+<p>Corporate events on 7 February 2025 and 1 April 2025.</p>
 </li>
 </ul>
 <p>Peak periods are:</p>
