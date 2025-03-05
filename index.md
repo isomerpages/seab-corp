@@ -57,15 +57,6 @@ sections:
       url: /important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
-      title: Year-End GCE Level Results Release Exercise
-      id: infopic
-      description: Find information on the release of results for school and private
-        candidates.
-      button: VIEW DETAILS
-      alt: results release
-      url: /year-end-gce-level-results-release-exercises/
-      image: /images/press_release_image.jpg
-  - infopic:
       title: 2025 Private Candidate Registration Exercise
       id: infopic
       description: Find out more about the registration for 2025 GCE-Level examinations.
@@ -81,6 +72,15 @@ sections:
       image: /images/Services/Training and
         Consultancy/2025_SEAB_Assessment_Symposium_for_Primary_School_Educators_cropped.png
       alt: Image alt text
+  - infopic:
+      title: Year-End GCE Level Results Release Exercise
+      id: infopic
+      description: Find information on the release of results for school and private
+        candidates.
+      button: VIEW DETAILS
+      alt: results release
+      url: /year-end-gce-level-results-release-exercises/
+      image: /images/press_release_image.jpg
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
