@@ -65,6 +65,14 @@ sections:
       image: /images/HomePage/registration.png
       url: /updatesforprivatecandidates/
   - infopic:
+      title: 2025 SEAB Assessment Symposium For Primary School Educators
+      id: infopic
+      button: VIEW DETAILS
+      url: /2025-seab-assessment-symposium-for-primary-school-educators/
+      image: /images/Services/Training and
+        Consultancy/2025_SEAB_Assessment_Symposium_for_Primary_School_Educators_cropped.png
+      alt: Image alt text
+  - infopic:
       title: Year-End GCE Level Results Release Exercise
       id: infopic
       description: Find information on the release of results for school and private
@@ -73,14 +81,6 @@ sections:
       alt: results release
       url: /year-end-gce-level-results-release-exercises/
       image: /images/press_release_image.jpg
-  - infopic:
-      title: 2025 SEAB Assessment Symposium For Primary School Educators
-      id: infopic
-      button: VIEW DETAILS
-      url: /2025-seab-assessment-symposium-for-primary-school-educators/
-      image: /images/Services/Training and
-        Consultancy/2025_SEAB_Assessment_Symposium_for_Primary_School_Educators_cropped.png
-      alt: Image alt text
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
