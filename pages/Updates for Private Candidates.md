@@ -123,9 +123,7 @@ available. &nbsp;</p>
 March.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Registration Information e-booklet contains
 information such as subjects / papers, examination fees, etc.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Examination Rules and Regulations for GCE N(A),
-N(T) and O-Level candidates, Examination Rules and Regulations for GCE
-A-Level candidates</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Examination Rules and Regulations</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Candidates Portal guide on examination registration</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
