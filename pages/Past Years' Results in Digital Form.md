@@ -79,7 +79,7 @@ process and will be flagged as being tampered with.</p>
 <p>GCE A-Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From 1975 onwards to 2023</p>
+<p>From 1975 onwards to 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Available</p>
