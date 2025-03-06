@@ -119,12 +119,8 @@ year.</p>
 criteria, there are certain subjects with their specific eligibility criteria.
 &nbsp;Please refer to the Registration Information e-booklet when it is
 available. &nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;The 2025 version of the following documents will be available by
-late March.</p>
-</li>
-</ul>
+<p>The 2025 version of the following documents will be available by late
+March.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Registration Information e-booklet contains
 information such as subjects / papers, examination fees, etc.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Examination Rules and Regulations for GCE N(A),
