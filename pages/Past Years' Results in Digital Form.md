@@ -22,9 +22,8 @@ allow for secure verification. Any modified document(s) will fail the verificati
 process and will be flagged as being tampered with.</p>
 <p><strong>Table 1</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -36,10 +35,6 @@ process and will be flagged as being tampered with.</p>
 <th rowspan="1" colspan="1">
 <p>Exam Year</p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Availability on MySkillsFuture portal or mobile application</strong>
-</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -47,9 +42,6 @@ process and will be flagged as being tampered with.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>From 1976 onwards to 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
 </td>
 </tr>
 <tr>
@@ -59,9 +51,6 @@ process and will be flagged as being tampered with.</p>
 <td rowspan="1" colspan="1">
 <p>From 1984 onwards to 2024</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -70,9 +59,6 @@ process and will be flagged as being tampered with.</p>
 <td rowspan="1" colspan="1">
 <p>From 1975 onwards to 2024</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -80,9 +66,6 @@ process and will be flagged as being tampered with.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>From 1975 onwards to 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
 </td>
 </tr>
 </tbody>
