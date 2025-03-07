@@ -179,4 +179,5 @@ Account (PSEA) to pay for the&nbsp;examination fees<strong>.</strong>
 </div>
 </details>
 </div>
-<p></p>
+<p>Information regarding entry proofs, subject amendments and withdrawals
+for the 2025 GCE-Level examinations will be available by late March 2025.</p>
