@@ -89,9 +89,6 @@ each examination level are:</p>
 <p>For school candidates studying in Government/ Government-Aided/ Independent/
 Specialised schools, you cannot register as a private candidate.</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p>For private candidates, you are allowed to register for more than one
 GCE-Level examination (e.g. GCE O-Level and A-Level). However, you<strong> cannot </strong>register
@@ -99,15 +96,11 @@ for both the GCE-Level examinations and admission tests i.e. Admission
 Exercise for International Students (AEIS) and School Placement Exercise
 for Returning Singaporeans-Secondary (SPERS-Sec), in the same examination
 year.</p>
-<p></p>
 <p>While most subjects in the national examinations do not have a pre-requisite
 criteria, there are certain subjects with their specific eligibility criteria.
 &nbsp;Please refer to the Registration Information e-booklet when it is
 available by late March 2025. &nbsp;</p>
 </li>
-</ul>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>You should also refer to the following important documents once they are
 made available.</p>
