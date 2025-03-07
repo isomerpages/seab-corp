@@ -17,7 +17,6 @@ in the Registration Information e-booklet.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The minimum age requirements and maximum number of subjects allowed for
 each examination level are:</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -81,7 +80,6 @@ each examination level are:</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>Please note the following guidelines:</p>
 <p></p>
 <ul data-tight="true" class="tight">
