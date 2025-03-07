@@ -7,13 +7,17 @@ description: Updates for Private Candidates
 <p>The private candidates’ registration exercise for the 2025 Singapore-Cambridge
 GCE-Level examinations will commence from <strong>2 April 2025 (Wednesday), 9.00am to 15 April 2025 (Tuesday), 11.00pm.</strong> Registration
 will be via the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>.</p>
-<p>Key information about the eligibility criteria, registration guidelines,
-procedures and examination fees are presented below. You should read the
-Registration Information e-booklet for the details.</p>
-<p><strong><u>ELIGIBILITY CRITERIA AND REGISTRATION GUIDELINES</u></strong>
-</p>
+<p>You can refer to information about the eligibility criteria and registration
+guidelines, below. More information will be available by late March 2025
+in the Registration Information e-booklet</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>ELIGIBILITY CRITERIA AND REGISTRATION GUIDELINES</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The minimum age requirements and maximum number of subjects allowed for
 each examination level are:</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -21,17 +25,6 @@ each examination level are:</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Examination Level</strong>
@@ -86,26 +79,19 @@ each examination level are:</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p>Please note the following guidelines:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For school candidates studying in Government/ Government-Aided/ Independent/
 Specialised schools, you cannot register as a private candidate.</p>
-<p></p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p>For private candidates, you are allowed to register for more than one
 GCE-Level examination (e.g. GCE O-Level and A-Level). However, you<strong> cannot </strong>register
@@ -113,17 +99,61 @@ for both the GCE-Level examinations and admission tests i.e. Admission
 Exercise for International Students (AEIS) and School Placement Exercise
 for Returning Singaporeans-Secondary (SPERS-Sec), in the same examination
 year.</p>
-</li>
-</ul>
+<p></p>
 <p>While most subjects in the national examinations do not have a pre-requisite
 criteria, there are certain subjects with their specific eligibility criteria.
 &nbsp;Please refer to the Registration Information e-booklet when it is
-available. &nbsp;</p>
-<p>The 2025 version of the following documents will be available by late
-March.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Registration Information e-booklet contains
-information such as subjects / papers, examination fees, etc.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Examination Rules and Regulations</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Candidates Portal guide on examination registration</p>
+available by late March 2025. &nbsp;</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You should also refer to the following important documents once they are
+made available.</p>
+<p></p>
+</li>
+</ul>
+<p>1.&nbsp;&nbsp;&nbsp; Registration Information e-booklet contains information
+such as subjects / papers, examination fees, etc.
+<br>
+</p>
+<p>2.&nbsp;&nbsp;&nbsp; Examination Rules and Regulations<u><br></u>
+</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/guideonexamregistration" rel="noopener nofollow" target="_blank">Candidates Portal guide on examination registration</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>REGISTRATION PROCEDURES</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>For Singpass holders</strong>
+</p>
+<p><strong>If you are a Singaporean or a Singapore Permanent Resident</strong>,
+you <strong>must </strong>register for the examination with your Singpass
+credentials in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>.</p>
+<p></p>
+<p>Please refer to the <a href="https://go.gov.sg/cpaccountcreationguidesingpassusers" rel="noopener nofollow" target="_blank">guide for Singpass users</a> for
+the steps to create a Candidates Portal account to register for the examinations.</p>
+<p>Please ensure that your Singpass is activated before the start of registration.
+Please visit the&nbsp;<a href="https://www.singpass.gov.sg/home/ui/login" rel="noopener nofollow" target="_blank">Singpass website</a>&nbsp;for
+details on how to register or activate your Singpass account.</p>
+<p></p>
+<p><strong><u>For non-Singpass holders</u></strong>
+</p>
+<p>Please create an account in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> when
+registration opens.</p>
+<p>Please refer to the <a href="https://go.gov.sg/cpaccountcreationguidenonsingpassusers" rel="noopener nofollow" target="_blank">guide for non-Singpass users</a> for
+the steps to create a Candidates Portal account for the examinations.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>EXAMINATION FEES</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
