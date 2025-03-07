@@ -95,7 +95,8 @@ GCE-Level examination (e.g. GCE O-Level and A-Level). However, you<strong> canno
 for both the GCE-Level examinations and admission tests i.e. Admission
 Exercise for International Students (AEIS) and School Placement Exercise
 for Returning Singaporeans-Secondary (SPERS-Sec), in the same examination
-year. While most subjects in the national examinations do not have a pre-requisite
+year.
+<br>While most subjects in the national examinations do not have a pre-requisite
 criteria, there are certain subjects with their specific eligibility criteria.
 &nbsp;Please refer to the Registration Information e-booklet when it is
 available by late March 2025. &nbsp;</p>
