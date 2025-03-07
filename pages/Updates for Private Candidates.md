@@ -143,8 +143,9 @@ fees will not be refunded if your citizenship status is changed after your
 registration.</p>
 <p>Please ensure that you have provided the correct citizenship during your
 registration to ensure the correct fee charges. If incorrect citizenship
-details were submitted which resulted in shortfall,in exam fees ,candidates
-are required to make up the shortfall for them to be eligible for the exam.</p>
+details were submitted which resulted in a shortfall in examination fees,
+candidates are required to make up the shortfall for them to be eligible
+for the examinations.</p>
 <p><strong>Mode of payment</strong>
 </p>
 <p>You should pay your examination fees via a credit/debit card or PayNow
