@@ -111,19 +111,21 @@ made available.</p>
 <p><strong>For Singpass holders</strong>
 </p>
 <p>If you are a Singaporean or a Singapore Permanent Resident, you must register
-for the examination with your Singpass credentials in the Candidates Portal.</p>
+for the examination with your Singpass credentials in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>.</p>
 <p></p>
-<p>Please refer to the guide for Singpass users for the steps to create a
-Candidates Portal account to register for the examinations.</p>
+<p>Please refer to the <a href="https://go.gov.sg/cpaccountcreationguidesingpassusers" rel="noopener nofollow" target="_blank">guide for Singpass users</a> for
+the steps to create a <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> account
+to register for the examinations.</p>
 <p>Please ensure that your Singpass is activated before the start of registration.
-Please visit the&nbsp;Singpass website&nbsp;for details on how to register
-or activate your Singpass account.</p>
+Please visit the&nbsp;<a href="https://www.singpass.gov.sg/home/ui/login" rel="noopener nofollow" target="_blank">Singpass website</a>&nbsp;for
+details on how to register or activate your Singpass account.</p>
 <p></p>
 <p><strong>For non-Singpass holders</strong>
 </p>
-<p>Please create an account in the Candidates Portal when registration opens.</p>
-<p>Please refer to the guide for non-Singpass users for the steps to create
-a Candidates Portal account for the examinations.</p>
+<p>Please create an account in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> when
+registration opens.</p>
+<p>Please refer to the <a href="https://go.gov.sg/cpaccountcreationguidenonsingpassusers" rel="noopener nofollow" target="_blank">guide for non-Singpass users</a> for
+the steps to create a Candidates Portal account for the examinations.</p>
 </div>
 </details>
 <details class="isomer-details">
