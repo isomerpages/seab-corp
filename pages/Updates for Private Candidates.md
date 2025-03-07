@@ -100,10 +100,13 @@ year.
 criteria, there are certain subjects with their specific eligibility criteria.
 &nbsp;Please refer to the Registration Information e-booklet when it is
 available by late March 2025. &nbsp;</p>
+<p></p>
 </li>
-<li>
+</ul>
 <p>You should also refer to the following important documents once they are
 made available.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p></p>
 </li>
 </ul>
