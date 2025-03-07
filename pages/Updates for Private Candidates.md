@@ -105,11 +105,7 @@ available by late March 2025. &nbsp;</p>
 </ul>
 <p>You should also refer to the following important documents once they are
 made available.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ul>
 <p>1.&nbsp;&nbsp;&nbsp; Registration Information e-booklet contains information
 such as subjects / papers, examination fees, etc.
 <br>
