@@ -148,9 +148,9 @@ are required to make up the shortfall for them to be eligible for the exam.</p>
 <p><strong>Mode of payment</strong>
 </p>
 <p>You should pay your examination fees via a credit/debit card or PayNow
-in the&nbsp;Candidates Portal&nbsp;before the registration deadline of
-15 April 2025, 11.00pm. You will not be registered for the examinations
-if payment is made after this deadline.</p>
+in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>&nbsp;before
+the registration deadline of 15 April 2025, 11.00pm. You will not be registered
+for the examinations if payment is made after this deadline.</p>
 <p></p>
 <p>You cannot use the funds in your Edusave account and Post-Secondary Education
 Account (PSEA) to pay for the&nbsp;examination fees.</p>
