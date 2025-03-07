@@ -128,7 +128,7 @@ the steps to create a Candidates Portal account to register for the examinations
 Please visit the&nbsp;<a href="https://www.singpass.gov.sg/home/ui/login" rel="noopener nofollow" target="_blank">Singpass website</a>&nbsp;for
 details on how to register or activate your Singpass account.</p>
 <p></p>
-<p><strong><u>For non-Singpass holders</u></strong>
+<p><strong>For non-Singpass holders</strong>
 </p>
 <p>Please create an account in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> when
 registration opens.</p>
