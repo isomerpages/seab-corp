@@ -152,7 +152,30 @@ the steps to create a Candidates Portal account for the examinations.</p>
 <summary><strong>EXAMINATION FEES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Fees payable</strong>
+</p>
+<p>The examination fees for this year’s subjects can be found in the Registration
+Information e-booklet. You can refer to this document when it is available.
+All fees are inclusive of GST at the prevailing rate.</p>
+<p>The examination fees are dependent on the subjects you are registering
+for and your citizenship status at the point of registration. Your examination
+fees will not be refunded if your citizenship status is changed after your
+registration.</p>
+<p>Please ensure that you have provided the correct citizenship during your
+registration to ensure the correct fee charges. If incorrect citizenship
+details were submitted which resulted in shortfall,in exam fees ,candidates
+are required to make up the shortfall for them to be eligible for the exam.</p>
+<p><strong>Mode of payment</strong>
+</p>
+<p>You should pay your examination fees via a credit/debit card or PayNow
+in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>&nbsp;before
+the registration deadline of <strong>15 April 2025, 11.00pm. </strong>You
+will not be registered for the examinations if payment is made after this
+deadline.</p>
 <p></p>
+<p>You cannot use the funds in your Edusave account and Post-Secondary Education
+Account (PSEA) to pay for the&nbsp;examination fees<strong>.</strong>
+</p>
 </div>
 </details>
 </div>
