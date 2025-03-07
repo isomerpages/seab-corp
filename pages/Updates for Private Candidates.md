@@ -81,7 +81,6 @@ each examination level are:</p>
 </tbody>
 </table>
 <p>Please note the following guidelines:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For school candidates studying in Government/ Government-Aided/ Independent/
