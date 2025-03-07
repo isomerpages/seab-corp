@@ -65,8 +65,14 @@ each examination level are:</p>
 <p>17</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>5 H1 subjects and 3 H2 subjects; or</p>
+</li>
+<li>
 <p>3 H1 subjects and 4 H2 subjects</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
