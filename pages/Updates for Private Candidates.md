@@ -95,19 +95,11 @@ available by late March 2025.</p>
 <p>You should also refer to the following important documents once they are
 made available.</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Registration Information e-booklet contains information such as subjects
-/ papers, examination fees, etc.</p>
-</li>
-<li>
-<p>Examination Rules and Regulations</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/guideonexamregistration" rel="noopener nofollow" target="_blank">Candidates Portal guide on examination registration</a>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Registration Information e-booklet contains
+information such as subjects / papers, examination fees, etc.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Examination Rules and Regulations</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/guideonexamregistration" rel="noopener nofollow" target="_blank">Candidates Portal guide on examination registration</a>
 </p>
-</li>
-</ol>
 </div>
 </details>
 <details class="isomer-details">
