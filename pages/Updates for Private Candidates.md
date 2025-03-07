@@ -6,8 +6,7 @@ description: Updates for Private Candidates
 ---
 <p>The private candidates’ registration exercise for the 2025 Singapore-Cambridge
 GCE-Level examinations will commence from 2 April 2025 (Wednesday), 9.00am
-to 15 April 2025 (Tuesday), 11.00pm. Registration will be via the Candidates
-Portal.</p>
+to 15 April 2025 (Tuesday), 11.00pm. Registration will be via the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>.</p>
 <p>You can refer to information about the eligibility criteria and registration
 guidelines below. More information will be available by late March 2025
 in the Registration Information e-booklet.</p>
@@ -90,10 +89,19 @@ available by late March 2025.</p>
 <p>You should also refer to the following important documents once they are
 made available.</p>
 <p></p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Registration Information e-booklet contains information such as subjects
 / papers, examination fees, etc.</p>
+</li>
+<li>
 <p>Examination Rules and Regulations</p>
-<p>Candidates Portal guide on examination registration</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/guideonexamregistration" rel="noopener nofollow" target="_blank">Candidates Portal guide on examination registration</a>
+</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
