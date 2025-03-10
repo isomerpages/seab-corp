@@ -726,8 +726,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a>
-</p>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a> ◇</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -851,3 +850,5 @@ details.</p>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
 register for Mother Tongue Language Syllabus B can write to <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
 their request.</p>
+<p>◇ Religious Knowledge cannot be used as one of the best-scoring subjects
+for aggregate score computation for JC and Millennia Institute admission.</p>
