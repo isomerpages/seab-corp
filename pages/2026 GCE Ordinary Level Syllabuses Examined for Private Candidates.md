@@ -851,4 +851,5 @@ details.</p>
 register for Mother Tongue Language Syllabus B can write to <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
 their request.</p>
 <p>◇ Religious Knowledge cannot be used as one of the best-scoring subjects
-for aggregate score computation for JC and Millennia Institute admission.</p>
+for aggregate score computation for JC and Millennia Institute admission.
+See <a href="https://safe.menlosecurity.com/https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener nofollow" target="_blank">link</a>.</p>
