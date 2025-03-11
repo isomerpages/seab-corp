@@ -1,7 +1,7 @@
 ---
 title: 2026 GCE Ordinary Level Syllabuses Examined for Private Candidates
 permalink: /gce-o-level/o-level-syllabuses-examined-for-private-candidates-2026/
-variant: markdown
+variant: tiptap
 description: O-Level Syllabuses Examined in 2026 for Private Candidates
 ---
 <p>Here are the 2026 GCE O-Level examination syllabuses that are offered
@@ -727,7 +727,7 @@ details.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a> 
-<br><sub>Religious Knowledge cannot be used as one of the best-scoring subjects for aggregate score computation for JC and Millennia Institute admission. See </sub>
+<br><sub>Note: Religious Knowledge cannot be used as one of the best-scoring subjects for aggregate score computation for JC and Millennia Institute admission. See </sub>
 <a href="https://safe.menlosecurity.com/https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener nofollow" target="_blank"><sub>link</sub>
 </a><sub>.</sub>
 </p>
