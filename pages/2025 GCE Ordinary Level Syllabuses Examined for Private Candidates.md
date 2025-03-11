@@ -794,6 +794,10 @@ candidates to write answers on the question paper.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Private Cddts/2025/2080_Y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a>
 </p>
+<p><sub>Note: Religious Knowledge cannot be used as one of the best-scoring subjects for aggregate score computation for JC and Millennia Institute admission. See </sub>
+<a href="https://safe.menlosecurity.com/https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener nofollow" target="_blank"><sub>link</sub>
+</a><sub>.</sub>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -802,7 +806,9 @@ candidates to write answers on the question paper.</p>
 <p>2080</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/1117_y25_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
