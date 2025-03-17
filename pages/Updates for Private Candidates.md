@@ -132,10 +132,8 @@ A-Level candidates *</p>
 <summary><strong>REGISTRATION PROCEDURES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p><strong>For Singaporean/ Singapore Permanent Residents/ Foreign Identification Number (FIN) holders)</strong>
 </p>
-<p></p>
 <p>If you are a Singaporean or a Singapore Permanent Resident or a FIN holder
 using FIN Identification Number, you <strong>must </strong>register for
 the examination with your Singpass credentials in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a>.</p>
