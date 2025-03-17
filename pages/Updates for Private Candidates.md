@@ -188,7 +188,6 @@ Account (PSEA) to pay for the examination fees.</p>
 <p></p>
 <p><strong>Entry Proof for Mid-Year and Year-End Examinations</strong>
 </p>
-<p></p>
 <p>Please refer to &nbsp;the important dates for candidates for the timelines
 in which you would receive your Entry Proof.</p>
 <p></p>
@@ -208,7 +207,8 @@ the steps to retrieve your Entry Proof from the system.</p>
 <p><strong>Please print your Entry Proof as you are required to bring it for your examinations for attendance verification.</strong>
 </p>
 <p></p>
-<p>Science Practical Examination Schedule</p>
+<p><strong>Science Practical Examination Schedule</strong>
+</p>
 <p>The assigned examination centres and reporting time for your Science Practical
 examination will be communicated to you <strong>at least</strong>  <strong>7 days</strong> before
 the examinations via email. Please ensure that your email address is valid
@@ -218,7 +218,8 @@ to receive the email.</p>
 you have not received the examination schedules 7 days before your Science
 Practical examination date.</p>
 <p></p>
-<p>Subject amendments</p>
+<p><strong>Subject amendments</strong>
+</p>
 <p>All amendments of subjects (including deleting of subjects) must be made
 through the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> by <strong>28 May 2025, 11:00pm</strong>.
 Amendment requests via email or phone call will not be accepted. A fee
@@ -236,7 +237,7 @@ subjects. The fees for the added subjects are inclusive of GST.</p>
 requests made after this date will not be considered and candidates will
 receive an Absent grade for the subjects they did not sit for.</p>
 <p></p>
-<p><u>Withdrawal with refund of the subject fees</u>
+<p><strong>Withdrawal with refund of the subject fees</strong>
 </p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 50% refund of the subject fees paid
 will be provided if your withdrawal request is submitted to SEAB by 25
