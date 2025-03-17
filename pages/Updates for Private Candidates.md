@@ -156,8 +156,7 @@ the steps to create an account and register for the examinations.</p>
 <summary><strong>EXAMINATION FEES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br><strong>Fees payable</strong>
+<p><strong>Fees payable</strong>
 </p>
 <p>The examination fees for this year’s subjects can be found in the <a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener noreferrer nofollow" target="_blank">Registration Information e-booklet.</a> All
 fees are inclusive of GST at the prevailing rate.
