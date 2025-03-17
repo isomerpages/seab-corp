@@ -193,8 +193,8 @@ Account (PSEA) to pay for the examination fees.</p>
 <p></p>
 <p><strong>Entry Proof for Mid-Year and Year-End Examinations</strong>
 </p>
-<p>Please refer to &nbsp;the important dates for candidates for the timelines
-in which you would receive your Entry Proof.</p>
+<p>Please refer to &nbsp;the <a href="https://www.seab.gov.sg/important-dates-for-candidates/" rel="noopener nofollow" target="_blank">important dates for candidates</a> for
+the timelines in which you would receive your Entry Proof.</p>
 <p></p>
 <p>You may be posted to different examination centres for the various Mode
 of Assessment (MOA) i.e. Oral, Science Practical, Written examinations.
