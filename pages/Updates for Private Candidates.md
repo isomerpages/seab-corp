@@ -4,7 +4,6 @@ permalink: /updatesforprivatecandidates/
 variant: tiptap
 description: Updates for Private Candidates
 ---
-<p></p>
 <h4><strong>2025 Updates for Private Candidates</strong></h4>
 <p>The private candidates’ registration exercise for the 2025 Singapore-Cambridge
 GCE-Level examinations will commence from <strong>2 April 2025 (Wednesday), 9.00am to 15 April 2025 (Tuesday), 11.00pm.</strong> Registration
