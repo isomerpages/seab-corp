@@ -182,7 +182,8 @@ Account (PSEA) to pay for the examination fees.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>ENTRY PROOF</summary>
+<summary><strong>ENTRY PROOF</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Entry Proof for Mid-Year and Year-End Examinations</strong>
@@ -206,6 +207,25 @@ the steps to retrieve your Entry Proof from the system.</p>
 <p></p>
 <p><strong>Please print your Entry Proof as you are required to bring it for your examinations for attendance verification.</strong>
 </p>
+<p></p>
+<p>Science Practical Examination Schedule</p>
+<p>The assigned examination centres and reporting time for your Science Practical
+examination will be communicated to you <strong>at least</strong>  <strong>7 days</strong> before
+the examinations via email. Please ensure that your email address is valid
+to receive the email.</p>
+<p></p>
+<p>Please contact <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">SEAB</a> if
+you have not received the examination schedules 7 days before your Science
+Practical examination date.</p>
+<p></p>
+<p>Subject amendments</p>
+<p>All amendments of subjects (including deleting of subjects) must be made
+through the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> by <strong>28 May 2025, 11:00pm</strong>.
+Amendment requests via email or phone call will not be accepted. A fee
+of $30 (inclusive of GST) per subject is payable if you make amendments
+after you have paid your examination fees, or after the registration deadline
+of 15 April 2025, 11.00pm. This excludes the fee for each of your added
+subjects. The fees for the added subjects are inclusive of GST.</p>
 </div>
 </details>
 <details class="isomer-details">
