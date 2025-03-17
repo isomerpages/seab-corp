@@ -220,8 +220,7 @@ the examinations via email. Please ensure that your email address is valid
 to receive the email.</p>
 <p></p>
 <p>Please contact <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">SEAB</a> if
-you have not received the examination schedules 7 days before your Science
-Practical examination date.</p>
+you have not received the examination schedules <strong>7 days before your Science Practical examination date</strong>.</p>
 <p></p>
 <p><strong>Subject amendments</strong>
 </p>
@@ -245,9 +244,9 @@ receive an Absent grade for the subjects they did not sit for.</p>
 <p><strong>Withdrawal with refund of the subject fees</strong>
 </p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 50% refund of the subject fees paid
-will be provided if your withdrawal request is submitted to SEAB by 25
-June 2025, 11.00pm and you have not sat for any component of the registered
-subjects that you are withdrawing from.</p>
+will be provided if your withdrawal request is submitted to SEAB by <strong>25 June 2025, 11.00pm</strong> and
+you have not sat for any component of the registered subjects that you
+are withdrawing from.</p>
 <p></p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 100% refund of the subject fees paid
 will be provided if you have been admitted to a tertiary Institution after
