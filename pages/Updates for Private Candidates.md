@@ -119,10 +119,13 @@ information such as subjects / papers, examination fees, etc.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Examination Rules and Regulations for GCE N(A),
 N(T) and O-Level candidates, Examination Rules and Regulations for GCE
-A-Level candidates</p>
+A-Level candidates *</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://file.go.gov.sg/guideonexamregistration.pdf" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal guide on examination registration</a>
 </p>
+<p></p>
+<p>* The Rules and Regulations documents will be available by late March
+2025.</p>
 </div>
 </details>
 <details class="isomer-details">
