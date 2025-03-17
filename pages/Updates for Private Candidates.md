@@ -160,11 +160,15 @@ the steps to create an account and register for the examinations.</p>
 <br><strong>Fees payable</strong>
 </p>
 <p>The examination fees for this year’s subjects can be found in the <a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener noreferrer nofollow" target="_blank">Registration Information e-booklet.</a> All
-fees are inclusive of GST at the prevailing rate.</p>
+fees are inclusive of GST at the prevailing rate.
+<br>
+</p>
 <p>The examination fees are dependent on the subjects you are registering
 for and your citizenship status at the point of registration. Your examination
 fees will not be refunded if your citizenship status is changed after your
-registration.</p>
+registration.
+<br>
+</p>
 <p>Please ensure that you provide correct citizenship information during
 registration. Candidates will be required to pay for the differences in
 the registration fees if incorrect information is provided.</p>
