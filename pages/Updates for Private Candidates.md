@@ -11,7 +11,8 @@ GCE-Level examinations will commence from <strong>2 April 2025 (Wednesday), 9.00
 will be via the<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank"> Candidates Portal</a>.</p>
 <p>Key information about the eligibility criteria, registration guidelines,
 procedures and examination fees are presented below. You should read the
-<a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener noreferrer nofollow" target="_blank">Registration Information e-booklet</a>for the details.</p>
+<a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener nofollow" target="_blank">Registration Information e-booklet</a><a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener noreferrer nofollow" target="_blank"> </a>for
+the details.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>ELIGIBILITY CRITERIA AND REGISTRATION GUIDELINES</strong>
