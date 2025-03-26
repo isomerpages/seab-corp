@@ -93,10 +93,10 @@ end of the paper.</p>
 your arrival. You will be given the full duration of your paper.</p>
 </li>
 <li>
-<p>You can refer to the<a href="/files/Train Disruption/2025_train_disruption_listing_cec.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="/files/Train Disruption/2025_train_disruption_listing_cec.pdf" rel="noopener nofollow" target="_blank">list of papers held at centralised examination centres</a>. For these
-papers, you should report to the designated exam centre indicated in your
-entry proof even if you are unable to reach before the end of the paper.</p>
+<p>You can refer to the <a href="/files/Train Disruption/2025_train_disruption_listing_cec.pdf" rel="noopener nofollow" target="_blank">list of papers held at centralised examination centres</a>.
+For these papers, you should report to the designated exam centre indicated
+in your entry proof even if you are unable to reach before the end of the
+paper.</p>
 </li>
 <li>
 <p>You are not required to obtain and produce an excuse letter or travel
