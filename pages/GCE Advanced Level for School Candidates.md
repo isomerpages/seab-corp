@@ -14,11 +14,11 @@ is available below.</p>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/registration-information-for-gce-a-level-school-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 Registration Information e-booklet" src="/images/registration.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Registration Information e-booklet" src="/images/registration.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2024 Registration Information e-booklet</div>
+<div class="isomer-card-title">2025 Registration Information e-booklet</div>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"></div></div></a>
