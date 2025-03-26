@@ -21,7 +21,7 @@ available below.</p>
 <div class="isomer-card-title">Key Activities and Milestones</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/updatesforprivatecandidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Updates for Private Candidates" src="/images/registration.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Updates For Private Candidates</div><div class="isomer-card-link">  </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/updatesforprivatecandidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Updates for Private Candidates" src="/images/registration.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Updates For Private Candidates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/registration-information-for-private-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -32,7 +32,7 @@ available below.</p>
 <div class="isomer-card-title">2025 Registration Information e-booklet</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Examination Rules and Regulations</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2025" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
