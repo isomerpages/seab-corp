@@ -7,7 +7,7 @@ description: About GCE N(T)-Level
 <p>The Singapore-Cambridge General Certificate of Education Normal (Technical)
 Level (GCE N(T)-Level) examination is an annual national examination that
 is taken by school and private candidates in Singapore.</p>
-<p>More information about the GCE N(T)-Level examination is available below..</p>
+<p>More information about the GCE N(T)-Level examination is available below.</p>
 <p>Since 2008, the Singapore-Cambridge General Certificate of Education (GCE)
 Normal Level examination has been segregated into the Singapore-Cambridge
 GCE Normal (Technical) Level (GCE N (T)-Level) and GCE Normal (Academic)
