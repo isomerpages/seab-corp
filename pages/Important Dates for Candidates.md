@@ -44,20 +44,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2024 Results Release</strong>
+<p><strong>Tentative dates of 2025 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 20 November 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tentative date of 2025 Results Release^</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The date will be updated soon.</p>
+<p>Mon, 24 November – Wed, 26 November 2025</p>
 </td>
 </tr>
 </tbody>
@@ -171,29 +162,20 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2024 Results Release</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16&nbsp;December 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 January 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21&nbsp;February 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 August 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Tentative dates of 2025 Results Release^</strong>
 </p>
 </td>
-<td rowspan="1" colspan="4">
-<p>The dates will be updated soon.</p>
+<td rowspan="1" colspan="1">
+<p>18 December – 22 December 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 January – 16 January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 February – 27 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 August – 25 August 2025</p>
 </td>
 </tr>
 </tbody>
