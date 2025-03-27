@@ -44,7 +44,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tentative date of 2025 Results Release^</strong>
+<p><strong>Tentative dates of 2025 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
