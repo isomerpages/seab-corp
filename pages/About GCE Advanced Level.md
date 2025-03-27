@@ -38,6 +38,6 @@ examination.</p>
 and the results will not be considered in the computation of the university
 admission score. Candidates who pass the MTL Syllabus B subject will be
 deemed to have fulfilled the MTL subject requirement for admission to University.</p>
-<p>The grade awarded fora MTLSyllabus B subjects will be indicated as Merit,
+<p>The grade awarded for a MTL Syllabus B subjects will be indicated as Merit,
 Pass or Ungraded on the candidate’s certificate.</p>
 <p>&nbsp;</p>
