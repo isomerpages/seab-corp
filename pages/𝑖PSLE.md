@@ -12,6 +12,8 @@ to benchmark their academic standards against Singapore's standard.&nbsp;</p>
 English Language, Mathematics, Science and Chinese Language. Students may
 register for a minimum of one subject. The formats are similar to those
 of the Singapore PSLE.</p>
+<p>Good performing 𝑖PSLE candidates may have the opportunity to be considered
+for the ASEAN Scholarship.</p>
 <blockquote>
 <p><strong><a href="/files/Timetable/2025_iPSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2025</a></strong>
 </p>
