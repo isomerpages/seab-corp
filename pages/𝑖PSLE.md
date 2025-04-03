@@ -208,8 +208,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Zhang
-<br>+86 13922703951<a href="http://www.singchin.cn/index_en.html" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-<a href="mailto:zinan.zhang@scagz.com" rel="noopener nofollow" target="_blank">zinan.zhang@scagz.com</a>
+<br>+86 13922703951
+<br><a href="mailto:zinan.zhang@scagz.com" rel="noopener nofollow" target="_blank">zinan.zhang@scagz.com</a>
 <br>
 <br>Ms Janice Wang
 <br>+86 13825116913
