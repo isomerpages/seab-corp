@@ -64,7 +64,7 @@ schools taking part in the 2022 S1 Posting Exercise, please visit SchoolFinder
 (<a href="https://moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/schoolfinder</u></a>).
 Parents and students are encouraged to take the time to explore the schools’
 websites, social media pages, as well as take part in their open houses
-( <a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022</u></a> ),
+(https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022),
 to find out more about the schools that interest them before selecting
 the schools.</p>
 <p><strong>Release of S1 Posting Results</strong>

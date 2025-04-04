@@ -74,7 +74,7 @@ in the 2024 S1 Posting Exercise, students and parents can visit SchoolFinder
 (<a href="https://moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">https://moe.gov.sg/schoolfinder</a>).
 Students and parents are encouraged to take the time to explore the schools’
 websites, social media pages, as well as take part in their open houses
-(<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024</a>),
+(https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024)
 to find out more about the schools that interest them before selecting
 the schools.</p>
 <p><strong>Release of S1 Posting Results</strong>
