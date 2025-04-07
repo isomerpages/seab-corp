@@ -51,41 +51,6 @@ of Education</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Tan Cheong Yian Bernard</div>
-<div class="isomer-card-description">Senior Vice-Provost (Undergraduate Education), National University of
-Singapore</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Juthika Ramanathan</div>
-<div class="isomer-card-description">Chief Executive, Office of the Chief Justice, Judiciary</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Board Members/Mr_Chin_Chi_Leong.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Chin Chi Leong</div>
-<div class="isomer-card-description">Deputy Chief Executive Officer (Building Control)/ Commissioner of Buildings,
-Building and Construction Authority (BCA)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/Ms_Loo_Siew_Yee.png">
 </div>
 </div>
@@ -128,6 +93,28 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Sng Chern Wei</div>
 <div class="isomer-card-description">Deputy Director-General of Education (Curriculum), Ministry of Education</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mohamad Saiful Bin Saroni" src="/images/Board Members/Saiful_Saroni.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Mohamad Saiful Bin Saroni</div>
+<div class="isomer-card-description">Partner, PricewaterhouseCoopers</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Trina Ha Chia Phing" src="/images/Board Members/Trina_Ha.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Trina Ha Chia Phing</div>
+<div class="isomer-card-description">Chief Legal Counsel, Director (Legal), IPOS</div>
 </div>
 </div>
 <div class="isomer-card">
