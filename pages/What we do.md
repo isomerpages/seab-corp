@@ -252,22 +252,20 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Mr Louis Woon Tien Kim
+<br>Senior Assistant Director, Information Technology</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Assessment Services</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Wong Tien Han
 <br>Assistant Director, Assessment Services</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Assessment Services</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Louis Woon Tien Kim
-<br>Senior Assistant Director, Information Technology</p>
-</li>
-<li>
-<p></p>
-</li>
-</ul>
 <p><strong>Procurement</strong>
 </p>
 <ul data-tight="true" class="tight">
