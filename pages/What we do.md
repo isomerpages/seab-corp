@@ -120,6 +120,17 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Jessica Pan Yunfen" src="/images/Board Members/Jessica_Pan.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Jessica Pan Yunfen</div>
+<div class="isomer-card-description">Vice Provost (Graduate Education), Dean (NUS Graduate School</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Yue Lip Sin" src="/images/Board Members/Mr_Yue_Lip_Sin.png">
 </div>
 </div>
