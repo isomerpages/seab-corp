@@ -266,21 +266,21 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </li>
 </ul>
 <p></p>
-<p><strong>Procurement</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Lee Kien Meng
-<br>Assistant Director, Procurement</p>
-<p></p>
-</li>
-</ul>
 <p><strong>Finance</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Evelyn Ooi Siang Ting</p>
 <p>Assistant Director, Finance</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Procurement</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Lee Kien Meng
+<br>Assistant Director, Procurement</p>
 </li>
 </ul>
 </div>
