@@ -227,6 +227,44 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <li>
 <p>Ms Ee Yuen Hui
 <br>Deputy Director, Corporate Cluster</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Corporate Communications and Partnership</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Irene Wong Hui Woon
+<br>Senior Assistant Director, Corporate Communications and Partnership</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Human Resource</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Grace Leow Yin Li
+<br>Senior Assistant Director, Human Resource</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Information Technology</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Wong Tien Han
+<br>Assistant Director, Assessment Services</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Assessment Services</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Louis Woon Tien Kim
+<br>Senior Assistant Director, Information Technology</p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
@@ -248,32 +286,9 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </li>
 </ul>
 <p></p>
-<p><strong>Information Technology</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Louis Woon Tien Kim
-<br>Senior Assistant Director, Information Technology</p>
-</li>
-</ul>
 <p></p>
-<p><strong>Corporate Communications and Partnership</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Irene Wong Hui Woon
-<br>Senior Assistant Director, Corporate Communications and Partnership</p>
 <p></p>
-</li>
-</ul>
-<p><strong>Human Resource</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Grace Leow Yin Li
-<br>Senior Assistant Director, Human Resource</p>
-</li>
-</ul>
+<p></p>
 </div>
 </details>
 </div>
