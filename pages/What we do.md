@@ -239,6 +239,15 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <p></p>
 </li>
 </ul>
+<p><strong>Finance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Evelyn Ooi Siang Ting</p>
+<p>Assistant Director, Finance</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Information Technology</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -262,7 +271,7 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Grace Leow Yin Li
-<br>Assistant Director, Human Resource</p>
+<br>Senior Assistant Director, Human Resource</p>
 </li>
 </ul>
 </div>
