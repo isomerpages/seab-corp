@@ -270,11 +270,11 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Evelyn Ooi Siang Ting</p>
-<p>Assistant Director, Finance</p>
-<p></p>
+<p>Ms Evelyn Ooi Siang Ting
+<br>Assistant Director, Finance</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Procurement</strong>
 </p>
 <ul data-tight="true" class="tight">
