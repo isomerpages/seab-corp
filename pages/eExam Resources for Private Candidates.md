@@ -554,7 +554,8 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>China Studies in English ~</p>
+<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">China Studies in English</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9628</p>
