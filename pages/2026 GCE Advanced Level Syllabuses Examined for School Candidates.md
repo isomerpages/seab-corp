@@ -901,8 +901,7 @@ from SEAB.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Document(s) will be made available soon.
-<br>* Last year of exam in 2026.
+<p>* Last year of exam in 2026.
 <br>+ These subjects are applicable only for candidates from schools approved
 to offer the subjects.
 <br>° Subject with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for

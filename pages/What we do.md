@@ -51,41 +51,6 @@ of Education</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Tan Cheong Yian Bernard" src="/images/Board Members/Prof_Tan_Cheong_Yian_Bernard.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Prof Tan Cheong Yian Bernard</div>
-<div class="isomer-card-description">Senior Vice-Provost (Undergraduate Education), National University of
-Singapore</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Juthika Ramanathan" src="/images/Board Members/Ms_Juthika_Ramanathan.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Juthika Ramanathan</div>
-<div class="isomer-card-description">Chief Executive, Office of the Chief Justice, Judiciary</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chi Leong" src="/images/Board Members/Mr_Chin_Chi_Leong.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Chin Chi Leong</div>
-<div class="isomer-card-description">Deputy Chief Executive Officer (Building Control)/ Commissioner of Buildings,
-Building and Construction Authority (BCA)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Loo Siew Yee" src="/images/Board Members/Ms_Loo_Siew_Yee.png">
 </div>
 </div>
@@ -128,6 +93,39 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Sng Chern Wei</div>
 <div class="isomer-card-description">Deputy Director-General of Education (Curriculum), Ministry of Education</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mohamad Saiful Bin Saroni" src="/images/Board Members/Saiful_Saroni.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Mohamad Saiful Bin Saroni</div>
+<div class="isomer-card-description">Partner, PricewaterhouseCoopers</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Trina Ha Chia Phing" src="/images/Board Members/Trina_Ha.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Trina Ha Chia Phing</div>
+<div class="isomer-card-description">Chief Legal Counsel, Director (Legal), IPOS</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Jessica Pan Yunfen" src="/images/Board Members/Jessica_Pan.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Jessica Pan Yunfen</div>
+<div class="isomer-card-description">Vice Provost (Graduate Education), Dean (NUS Graduate School</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -229,24 +227,6 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <li>
 <p>Ms Ee Yuen Hui
 <br>Deputy Director, Corporate Cluster</p>
-<p></p>
-</li>
-</ul>
-<p><strong>Procurement</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Lee Kien Meng
-<br>Assistant Director, Procurement</p>
-<p></p>
-</li>
-</ul>
-<p><strong>Information Technology</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Louis Woon Tien Kim
-<br>Senior Assistant Director, Information Technology</p>
 </li>
 </ul>
 <p></p>
@@ -256,15 +236,51 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 <li>
 <p>Ms Irene Wong Hui Woon
 <br>Senior Assistant Director, Corporate Communications and Partnership</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Human Resource</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Grace Leow Yin Li
-<br>Assistant Director, Human Resource</p>
+<br>Senior Assistant Director, Human Resource</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Information Technology</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Louis Woon Tien Kim
+<br>Senior Assistant Director, Information Technology</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Assessment Services</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Wong Tien Han
+<br>Assistant Director, Assessment Services</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Finance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Evelyn Ooi Siang Ting
+<br>Assistant Director, Finance</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Procurement</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Lee Kien Meng
+<br>Assistant Director, Procurement</p>
 </li>
 </ul>
 </div>
