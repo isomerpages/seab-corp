@@ -125,7 +125,7 @@ Director, Institute of Public Sector Leadership at Civil Service College</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Jessica Pan Yunfen</div>
-<div class="isomer-card-description">Vice Provost (Graduate Education), Dean (NUS Graduate School</div>
+<div class="isomer-card-description">Vice Provost (Graduate Education), Dean (NUS Graduate School), NUS</div>
 </div>
 </div>
 <div class="isomer-card">
