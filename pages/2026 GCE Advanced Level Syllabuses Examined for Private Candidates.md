@@ -1091,5 +1091,4 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </table>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
 register for Mother Tongue Language Syllabus B can write to <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
-their request.<a href="/files/A Level Syllabus Private Cddts/2026/8835_y26_sy.pdf" rel="noopener nofollow" target="_blank">Japanese</a>
-</p>
+their request.</p>
