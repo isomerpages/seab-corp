@@ -698,7 +698,7 @@ their formats and requirements.</p>
 <p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">China Studies in English</a>
 </p>
 <p></p>
-<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">Video Guide</a>
+<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
 </p>
 <p></p>
 </td>
