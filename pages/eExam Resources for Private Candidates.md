@@ -554,7 +554,10 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">China Studies in English</a>
+<p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">China Studies in English</a>
+<br>
+</p>
+<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">Video Guide</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
