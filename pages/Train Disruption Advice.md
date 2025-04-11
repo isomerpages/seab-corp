@@ -20,8 +20,9 @@ description: train disruption advice
 your paper, as long as you arrive before the end of your paper.</p>
 </li>
 <li>
-<p>If you arrive at your school after the paper has ended, please inform
-your school leader or teacher immediately.</p>
+<p>If you are unable to reach your school before the end of the paper or
+arrive at your school after the paper has ended, please inform your school
+leader or teacher immediately.</p>
 </li>
 <li>
 <p>You are not required to obtain and produce an excuse letter or travel
