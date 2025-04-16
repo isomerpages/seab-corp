@@ -246,7 +246,7 @@ you have not received the examination schedules <strong>7 days before your Scien
 <p><strong>Subject amendments</strong>
 </p>
 <p>All amendments of subjects (including deleting of subjects) must be made
-through the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> by <strong>28 May 2025, 11.00pm.</strong> 
+through the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> by <strong>28 May 2025, 11.00pm.</strong>
 </p>
 <p></p>
 <p>Amendment requests via email or phone call will not be accepted.</p>
@@ -260,24 +260,24 @@ added subjects are inclusive of GST.</p>
 <summary><strong>WITHDRAWAL FROM ENTIRE EXAMINATION</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All applications for withdrawals must be made through the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> by <strong>1 September 2025.</strong> &nbsp;Withdrawal
-requests made after this date will not be considered and candidates will
-receive an Absent grade for the subjects they did not sit for.</p>
+<p>All applications for withdrawals must be made through the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>&nbsp;by&nbsp;<strong>1 September 2025</strong>.&nbsp;&nbsp;Withdrawal
+requests made after&nbsp;<strong>this date</strong>&nbsp;will not be considered
+and candidates will receive an Absent grade for the subjects they did not
+sit for.</p>
 <p></p>
 <p><strong>Withdrawal with refund of the subject fees</strong>
 </p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 50% refund of the subject fees paid
-will be provided if your withdrawal request is submitted to SEAB by <strong>25 June 2025, 11.00pm</strong> and
-you have not sat for any component of the registered subjects that you
-are withdrawing from.</p>
+will be provided if your withdrawal request is submitted to SEAB by <strong>25 June 2025</strong>, <strong>11.00pm</strong>  <strong>and you have not sat for any component of the registered subjects that you are withdrawing from.</strong>
+</p>
 <p></p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 100% refund of the subject fees paid
 will be provided if you have been admitted to a tertiary Institution after
-registration and your withdrawal request is submitted via the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> with
-the supporting documents confirming your tertiary admission by <strong>25 June 2025, 11.00pm. </strong>The
-letter of acceptance from tertiary institutions for admission to a full-time
-course must be issued within the year 2025 and dated after the date you
-have registered for examination.</p>
+registration and your withdrawal request is submitted via the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> with
+the supporting documents confirming your tertiary admission by <strong>25 June 2025, 11:00pm</strong>.
+The letter of acceptance from tertiary institutions for admission to a
+full-time course must be issued within the year 2025 and dated after the
+date you have registered for examination.</p>
 <p></p>
 <p>Please note that late registration fee and subject amendment fees are
 non-refundable. You will receive your refund approximately one month after
