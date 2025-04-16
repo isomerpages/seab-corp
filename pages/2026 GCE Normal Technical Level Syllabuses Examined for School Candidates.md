@@ -85,7 +85,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/6128_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art </a>[Revised]</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/6128_y26_sy_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a>
+<a href="/files/NT Lvl Syllabus Sch Cddts/2026/6128_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
