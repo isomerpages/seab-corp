@@ -112,6 +112,7 @@ Please refer to the <a href="https://go.gov.sg/registration-information-for-priv
 <ul data-tight="true" class="tight">
 <li>
 <p>You must read the following documents before you register for the examinations:</p>
+<p></p>
 </li>
 </ul>
 <ol data-tight="true" class="tight">
@@ -124,10 +125,9 @@ information such as subjects / papers, examination fees, etc.
 <li>
 <p><a href="https://go.gov.sg/seab-rulesandregulations-secondary" rel="noopener nofollow" target="_blank">Examination Rules and Regulations for GCE N(A), N(T) and O-Level candidates</a>
 <br>
-<br><a href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" rel="noopener nofollow" target="_blank">Examination Rules and Regulations for GCE A-Level candidates</a>
-<a href="https://www.seab.gov.sg/docs/default-source/exam-rules-and-regulations/2023-gce-a-exams-rules_regulations_final-as-at-14-jan-2024.pdf?sfvrsn=68b55b00_2" rel="noopener noreferrer nofollow" target="_blank">
+</p>
+<p><a href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" rel="noopener nofollow" target="_blank">Examination Rules and Regulations for GCE A-Level candidates</a>
 <br>
-</a>
 </p>
 </li>
 <li>
