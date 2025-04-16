@@ -116,9 +116,8 @@ Please refer to the <a href="https://go.gov.sg/registration-information-for-priv
 <br>1. <a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener nofollow" target="_blank">Registration Information e-booklet</a> contains
 information such as subjects / papers, examination fees, etc.</p>
 <p></p>
-<p>2. <a href="https://go.gov.sg/seab-rulesandregulations-secondary" rel="noopener nofollow" target="_blank">Examination Rules and Regulations for GCE N(A), N(T) and O-Level candidates</a>
-<br>
-<br> <a href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" rel="noopener nofollow" target="_blank">Examination Rules and Regulations for GCE A-Level candidates</a>
+<p>2. <a href="https://go.gov.sg/seab-rulesandregulations-secondary" rel="noopener nofollow" target="_blank">Examination Rules and Regulations for GCE N(A), N(T) and O-Level candidates</a>,
+<a href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" rel="noopener nofollow" target="_blank">Examination Rules and Regulations for GCE A-Level candidates</a>
 <br>
 <br>3. <a href="https://file.go.gov.sg/guideonexamregistration.pdf" rel="noopener nofollow" target="_blank">Candidates Portal guide on examination registration</a>
 </p>
