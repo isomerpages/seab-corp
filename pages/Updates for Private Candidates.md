@@ -82,7 +82,6 @@ or</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>Please note the following guidelines:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,7 +100,7 @@ for Returning Singaporeans-Secondary (SPERS-Sec) in the same examination
 year.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>While most subjects in the national examinations do not have a pre-requisite
@@ -209,19 +208,21 @@ Account (PSEA)&nbsp;to pay for the&nbsp;examination fees<strong>.</strong>
 <p><strong>Entry Proof for Mid-Year and Year-End Examinations</strong>
 </p>
 <p>Please refer to the <a href="https://www.seab.gov.sg/important-dates-for-candidates/" rel="noopener nofollow" target="_blank">important dates for candidates</a> for
-the timelines in which you would receive the Entry Proof.</p>
-<p></p>
+the timelines in which you would receive the Entry Proof.
+<br>
+</p>
 <p>You may be posted to different examination centres for the different Mode
 of Assessment (MOA) examinations i.e. Oral, Science Practical, Written
 examinations. As such, it is important to check the venue indicated in
-your Entry Proof before the examinations.</p>
-<p>&nbsp;</p>
+your Entry Proof before the examinations.
+<br>
+</p>
 <p>If you have registered for the Science Practical examinations, please
 note that the venues and reporting timings are not indicated on your Entry
 Proof as the information will only be made available at least 7 days before
-each of your examinations via email. Please refer below for more information.</p>
-<p>&nbsp;</p>
-<p>If you have registered for the Science Practical examinations, please
+each of your examinations via email. Please refer below for more information.
+<br>
+<br>If you have registered for the Science Practical examinations, please
 note that the venues and reporting timings are not indicated on your Entry
 Proof as the information will only be made available at least 7 days before
 each of your examinations via email. Please refer below for more information.</p>
