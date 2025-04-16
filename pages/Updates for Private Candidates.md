@@ -257,8 +257,9 @@ sit for.</p>
 <p><strong>Withdrawal with refund of the subject fees</strong>
 </p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 50% refund of the subject fees paid
-will be provided if your withdrawal request is submitted to SEAB by <strong>25 June 2025</strong>, <strong>11.00pm</strong>  <strong>and you have not sat for any component of the registered subjects that you are withdrawing from.</strong>
-</p>
+will be provided if your withdrawal request is submitted to SEAB by <strong>25 June 2025</strong>, <strong>11.00pm</strong> and
+you have not sat for any component of the registered subjects that you
+are withdrawing from.</p>
 <p></p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 100% refund of the subject fees paid
 will be provided if you have been admitted to a tertiary Institution after
