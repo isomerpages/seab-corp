@@ -225,11 +225,9 @@ each of your examinations via email. Please refer below for more information.</p
 note that the venues and reporting timings are not indicated on your Entry
 Proof as the information will only be made available at least 7 days before
 each of your examinations via email. Please refer below for more information.</p>
-<p>You may refer to the guide on examination registration</p>
-<p><a href="https://www.seab.gov.sg/important-dates-for-candidates/" rel="noopener noreferrer nofollow" target="_blank">You may refer to the </a>
-<a href="https://file.go.gov.sg/guideonexamregistration.pdf" rel="noopener noreferrer nofollow" target="_blank">guide on examination registration</a>for the steps to retrieve their Entry
-Proof from the system.</p>
 <p></p>
+<p>You may refer to the <a href="https://file.go.gov.sg/guideonexamregistration.pdf" rel="noopener nofollow" target="_blank">guide on examination registration</a> for
+the steps to retrieve their Entry Proof from the system.</p>
 <p></p>
 <p><strong>Please print your Entry Proof as you are required to bring it for your examinations for attendance verification.</strong>
 </p>
