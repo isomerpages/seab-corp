@@ -88,7 +88,7 @@ relevant assessment experience that mirror the workplace through e-Examinations.
 <p></p>
 <p>Another useful feature is the bookmarking function, which allows candidates
 to tag specific responses they wish to revisit before submission. These
-bookmarked responses are highlighted during the review phase an is a personalisation
+bookmarked responses are highlighted during the review phase and is a personalisation
 feature that makes it easy for candidates to quickly recall and refine
 their responses.&nbsp;</p>
 <div class="isomer-image-wrapper">
