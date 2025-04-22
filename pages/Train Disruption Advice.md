@@ -168,7 +168,7 @@ that are located near the various MRT stations.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_tec_line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
+<p><a href="/files/Train Disruption/JC__Thomson_East_Coast_Line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
 </p>
 </li>
 <li>
