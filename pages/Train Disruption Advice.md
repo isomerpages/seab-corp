@@ -109,78 +109,78 @@ that are located near the various MRT stations.</p>
 <p>Secondary Schools for <strong>GCE N(A)-/N(T)-/O-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Train Disruption/2024_sec_ns_line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
+<p><a href="/files/Train Disruption/Sec__North_South_Line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_ew_line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
+<p><a href="/files/Train Disruption/Sec__East_West_Line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_ne_line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
+<p><a href="/files/Train Disruption/Sec__Northeast_Line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_cc_line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
+<p><a href="/files/Train Disruption/Sec__Circle_Line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_dt_line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
+<p><a href="/files/Train Disruption/Sec__Downtown_Line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_tec_line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
+<p><a href="/files/Train Disruption/Sec__Thomson_East_Coast_Line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_bp_lrt.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
+<p><a href="/files/Train Disruption/Sec__Bukit_Panjang_LRT.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_punggol_lrt.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
+<p><a href="/files/Train Disruption/Sec__Puggol_LRT.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_sec_sengkang_lrt.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
+<p><a href="/files/Train Disruption/Sec__Seng_Kang_LRT.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
 </p>
 </li>
 </ul>
 <p>Junior Colleges/Centralised Institutes for <strong>GCE A-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Train Disruption/2024_jc_ns_line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
+<p><a href="/files/Train Disruption/JC__North_South_Line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_ew_line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
+<p><a href="/files/Train Disruption/JC__East_West_Line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_ne_line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
+<p><a href="/files/Train Disruption/JC__Northeast_Line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_cc_line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
+<p><a href="/files/Train Disruption/JC__Circle_Line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_dt_line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
+<p><a href="/files/Train Disruption/JC__Downtown_Line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_tec_line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
+<p><a href="/files/Train Disruption/JC__Thomson_East_Coast_Line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_bp_lrt.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
+<p><a href="/files/Train Disruption/JC__Bukit_Panjang_LRT.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_punggol_lrt.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
+<p><a href="/files/Train Disruption/JC__Puggol_LRT.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_sengkang_lrt.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
+<p><a href="/files/Train Disruption/JC__Seng_Kang_LRT.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
 </p>
 </li>
 </ul>
