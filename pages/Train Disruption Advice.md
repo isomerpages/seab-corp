@@ -148,23 +148,23 @@ that are located near the various MRT stations.</p>
 <p>Junior Colleges/Centralised Institutes for <strong>GCE A-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Train Disruption/2024_jc_ns_line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
+<p><a href="/files/Train Disruption/JC__North_South_Line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_ew_line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
+<p><a href="/files/Train Disruption/JC__East_West_Line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_ne_line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
+<p><a href="/files/Train Disruption/JC__Northeast_Line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_cc_line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
+<p><a href="/files/Train Disruption/JC__Circle_Line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_dt_line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
+<p><a href="/files/Train Disruption/JC__Downtown_Line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
 </p>
 </li>
 <li>
