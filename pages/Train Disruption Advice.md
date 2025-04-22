@@ -172,7 +172,7 @@ that are located near the various MRT stations.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_bp_lrt.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
+<p><a href="/files/Train Disruption/JC__Bukit_Panjang_LRT.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
 </p>
 </li>
 <li>
