@@ -176,7 +176,7 @@ that are located near the various MRT stations.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/2024_jc_punggol_lrt.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
+<p><a href="/files/Train Disruption/JC__Puggol_LRT.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
 </p>
 </li>
 <li>
