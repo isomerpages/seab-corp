@@ -350,7 +350,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8879_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8879_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
