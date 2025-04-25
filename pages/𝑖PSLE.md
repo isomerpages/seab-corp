@@ -209,11 +209,11 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Zhang
 <br>+86 13922703951
-<br><a href="mailto:zinan.zhang@scagz.com" rel="noopener nofollow" target="_blank">zinan.zhang@scagz.com</a>
+<br><a href="mailto:zinan.zhang@nurturagroup.sg" rel="noopener nofollow" target="_blank">zinan.zhang@nurturagroup.sg</a>
 <br>
 <br>Ms Janice Wang
 <br>+86 13825116913
-<br><a href="mailto:janice.wang@scagz.com" rel="noopener nofollow" target="_blank">janice.wang@scagz.com</a>
+<br><a href="mailto:janice.wang@nurturagroup.sg" rel="noopener nofollow" target="_blank">janice.wang@nurturagroup.sg</a>
 </p>
 </td>
 </tr>
