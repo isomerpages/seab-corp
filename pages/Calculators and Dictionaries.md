@@ -16,17 +16,6 @@ description: Calculators and Dictionaries
 <div class="isomer-card-title">Approved Dictionary List</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/applycalculator" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application Form for Approval of Calculators image" src="/images/app_form_calculator.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Form for Approval of Calculators</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/applydictionary" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Application Form for Approval of Dictionaries image" src="/images/app_form_dictionaries.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Application Form for Approval of Dictionaries image</div>
-<div class="isomer-card-link"></div>
-</div>
 </a>
 </div>
 <p></p>
