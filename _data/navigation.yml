@@ -1,0 +1,77 @@
+logo: /images/HomePage/SEAB_logo_in_color__png_7.png
+links:
+  - title: Examinations
+    url: /psle
+    sublinks:
+      - title: PSLE
+        url: /psle
+      - title: GCE N(T)-Level
+        url: /gce-nt-level/
+      - title: GCE N(A)-Level
+        url: /gce-na-level
+      - title: GCE O-Level
+        url: /gce-o-level/
+      - title: GCE A-Level
+        url: /gce-a-level
+  - title: Services
+    url: /training-and-consultancy
+    sublinks:
+      - title: Training and Consultancy
+        url: /training-and-consultancy
+      - title: Academic Publications
+        url: /academic-publications
+      - title: Distributors of Past Years' QP
+        url: /distributors-of-past-years-question-papers
+      - title: Past Years' Results
+        url: /statements-of-results
+      - title: Admission, Placement Exercises
+        url: /tests-for-admissions-placement-exercises/
+      - title: 𝑖PSLE
+        url: /ipsle
+  - title: News
+    url: /news/
+    sublinks:
+      - title: Press Releases
+        url: /news/press-releases
+      - title: Media Responses
+        url: /news/media-responses
+      - title: SEAB-link Newsletter
+        url: /news/seab-link-newsletter/
+      - title: Parliamentary Questions
+        url: /news/parliamentary-questions/
+  - title: About Us
+    url: /what-we-do
+    sublinks:
+      - title: What We Do
+        url: /what-we-do
+      - title: Board Members
+        url: /what-we-do#board-members
+      - title: Management Team
+        url: /what-we-do/#management-team
+      - title: Annual Reports
+        url: /annual-reports
+      - title: Career Opportunities
+        url: /careers/
+      - title: Exam Personnel Openings
+        url: /exam-personnel-openings
+      - title: Resources
+        url: /resources
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: Heritage Gallery
+        url: /heritage-gallery
+  - title: Quicklinks
+    url: /important-dates-for-candidates
+    sublinks:
+      - title: Candidates Portal
+        url: https://myexams.seab.gov.sg/auth/login
+      - title: Important Dates
+        url: /important-dates-for-candidates
+      - title: Past Years' Results
+        url: /statements-of-results
+      - title: Approved Calculators
+        url: https://go.gov.sg/seab-approvedcalculators
+      - title: Approved Dictionaries
+        url: https://go.gov.sg/list-of-dictionaries-for-examination
+  - title: FAQs
+    url: https://ask.gov.sg/seab
