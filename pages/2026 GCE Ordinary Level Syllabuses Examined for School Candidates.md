@@ -643,8 +643,7 @@ from SEAB.</p>
 <br><a href="/files/O Lvl Syllabus Sch Cddts/2026/7155_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a> |
 <a href="/files/O Lvl Syllabus Sch Cddts/2026/7155_y25_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
-</p>
-<p>[2024]</p>
+<br>[2024]</p>
 </td>
 </tr>
 </tbody>
