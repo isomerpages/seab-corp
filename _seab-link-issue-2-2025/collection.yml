@@ -2,6 +2,8 @@ collections:
   seab-link-issue-2-2025:
     output: true
     order:
+      - "SEAB Board Renewal: Honouring Past Contributions, Embracing New
+        Perspectives.md"
       - Meaningful Engagements and Milestones at SEAB.md
       - Enhancing Assessment Capabilities of the Home Team.md
       - Editor's Note.md
