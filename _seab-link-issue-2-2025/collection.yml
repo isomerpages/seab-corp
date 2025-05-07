@@ -2,6 +2,8 @@ collections:
   seab-link-issue-2-2025:
     output: true
     order:
+      - "Assessment Symposium 2025: Strengthening the Foundations of Educational
+        Assessment.md"
       - iPSLE Marks Two Decades of Educational Excellence.md
       - "SEAB Board Renewal: Honouring Past Contributions, Embracing New
         Perspectives.md"
