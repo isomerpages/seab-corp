@@ -553,7 +553,9 @@ understand the revised examination format.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8879_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/A Level Syllabus Private Cddts/2026/8879_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
