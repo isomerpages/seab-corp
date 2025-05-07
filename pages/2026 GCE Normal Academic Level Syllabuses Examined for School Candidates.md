@@ -319,7 +319,9 @@ from SEAB.</p>
 <p>6127</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/6127_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/NA Level Syllabus Sch Cddts/2026/6127_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+</p>
 </td>
 </tr>
 <tr>
