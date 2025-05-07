@@ -2,6 +2,8 @@ collections:
   seab-link-issue-2-2025:
     output: true
     order:
+      - SEAB Hosts International Student Admissions Exercise for the First
+        Time.md
       - "Assessment Symposium 2025: Strengthening the Foundations of Educational
         Assessment.md"
       - iPSLE Marks Two Decades of Educational Excellence.md
