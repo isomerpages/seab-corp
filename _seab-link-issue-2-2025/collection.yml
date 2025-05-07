@@ -2,8 +2,6 @@ collections:
   seab-link-issue-2-2025:
     output: true
     order:
-      - Pilot Plan for the Use of Students’ Personal Learning Devices PLDs in
-        eExaminations.md
       - Editor's Note.md
       - Enhancing Assessment Capabilities of the Home Team.md
       - Meaningful Engagements and Milestones at SEAB.md
@@ -13,5 +11,7 @@ collections:
       - "Assessment Symposium 2025: Strengthening the Foundations of Educational
         Assessment.md"
       - iPSLE Marks Two Decades of Educational Excellence.md
+      - Pilot Plan for the Use of Students’ Personal Learning Devices PLDs in
+        eExaminations.md
       - "SEAB Board Renewal: Honouring Past Contributions, Embracing New
         Perspectives.md"
