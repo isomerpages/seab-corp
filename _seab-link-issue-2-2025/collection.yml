@@ -2,4 +2,5 @@ collections:
   seab-link-issue-2-2025:
     output: true
     order:
+      - Enhancing Assessment Capabilities of the Home Team.md
       - Editor's Note.md
