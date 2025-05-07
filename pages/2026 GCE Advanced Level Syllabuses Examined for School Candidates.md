@@ -362,7 +362,9 @@ from SEAB.</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8879_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/8879_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -432,7 +434,9 @@ from SEAB.</p>
 <p>9357</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9357_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/9357_y26_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+</p>
 </td>
 </tr>
 <tr>
