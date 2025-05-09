@@ -19,7 +19,7 @@ information.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH (2-YEAR CONTRACT)</strong>
+<summary><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH (2 YEARS CONTRACT)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -74,6 +74,64 @@ etc., and their real-world application</p>
 <p>Possess knowledge of advanced statistical techniques and concepts, such
 as regression, properties of distributions, statistical tests and proper
 usage, etc.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH (2 YEARS CONTRACT)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Job Responsibilities</strong>
+</p>
+<p></p>
+<p>Successful applicant will play an active role in researching educational
+measurement and assessment issues, as well as developing assessment services
+and products that are fit for purpose, educationally sound, and positively
+transforming for stakeholders. The key responsibilities include:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct research studies which focus on harnessing technology to assess
+complex competencies for 21st Century education</p>
+</li>
+<li>
+<p>Apply statistical techniques to support assessment-related analysis</p>
+</li>
+<li>
+<p>Provide project management and consultancy services for assessment projects</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tertiary qualification in Mathematics and/or statistics-related field</p>
+</li>
+<li>
+<p>Experience in research studies, educational measurements and/or data analytics
+(e.g. machine learning &amp; data mining)</p>
+</li>
+<li>
+<p>Experience in the education sector will be an advantageProficient in the
+use of statistical analysis software (e.g. STATA, SAS, RUMM2020, R-Programming)</p>
+</li>
+<li>
+<p>Experience in the use of coding applications (such as Visual Studio) with
+C/C#/C++, Visual Basic or Java Programming, will be useful</p>
+</li>
+<li>
+<p>Adaptable, meticulous individual with excellent analytical skills</p>
+</li>
+<li>
+<p>Able to communicate complex concepts in applied and practical manner to
+get buy-in from stakeholder groups</p>
+</li>
+<li>
+<p>Enjoy working in teams in a dynamic and creative work environment</p>
 </li>
 </ul>
 </div>
