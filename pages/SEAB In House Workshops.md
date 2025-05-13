@@ -63,7 +63,7 @@ you have questions about the programme.</p>
 <p></p>
 <p>Find out <a href="https://go.gov.sg/cea-in-edn-core-modules" rel="noopener nofollow" target="_blank">more details</a> on
 core module workshops.</p>
-<p>Register for the&nbsp;<a href="https://form.gov.sg/637d9334361f4c0012a2952a" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+<p>Register for the&nbsp;<a href="https://go.gov.sg/registration-cea-core" rel="noopener nofollow" target="_blank">course</a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -77,7 +77,7 @@ scan the QR code to do so now!</p>
 <p></p>
 <p>Find out <a href="https://go.gov.sg/cea-in-edn-elective-modules" rel="noopener nofollow" target="_blank">more details</a> on
 elective module workshops.</p>
-<p>Register for the <a href="https://form.gov.sg/637d9738e5a2f10012e6ec1d" rel="noopener noreferrer nofollow" target="_blank"><u>course</u></a>&nbsp;or
+<p>Register for the <a href="https://go.gov.sg/registration-cea-elective" rel="noopener nofollow" target="_blank">course</a>&nbsp;or
 scan the QR code to do so now!</p>
 <p></p>
 <div class="isomer-image-wrapper">
