@@ -228,7 +228,7 @@ examination will be communicated to you <strong>at least</strong>  <strong>7 day
 the examinations via email. Please ensure that your email address is valid
 to receive the email.</p>
 <p></p>
-<p>Please contact <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener nofollow" target="_blank">SEAB</a> if
+<p>Please contact <a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">SEAB</a> if
 you have not received the examination schedules <strong>7 days before your Science Practical examination date.</strong>
 </p>
 <p></p>

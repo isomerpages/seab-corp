@@ -102,7 +102,7 @@ appropriate form for the right team to assist you.</p>
 <td rowspan="1" colspan="1">
 <p><strong>GCE-Level Examinations: Request for Technical Assistance with Candidates Portal</strong>
 </p>
-<p>Please use this <a href="https://form.gov.sg/6221cad04dfe5a0013d73387" rel="noopener noreferrer nofollow" target="_blank">form</a> if
+<p>Please use this <a href="https://www.go.gov.sg/cp-seab" rel="noopener nofollow" target="_blank">form</a> if
 you require technical assistance with the Candidates Portal. This includes
 difficulties with login, account creation, uploading supporting documents,
 updating personal details, amending or verifying subjects, missing fields,
@@ -118,7 +118,7 @@ system errors.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Tests for Admissions or Placement Exercises: Request for Technical Assistance with Candidates Portal</strong>
 </p>
-<p>For AEIS, S-AEIS, SPERS-Sec or SPE, please use this <a href="https://form.gov.sg/62b55c05ea9e62001241f1b4" rel="noopener noreferrer nofollow" target="_blank">form</a> if
+<p>For AEIS, S-AEIS, SPERS-Sec or SPE, please use this <a href="https://www.go.gov.sg/cp-nonnex-seab" rel="noopener nofollow" target="_blank">form</a> if
 you require technical assistance with the Candidates Portal. This includes
 difficulties with login, account creation, uploading supporting documents,
 updating personal details, missing fields, system errors.</p>
@@ -133,7 +133,7 @@ updating personal details, missing fields, system errors.</p>
 <td rowspan="1" colspan="1">
 <p><strong>General Queries</strong>
 </p>
-<p>For other queries, please use our feedback <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+<p>For other queries, please use our feedback <a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
 </td>
 </tr>
 </tbody>

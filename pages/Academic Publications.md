@@ -79,7 +79,7 @@ Board (SEAB). The essays are organised broadly around 3 central themes:</p>
 </li>
 </ul>
 <p>There are a total of 26 essays in this book.</p>
-<p>You can purchase the e-book by completing this <a href="https://form.gov.sg/65375fc7c7af710012b3e385" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.</p>
+<p>You can purchase the e-book by completing this <a href="https://www.go.gov.sg/alb-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -126,7 +126,7 @@ for Classroom Practice.</p>
 </li>
 </ul>
 <p>There are a total of 20 essays in this book.</p>
-<p>You can purchase the e-book by completing this <a href="https://form.gov.sg/65375fc7c7af710012b3e385" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.</p>
+<p>You can purchase the e-book by completing this <a href="https://www.go.gov.sg/alb-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -168,7 +168,7 @@ into essays to broaden the reach to more educators.</p>
 </li>
 </ul>
 <p>There are a total of 14 essays in the book.</p>
-<p>You can purchase the e-book by completing this <a href="https://form.gov.sg/65375fc7c7af710012b3e385" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.</p>
+<p>You can purchase the e-book by completing this <a href="https://www.go.gov.sg/alb-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -191,8 +191,7 @@ on item demands for various subjects and some generic assessment topics.</p>
 involving the use of technologies in assessment.</p>
 <p>There are a total of 18 essays in this book.</p>
 <p>The hardcopy book and the e-book can be purchased by completing this
-<a href="https://form.gov.sg/65375fc7c7af710012b3e385" rel="noopener noreferrer nofollow" target="_blank"><u>form</u> 
-</a>.</p>
+<a href="https://www.go.gov.sg/alb-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 </div>
