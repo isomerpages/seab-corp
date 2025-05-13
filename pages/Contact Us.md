@@ -133,7 +133,7 @@ updating personal details, missing fields, system errors.</p>
 <td rowspan="1" colspan="1">
 <p><strong>General Queries</strong>
 </p>
-<p>For other queries, please use our feedback <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+<p>For other queries, please use our feedback <a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
 </td>
 </tr>
 </tbody>
