@@ -22,7 +22,7 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: ask_us@seab.gov.sg
       - other: ""
     title: Careers
 feedback: https://form.gov.sg/5dc02f345f93b5001904159d
