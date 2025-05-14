@@ -4,9 +4,10 @@ permalink: /about-us/contact-us/
 variant: tiptap
 description: SEAB Contact Us
 ---
-<h4><strong>Quick Links</strong></h4>
-<table style="minWidth: 125px">
+<h4><strong>Frequently Accessed Pages</strong></h4>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -15,26 +16,47 @@ description: SEAB Contact Us
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="6">
 <p>Click on these frequently accessed pages. You might be able to obtain
 answers to your questions.</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/aeis/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="aeis application procedures" src="/images/Contact us/aeis_application_procedures.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AEIS application procedures" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/spers-sec/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="spers-sec application procedures" src="/images/Contact us/spers_sec_application_procedures.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SPERS-Sec Application procedures" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__1_.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/faq/"><img style="width: 100%" height="auto" width="100%" alt="candidates portal" src="/images/Contact us/candidates_portal_faqs.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Past Years' Results" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__2_.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/statements-of-results"><img style="width: 100%" height="auto" width="100%" alt="past years' results" src="/images/Contact us/past_years_results.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Important dates" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__3_.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/important-dates-for-candidates"><img style="width: 100%" height="auto" width="100%" alt="important dates" src="/images/Contact us/important_dates.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Approved dictionaries" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__5_.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Approved calculators" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__4_.png">
+</div>
 </th>
 </tr>
 </tbody>
