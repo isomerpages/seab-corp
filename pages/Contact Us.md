@@ -23,40 +23,22 @@ answers to your questions.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AEIS application procedures" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/aeis/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="AEIS application procedures" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPERS-Sec Application procedures" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__1_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/spers-sec/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="SPERS-Sec Application procedures" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__1_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Past Years' Results" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__2_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/statements-of-results"><img style="width: 100%" height="auto" width="100%" alt="Past Years' Results" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__2_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Important dates" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__3_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/important-dates-for-candidates"><img style="width: 100%" height="auto" width="100%" alt="Important dates" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__3_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Approved dictionaries" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__5_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/list-of-dictionaries-for-examination"><img style="width: 100%" height="auto" width="100%" alt="Approved dictionaries" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__5_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Approved calculators" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__4_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/seab-approvedcalculators"><img style="width: 100%" height="auto" width="100%" alt="Approved calculators" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__4_.png"></a>
 </th>
 </tr>
 </tbody>
