@@ -57,7 +57,7 @@ sections:
       url: /important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
-      title: 2025 Private Candidate Registration Exercise
+      title: Updates for Private Candidates
       id: infopic
       description: Find out more about the registration for 2025 GCE-Level examinations.
       button: VIEW DETAILS
