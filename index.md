@@ -62,7 +62,7 @@ sections:
       description: Find out more about the registration for 2025 GCE-Level examinations.
       button: VIEW DETAILS
       alt: registration
-      image: /images/HomePage/registration.png
+      image: /images/notebook_registration_06.jpg
       url: /updatesforprivatecandidates/
   - resources:
       title: 📰 Highlights & News
