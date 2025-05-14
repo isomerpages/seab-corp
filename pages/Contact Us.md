@@ -184,8 +184,8 @@ updating personal details, missing fields, system errors.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In-person assistance at SEAB’s Visitor Centre is strictly by appointment
 only, and it is for selected services that cannot be completed via email
-or call. Please make an appointment via our <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>online form</u></a> at
-least 2 business days in advance.</p>
+or call. Please make an appointment via our <a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">online form</a> at least 2 business
+days in advance.</p>
 <p>Before confirming your appointment, we will contact you via email or a
 call to better understand your needs and assist you where possible. You
 may receive a call from us with this number&nbsp;6970 6255.</p>
