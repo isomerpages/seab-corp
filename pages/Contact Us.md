@@ -24,10 +24,7 @@ answers to your questions.</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/statements-of-results"><img style="width: 100%" height="auto" width="100%" alt="Past Years' Results" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__2_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Candidates Portal" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__6_.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/auth/login"><img style="width: 100%" height="auto" width="100%" alt="Candidates Portal" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__6_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/list-of-dictionaries-for-examination"><img style="width: 100%" height="auto" width="100%" alt="Approved dictionaries" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__5_.png"></a>
