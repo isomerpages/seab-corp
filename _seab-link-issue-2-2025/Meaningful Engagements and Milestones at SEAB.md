@@ -37,23 +37,18 @@ with our management panels.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="tlp" src="/images/SEABlink/tlp.png">
-</div>
-<p><em>Enthusiastic TLP participants at the Conversations with SEAB session on 4 March 2025</em>
-</p>
+<em>Enthusiastic TLP participants at the Conversations with SEAB session on 4 March 2025</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="mls" src="/images/SEABlink/mls.png">
-</div>
-<p><em>Engaged MLS participants at the Conversations with SEAB session on 21 April 2025</em>
-</p>
-<p>&nbsp;</p>
+<em>Engaged MLS participants at the Conversations with SEAB session on 21 April 2025</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="twa" src="/images/SEABlink/twa.png">
-</div>
-<p><em>It was a promising turnout of the inaugural Teacher Work Attachment Plus (TWA+) Learning Journey @ SEAB</em>
-</p>
+<em>It was a promising turnout of the inaugural Teacher Work Attachment Plus (TWA+) Learning Journey @ SEAB</em>
+<p></p>
 <p></p>
 <p>The engagement sessions sparked meaningful discussions on pertinent topics
 that concerned educators, including the evolution of assessment in technology-enhanced
@@ -69,7 +64,7 @@ remain progressive and relevant in an evolving educational landscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="reflections" src="/images/SEABlink/reflections.png">
 </div>
-</td>
+</div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -92,9 +87,8 @@ as the strongroom and digitisation room to understand the workflow of digital
 assessment operations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc.png">
-</div>
-<p><em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
-</p>
+<em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
+<p></p>
 <p></p>
 <p>The visit sparked meaningful discussions about the future of assessment
 technology, including emerging innovations such as computer adaptive testing
@@ -104,9 +98,8 @@ advancement with maintaining high assessment standards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc3.png">
-</div>
-<p><em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
-</p>
+<em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
+<p></p>
 <p></p>
 <p></p>
 <p>The productive exchange highlighted the public service's commitment to
@@ -118,7 +111,7 @@ the value of shared learning in advancing public service assessment methods.</p>
 service, as organisations work together to enhance assessment capabilities
 and embrace digital transformation for the future.</p>
 <p>&nbsp;</p>
-</td>
+</div></div></td>
 </tr>
 </tbody>
 </table>
