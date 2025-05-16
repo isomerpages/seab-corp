@@ -66,7 +66,9 @@ remain progressive and relevant in an evolving educational landscape.</p>
 <p></p>
 <p><strong>Reflections from participants</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="reflections" src="/images/SEABlink/reflections.png">
+</div>
 </td>
 </tr>
 <tr>
