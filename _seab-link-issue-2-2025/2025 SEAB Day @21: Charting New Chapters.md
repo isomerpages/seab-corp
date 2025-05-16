@@ -73,31 +73,26 @@ effort that goes into delivering trusted educational assessments and services.</
 </div>
 <p><em>Proud recipients of SEAB’s Bright Spark Awards (Gold &amp; Silver), which recognise projects that embody the spirit of continuous learning, process improvements and innovation.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday5.png">
 </div>
 <p><em>Our staff, Ms G Santha Mary, receiving a 40-years long service award from Board Chairman, Mr Wong Siew Hoong.</em>
 </p>
-<p>&nbsp;</p>
 <p>The lively atmosphere was further elevated by an engaging photo montage
 of SEAB staff at 21 years old, as well as song and dance performances,
 which added a touch of entertainment and joy to the occasion. Fun games
 and activities brought everyone together, fostering camaraderie and team
 spirit.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday8.png">
 </div>
 <p><em>A glimpse into the past of some SEAB staff at 21 years old - a nostalgic trip down memory lane that sparked many joyful memories.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday9.png">
 </div>
 <p><em>At SEAB, the staff work hard and play even harder! Ice breaker and table games livened up the whole atmosphere.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday10.png">
 </div>
