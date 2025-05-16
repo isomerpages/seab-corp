@@ -27,27 +27,23 @@ to maintaining excellence in assessment services.</p>
 of this exercise.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="s-aeis" src="/images/SEABlink/aeis3.png">
-</div>
-<p><em>SEAB Corporate Cluster officers were all smiles before heading for duties.</em>
-</p>
+<em>SEAB Corporate Cluster officers were all smiles before heading for duties.</em>
+<p></p>
 <p><strong>Receiving the candidates at SEAB</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="s-aeis" src="/images/SEABlink/aeis1.png">
-</div>
-<p><em>The officers took up positions to receive and provide directions to candidates and parents. Everyone gave their best smiles and conveyed words of well-wishes to assure candidates before they enter the building for their papers.</em>
-</p>
+<em>The officers took up positions to receive and provide directions to candidates and parents. Everyone gave their best smiles and conveyed words of well-wishes to assure candidates before they enter the building for their papers.</em>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="s-aeis" src="/images/SEABlink/aeis2.png">
-</div>
-<p><em>Candidates were directed to the test venues. An information counter was also set up to assist candidates without entry proofs or to answer queries.</em>
-</p>
+<em>Candidates were directed to the test venues. An information counter was also set up to assist candidates without entry proofs or to answer queries.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="s-aeis" src="/images/SEABlink/aeis4.png">
-</div>
-<p><em>Candidates were directed to take their seats in the test venues in an orderly manner.</em>
-</p>
+<em>Candidates were directed to take their seats in the test venues in an orderly manner.</em>
 <p></p>
 <p></p>
+<p></p></div></div></div></div>
