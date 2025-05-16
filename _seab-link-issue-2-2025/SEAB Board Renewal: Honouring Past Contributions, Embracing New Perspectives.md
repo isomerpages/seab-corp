@@ -35,6 +35,14 @@ in our journey forward.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Mohamad Saiful Bin Saroni</strong>
 </p>
 <p><strong>Partner, PricewaterhouseCoopers</strong>
@@ -91,7 +99,6 @@ consultant to various Singapore government ministries.</p>
 oversees the Copyright Unit to review and develop Singapore’s copyright
 laws and policy, advise the Government on copyright matters, and regulate
 collective management organisations.</p>
-<p>&nbsp;</p>
 <p>Prior to joining IPOS, Ms Ha was in private practice where she specialises
 in matters involving the protection and management of intellectual property
 rights, particularly in the fields of entertainment and the arts.</p>
