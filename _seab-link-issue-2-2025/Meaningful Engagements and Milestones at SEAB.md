@@ -1,7 +1,7 @@
 ---
 title: Meaningful Engagements and Milestones at SEAB
 permalink: /seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>SEAB actively fosters collaboration and knowledge-sharing with fellow
@@ -48,8 +48,8 @@ remain progressive and relevant in an evolving educational landscape.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Exploring Collaborative Futures: Civil Service College’s Institute of Leadership and Organisational Development (ILOD) Visits SEAB</strong>
-</p>
+<h4><strong>Exploring Collaborative Futures: Civil Service College’s Institute of Leadership and Organisational Development (ILOD) Visits SEAB</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc2.png">
 </div>
@@ -67,9 +67,10 @@ as the strongroom and digitisation room to understand the workflow of digital
 assessment operations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc.png">
-<em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
+</div>
+<p><em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
+</p>
 <p></p>
-
 <p>The visit sparked meaningful discussions about the future of assessment
 technology, including emerging innovations such as computer adaptive testing
 and the potential role of artificial intelligence in assessments. Both
@@ -78,7 +79,9 @@ advancement with maintaining high assessment standards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc3.png">
-<em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
+</div>
+<p><em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
+</p>
 <p></p>
 <p></p>
 <p>The productive exchange highlighted the public service's commitment to
@@ -90,7 +93,7 @@ the value of shared learning in advancing public service assessment methods.</p>
 service, as organisations work together to enhance assessment capabilities
 and embrace digital transformation for the future.</p>
 <p>&nbsp;</p>
-</div></div></td>
+</td>
 </tr>
 </tbody>
 </table>
