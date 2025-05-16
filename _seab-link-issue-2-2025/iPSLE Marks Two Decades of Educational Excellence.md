@@ -12,9 +12,8 @@ remarkably to serve 23,000 students across 32 centres in nine countries
 over the two decades.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ipsle" src="/images/SEABlink/ipsle4.png">
-</div>
-<p><em>Representatives from 14 iPSLE centres commemorated iPSLE's 20<sup>th</sup> anniversary at the annual Business Meeting held at SEAB</em>
-</p>
+<em>Representatives from 14 iPSLE centres commemorated iPSLE's 20<sup>th</sup> anniversary at the annual Business Meeting held at SEAB</em>
+<p></p>
 <p>Held annually, SEAB organised the <em>i</em>PSLE Business Meeting to &nbsp;provide
 a platform for the centres and SEAB to strengthen partnership, discuss
 pertinent issues, &nbsp;as well as sharing of &nbsp;best practices to ensure
@@ -38,11 +37,9 @@ earthquake that affected their Yangon and Mandalay campuses on 28 March
 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ipsle" src="/images/SEABlink/ipsle.png">
-</div>
-<p><em>Left: Mr Argus Ang, CEO of The Rvi Group and Managing Director of MCTA Group of Schools sharing insights from their experience on crisis management in the recent earthquake that hit Yangon.</em>
-</p>
-<p><em>Right: Celebrating 20 years of shared commitment to educational excellence across Asia.</em>
-</p>
+<em>Left: Mr Argus Ang, CEO of The Rvi Group and Managing Director of MCTA Group of Schools sharing insights from their experience on crisis management in the recent earthquake that hit Yangon.</em>
+<br><em>Right: Celebrating 20 years of shared commitment to educational excellence across Asia.</em>
+<p></p>
 <p>The event also included professional development sessions focusing on
 English Language, Mathematics and Science curricula, alongside comprehensive
 administrative updates. Delegates concluded their visit with tours of SEAB's
@@ -53,10 +50,7 @@ of Singapore's educational journey and operational excellence.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ipsle" src="/images/SEABlink/ipsle3.png">
-</div>
-<p><em>Gaining fascinating insights into Singapore's examination journey from its historical foundations to its digital transformation</em>
-</p>
-<p>&nbsp;</p>
+<em>Gaining fascinating insights into Singapore's examination journey from its historical foundations to its digital transformation</em>
 <p>Through continued collaboration with international partners, <em>i</em>PSLE
 remains committed to maintaining its high standards while implementing
 strategic operational improvements to better serve its growing global community.</p>
@@ -64,4 +58,4 @@ strategic operational improvements to better serve its growing global community.
 a testament to Singapore's commitment to quality education beyond our shores.
 SEAB remains dedicated to uphold Singapore’s excellent assessment standards
 and share our assessment expertise i internationally.</p>
-<p></p>
+<p></p></div></div></div>
