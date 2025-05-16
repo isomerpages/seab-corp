@@ -19,9 +19,8 @@ to SEAB and wish them the best in their future endeavours</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="board" src="/images/SEABlink/board.png">
-</div>
-<p><em>A group photo of SEAB’s Governing Board with our Directors as of 31 March 2025, bidding farewell to Ms Ramanathan (left most, first row), Professor Tan (second from the right, first row) and Mr Chin (right most, first row)</em>
-</p>
+<em>A group photo of SEAB’s Governing Board with our Directors as of 31 March 2025, bidding farewell to Ms Ramanathan (left most, first row), Professor Tan (second from the right, first row) and Mr Chin (right most, first row)</em>
+<p></p>
 <p>As we bid farewell to these distinguished members, we are delighted to
 welcome three accomplished individuals to our Governing Board: Mr Mohamad
 Saiful Bin Saroni, Professor Jessica Pan, and Ms Trina Ha. Their diverse
@@ -44,8 +43,7 @@ in our journey forward.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Mohamad Saiful Bin Saroni</strong>
-</p>
-<p><strong>Partner, PricewaterhouseCoopers</strong>
+<br><strong>Partner, PricewaterhouseCoopers</strong>
 </p>
 <p></p>
 <p></p>
@@ -56,8 +54,7 @@ in our journey forward.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Saiful has been a partner with PwC LLP Singapore since 2012.
 He started in PwC as an associate in 2000 and has over 16 years of experience
-in the audit industry.</p>
-<p>&nbsp;Mr Mohamad Saiful currently sits on the Board of Mercy Relief, and
+in the audit industry. <br>Mr Mohamad Saiful currently sits on the Board of Mercy Relief, and
 previously served as a Board member on the Building and Construction Authority
 Board, the Singapore Tourism Board, and SkillsFuture Singapore.</p>
 </td>
@@ -65,8 +62,7 @@ Board, the Singapore Tourism Board, and SkillsFuture Singapore.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Professor Jessica Pan Yun Fen</strong>
-</p>
-<p><strong>Vice Provost (Graduate Education), Dean (NUS Graduate School)</strong>
+<br><strong>Vice Provost (Graduate Education), Dean (NUS Graduate School)</strong>
 </p>
 <p></p>
 <p></p>
@@ -86,8 +82,7 @@ consultant to various Singapore government ministries.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Trina Ha Chia Phing</strong>
-</p>
-<p><strong>Chief Legal Counsel, Director (Legal), Intellectual Property Office of Singapore</strong>
+<br><strong>Chief Legal Counsel, Director (Legal), Intellectual Property Office of Singapore</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -98,12 +93,12 @@ consultant to various Singapore government ministries.</p>
 <p>Ms Ha manages the legal affairs of the Intellectual Property office and
 oversees the Copyright Unit to review and develop Singapore’s copyright
 laws and policy, advise the Government on copyright matters, and regulate
-collective management organisations.</p>
-<p>Prior to joining IPOS, Ms Ha was in private practice where she specialises
+collective management organisations.
+<br>Prior to joining IPOS, Ms Ha was in private practice where she specialises
 in matters involving the protection and management of intellectual property
 rights, particularly in the fields of entertainment and the arts.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p></p></div>
