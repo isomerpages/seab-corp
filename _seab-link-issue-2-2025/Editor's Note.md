@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="editor note" src="/images/SEABlink/editor_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="editor" src="/images/SEABlink/editor_2025.png">
 </div>
 <p></p>
