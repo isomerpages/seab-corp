@@ -8,6 +8,9 @@ description: ""
 To commemorate this special occasion, the 2025 SEAB Day celebration was
 held on 28 March 2025, bringing together staff and guests for a memorable
 day of reflection, recognition, and remembrance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday_2025.png">
+</div>
 <p><em>SEAB turns 21! An annual family photo to commemorate this special day.</em>
 </p>
 <p>This year’s celebration carried the theme “@21: Charting New Chapters,”
@@ -22,6 +25,9 @@ Executive of SEAB, Mr Yue Lip Sin, and SEAB Board Chairman, Mr Wong Siew
 Hoong, who both reflected on SEAB’s journey, their appreciation to stakeholders
 and staff who contributed to the various transformations and outcomes,
 and shared their aspirations for its future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday1.png">
+</div>
 <p><em>Left: CE Mr Yue Lip Sin delivered his uplifting opening address.</em>
 </p>
 <p><em>Right: Chairman Mr Wong Siew Hoong, spoke on SEAB's achievements and the exciting chapters yet to come.</em>
@@ -37,16 +43,19 @@ far from over.</p>
 filled the room with energy and excitement. This colourful display reflected
 SEAB's innovative and forward-thinking culture, celebrating the milestone
 in style.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday2.png">
+</div>
 <p><em>Left: SEAB’s very own entertaining emcees, Mr Wong Chiu Min and Ms Rita Yap, engaging the audience throughout the event.</em>
 </p>
 <p><em>Right: Some members of the Exam Operations Division in vibrant hues at the event.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday3.png">
+</div>
 <p><em>Left: Guests enjoying the sumptuous spread.</em>
 </p>
 <p><em>Right: One of the door gifts was a customised fondant cookie featuring the SEAB Day 2025 logo.</em>
-</p>
-<p><em>&nbsp;</em>
 </p>
 <p><em>&nbsp;</em>
 </p>
@@ -60,6 +69,9 @@ effort that goes into delivering trusted educational assessments and services.</
 <p><em>Proud recipients of SEAB’s Bright Spark Awards (Gold &amp; Silver), which recognise projects that embody the spirit of continuous learning, process improvements and innovation.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday5.png">
+</div>
 <p><em>Our staff, Ms G Santha Mary, receiving a 40-years long service award from Board Chairman, Mr Wong Siew Hoong.</em>
 </p>
 <p>&nbsp;</p>
@@ -69,15 +81,24 @@ which added a touch of entertainment and joy to the occasion. Fun games
 and activities brought everyone together, fostering camaraderie and team
 spirit.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday8.png">
+</div>
 <p><em>A glimpse into the past of some SEAB staff at 21 years old - a nostalgic trip down memory lane that sparked many joyful memories.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday9.png">
+</div>
 <p><em>At SEAB, the staff work hard and play even harder! Ice breaker and table games livened up the whole atmosphere.</em>
 </p>
 <p></p>
 <p><em>It was a day of fun, laughter, and heartfelt moments for all guests.</em>
 </p>
-<p><strong><em>&nbsp;</em></strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday4.png">
+</div>
+<p><em>Cake-cutting ceremony featuring Board members, retirees and senior management members</em>
 </p>
 <p>As SEAB celebrates 21 years of service to the nation, we reflect on our
 past with pride and look forward to the future with anticipation. The journey
@@ -88,6 +109,12 @@ Singapore.</p>
 support and commitment to our shared goals. Happy 21st Anniversary, SEAB!
 We will continue to chart new chapters in assessment innovation, and contribute
 to furthering the education standards for Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday7.png">
+</div>
+<p><em>The 2025 SEAB Day Organising Committee donning the SEAB jackets, one of the door gifts presented to staff.</em>
+</p>
 <p><em>&nbsp;</em>
 </p>
 <p></p>
