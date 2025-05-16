@@ -67,10 +67,9 @@ as the strongroom and digitisation room to understand the workflow of digital
 assessment operations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc.png">
-</div>
-<p><em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
-</p>
-<p>&nbsp;</p>
+<em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
+<p></p>
+
 <p>The visit sparked meaningful discussions about the future of assessment
 technology, including emerging innovations such as computer adaptive testing
 and the potential role of artificial intelligence in assessments. Both
@@ -79,9 +78,8 @@ advancement with maintaining high assessment standards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc3.png">
-</div>
-<p><em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
-</p>
+<em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
+<p></p>
 <p></p>
 <p>The productive exchange highlighted the public service's commitment to
 innovation and continuous improvement in talent evaluation. ILOD representatives
@@ -92,7 +90,7 @@ the value of shared learning in advancing public service assessment methods.</p>
 service, as organisations work together to enhance assessment capabilities
 and embrace digital transformation for the future.</p>
 <p>&nbsp;</p>
-</td>
+</div></div></td>
 </tr>
 </tbody>
 </table>
