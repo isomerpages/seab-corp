@@ -13,6 +13,10 @@ day of reflection, recognition, and remembrance.</p>
 </div>
 <p><em>SEAB turns 21! An annual family photo to commemorate this special day.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabdaylogo.png">
+</div>
 <p>This year’s celebration carried the theme “@21: Charting New Chapters,”
 a tribute to SEAB’s remarkable journey and an exciting look ahead to its
 future. As SEAB turns 21, it is not just about marking the passage of time
@@ -57,8 +61,6 @@ in style.</p>
 </p>
 <p><em>Right: One of the door gifts was a customised fondant cookie featuring the SEAB Day 2025 logo.</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
 <p>The event was filled with fun yet meaningful activities that highlighted
 the contributions and achievements of SEAB staff. One of the key highlights
 of the celebration was the presentation of Long Service Awards, Service
@@ -66,6 +68,9 @@ Excellence Awards, and Promotions, recognising the dedication and hard
 work of SEAB staff. These awards serve as a reminder of the incredible
 effort that goes into delivering trusted educational assessments and services.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday11.png">
+</div>
 <p><em>Proud recipients of SEAB’s Bright Spark Awards (Gold &amp; Silver), which recognise projects that embody the spirit of continuous learning, process improvements and innovation.</em>
 </p>
 <p></p>
@@ -93,6 +98,9 @@ spirit.</p>
 <p><em>At SEAB, the staff work hard and play even harder! Ice breaker and table games livened up the whole atmosphere.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday10.png">
+</div>
 <p><em>It was a day of fun, laughter, and heartfelt moments for all guests.</em>
 </p>
 <div class="isomer-image-wrapper">
