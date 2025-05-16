@@ -15,9 +15,8 @@ keep our Home safe and secure.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HTA" src="/images/SEABlink/Group_Photo.jpg">
-</div>
-<p><em>Attendees of the workshop gained insights into the history of national examinations and SEAB’s work during their tour of the Heritage Gallery.</em>
-</p>
+<em>Attendees of the workshop gained insights into the history of national examinations and SEAB’s work during their tour of the Heritage Gallery.</em>
+<p></p>
 <p>The workshop, led by SEAB Assessment Specialists, Mdm Christine Goh and
 Mr Tan Lee Sze, focused on three fundamental assessment principles and
 a structured three-step assessment framework. In the course of the workshop,
@@ -28,18 +27,16 @@ questions, and Essay items that are relevant to their specific operational
 contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HTA workshop" src="/images/SEABlink/HTA1.png">
-</div>
-<p><em>SEAB’s Assessment Specialists, Mdm Christine Goh (left) and Mr Tan Lee Sze (right) sharing assessment principles and practices with participants.</em>
-</p>
+<em>SEAB’s Assessment Specialists, Mdm Christine Goh (left) and Mr Tan Lee Sze (right) sharing assessment principles and practices with participants.</em>
+<p></p>
 <p>The programme also featured a learning journey, with visits to SEAB’s
 Heritage Gallery, Digitisation Room and the Automatic Storage Retrieval
 System. The enthusiasm of the participants was evident, with some officers
 &nbsp;visiting the Gallery again, after the tour had concluded.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HTA" src="/images/SEABlink/HTA2.png">
-</div>
-<p><em>The workshop participants had a rare behind-the-scenes glimpse of SEAB's facilities</em>
-</p>
+<em>The workshop participants had a rare behind-the-scenes glimpse of SEAB's facilities.</em>
+<p></p>
 <p>Feedback from the participants highlighted the practical value of the
 workshop:</p>
 <p></p>
@@ -54,4 +51,4 @@ high-stakes operational contexts of these agencies.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>&nbsp;</p>
+<p>&nbsp;</p></div></div></div>
