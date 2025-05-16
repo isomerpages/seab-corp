@@ -12,13 +12,13 @@ remarkably to serve 23,000 students across 32 centres in nine countries
 over the two decades.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ipsle" src="/images/SEABlink/ipsle4.png">
-<em>Representatives from 14 iPSLE centres commemorated iPSLE's 20<sup>th</sup> anniversary at the annual Business Meeting held at SEAB</em>
+<em>Representatives from 14 iPSLE centres commemorated iPSLE's 20<sup>th</sup> anniversary at the annual event held at SEAB</em>
 <p></p>
-<p>Held annually, SEAB organised the <em>i</em>PSLE Business Meeting to &nbsp;provide
+<p>Held annually, SEAB organised the <em>i</em>PSLE event to &nbsp;provide
 a platform for the centres and SEAB to strengthen partnership, discuss
 pertinent issues, &nbsp;as well as sharing of &nbsp;best practices to ensure
 the smooth and consistent conduct of the examination across all centres.
-The 2025 <em>i</em>PSLE Business Meeting, held on 24 April 2025, brought
+The 2025 <em>i</em>PSLE event, held on 24 April 2025, brought
 together 54 overseas delegates from 14 appointed centres in Thailand, Myanmar,
 Indonesia, Maldives, Vietnam and China. The event showcased SEAB’s continued
 commitment to maintaining Singapore's high educational standards internationally.</p>
@@ -54,8 +54,8 @@ of Singapore's educational journey and operational excellence.</p>
 <p>Through continued collaboration with international partners, <em>i</em>PSLE
 remains committed to maintaining its high standards while implementing
 strategic operational improvements to better serve its growing global community.</p>
-<p>As we celebrate two decades of educational excellence, iPSLE stands as
+<p>As we celebrate two decades of educational excellence, <em>i</em>PSLE stands as
 a testament to Singapore's commitment to quality education beyond our shores.
 SEAB remains dedicated to uphold Singapore’s excellent assessment standards
-and share our assessment expertise i internationally.</p>
+and share our assessment expertise internationally.</p>
 <p></p></div></div></div>
