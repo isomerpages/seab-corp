@@ -1,7 +1,7 @@
 ---
 title: Enhancing Assessment Capabilities of the Home Team
 permalink: /seab-link-issue-2-2025/enhancing-assessment-capabilities-of-the-home-team/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>In February 2025, SEAB conducted a two-day assessment training workshop
@@ -16,6 +16,8 @@ keep our Home safe and secure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HTA" src="/images/SEABlink/Group_Photo.jpg">
 </div>
+<p><em><sup>Attendees of the workshop gained insights into the history of national examinations and SEAB’s work during their tour of the Heritage Gallery.</sup></em>
+</p>
 <p>The workshop, led by SEAB Assessment Specialists, Mdm Christine Goh and
 Mr Tan Lee Sze, focused on three fundamental assessment principles and
 a structured three-step assessment framework. In the course of the workshop,
