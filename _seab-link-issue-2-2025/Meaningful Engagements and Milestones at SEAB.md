@@ -35,6 +35,25 @@ breakout discussions, the educators engaged in candid yet insightful conversatio
 with our management panels.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="tlp" src="/images/SEABlink/tlp.png">
+</div>
+<p><em>Enthusiastic TLP participants at the Conversations with SEAB session on 4 March 2025</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="mls" src="/images/SEABlink/mls.png">
+</div>
+<p><em>Engaged MLS participants at the Conversations with SEAB session on 21 April 2025</em>
+</p>
+<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="twa" src="/images/SEABlink/twa.png">
+</div>
+<p><em>It was a promising turnout of the inaugural Teacher Work Attachment Plus (TWA+) Learning Journey @ SEAB</em>
+</p>
 <p></p>
 <p>The engagement sessions sparked meaningful discussions on pertinent topics
 that concerned educators, including the evolution of assessment in technology-enhanced
@@ -44,6 +63,10 @@ to junior college levels - enriched the conversations with varied perspectives
 and experiences. These sessions reflect SEAB's ongoing dedication to maintaining
 open dialogue with our education partners and ensuring our assessment approaches
 remain progressive and relevant in an evolving educational landscape.</p>
+<p></p>
+<p><strong>Reflections from participants</strong>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
