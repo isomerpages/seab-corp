@@ -50,7 +50,7 @@ in our journey forward.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="board" src="/images/SEABlink/board1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="board" src="/images/SEABlink/board1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,7 +71,7 @@ Board, the Singapore Tourism Board, and SkillsFuture Singapore.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="board" src="/images/SEABlink/Jessica_Pan.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="board" src="/images/SEABlink/Jessica_Pan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ consultant to various Singapore government ministries.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="board" src="/images/SEABlink/Trina_Ha.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="board" src="/images/SEABlink/Trina_Ha.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
