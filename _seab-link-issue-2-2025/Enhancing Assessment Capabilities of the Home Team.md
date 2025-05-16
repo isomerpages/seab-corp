@@ -16,7 +16,7 @@ keep our Home safe and secure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HTA" src="/images/SEABlink/Group_Photo.jpg">
 </div>
-<p><em><sup>Attendees of the workshop gained insights into the history of national examinations and SEAB’s work during their tour of the Heritage Gallery.</sup></em>
+<p><em>Attendees of the workshop gained insights into the history of national examinations and SEAB’s work during their tour of the Heritage Gallery.</em>
 </p>
 <p>The workshop, led by SEAB Assessment Specialists, Mdm Christine Goh and
 Mr Tan Lee Sze, focused on three fundamental assessment principles and
@@ -29,7 +29,7 @@ contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HTA workshop" src="/images/SEABlink/HTA1.png">
 </div>
-<p><em><sub>SEAB’s Assessment Specialists, Mdm Christine Goh (left) and Mr Tan Lee Sze (right) sharing assessment principles and practices with participants.</sub></em>
+<p><em>SEAB’s Assessment Specialists, Mdm Christine Goh (left) and Mr Tan Lee Sze (right) sharing assessment principles and practices with participants.</em>
 </p>
 <p>The programme also featured a learning journey, with visits to SEAB’s
 Heritage Gallery, Digitisation Room and the Automatic Storage Retrieval
@@ -38,7 +38,7 @@ System. The enthusiasm of the participants was evident, with some officers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HTA" src="/images/SEABlink/HTA2.png">
 </div>
-<p><em><sub>The workshop participants had a rare behind-the-scenes glimpse of SEAB's facilities</sub></em>
+<p><em>The workshop participants had a rare behind-the-scenes glimpse of SEAB's facilities</em>
 </p>
 <p>Feedback from the participants highlighted the practical value of the
 workshop:</p>
