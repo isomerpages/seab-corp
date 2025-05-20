@@ -7,8 +7,6 @@ description: Application procedures
 <h4><strong>When to apply</strong></h4>
 <p><strong>Interested applicants can refer to <a href="https://safe.menlosecurity.com/https://www.moe.gov.sg/international-students/s-aeis/apply" rel="noopener noreferrer nofollow" target="_blank"><u>MOE's website</u></a>&nbsp;for the S-AEIS application periods.</strong>
 </p>
-<p>Applications may close early when all places for the admissions tests
-are filled.</p>
 <h4><strong>How to apply</strong></h4>
 <p>Please follow the steps below to apply for S-AEIS:</p>
 <ol data-tight="true" class="tight">

@@ -4,10 +4,9 @@ permalink: /about-us/contact-us/
 variant: tiptap
 description: SEAB Contact Us
 ---
-<h4><strong>Quick Links</strong></h4>
-<table style="minWidth: 125px">
+<h4><strong>Frequently Accessed Pages</strong></h4>
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -15,26 +14,23 @@ description: SEAB Contact Us
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="4">
 <p>Click on these frequently accessed pages. You might be able to obtain
 answers to your questions.</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/aeis/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="aeis application procedures" src="/images/Contact us/aeis_application_procedures.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.seab.gov.sg/statements-of-results"><img style="width: 100%" height="auto" width="100%" alt="Past Years' Results" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__2_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/spers-sec/application-procedures"><img style="width: 100%" height="auto" width="100%" alt="spers-sec application procedures" src="/images/Contact us/spers_sec_application_procedures.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/auth/login"><img style="width: 100%" height="auto" width="100%" alt="Candidates Portal" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__6_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://myexams.seab.gov.sg/faq/"><img style="width: 100%" height="auto" width="100%" alt="candidates portal" src="/images/Contact us/candidates_portal_faqs.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/list-of-dictionaries-for-examination"><img style="width: 100%" height="auto" width="100%" alt="Approved dictionaries" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__5_.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/statements-of-results"><img style="width: 100%" height="auto" width="100%" alt="past years' results" src="/images/Contact us/past_years_results.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/important-dates-for-candidates"><img style="width: 100%" height="auto" width="100%" alt="important dates" src="/images/Contact us/important_dates.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/seab-approvedcalculators"><img style="width: 100%" height="auto" width="100%" alt="Approved calculators" src="/images/Contact us/Quicklinks_for_ISOMER_Contact_Us_page__4_.png"></a>
 </th>
 </tr>
 </tbody>
@@ -48,9 +44,10 @@ corner of the page to find answers to your queries.</p>
 <p><strong>Frequently Asked Questions (FAQs)</strong> 
 <br>Before contacting us, try our <strong><a href="https://ask.gov.sg/seab" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
 You may be able to find the answers you need.</p>
-<p><strong>Candidates Portal</strong> 
-<br>Register for the GCE-Level examinations and view your results online via
-the <strong><a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a></strong>.</p>
+<p><strong>Information and e-Services for Private Candidates</strong>
+<br>You can register for the GCE-Level examinations and access your registration
+information via the <strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a></strong>.
+<br>The latest updates for private candidates can be accessed <strong><a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p><strong>Ask SEAB</strong> 
 <br>Did you know that Ask SEAB can assist you with some of your enquiries?</p>
 <ul data-tight="true" class="tight">
