@@ -44,9 +44,10 @@ corner of the page to find answers to your queries.</p>
 <p><strong>Frequently Asked Questions (FAQs)</strong> 
 <br>Before contacting us, try our <strong><a href="https://ask.gov.sg/seab" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u></a></strong>.
 You may be able to find the answers you need.</p>
-<p><strong>Candidates Portal</strong> 
-<br>Register for the GCE-Level examinations and view your results online via
-the <strong><a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a></strong>.</p>
+<p><strong>Information and e-Services for Private Candidates</strong>
+<br>You can register for the GCE-Level examinations and access your registration
+information via the <strong><a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a></strong>.
+<br>The latest updates for private candidates can be accessed <strong><a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p><strong>Ask SEAB</strong> 
 <br>Did you know that Ask SEAB can assist you with some of your enquiries?</p>
 <ul data-tight="true" class="tight">
