@@ -4,7 +4,7 @@ title: SEAB - Singapore Examinations and Assessment Board
 description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
-notification: Click <a href="https://www.scamshield.gov.sg">here</a>
+notification: ""
 sections:
   - hero:
       background: /images/HomePage/FINAL_collage_approved.jpg
