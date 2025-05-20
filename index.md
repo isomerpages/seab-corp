@@ -4,7 +4,10 @@ title: SEAB - Singapore Examinations and Assessment Board
 description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
-notification: <a href="https://seab.govgsg">test</a> <br> test2
+notification: "  <style> body {   color: blue; }  h1 {   color: green; }
+  </style>    <h1>Please note that Candidates' Portal will be unavailable for
+  regular use.</h1> <p>Please proceed to <a href=\"https://seab.gov.sg\">this
+  page</a> for more details.</p>    "
 sections:
   - hero:
       background: /images/HomePage/FINAL_collage_approved.jpg
