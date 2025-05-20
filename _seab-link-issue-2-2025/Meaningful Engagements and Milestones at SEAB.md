@@ -7,10 +7,8 @@ description: ""
 <p>SEAB actively fosters collaboration and knowledge-sharing with fellow
 educators and public officers through various engagement initiatives. These
 meaningful interactions underscore SEAB's commitment to maintaining strong
-relationships with our stakeholders &nbsp;as well as our keen interest
-to foster new friendships across agencies. Read on to find out more.</p>
-<p></p>
-<p></p>
+relationships with our stakeholders as well as our keen interest to foster
+new friendships across agencies. Read on to find out more.</p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -132,9 +130,7 @@ and embrace digital transformation for the future.</p>
 </tbody>
 </table>
 <h4><strong>Suggested Reads</strong></h4>
-<p>
-<br>
-</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pd" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="group of teacheras" src="/images/SEABlink/TLP_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building Connections and Enhancing Understanding Through Dialogue – Engagement Sessions</div><div class="isomer-card-description">p. 19</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="group of teacheras" src="/images/SEABlink/TLP_sugg_read.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building Connections and Enhancing Understanding Through Dialogue – Engagement Sessions</div><div class="isomer-card-description">p. 19</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
 </div>
 <p></p>
