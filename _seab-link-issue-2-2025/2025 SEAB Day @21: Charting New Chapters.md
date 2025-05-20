@@ -1,7 +1,7 @@
 ---
 title: "2025 SEAB Day @21: Charting New Chapters"
 permalink: /seab-link-issue-2-2025/2025-seab-day-21-charting-new-chapters/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>On 1 April 2025, SEAB marked a significant milestone—its 21<sup>st</sup> anniversary.
@@ -10,7 +10,9 @@ held on 28 March 2025, bringing together staff and guests for a memorable
 day of reflection, recognition, and remembrance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday_2025.png">
-<em>SEAB turns 21! An annual family photo to commemorate the special day.</em>
+</div>
+<p><em>SEAB turns 21! An annual family photo to commemorate the special day.</em>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -30,8 +32,10 @@ and staff who contributed to the various transformations and outcomes,
 and shared their aspirations for its future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday1.png">
-<em>Left: CE Mr Yue Lip Sin delivered his uplifting opening address.</em>
+</div>
+<p><em>Left: CE Mr Yue Lip Sin delivered his uplifting opening address.</em>
 <br><em>Right: Chairman Mr Wong Siew Hoong, spoke on SEAB's achievements and the exciting chapters yet to come.</em>
+</p>
 <p></p>
 <p>Over the years, SEAB has not only faced challenges but have also embraced
 opportunities to innovate and enhance our services. As highlighted in the
@@ -46,13 +50,17 @@ SEAB's innovative and forward-thinking culture, celebrating the milestone
 in style.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday2.png">
-<em>Left: SEAB’s very own entertaining emcees, Mr Wong Chiu Min and Ms Rita Yap, engaging the audience throughout the event.</em>
+</div>
+<p><em>Left: SEAB’s very own entertaining emcees, Mr Wong Chiu Min and Ms Rita Yap, engaging the audience throughout the event.</em>
 <br><em>Right: Some members of the Exam Operations Division in vibrant hues at the event.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday3.png">
-<em>Left: Guests enjoying the sumptuous spread.</em>
+</div>
+<p><em>Left: Guests enjoying the sumptuous spread.</em>
 <br><em>Right: One of the door gifts was a customised fondant cookie featuring the SEAB Day 2025 logo.</em>
+</p>
 <p></p>
 <p>The event was filled with fun yet meaningful activities that highlighted
 the contributions and achievements of SEAB staff. One of the key highlights
@@ -63,11 +71,15 @@ effort that goes into delivering trusted educational assessments and services.</
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday11.png">
-<em>Proud recipients of SEAB’s Bright Spark Awards (Gold &amp; Silver), which recognise projects that embody the spirit of continuous learning, process improvements and innovation.</em>
+</div>
+<p><em>Proud recipients of SEAB’s Bright Spark Awards (Gold &amp; Silver), which recognise projects that embody the spirit of continuous learning, process improvements and innovation.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%" height="auto" width="70%" alt="seab day" src="/images/SEABlink/seabday5.png">
-<em>Our staff, Ms G Santha Mary, receiving a 40-years long service award from Board Chairman, Mr Wong Siew Hoong.</em>
+</div>
+<p><em>Our staff, Ms G Santha Mary, receiving a 40-years long service award from Board Chairman, Mr Wong Siew Hoong.</em>
+</p>
 <p></p>
 <p>The lively atmosphere was further elevated by an engaging photo montage
 of SEAB staff at 21 years old, as well as song and dance performances,
@@ -76,19 +88,27 @@ and activities brought everyone together, fostering camaraderie and team
 spirit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday8.png">
-<em>A glimpse into the past of some SEAB staff at 21 years old - a nostalgic trip down memory lane that sparked many joyful memories.</em>
+</div>
+<p><em>A glimpse into the past of some SEAB staff at 21 years old - a nostalgic trip down memory lane that sparked many joyful memories.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday9.png">
-<em>At SEAB, the staff work hard and play even harder! Ice breaker and table games livened up the whole atmosphere.</em>
+</div>
+<p><em>At SEAB, the staff work hard and play even harder! Ice breaker and table games livened up the whole atmosphere.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday10.png">
-<em>It was a day of fun, laughter, and heartfelt moments for all guests.</em>
+</div>
+<p><em>It was a day of fun, laughter, and heartfelt moments for all guests.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday4.png">
-<em>Cake-cutting ceremony featuring Board members, retirees and senior management members</em>
+</div>
+<p><em>Cake-cutting ceremony featuring Board members, retirees and senior management members</em>
+</p>
 <p></p>
 <p>As SEAB celebrates 21 years of service to the nation, we reflect on our
 past with pride and look forward to the future with anticipation. The journey
@@ -102,10 +122,26 @@ to furthering the education standards for Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab day" src="/images/SEABlink/seabday7.png">
-<em>The 2025 SEAB Day Organising Committee donning the SEAB jackets, one of the door gifts presented to staff.</em>
-<p></p>
-<p><em>&nbsp;</em>
+</div>
+<p><em>The 2025 SEAB Day Organising Committee donning the SEAB jackets, one of the door gifts presented to staff.</em>
 </p>
 <p></p>
+<h4><em>&nbsp;</em><strong>Suggested Reads</strong></h4>
 <p></p>
-<p></p></div></div></div></div></div></div></div></div></div></div></div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p></p>
+<p></p>
