@@ -370,17 +370,29 @@ access arrangements.’</p>
 </ul>
 <p>The following AAs granted to candidates during the examinations will be
 annotated:</p>
-<p>(a)&nbsp;&nbsp;&nbsp; Extra time allowance (including silent reading /
-preparation for oral examination);</p>
-<p>(b)&nbsp;&nbsp;&nbsp; Exemption from satisfying the full range of assessment
-objectives in a subject (e.g. exemption from oral, listening comprehension
-examinations);</p>
-<p>(c)&nbsp;&nbsp;&nbsp; Modification of examination papers;</p>
-<p>(d)&nbsp;&nbsp;&nbsp; Use of word processor facilities and other computer
-aids;</p>
-<p>(e)&nbsp;&nbsp;&nbsp; Use of Reader or Reader Pen or Scribe;</p>
-<p>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practical assistance in areas such as
-handling apparatus and instruments or graph plotting.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Extra time allowance (including silent reading / preparation for oral
+examination);</p>
+</li>
+<li>
+<p>Exemption from satisfying the full range of assessment objectives in a
+subject (e.g. exemption from oral, listening comprehension examinations);</p>
+</li>
+<li>
+<p>Modification of examination papers;</p>
+</li>
+<li>
+<p>Use of word processor facilities and other computer aids;</p>
+</li>
+<li>
+<p>Use of Reader or Reader Pen or Scribe;</p>
+</li>
+<li>
+<p>Practical assistance in areas such as handling apparatus and instruments
+or graph plotting.</p>
+</li>
+</ul>
 <p>The annotations are necessary to indicate factually that you had taken
 the national examinations under conditions that are different from the
 standard prescribed conditions, to uphold the integrity and fairness of
