@@ -360,11 +360,11 @@ examination certificates and result slips will have either of these annotation
 symbols placed next to your subject(s) that had the approved AA:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Exemption Symbol (#) - </strong>'The candidate was exempted from
+<p><strong>Exemption Symbol (#)</strong> - 'The candidate was exempted from
 satisfying the full range of assessment objectives in this subject.’</p>
 </li>
 <li>
-<p><strong>Access arrangement Symbol (+) - </strong>'The candidate sat for
+<p><strong>Access arrangement Symbol (+)</strong> - 'The candidate sat for
 the paper under access arrangements.’</p>
 </li>
 </ol>
