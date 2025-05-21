@@ -270,7 +270,7 @@ have difficulties taking national examinations under standard conditions</p>
 receiving tuition and are preparing for the examination independently,
 they may complete this form on their own.</p>
 <p><strong>Important Note:</strong>
-<br>The School Report / Individual Report should not</p>
+<br>The School Report / Individual Report should not:</p>
 </li>
 <li>
 <p>cite nor reference the contents of any accompanying medical or professional
