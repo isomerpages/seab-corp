@@ -226,7 +226,6 @@ a medical professional.
 <p>Clear justifications for each AA request, linked to your specific needs</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -270,17 +269,18 @@ have difficulties taking national examinations under standard conditions</p>
 <p>For candidates who are not enrolled in any educational institution or
 receiving tuition and are preparing for the examination independently,
 they may complete this form on their own.</p>
+<p><strong>Important Note:</strong>
+<br>The School Report / Individual Report should not</p>
+</li>
+<li>
+<p>cite nor reference the contents of any accompanying medical or professional
+reports / memos / letters; or</p>
+</li>
+<li>
+<p>duplicate information from accompanying medical or professional reports
+/ memos / letters.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Important Note:</p>
-<p>The School Report / Individual Report should not</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cite nor
-reference the contents of any accompanying medical or professional reports
-/ memos / letters; or</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; duplicate
-information from accompanying medical or professional reports / memos /
-letters.</p>
 </td>
 </tr>
 </tbody>
