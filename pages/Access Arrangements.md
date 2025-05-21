@@ -281,7 +281,6 @@ reference the contents of any accompanying medical or professional reports
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; duplicate
 information from accompanying medical or professional reports / memos /
 letters.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -291,7 +290,7 @@ letters.</p>
 Needs (SEN) officers, AA coordinators and/or form teachers for more information
 on the required supporting documents for your AA application.</p>
 <p></p>
-<p>If you are a private candidate, you can write to <a rel="noopener noreferrer nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> for
+<p>If you are a private candidate, you can write to <a href="mailto:SEAB_CS_Admin@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> for
 more information.</p>
 </div>
 </details>
