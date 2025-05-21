@@ -187,16 +187,24 @@ in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noope
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medical or psychological reports
-from Singapore Medical Council registered doctors</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Previous reports remain valid if
-it is for the same condition (e.g., reports used for PSLE can be used for
-GCE-Level examinations). Please note that this does not apply for applications
-for learning disabilities. *</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional information can be provided
-through medical letters, assessment or therapy reports</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Documents can be submitted together
-or separately</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical or psychological reports from Singapore Medical Council registered
+doctors</p>
+</li>
+<li>
+<p>Previous reports remain valid if it is for the same condition (e.g., reports
+used for PSLE can be used for GCE-Level examinations). Please note that
+this does not apply for applications for learning disabilities. *</p>
+</li>
+<li>
+<p>Additional information can be provided through medical letters, assessment
+or therapy reports</p>
+</li>
+<li>
+<p>Documents can be submitted together or separately</p>
+</li>
+</ul>
 <p>* For 2025 &nbsp;AA applications for learning disabilities, medical documents
 must be dated within three years of your national examination to ensure
 a current assessment of your condition. If your medical documents are dated
@@ -204,14 +212,20 @@ more than three years ago, please submit a <strong>current profile of needs</str
 a medical professional.
 <br>
 <br>The current profile of needs must include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formal standardised assessments
-(where appropriate)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medical professional's observations
-of your condition</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Description of how your condition
-affects you during examinations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clear justifications for each AA
-request, linked to your specific needs</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Formal standardised assessments (where appropriate)</p>
+</li>
+<li>
+<p>Medical professional's observations of your condition</p>
+</li>
+<li>
+<p>Description of how your condition affects you during examinations</p>
+</li>
+<li>
+<p>Clear justifications for each AA request, linked to your specific needs</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
