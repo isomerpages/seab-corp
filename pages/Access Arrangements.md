@@ -287,9 +287,9 @@ reports / memos / letters; or</p>
 </table>
 <p>If you are a school candidate, you may approach your Special Educational
 Needs (SEN) officers, AA coordinators and/or form teachers for more information
-on the required supporting documents for your AA application.</p>
-<p></p>
-<p>If you are a private candidate, you can write to <a href="mailto:SEAB_CS_Admin@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> for
+on the required supporting documents for your AA application.
+<br>
+<br>If you are a private candidate, you can write to <a href="mailto:SEAB_CS_Admin@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> for
 more information.</p>
 </div>
 </details>
