@@ -285,7 +285,6 @@ reports / memos / letters; or</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>If you are a school candidate, you may approach your Special Educational
 Needs (SEN) officers, AA coordinators and/or form teachers for more information
 on the required supporting documents for your AA application.</p>
