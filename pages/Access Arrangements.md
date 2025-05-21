@@ -370,8 +370,8 @@ examination preparation.
 <br>
 </p>
 <p>If you have received AA for an examination paper due to a medical condition,
-you will not be eligible to apply for SC for sitting the paper with that
-same condition.</p>
+you will not be eligible to apply for special consideration for sitting
+the paper with that same condition.</p>
 </div>
 </details>
 <details class="isomer-details">
