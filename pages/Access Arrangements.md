@@ -175,9 +175,9 @@ for assistance. AA applications by school candidates can be submitted one
 year ahead of the national examinations.</p>
 <p></p>
 <p>If you are a private candidate for the GCE-Level examinations, you must
-submit your AA applications via SEAB’s Candidates Portal after your examination
-registration. More information on examination registration can be found
-in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noopener noreferrer nofollow" target="_blank">registration information for private candidates</a>.</p>
+submit your AA applications via <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">SEAB's Candidates Portal</a> after
+your examination registration. More information on examination registration
+can be found in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noopener noreferrer nofollow" target="_blank">registration information for private candidates</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
