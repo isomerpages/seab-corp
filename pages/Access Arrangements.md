@@ -342,17 +342,28 @@ same condition.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>ANNOTATIONS ON EXAMINATION CERTIFICATES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If the AA results in significant modifications to your examinations, your
 examination certificates and result slips will have either of these annotation
 symbols placed next to your subject(s) that had the approved AA:</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exemption Symbol (#) - </strong>'The
-candidate was exempted from satisfying the full range of assessment objectives
-in this subject.’</p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access arrangement Symbol (+) - </strong>'The
-candidate sat for the paper under access arrangements.’</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Exemption Symbol (#) - </strong>'The candidate was exempted from
+satisfying the full range of assessment objectives in this subject.’</p>
+</li>
+<li>
+<p><strong>Access arrangement Symbol (+) - </strong>'The candidate sat for
+the paper under access arrangements.’</p>
+</li>
+</ol>
 <p>The following AAs granted to candidates during the examinations will be
 annotated:</p>
 <p>(a)&nbsp;&nbsp;&nbsp; Extra time allowance (including silent reading /
@@ -391,6 +402,12 @@ via email to <a rel="noopener noreferrer nofollow" target="_blank">SEAB_CS_Admin
 least five working days before your examinations starts.</p>
 <p></p>
 <p>Once SEAB has approved a withdrawal request, the AA cannot be reinstated.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
