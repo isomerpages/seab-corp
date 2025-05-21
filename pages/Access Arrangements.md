@@ -434,7 +434,7 @@ your approved AA during your coursework or examinations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>WITHDRAWAL OF APPROVED AA</strong>
+<summary><strong>WITHDRAWAL OF APPROVED ACCESS ARRANGEMENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you are a school candidate, please approach your school for assistance.
@@ -445,7 +445,8 @@ least five working days before the commencement of your coursework or examinatio
 via email to <a href="mailto:SEAB_CS_Admin@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> at
 least five working days before your examinations starts.</p>
 <p></p>
-<p>Once SEAB has approved a withdrawal request, the AA cannot be reinstated.</p>
+<p>Once SEAB has approved a withdrawal request, the Access Arrangements cannot
+be reinstated.</p>
 </div>
 </details>
 </div>
