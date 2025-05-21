@@ -390,7 +390,9 @@ subject (e.g. exemption from oral, listening comprehension examinations);</p>
 </li>
 <li>
 <p>Practical assistance in areas such as handling apparatus and instruments
-or graph plotting.</p>
+or graph plotting.
+<br>
+</p>
 </li>
 </ul>
 <p>The annotations are necessary to indicate factually that you had taken
@@ -398,7 +400,9 @@ the national examinations under conditions that are different from the
 standard prescribed conditions, to uphold the integrity and fairness of
 the examination. Your examination certificate will not have the details
 of the AA. SEAB does not share the details of your granted AA with any
-third parties.</p>
+third parties.
+<br>
+</p>
 <p>You can request to withdraw the approved AA and this must be submitted
 within the stipulated timelines (see section below). Otherwise, your examination
 certificates and result slips will be annotated, even if you do not utilise
