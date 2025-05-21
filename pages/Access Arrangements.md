@@ -54,10 +54,15 @@ physical and learning disabilities who sit the national examinations:</p>
 <p>Examination duration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extra time (approximately 25% of
-the examination duration in most cases)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More preparation time for oral examination
-(approximately 25% of the silent preparation time)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Extra time (approximately 25% of the examination duration in most cases)</p>
+</li>
+<li>
+<p>More preparation time for oral examination (approximately 25% of the silent
+preparation time)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
