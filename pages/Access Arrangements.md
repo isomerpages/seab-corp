@@ -6,11 +6,11 @@ description: Access Arrangements
 ---
 <h4><strong>Overview</strong></h4>
 <p>Access Arrangements (AA) are granted by the Singapore Examinations and
-Assessment Board (SEAB) to candidates with specific physical and learning
-disabilities to enable them to sit the national examinations without compromising
-assessment objectives. These arrangements may include the provision of
-extra time, a separate room, enlarged print for the candidate's examination
-papers, or an exemption from specific components of an examination.
+Assessment Board to candidates with specific physical and learning disabilities
+to enable them to sit the national examinations without compromising assessment
+objectives. These arrangements may include the provision of extra time,
+a separate room, enlarged print for the candidate's examination papers,
+or an exemption from specific components of an examination.
 <br>
 </p>
 <p>AA is extended to these candidates because the standardised testing conditions
