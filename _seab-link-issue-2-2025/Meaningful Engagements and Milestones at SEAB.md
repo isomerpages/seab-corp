@@ -38,23 +38,20 @@ with our management panels.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="tlp" src="/images/SEABlink/tlp.png">
-</div>
-<p><em>Enthusiastic TLP participants at the Conversations with SEAB session on 4 March 2025</em>
-</p>
+<em>Enthusiastic TLP participants at the Conversations with SEAB session on 4 March 2025</em>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="mls" src="/images/SEABlink/mls.png">
-</div>
-<p><em>Engaged MLS participants at the Conversations with SEAB session on 21 April 2025</em>
-</p>
+<em>Engaged MLS participants at the Conversations with SEAB session on 21 April 2025</em>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="twa" src="/images/SEABlink/twa.png">
-</div>
-<p><em>It was a promising turnout of the inaugural Teacher Work Attachment Plus (TWA+) Learning Journey @ SEAB</em>
-</p>
+<em>It was a promising turnout of the inaugural Teacher Work Attachment Plus (TWA+) Learning Journey @ SEAB</em>
+<p></p>
 <p></p>
 <p></p>
 <p>The engagement sessions sparked meaningful discussions on pertinent topics
@@ -71,7 +68,8 @@ remain progressive and relevant in an evolving educational landscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="reflections" src="/images/SEABlink/reflections.png">
 </div>
-</td>
+<br>
+</div></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -94,9 +92,8 @@ as the strongroom and digitisation room to understand the workflow of digital
 assessment operations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc.png">
-</div>
-<p><em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
-</p>
+<em>The guests were clearly engaged during the tours of SEAB’s facilities.</em>
+<p></p>
 <p></p>
 <p></p>
 <p>The visit sparked meaningful discussions about the future of assessment
@@ -107,9 +104,8 @@ advancement with maintaining high assessment standards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="csc" src="/images/SEABlink/csc3.png">
-</div>
-<p><em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
-</p>
+<em>SEAB and ILOD shared insightful perspectives on assessment innovations.</em>
+<p></p>
 <p></p>
 <p>The productive exchange highlighted the public service's commitment to
 innovation and continuous improvement in talent evaluation. ILOD representatives
@@ -118,17 +114,12 @@ the value of shared learning in advancing public service assessment methods.</p>
 <p></p>
 <p>This visit exemplifies the spirit of knowledge sharing within the public
 service, as organisations work together to enhance assessment capabilities
-and embrace digital transformation for the future.</p>
-<p>&nbsp;</p>
-</td>
+and embrace digital transformation for the future.
+</p></div></div></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+</td></tr></tbody></table>
 <h4><strong>Suggested Reads</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="group of teacheras" src="/images/SEABlink/TLP_sugg_read.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Building Connections and Enhancing Understanding Through Dialogue – Engagement Sessions</div><div class="isomer-card-description">p. 19</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
