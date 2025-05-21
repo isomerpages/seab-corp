@@ -323,7 +323,6 @@ in the year of your national examinations:</p>
 <p>School candidates:
 <br>PSLE: mid-February
 <br>GCE-Level: end-February</p>
-<p></p>
 </li>
 <li>
 <p>Private candidates: end of April</p>
