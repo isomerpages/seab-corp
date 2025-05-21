@@ -408,11 +408,5 @@ least five working days before your examinations starts.</p>
 <p>Once SEAB has approved a withdrawal request, the AA cannot be reinstated.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <p></p>
