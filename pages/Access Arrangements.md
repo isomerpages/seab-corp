@@ -162,17 +162,17 @@ learning needs to sit the examination without other candidates present</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>APPLYING FOR AA</strong>
+<summary><strong>APPLYING FOR ACCESS ARRANGEMENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the submission deadline section. Late applications would
 not be accepted.</p>
 <p></p>
-<p>If you are a school candidate, you must submit your AA applications through
-your school. Please approach your school’s designated Special Educational
-Needs officers, AA coordinators and/or form teachers for assistance. AA
-applications by school candidates can be submitted one year ahead of the
-national examinations.</p>
+<p>If you are a school candidate, you must submit your Access Arrangements
+(AA) applications through your school. Please approach your school’s designated
+Special Educational Needs officers, AA coordinators and/or form teachers
+for assistance. AA applications by school candidates can be submitted one
+year ahead of the national examinations.</p>
 <p></p>
 <p>If you are a private candidate for the GCE-Level examinations, you must
 submit your AA applications via SEAB’s Candidates Portal after your examination
