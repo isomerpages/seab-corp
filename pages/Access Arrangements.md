@@ -302,9 +302,15 @@ more information.</p>
 <p>All AA applications must be submitted by the following stipulated deadlines
 in the year of your national examinations:</p>
 <p></p>
-<p>(a)&nbsp;&nbsp;&nbsp; School candidates:
-<br>- PSLE: mid-February
-<br>- GCE-Level: end February</p>
+<p>(a)&nbsp;&nbsp;&nbsp; School candidates:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PSLE: mid-February</p>
+</li>
+<li>
+<p>GCE-Level: end February</p>
+</li>
+</ul>
 <p>(b)&nbsp;&nbsp; Private candidates: end of April</p>
 <p></p>
 <p>Please note that late applications or amendments to applications for learning
