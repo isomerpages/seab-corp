@@ -358,10 +358,16 @@ same condition.</p>
 <p>If the AA results in significant modifications to your examinations, your
 examination certificates and result slips will have either of these annotation
 symbols placed next to your subject(s) that had the approved AA:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Exemption Symbol (#) - 'The candidate was exempted from satisfying the
 full range of assessment objectives in this subject.’</p>
+</li>
+<li>
 <p>Access arrangement Symbol (+) - 'The candidate sat for the paper under
 access arrangements.’</p>
+</li>
+</ul>
 <p>The following AAs granted to candidates during the examinations will be
 annotated:</p>
 <p>(a)&nbsp;&nbsp;&nbsp; Extra time allowance (including silent reading /
