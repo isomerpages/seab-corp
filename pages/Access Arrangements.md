@@ -114,9 +114,17 @@ preparation time)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Use of</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desktop Magnifier</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reader Pen</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Word Processor</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Desktop Magnifier</p>
+</li>
+<li>
+<p>Reader Pen</p>
+</li>
+<li>
+<p>Word Processor</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
