@@ -10,7 +10,9 @@ Assessment Board (SEAB) to candidates with specific physical and learning
 disabilities to enable them to sit the national examinations without compromising
 assessment objectives. These arrangements may include the provision of
 extra time, a separate room, enlarged print for the candidate's examination
-papers, or an exemption from specific components of an examination.</p>
+papers, or an exemption from specific components of an examination.
+<br>
+</p>
 <p>AA is extended to these candidates because the standardised testing conditions
 may result in them receiving an inadequate assessment of their abilities
 or them being unable to take the examinations altogether.</p>
