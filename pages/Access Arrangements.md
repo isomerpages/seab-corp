@@ -39,11 +39,12 @@ the AA provided is both appropriate for the candidate and fair to all candidates
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>COMMON TYPES OF AA</strong>
+<summary><strong>COMMON TYPES OF ACCESS ARRANGEMENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The following are common types of AA administered to candidates with specific
-physical and learning disabilities who sit the national examinations:</p>
+<p>The following are common types of Access Arrangements (AA) administered
+to candidates with specific physical and learning disabilities who sit
+the national examinations:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
