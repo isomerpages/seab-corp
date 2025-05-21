@@ -301,10 +301,12 @@ more information.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All AA applications must be submitted by the following stipulated deadlines
 in the year of your national examinations:</p>
+<p></p>
 <p>(a)&nbsp;&nbsp;&nbsp; School candidates:
 <br>- PSLE: mid-February
 <br>- GCE-Level: end February</p>
 <p>(b)&nbsp;&nbsp; Private candidates: end of April</p>
+<p></p>
 <p>Please note that late applications or amendments to applications for learning
 disabilities or permanent physical disabilities that are submitted <strong>less than two months before the national examinations (Oral / listening comprehension / Science practical / written) will not be accepted</strong>.</p>
 <p>SEAB will only accept AA applications for physical injuries sustained
