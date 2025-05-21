@@ -28,15 +28,14 @@ for all candidates.</p>
 <p>Hence, AA must not provide candidates with an advantage over the others
 and compromise the assessment objectives.</p>
 <p></p>
-<p>When determining the appropriate Access Arrangements (AA) for a candidate,
-the primary consideration is how the student typically learns and functions
-in the classroom, based on the school’s observations. While the candidate's
-specific learning needs, physical needs, or medical conditions are important
-factors, the AA provided would align with the candidate’s usual way of
-learning. Additional inputs, such as recommendations from doctors and medical
-professionals will be taken into consideration during the review. This
-approach ensures that the AA provided is both appropriate for the candidate
-and fair to all candidates.</p>
+<p>When determining the appropriate AA for a candidate, the primary consideration
+is how the student typically learns and functions in the classroom, based
+on the school’s observations. While the candidate's specific learning needs,
+physical needs, or medical conditions are important factors, the AA provided
+would align with the candidate’s usual way of learning. Additional inputs,
+such as recommendations from doctors and medical professionals will be
+taken into consideration during the review. This approach ensures that
+the AA provided is both appropriate for the candidate and fair to all candidates.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -246,6 +245,7 @@ a medical professional.
 <p>The School Report (for school candidates) is intended for school personnel
 to provide educational input. The report must provide educational observations
 including:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Specific challenges faced by the candidate during school assessments under
@@ -258,11 +258,12 @@ assessments</p>
 <li>
 <p>Additional relevant observations that demonstrate why the candidate may
 have difficulties taking national examinations under standard conditions</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>The Individual Report (for private candidates) is intended to collate <u>educational input</u>.
 The report must provide educational observations including:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Specific challenges faced by the candidate <u>in learning and examination settings (e.g. in private schools, tuition centres, private tuition, home-school)</u>
