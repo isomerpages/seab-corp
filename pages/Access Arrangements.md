@@ -322,8 +322,12 @@ above that were triggered by the onset of these physical injuries.</p>
 </p>
 <p>If your AA application is submitted late and is rejected by SEAB, you
 cannot apply special consideration (SC) for the same medical condition.</p>
-<p><strong><u>Application Outcome</u></strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>APPLICATION OUTCOME</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>If your AA application is accepted for processing, it will be subjected
 to a rigorous review by a panel and be considered based on its circumstances.
 Your AA application outcome will be released via the following platforms,
@@ -339,12 +343,6 @@ examination preparation.</p>
 <p>If you have received AA for an examination paper due to a medical condition,
 you will not be eligible to apply for SC for sitting the paper with that
 same condition.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
