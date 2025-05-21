@@ -318,8 +318,8 @@ more information.</p>
 <summary><strong>SUBMISSION DEADLINE</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All AA applications must be submitted by the following stipulated deadlines
-in the year of your national examinations:</p>
+<p>All Access Arrangements (AA) applications must be submitted by the following
+stipulated deadlines in the year of your national examinations:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
