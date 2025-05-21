@@ -375,7 +375,7 @@ the paper with that same condition.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>ANNOTATIONS ON EXAMINATION CERTIFICATES</strong>
+<summary><strong>ANNOTATION(S) ON EXAMINATION CERTIFICATES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
