@@ -234,32 +234,84 @@ more information.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>WITHDRAWAL FROM ENTIRE EXAMINATION</strong>
+<summary><strong>SUBMISSION DEADLINE</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All applications for withdrawals must be made through the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>&nbsp;by&nbsp;<strong>1 September 2025</strong>.&nbsp;&nbsp;Withdrawal
-requests made after&nbsp;<strong>this date</strong>&nbsp;will not be considered
-and candidates will receive an Absent grade for the subjects they did not
-sit for.</p>
-<p></p>
-<p><strong>Withdrawal with refund of the subject fees</strong>
+<p>All AA applications must be submitted by the following stipulated deadlines
+in the year of your national examinations:</p>
+<p>(a)&nbsp;&nbsp;&nbsp; School candidates:
+<br>- PSLE: mid-February
+<br>- GCE-Level: end February</p>
+<p>(b)&nbsp;&nbsp; Private candidates: end of April</p>
+<p>Please note that late applications or amendments to applications for learning
+disabilities or permanent physical disabilities that are submitted <strong>less than two months before the national examinations (Oral / listening comprehension / Science practical / written) will not be accepted</strong>.</p>
+<p>SEAB will only accept AA applications for physical injuries sustained
+just before or during the national examinations, and for conditions mentioned
+above that were triggered by the onset of these physical injuries.</p>
+<p><strong>Important Note:</strong>
 </p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 50% refund of the subject fees paid
-will be provided if your withdrawal request is submitted to SEAB by <strong>25 June 2025</strong>, <strong>11.00pm</strong> and
-you have not sat for any component of the registered subjects that you
-are withdrawing from.</p>
+<p>If your AA application is submitted late and is rejected by SEAB, you
+cannot apply special consideration (SC) for the same medical condition.</p>
+<p><strong><u>Application Outcome</u></strong>
+</p>
+<p>If your AA application is accepted for processing, it will be subjected
+to a rigorous review by a panel and be considered based on its circumstances.
+Your AA application outcome will be released via the following platforms,
+within two months from the date of your application’s submission.</p>
+<p>If you are a school candidate, your school will inform you of the outcome.
+Following the release of your AA application outcome, your schools may
+work with you to trial your approved accommodations during your daily teaching
+and learning sessions to better prepare you for your national examinations.</p>
+<p>If you are a private candidate, please access the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> to view
+your outcome. Following the release of your outcome, you and/or your parents
+could consider trialing the approved AAs where feasible, to enhance your
+examination preparation.</p>
+<p>If you have received AA for an examination paper due to a medical condition,
+you will not be eligible to apply for SC for sitting the paper with that
+same condition.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>ANNOTATIONS ON EXAMINATION CERTIFICATES</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If the AA results in significant modifications to your examinations, your
+examination certificates and result slips will have either of these annotation
+symbols placed next to your subject(s) that had the approved AA:</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exemption Symbol (#) - </strong>'The
+candidate was exempted from satisfying the full range of assessment objectives
+in this subject.’</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access arrangement Symbol (+) - </strong>'The
+candidate sat for the paper under access arrangements.’</p>
+<p>The following AAs granted to candidates during the examinations will be
+annotated:</p>
+<p>(a)&nbsp;&nbsp;&nbsp; Extra time allowance (including silent reading /
+preparation for oral examination);</p>
+<p>(b)&nbsp;&nbsp;&nbsp; Exemption from satisfying the full range of assessment
+objectives in a subject (e.g. exemption from oral, listening comprehension
+examinations);</p>
+<p>(c)&nbsp;&nbsp;&nbsp; Modification of examination papers;</p>
+<p>(d)&nbsp;&nbsp;&nbsp; Use of word processor facilities and other computer
+aids;</p>
+<p>(e)&nbsp;&nbsp;&nbsp; Use of Reader or Reader Pen or Scribe;</p>
+<p>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practical assistance in areas such as
+handling apparatus and instruments or graph plotting.</p>
+<p>The annotations are necessary to indicate factually that you had taken
+the national examinations under conditions that are different from the
+standard prescribed conditions, to uphold the integrity and fairness of
+the examination. Your examination certificate will not have the details
+of the AA. SEAB does not share the details of your granted AA with any
+third parties.</p>
+<p>You can request to withdraw the approved AA and this must be submitted
+within the stipulated timelines (see section below). Otherwise, your examination
+certificates and result slips will be annotated, even if you do not utilise
+your approved AA during your coursework or examinations.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A 100% refund of the subject fees paid
-will be provided if you have been admitted to a tertiary Institution after
-registration and your withdrawal request is submitted via the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> with
-the supporting documents confirming your tertiary admission by <strong>25 June 2025, 11:00pm</strong>.
-The letter of acceptance from tertiary institutions for admission to a
-full-time course must be issued within the year 2025 and dated after the
-date you have registered for examination.</p>
-<p></p>
-<p>Please note that late registration fee and subject amendment fees are
-non-refundable. You will receive your refund approximately one month after
-your withdrawal request has been approved by SEAB.</p>
 </div>
 </details>
 </div>
