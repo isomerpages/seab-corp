@@ -284,11 +284,11 @@ they may complete this form on their own.</p>
 <br>The School Report / Individual Report should not:</p>
 </li>
 <li>
-<p>cite nor reference the contents of any accompanying medical or professional
+<p>Cite nor reference the contents of any accompanying medical or professional
 reports / memos / letters; or</p>
 </li>
 <li>
-<p>duplicate information from accompanying medical or professional reports
+<p>Duplicate information from accompanying medical or professional reports
 / memos / letters.</p>
 </li>
 </ul>
