@@ -375,6 +375,8 @@ same condition.</p>
 <summary><strong>ANNOTATIONS ON EXAMINATION CERTIFICATES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 <p>If the AA results in significant modifications to your examinations, your
 examination certificates and result slips will have either of these annotation
 symbols placed next to your subject(s) that had the approved AA:</p>
