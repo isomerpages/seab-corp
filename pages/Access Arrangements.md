@@ -147,6 +147,14 @@ learning needs to sit the examination without other candidates present</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><em>*The above list of AAs is </em><strong><em>not </em></strong><em>exhaustive.</em>
@@ -283,6 +291,14 @@ reports / memos / letters; or</p>
 / memos / letters.</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
