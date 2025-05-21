@@ -388,7 +388,7 @@ that had the approved AA:</p>
 satisfying the full range of assessment objectives in this subject.’</p>
 </li>
 <li>
-<p><strong>Access arrangement Symbol (+) -</strong> 'The candidate sat for
+<p><strong>Access Arrangement Symbol (+) -</strong> 'The candidate sat for
 the paper under access arrangements.’</p>
 </li>
 </ul>
