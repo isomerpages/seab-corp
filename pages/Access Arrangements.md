@@ -65,10 +65,14 @@ the examination duration in most cases)</p>
 <p>Question paper</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Question paper (QP) in enlarged
-print on A3 paper (double-sided)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 sets of QPs (Standard QP / QP
-in enlarged print on A3 paper)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Question paper (QP) in enlarged print on A3 paper (double-sided)</p>
+</li>
+<li>
+<p>2 sets of QPs (Standard QP / QP in enlarged print on A3 paper)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -76,14 +80,27 @@ in enlarged print on A3 paper)</p>
 <p>Assistance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oral Examiners to be informed of
-candidate’s condition</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oral Examiners to be informed of candidate’s condition</p>
+</li>
+</ul>
 <p>Use of</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reader</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scribe</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prompter</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practical Assistant <em>(for GCE-Level examinations only)</em>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reader</p>
+</li>
+<li>
+<p>Scribe</p>
+</li>
+<li>
+<p>Prompter</p>
+</li>
+<li>
+<p>Practical Assistant <em>(for GCE-Level examinations only)</em>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
