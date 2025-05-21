@@ -343,7 +343,7 @@ above that were triggered by the onset of these physical injuries.
 </p>
 <p><strong>Important Note:</strong>
 <br>If your AA application is submitted late and is rejected by SEAB, you
-cannot apply special consideration (SC) for the same medical condition.</p>
+cannot apply special consideration for the same medical condition.</p>
 </div>
 </details>
 <details class="isomer-details">
