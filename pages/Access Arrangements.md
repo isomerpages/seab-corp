@@ -132,12 +132,17 @@ preparation time)</p>
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Separate room: A designated examination
-venue for a candidate with certain learning needs to sit the examinations
-with other candidates, away from the main examination hall</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Isolation room: A private examination
-venue for a candidate with certain learning needs to sit the examination
-without other candidates present</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Separate room: A designated examination venue for a candidate with certain
+learning needs to sit the examinations with other candidates, away from
+the main examination hall</p>
+</li>
+<li>
+<p>Isolation room: A private examination venue for a candidate with certain
+learning needs to sit the examination without other candidates present</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
