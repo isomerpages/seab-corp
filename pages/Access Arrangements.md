@@ -25,8 +25,8 @@ or them being unable to take the examinations altogether.</p>
 ensure that the grades and examination certificates have the same validity
 for all candidates.</p>
 <p></p>
-<p>Hence, AA must not provide candidates with an advantage over the others
-and compromise the assessment objectives.</p>
+<p>Hence, Access Arrangements (AA) must not provide candidates with an advantage
+over the others and compromise the assessment objectives.</p>
 <p></p>
 <p>When determining the appropriate AA for a candidate, the primary consideration
 is how the student typically learns and functions in the classroom, based
