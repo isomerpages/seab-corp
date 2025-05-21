@@ -205,7 +205,7 @@ or therapy reports</p>
 <p>Documents can be submitted together or separately</p>
 </li>
 </ul>
-<p>* For 2025 &nbsp;AA applications for learning disabilities, medical documents
+<p>* For 2025 AA applications for learning disabilities, medical documents
 must be dated within three years of your national examination to ensure
 a current assessment of your condition. If your medical documents are dated
 more than three years ago, please submit a <strong>current profile of needs</strong> from
@@ -237,27 +237,41 @@ a medical professional.
 <p>The School Report (for school candidates) is intended for school personnel
 to provide educational input. The report must provide educational observations
 including:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specific challenges faced by the
-candidate during school assessments under standard conditions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Details and effectiveness of any
-AA previously provided during school assessments</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional relevant observations
-that demonstrate why the candidate may have difficulties taking national
-examinations under standard conditions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Specific challenges faced by the candidate during school assessments under
+standard conditions</p>
+</li>
+<li>
+<p>Details and effectiveness of any AA previously provided during school
+assessments</p>
+</li>
+<li>
+<p>Additional relevant observations that demonstrate why the candidate may
+have difficulties taking national examinations under standard conditions</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>The Individual Report (for private candidates) is intended to collate <u>educational input</u>.
 The report must provide educational observations including:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specific challenges faced by the
-candidate <u>in learning and examination settings (e.g. in private schools, tuition centres, private tuition, home-school)</u>
+<ul data-tight="true" class="tight">
+<li>
+<p>Specific challenges faced by the candidate <u>in learning and examination settings (e.g. in private schools, tuition centres, private tuition, home-school)</u>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Details and effectiveness of any
-AA previously provided</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional relevant observations
-that demonstrate why the candidate may have difficulties taking national
-examinations under standard conditions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For candidates who are not enrolled
-in any educational institution or receiving tuition and are preparing for
-the examination independently, they may complete this form on their own.</p>
+</li>
+<li>
+<p>Details and effectiveness of any AA previously provided</p>
+</li>
+<li>
+<p>Additional relevant observations that demonstrate why the candidate may
+have difficulties taking national examinations under standard conditions</p>
+</li>
+<li>
+<p>For candidates who are not enrolled in any educational institution or
+receiving tuition and are preparing for the examination independently,
+they may complete this form on their own.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>Important Note:</p>
 <p>The School Report / Individual Report should not</p>
