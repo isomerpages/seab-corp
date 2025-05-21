@@ -350,10 +350,11 @@ cannot apply special consideration for the same medical condition.</p>
 <summary><strong>APPLICATION OUTCOME</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If your AA application is accepted for processing, it will be subjected
-to a rigorous review by a panel and be considered based on its circumstances.
-Your AA application outcome will be released via the following platforms,
-within two months from the date of your application’s submission.
+<p>If your Access Arrangements (AA) application is accepted for processing,
+it will be subjected to a rigorous review by a panel and be considered
+based on its circumstances. Your AA application outcome will be released
+via the following platforms, within two months from the date of your application’s
+submission.
 <br>
 </p>
 <p>If you are a school candidate, your school will inform you of the outcome.
