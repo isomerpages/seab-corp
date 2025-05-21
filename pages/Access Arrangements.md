@@ -307,8 +307,8 @@ in the year of your national examinations:</p>
 <p>School candidates:</p>
 </li>
 </ul>
-<p>PSLE: mid-February</p>
-<p>GCE-Level: end February</p>
+<p>PSLE: mid-February
+<br>GCE-Level: end February</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Private candidates: end of April</p>
