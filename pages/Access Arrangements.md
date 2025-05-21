@@ -302,16 +302,18 @@ more information.</p>
 <p>All AA applications must be submitted by the following stipulated deadlines
 in the year of your national examinations:</p>
 <p></p>
-<p>(a)&nbsp;&nbsp;&nbsp; School candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PSLE: mid-February</p>
-</li>
-<li>
-<p>GCE-Level: end February</p>
+<p>School candidates:</p>
 </li>
 </ul>
-<p>(b)&nbsp;&nbsp; Private candidates: end of April</p>
+<p>PSLE: mid-February</p>
+<p>GCE-Level: end February</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Private candidates: end of April</p>
+</li>
+</ul>
 <p></p>
 <p>Please note that late applications or amendments to applications for learning
 disabilities or permanent physical disabilities that are submitted <strong>less than two months before the national examinations (Oral / listening comprehension / Science practical / written) will not be accepted</strong>.
