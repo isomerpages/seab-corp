@@ -14,7 +14,6 @@ papers, or an exemption from specific components of an examination.</p>
 <p>AA is extended to these candidates because the standardised testing conditions
 may result in them receiving an inadequate assessment of their abilities
 or them being unable to take the examinations altogether.</p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>GUIDING PRINCIPLES</strong>
