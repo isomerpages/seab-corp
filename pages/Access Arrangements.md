@@ -314,13 +314,16 @@ in the year of your national examinations:</p>
 <p>(b)&nbsp;&nbsp; Private candidates: end of April</p>
 <p></p>
 <p>Please note that late applications or amendments to applications for learning
-disabilities or permanent physical disabilities that are submitted <strong>less than two months before the national examinations (Oral / listening comprehension / Science practical / written) will not be accepted</strong>.</p>
+disabilities or permanent physical disabilities that are submitted <strong>less than two months before the national examinations (Oral / listening comprehension / Science practical / written) will not be accepted</strong>.
+<br>
+</p>
 <p>SEAB will only accept AA applications for physical injuries sustained
 just before or during the national examinations, and for conditions mentioned
-above that were triggered by the onset of these physical injuries.</p>
-<p><strong>Important Note:</strong>
+above that were triggered by the onset of these physical injuries.
+<br>
 </p>
-<p>If your AA application is submitted late and is rejected by SEAB, you
+<p><strong>Important Note:</strong>
+<br>If your AA application is submitted late and is rejected by SEAB, you
 cannot apply special consideration (SC) for the same medical condition.</p>
 </div>
 </details>
