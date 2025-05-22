@@ -65,6 +65,17 @@ is available below.</p>
 <div class="isomer-card-title">Train Disruption Advice</div>
 <div class="isomer-card-link"></div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="/mid-year-results-release-exercise" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mid-Year GCE-Level Results Release Exercise" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mid-Year GCE-Level Results Release Exercise</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercises" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercise" src="/images/press_release_image.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Year-End GCE-Level Results Release Exercise</div>
+<div class="isomer-card-link"></div>
+</div>
 </a><a rel="noopener noreferrer nofollow" href="/examination-certificates-school-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Examination Results and Certificates" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Examination Results and Certificates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card">
 <div class="isomer-card-image">
