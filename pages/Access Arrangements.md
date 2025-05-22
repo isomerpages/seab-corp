@@ -384,8 +384,8 @@ symbols placed next to your subject(s) that had the approved AA:</p>
 satisfying the full range of assessment objectives in this subject.’</p>
 </li>
 <li>
-<p><strong>AA Symbol (+) -</strong> 'The candidate sat for the paper under
-access arrangements.’</p>
+<p><strong>Access Arrangement Symbol (+) -</strong> 'The candidate sat for
+the paper under access arrangements.’</p>
 </li>
 </ul>
 <p>The following AAs granted to candidates during the examinations will be
