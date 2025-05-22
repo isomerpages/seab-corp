@@ -183,8 +183,7 @@ can be found in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates
 <summary><strong>SUPPORTING DOCUMENTS REQUIRED FOR APPLICATION</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Access Arrangements (AA) applications require the following supporting
-documents:</p>
+<p>AA applications require the following supporting documents:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
