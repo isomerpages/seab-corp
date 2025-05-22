@@ -4,11 +4,11 @@ title: SEAB - Singapore Examinations and Assessment Board
 description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
-notification: '<style> h1{text-align: left; } </style> <h1>Government officials
-  will NEVER ask you to transfer money or disclose bank log-in details over a
-  phone call. Call the 24/7 ScamShield Helpline at 1799 if you are unsure if
-  something is a scam. <br> <a href="https:seab.gov.sg">Click here for more
-  information.</a></h1>'
+notification: '<style> h1{text-align: left; font-size: 20px; } </style>
+  <h1>Government officials will NEVER ask you to transfer money or disclose bank
+  log-in details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if
+  you are unsure if something is a scam. <br> <a href="https:seab.gov.sg">Click
+  here for more information.</a></h1>'
 sections:
   - hero:
       background: /images/HomePage/FINAL_collage_approved.jpg
