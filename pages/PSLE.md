@@ -35,7 +35,7 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">e-Exam Resources for School Candidates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/exam-readiness-checklist-psle" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="psle candidates" src="/images/psle_cddts.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Exam Readiness Checklist for PSLE candidates</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/exam-readiness-checklist-psle" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="psle candidates" src="/images/exam_ready.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Exam Readiness Checklist for PSLE candidates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-approvedcalculators" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
