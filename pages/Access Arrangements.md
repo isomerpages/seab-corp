@@ -39,7 +39,7 @@ the AA provided is both appropriate for the candidate and fair to all candidates
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>COMMON TYPES OF ACCESS ARRANGEMENTS</strong>
+<summary><strong>COMMON TYPES OF AA</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The following are common types of AA administered to candidates with specific
@@ -161,7 +161,7 @@ learning needs to sit the examination without other candidates present</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>APPLYING FOR ACCESS ARRANGEMENTS</strong>
+<summary><strong>APPLYING FOR AA</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the submission deadline section. Late applications would
@@ -430,7 +430,7 @@ your approved AA during your coursework or examinations.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>WITHDRAWAL OF APPROVED ACCESS ARRANGEMENTS</strong>
+<summary><strong>WITHDRAWAL OF APPROVED AA</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you are a school candidate, please approach your school for assistance.
