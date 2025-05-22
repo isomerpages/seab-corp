@@ -43,50 +43,61 @@ is available below.</p>
 <div class="isomer-card-title">e-Exam Resources for School Candidates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/distributors-of-past-years-question-papers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Distributors of Past Years Papers" src="/images/distributors_of_past_question_paper_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Distributors of Past Years' Papers</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-approvedcalculators" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/exam-readiness-checklist-gce-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="exam ready" src="/images/exam_ready.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Exam Readiness Checklist for GCE-Level candidates</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/distributors-of-past-years-question-papers" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Approved Calculators" src="/images/approvedcal.png">
+<img style="width: 100%" height="auto" width="100%" alt="Distributors of Past Years Papers" src="/images/distributors_of_past_question_paper_image.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Approved Calculators</div>
+<div class="isomer-card-title">Distributors of Past Years' Papers</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-approveddictionaries" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Approved Dictionary List" src="/images/approveddict.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Approved Dictionary List</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-approvedcalculators" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Approved Calculators" src="/images/approvedcal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Approved Calculators</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-approveddictionaries" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Train Distruption Advice" src="/images/traindistruptionadvice.png">
+<img style="width: 100%" height="auto" width="100%" alt="Approved Dictionary List" src="/images/approveddict.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Train Disruption Advice</div>
+<div class="isomer-card-title">Approved Dictionary List</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/mid-year-results-release-exercise" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mid-Year GCE-Level Results Release Exercise" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mid-Year GCE-Level Results Release Exercise</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercises" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Train Distruption Advice" src="/images/traindistruptionadvice.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Train Disruption Advice</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/mid-year-results-release-exercise" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercise" src="/images/press_release_image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mid-Year GCE-Level Results Release Exercise" src="/images/imptdates_candidates.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Year-End GCE-Level Results Release Exercise</div>
+<div class="isomer-card-title">Mid-Year GCE-Level Results Release Exercise</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/examination-certificates-school-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Examination Results and Certificates" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Examination Results and Certificates</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/year-end-gce-level-results-release-exercises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercise" src="/images/press_release_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Year-End GCE-Level Results Release Exercise</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/examination-certificates-school-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Examination Results and Certificates" src="/images/psleresultslips.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Secondary Education Certificate Examinations</div>
+<div class="isomer-card-title">Examination Results and Certificates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/gce-o-level/about-gce-o-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About GCE O-Level" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About GCE O-Level</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secondary Education Certificate Examinations</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/gce-o-level/about-gce-o-level" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="About GCE O-Level" src="/images/aboutpsle.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">About GCE O-Level</div>
+<div class="isomer-card-link"></div>
+</div>
+</a>
 </div>
 <p></p>
