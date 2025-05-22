@@ -5,7 +5,7 @@ description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
 notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  disclose bank log-in details over a phone call. <br>Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. <br> <a
   href="https:seab.gov.sg">Click here for more information.</a>
 sections:
