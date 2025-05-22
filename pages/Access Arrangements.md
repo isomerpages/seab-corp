@@ -25,8 +25,8 @@ or them being unable to take the examinations altogether.</p>
 ensure that the grades and examination certificates have the same validity
 for all candidates.</p>
 <p></p>
-<p>Hence, Access Arrangements (AA) must not provide candidates with an advantage
-over the others and compromise the assessment objectives.</p>
+<p>Hence, AA must not provide candidates with an advantage over the others
+and compromise the assessment objectives.</p>
 <p></p>
 <p>When determining the appropriate AA for a candidate, the primary consideration
 is how the student typically learns and functions in the classroom, based
@@ -42,9 +42,8 @@ the AA provided is both appropriate for the candidate and fair to all candidates
 <summary><strong>COMMON TYPES OF ACCESS ARRANGEMENTS</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The following are common types of Access Arrangements (AA) administered
-to candidates with specific physical and learning disabilities who sit
-the national examinations:</p>
+<p>The following are common types of AA administered to candidates with specific
+physical and learning disabilities who sit the national examinations:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -168,11 +167,11 @@ learning needs to sit the examination without other candidates present</p>
 <p>Please refer to the submission deadline section. Late applications would
 not be accepted.</p>
 <p></p>
-<p>If you are a school candidate, you must submit your Access Arrangements
-(AA) applications through your school. Please approach your school’s designated
-Special Educational Needs officers, AA coordinators and/or form teachers
-for assistance. AA applications by school candidates can be submitted one
-year ahead of the national examinations.</p>
+<p>If you are a school candidate, you must submit your AA applications through
+your school. Please approach your school’s designated Special Educational
+Needs officers, AA coordinators and/or form teachers for assistance. AA
+applications by school candidates can be submitted one year ahead of the
+national examinations.</p>
 <p></p>
 <p>If you are a private candidate for the GCE-Level examinations, you must
 submit your AA applications via SEAB's <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> after
@@ -318,8 +317,8 @@ more information.</p>
 <summary><strong>SUBMISSION DEADLINE</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All Access Arrangements (AA) applications must be submitted by the following
-stipulated deadlines in the year of your national examinations:</p>
+<p>All AA applications must be submitted by the following stipulated deadlines
+in the year of your national examinations:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -350,11 +349,10 @@ cannot apply special consideration for the same medical condition.</p>
 <summary><strong>APPLICATION OUTCOME</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If your Access Arrangements (AA) application is accepted for processing,
-it will be subjected to a rigorous review by a panel and be considered
-based on its circumstances. Your AA application outcome will be released
-via the following platforms, within two months from the date of your application’s
-submission.
+<p>If your AA application is accepted for processing, it will be subjected
+to a rigorous review by a panel and be considered based on its circumstances.
+Your AA application outcome will be released via the following platforms,
+within two months from the date of your application’s submission.
 <br>
 </p>
 <p>If you are a school candidate, your school will inform you of the outcome.
@@ -378,10 +376,9 @@ the paper with that same condition.</p>
 <summary><strong>ANNOTATION(S) ON EXAMINATION CERTIFICATES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If the Access Arrangements (AA) results in significant modifications to
-your examinations, your examination certificates and result slips will
-have either of these annotation symbols placed next to your subject(s)
-that had the approved AA:</p>
+<p>If the AA results in significant modifications to your examinations, your
+examination certificates and result slips will have either of these annotation
+symbols placed next to your subject(s) that had the approved AA:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Exemption Symbol (#) -</strong> 'The candidate was exempted from
@@ -445,8 +442,7 @@ least five working days before the commencement of your coursework or examinatio
 via email to <a href="mailto:SEAB_CS_Admin@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> at
 least five working days before your examinations starts.</p>
 <p></p>
-<p>Once SEAB has approved a withdrawal request, the Access Arrangements cannot
-be reinstated.</p>
+<p>Once SEAB has approved a withdrawal request, the AA cannot be reinstated.</p>
 </div>
 </details>
 </div>
