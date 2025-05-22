@@ -90,7 +90,7 @@ preparation time)</p>
 <li>
 <p>Oral Examiners to be informed of candidate’s condition</p>
 </li>
-</ul>
+<li>
 <p>Use of</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,6 +107,8 @@ preparation time)</p>
 </p>
 </li>
 </ul>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -114,6 +116,8 @@ preparation time)</p>
 <p>Use of Assistive Resources / Technology</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Use of</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -124,6 +128,8 @@ preparation time)</p>
 </li>
 <li>
 <p>Word Processor</p>
+</li>
+</ul>
 </li>
 </ul>
 </td>
