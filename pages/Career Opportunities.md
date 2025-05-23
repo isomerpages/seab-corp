@@ -160,7 +160,7 @@ travel requests, staff awards and claims.
 <br>• Provide support in the conduct of staff orientation programmes
 <br>• Provide support in any other staff engagement activities when assigned.</p>
 <p></p>
-<p><strong>Job Requirements </strong>
+<p><strong>Job Requirements</strong>
 </p>
 <p></p>
 <p>• At least 4 years of relevant experience in Human Resource, preferably
