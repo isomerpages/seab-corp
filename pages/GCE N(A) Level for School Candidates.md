@@ -66,38 +66,27 @@ is available below.</p>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Train Disruption Advice" src="/images/traindistruptionadvice.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Train Disruption Advice</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/mid-year-results-release-exercise/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/gce-level-results-release-exercises/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mid-Year GCE-Level Results Release Exercises" src="/images/imptdates_candidates.png">
+<img style="width: 100%" height="auto" width="100%" alt="GCE-Level Results Release Exercises" src="/images/press_release_image.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mid-Year GCE-Level Results Release Exercises</div>
+<div class="isomer-card-title">GCE-Level Results Release Exercises</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/year-end-gce-level-results-release-exercises/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Year-End GCE-Level Results Release Exercises" src="/images/press_release_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Year-End GCE-Level Results Release Exercises</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/examination-certificates-school-candidates/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/examination-certificates-school-candidates/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Examination Results and Certificates" src="/images/psleresultslips.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Examination Results and Certificates</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Examination Results and Certificates" src="/images/psleresultslips.png">
+<img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Examination Results and Certificates</div>
+<div class="isomer-card-title">Secondary Education Certificate Examinations</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secondary Education Certificate Examinations</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/gce-na-level/about-gce-na-level/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="About GCE N(A)-Level" src="/images/aboutpsle.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">About GCE N(A)-Level</div>
-<div class="isomer-card-link"></div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-na-level/about-gce-na-level/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About GCE N(A)-Level" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About GCE N(A)-Level</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
