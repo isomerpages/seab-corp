@@ -12,7 +12,7 @@ symposium created opportunities for educators to revisit and enhance their
 assessment expertise.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="symposium" src="/images/SEABlink/symp1.png">
-<em>Left: A bright start to the Assessment Symposium as our emcee, Ms Alicia Yeo, kicked off the&nbsp; programme.</em>
+<em>Left: A bright start to the Assessment Symposium as our emcee, Ms Alicia Yeow, kicked off the&nbsp; programme.</em>
 <br><em>Right: Mr Pek Wee Haur, Director of Assessment Planning and Development Division, delivering the keynote address on "Building Excellence through Assessment Practice".</em>
 <p></p>
 <p></p>
