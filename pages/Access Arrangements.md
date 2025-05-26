@@ -224,10 +224,10 @@ a current assessment of your condition. If your medical documents are dated
 more than three years ago, please submit a <strong>current profile of needs</strong> from
 a medical professional.
 <br>
-<br>
-<br>The current profile of needs must include:</p>
+</p>
 </li>
 </ul>
+<p>The current profile of needs must include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Formal standardised assessments (where appropriate)</p>
