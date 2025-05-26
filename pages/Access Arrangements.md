@@ -141,13 +141,13 @@ preparation time)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Separate room: A designated examination venue for a candidate with certain
-learning needs to sit the examinations with other candidates, away from
-the main examination hall</p>
+<p>Separate room: A designated examination venue for candidates with specific
+needs to sit the examination away from the main examination venue but alongside
+the candidates with similar AA.</p>
 </li>
 <li>
-<p>Isolation room: A private examination venue for a candidate with certain
-learning needs to sit the examination without other candidates present</p>
+<p>Isolation room: A private examination venue for a candidate with specific
+needs to sit the examination without other candidates present.</p>
 </li>
 </ul>
 </td>
@@ -204,13 +204,12 @@ can be found in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical or psychological reports from Singapore Medical Council registered
-doctors</p>
+<p>Medical or psychological reports with clear diagnosis from Singapore Medical
+Council registered doctors</p>
 </li>
 <li>
-<p>Previous reports remain valid if it is for the same condition (e.g., reports
-used for PSLE can be used for GCE-Level examinations). Please note that
-this does not apply for applications for learning disabilities. *</p>
+<p>Previous reports remain valid* if it is for the same condition (e.g.,
+reports used for PSLE can be used for GCE-Level examinations)</p>
 </li>
 <li>
 <p>Additional information can be provided through medical letters, assessment
@@ -218,15 +217,16 @@ or therapy reports</p>
 </li>
 <li>
 <p>Documents can be submitted together or separately</p>
+<p></p>
 </li>
 </ul>
 <p>* For 2025 AA applications for learning disabilities, medical documents
 must be dated within three years of your national examination to ensure
 a current assessment of your condition. If your medical documents are dated
 more than three years ago, please submit a <strong>current profile of needs</strong> from
-a medical professional.
-<br>
-<br>The current profile of needs must include:</p>
+a medical professional.</p>
+<p></p>
+<p>The current profile of needs must include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Formal standardised assessments (where appropriate)</p>
@@ -267,13 +267,13 @@ have difficulties taking national examinations under standard conditions</p>
 <p></p>
 </li>
 </ul>
-<p>The Individual Report (for private candidates) is intended to collate <u>educational input</u>.
-The report must provide educational observations including:</p>
+<p>The Individual Report (for private candidates) is intended to collate
+educational input. The report must provide educational observations including:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Specific challenges faced by the candidate <u>in learning and examination settings (e.g. in private schools, tuition centres, private tuition, home-school)</u>
-</p>
+<p>Specific challenges faced by the candidate in learning and examination
+settings (e.g. in private schools, tuition centres, private tuition, home-school)</p>
 </li>
 <li>
 <p>Details and effectiveness of any AA previously provided</p>
@@ -286,9 +286,12 @@ have difficulties taking national examinations under standard conditions</p>
 <p>For candidates who are not enrolled in any educational institution or
 receiving tuition and are preparing for the examination independently,
 they may complete this form on their own.</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Important Note:</strong>
 <br>The School Report / Individual Report should not:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Cite nor reference the contents of any accompanying medical or professional
 reports / memos / letters; or</p>
