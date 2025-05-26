@@ -209,11 +209,11 @@ Council registered doctors</p>
 </li>
 <li>
 <p>Previous reports remain valid* if it is for the same condition (e.g.,
-reports used for PSLE can be used for GCE-Level examinations).</p>
+reports used for PSLE can be used for GCE-Level examinations)</p>
 </li>
 <li>
 <p>Additional information can be provided through medical letters, assessment
-or therapy reports.</p>
+or therapy reports</p>
 </li>
 <li>
 <p>Documents can be submitted together or separately</p>
@@ -268,13 +268,13 @@ have difficulties taking national examinations under standard conditions</p>
 <p></p>
 </li>
 </ul>
-<p>The Individual Report (for private candidates) is intended to collate <u>educational input</u>.
-The report must provide educational observations including:</p>
+<p>The Individual Report (for private candidates) is intended to collate
+educational input. The report must provide educational observations including:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Specific challenges faced by the candidate <u>in learning and examination settings (e.g. in private schools, tuition centres, private tuition, home-school)</u>
-</p>
+<p>Specific challenges faced by the candidate in learning and examination
+settings (e.g. in private schools, tuition centres, private tuition, home-school)</p>
 </li>
 <li>
 <p>Details and effectiveness of any AA previously provided</p>
