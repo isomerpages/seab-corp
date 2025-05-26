@@ -25,7 +25,7 @@ is available below.</p>
 <a rel="noopener noreferrer nofollow" href="/access-arrangements" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Access Arrangements" src="/images/pexels_louis_bauer_249360.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Access Arrangements" src="/images/shutterstock_1799710684.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
