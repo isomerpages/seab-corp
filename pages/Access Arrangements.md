@@ -286,9 +286,12 @@ have difficulties taking national examinations under standard conditions</p>
 <p>For candidates who are not enrolled in any educational institution or
 receiving tuition and are preparing for the examination independently,
 they may complete this form on their own.</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Important Note:</strong>
 <br>The School Report / Individual Report should not:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Cite nor reference the contents of any accompanying medical or professional
 reports / memos / letters; or</p>
