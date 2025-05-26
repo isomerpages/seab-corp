@@ -218,15 +218,14 @@ or therapy reports</p>
 <li>
 <p>Documents can be submitted together or separately</p>
 <p></p>
+</li>
+</ul>
 <p>* For 2025 AA applications for learning disabilities, medical documents
 must be dated within three years of your national examination to ensure
 a current assessment of your condition. If your medical documents are dated
 more than three years ago, please submit a <strong>current profile of needs</strong> from
-a medical professional.
-<br>
-</p>
-</li>
-</ul>
+a medical professional.</p>
+<p></p>
 <p>The current profile of needs must include:</p>
 <ul data-tight="true" class="tight">
 <li>
