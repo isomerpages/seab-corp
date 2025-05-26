@@ -213,17 +213,12 @@ reports used for PSLE can be used for GCE-Level examinations).</p>
 </li>
 <li>
 <p>Additional information can be provided through medical letters, assessment
-or therapy reports./.</p>
-</li>
-<li>
-<p>..</p>
-</li>
-<li>
-<p></p>
+or therapy reports.</p>
 </li>
 <li>
 <p>Documents can be submitted together or separately</p>
-<p>*For 2025 AA applications for learning disabilities, medical documents
+<p></p>
+<p>* For 2025 AA applications for learning disabilities, medical documents
 must be dated within three years of your national examination to ensure
 a current assessment of your condition. If your medical documents are dated
 more than three years ago, please submit a <strong>current profile of needs</strong> from
