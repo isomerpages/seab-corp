@@ -60,7 +60,7 @@ with a minimum of 2 to 3 years’ experience in manipulating data sets, building
 statistical models and hands-on experience in machine learning applications</p>
 </li>
 <li>
-<p>Fresh graduates with relevant exposure can be considered</p>
+<p>Candidates with 0 to 1 year of working experience can be considered</p>
 </li>
 <li>
 <p>Strong in programming experience and proficient in Python/R/C++</p>
