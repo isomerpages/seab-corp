@@ -79,4 +79,4 @@ reflected in CP.</p>
 therefore, you should check the email account you have registered in the
 CP.</p>
 <p>For technical assistance with the Candidates Portal, please use this
-<a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">form</a>. For other matters, you may contact us by completing this <a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
+<a href="https://www.go.gov.sg/cp-nonnex-seab" rel="noopener nofollow" target="_blank">form</a>. For other matters, you may contact us by completing this <a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
