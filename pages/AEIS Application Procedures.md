@@ -77,5 +77,6 @@ reflected in CP.</p>
 <h3><strong>Enquiries</strong></h3>
 <p>All communications related to your application will be via email, and
 therefore, you should check the email account you have registered in the
-CP. For technical assistance, please use the online form in CP under Non-national
-exams. For other matters, you may contact us by completing this <a href="https://form.gov.sg/5dc02f345f93b5001904159d" rel="noopener nofollow" target="_blank">form</a>.</p>
+CP.</p>
+<p>For technical assistance with the Candidates Portal, please use this
+<a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">form</a>. For other matters, you may contact us by completing this <a href="https://www.go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
