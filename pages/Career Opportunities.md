@@ -19,7 +19,7 @@ information.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH (2 YEARS CONTRACT)</strong>
+<summary><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH (2 YEAR CONTRACT)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -79,7 +79,7 @@ usage, etc.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH (2 YEARS CONTRACT)</strong>
+<summary><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH (2 YEAR CONTRACT)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -137,7 +137,7 @@ get buy-in from stakeholder groups</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>ASSISTANT MANAGER/ MANAGER, HUMAN RESOURCE (2 YEARS CONTRACT)</strong>
+<summary><strong>ASSISTANT MANAGER/ MANAGER, HUMAN RESOURCE (2 YEAR CONTRACT)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -175,6 +175,87 @@ and external stakeholders comfortably.
 <br>• Possess high level of integrity and work ethics.
 <br>• Experience in data analysis and reporting will be an added advantage.</p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>ASSESSMENT OFFICER (CHINESE LANGUAGE) (2 YEAR CONTRACT)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Job Responsibilities</strong>
+</p>
+<p></p>
+<p>Successful applicant will play an active role in the planning and development
+of examination question papers for national and non-national examinations
+in accordance with the respective syllabi. The key responsibilities include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop question papers for national and non-national examinations</p>
+</li>
+<li>
+<p>Develop appropriate answer keys and oversee marking exercises</p>
+</li>
+<li>
+<p>Serve as an external moderator for national examinations</p>
+</li>
+<li>
+<p>Revise and develop examination syllabi</p>
+</li>
+<li>
+<p>Coordinate briefings, seminars, and workshops for markers and examination
+personnel</p>
+</li>
+<li>
+<p>Conduct various trial studies and write research papers and reports</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tertiary qualification in Chinese Language, Chinese Studies, Chinese Literature,
+Education or related field</p>
+</li>
+<li>
+<p>At least 5 years of relevant experience in teaching the Chinese Language
+and developing assessment plans and tools.</p>
+</li>
+<li>
+<p>Highly proficient in Chinese Language and is passionate about the subject
+and assessment</p>
+</li>
+<li>
+<p>Possess good communication skills and able to engage stakeholders effectively</p>
+</li>
+<li>
+<p>Organised, systematic, analytical and exercises initiative</p>
+</li>
+<li>
+<p>Meticulous to details</p>
+</li>
+<li>
+<p>Able&nbsp;to produce clear reports and make recommendations</p>
+</li>
+<li>
+<p>Able to work with ambiguity</p>
+</li>
+<li>
+<p>Possess a positive mindset with mental and emotional resilience</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
