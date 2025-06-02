@@ -16,6 +16,17 @@ description: Calculators and Dictionaries
 <div class="isomer-card-title">Approved Dictionary List</div>
 <div class="isomer-card-link"></div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/applicationforapprovalofcalculators" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application for approval of calculators for use in national examinations" src="/images/app_form_dictionaries.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application for approval of calculators for use in national examinations</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/applicationforapprovalofdictionaries" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Application for approval of dictionaries for use in national examinations" src="/images/notebook_registration_06.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Application for approval of dictionaries for use in national examinations</div>
+<div class="isomer-card-link"></div>
+</div>
 </a>
 </div>
 <p></p>
