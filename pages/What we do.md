@@ -114,7 +114,8 @@ Director (Institute of Public Sector Leadership), Civil Service College</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Trina Ha Chia Phing</div>
-<div class="isomer-card-description">Chief Legal Counsel, Director (Legal), IPOS</div>
+<div class="isomer-card-description">Chief Legal Counsel, Director (Legal), Intellectual Property Office of
+Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -125,7 +126,8 @@ Director (Institute of Public Sector Leadership), Civil Service College</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Jessica Pan Yunfen</div>
-<div class="isomer-card-description">Vice Provost (Graduate Education), Dean (NUS Graduate School), NUS</div>
+<div class="isomer-card-description">Vice Provost (Graduate Education), Dean (NUS Graduate School), National
+University of Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
