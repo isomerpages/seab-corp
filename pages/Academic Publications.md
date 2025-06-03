@@ -190,8 +190,7 @@ on item demands for various subjects and some generic assessment topics.</p>
 <p>The remaining chapters will keep you informed of SEAB's latest developments
 involving the use of technologies in assessment.</p>
 <p>There are a total of 18 essays in this book.</p>
-<p>The hardcopy book and the e-book can be purchased by completing this
-<a href="https://www.go.gov.sg/alb-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
+<p>The e-book can be purchased by completing this <a href="https://www.go.gov.sg/alb-seab" rel="noopener nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 </div>
