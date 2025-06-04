@@ -37,10 +37,6 @@ the articles to gain a deeper understanding of these exciting developments.
 They reflect the joy we find in our work and the pride we take in our continuous
 improvement and innovation. We hope you enjoy reading this issue.</p>
 <p></p>
-<p>Regards,</p>
-<p><strong><em>SEAB-link Editorial Team</em></strong>
+<p>Regards,
+<br><strong><em>SEAB-link Editorial Team</em></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="editorsnote_issue1_2025" src="/images/SEABlink/editors_note.png">
-</div>
-<p></p>
