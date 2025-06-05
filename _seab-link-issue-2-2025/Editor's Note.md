@@ -16,7 +16,7 @@ that have shaped the first half of 2025. Join us as we celebrate SEAB Day
 2025 "@21 Charting New Chapters", where we commemorated our coming of age
 of 21 years and set our sights on new horizons for educational assessment
 in Singapore.</p>
-<p>on't miss our feature on this year’s Singapore International Primary School
+<p>Don't miss our feature on this year’s Singapore International Primary School
 Examination (<em>i</em>PSLE) event, which celebrates its 20th anniversary,
 highlighting two decades of global education benchmarking. This article
 offers insights on how we're strengthening our international partnerships.</p>
@@ -32,7 +32,7 @@ services.</p>
 education professionals came together to explore innovative approaches
 to assessment. The thoughtful feedback from participants underscores the
 importance of this platform for knowledge sharing and professional development.</p>
-<p>e invite you to explore these stories and more in our latest issue. Whether
+<p>We invite you to explore these stories and more in our latest issue. Whether
 you are a longtime reader or new to SEAB-link, you will find value in our
 curated content that showcases SEAB's continued commitment to excellence
 in educational assessment. Happy reading!</p>
