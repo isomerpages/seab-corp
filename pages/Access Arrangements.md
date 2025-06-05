@@ -28,14 +28,12 @@ for all candidates.</p>
 <p>Hence, AA must not provide candidates with an advantage over the others
 and compromise the assessment objectives.</p>
 <p></p>
-<p>When determining the appropriate AA for a candidate, the primary consideration
-is how the student typically learns and functions in the classroom, based
-on the school’s observations. While the candidate's specific learning needs,
-physical needs, or medical conditions are important factors, the AA provided
-would align with the candidate’s usual way of learning. Additional inputs,
-such as recommendations from doctors and medical professionals will be
-taken into consideration during the review. This approach ensures that
-the AA provided is both appropriate for the candidate and fair to all candidates.</p>
+<p>When evaluating AA applications, the primary considerations are the assessment
+objectives, student’s medical conditions, how the student typically learns
+and functions in the classroom, and the school’s observations. Additional
+inputs such as recommendations from doctors and medical professionals will
+be taken into consideration during the review. This approach ensures that
+the approved AA is both appropriate for the candidate and fair to all candidates.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -204,8 +202,13 @@ can be found in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical or psychological reports with clear diagnosis from Singapore Medical
-Council registered doctors</p>
+<p>A diagnosis of a Physical Disability / Learning Disability
+<br>Diagnosis must be done by qualified professionals registered with the
+relevant professional bodies, for example, with the Singapore Register
+of Psychologists, Allied Health Professions Council, Singapore Medical
+Council etc.
+<br>
+</p>
 </li>
 <li>
 <p>Previous reports remain valid* if it is for the same condition (e.g.,
