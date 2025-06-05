@@ -202,15 +202,14 @@ can be found in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>A diagnosis of a Physical Disability / Learning Disability</p>
-<p>Diagnosis must be done by qualified professionals registered with the
+<p>A diagnosis of a Physical Disability / Learning Disability
+<br>Diagnosis must be done by qualified professionals registered with the
 relevant professional bodies, for example, with the Singapore Register
 of Psychologists, Allied Health Professions Council, Singapore Medical
-Council etc.</p>
+Council etc.
+<br>
+</p>
 </li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Previous reports remain valid* if it is for the same condition (e.g.,
 reports used for PSLE can be used for GCE-Level examinations)</p>
