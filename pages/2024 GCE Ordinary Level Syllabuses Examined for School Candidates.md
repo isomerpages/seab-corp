@@ -14,8 +14,9 @@ cases, a description of the item / image / resource, and/or a web-link
 may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.</p>
 <h4><strong>Cambridge Subjects</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -30,7 +31,10 @@ from SEAB.</p>
 <p>Language Medium</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Subject Code</p>
+<p>Subject Code (2027)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Subject Code (2026 and earlier)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Specimen Papers for
@@ -45,6 +49,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>K113</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1135</p>
@@ -62,6 +69,9 @@ from SEAB.</p>
 <p>Bahasa Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>K115</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1136</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,6 +85,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>K116</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1184</p>
@@ -104,6 +117,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2065</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,6 +132,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2174</p>
@@ -136,6 +155,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2236</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,6 +171,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2260</p>
@@ -172,6 +197,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2261</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,6 +219,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2262</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,6 +239,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2272</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,6 +254,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2273</p>
@@ -236,6 +273,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2274</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,6 +288,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2279</p>
@@ -272,6 +315,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2286</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -284,6 +330,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2287</p>
@@ -300,6 +349,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2288</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,6 +364,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2289</p>
@@ -329,6 +384,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2299</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,6 +400,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Spanish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3034</p>
@@ -359,6 +420,9 @@ from SEAB.</p>
 <p>Hindi</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3194</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,6 +436,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Urdu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3196</p>
@@ -389,6 +456,9 @@ from SEAB.</p>
 <p>Gujarati</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3199</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -402,6 +472,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Panjabi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3203</p>
@@ -419,6 +492,9 @@ from SEAB.</p>
 <p>Bengali</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3215</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -432,6 +508,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Burmese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3249</p>
@@ -449,6 +528,9 @@ from SEAB.</p>
 <p>Thai</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3260</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -462,6 +544,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3917</p>
@@ -479,6 +564,9 @@ from SEAB.</p>
 <p>German</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3918</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -492,6 +580,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3919</p>
@@ -509,6 +600,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>4049</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -522,6 +616,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4052</p>
@@ -540,6 +637,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>5076</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -552,6 +652,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5077</p>
@@ -568,6 +671,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>5078</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,6 +686,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5086</p>
@@ -600,6 +709,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>5087</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -614,6 +726,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5088</p>
@@ -635,6 +750,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6063</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -648,6 +766,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6085</p>
@@ -665,6 +786,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6086</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -677,6 +801,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6091</p>
@@ -696,6 +823,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6092</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -711,6 +841,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6093</p>
@@ -733,6 +866,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6097</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -746,6 +882,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6123</p>
@@ -763,6 +902,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6124</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,6 +918,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7059</p>
@@ -792,6 +937,9 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>7085</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -805,6 +953,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7087</p>
@@ -825,6 +976,9 @@ from SEAB.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7155</p>
