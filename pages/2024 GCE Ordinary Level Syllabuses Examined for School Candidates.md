@@ -51,7 +51,7 @@ from SEAB.</p>
 <p>Arabic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>K113</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1135</p>
@@ -69,7 +69,7 @@ from SEAB.</p>
 <p>Bahasa Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>K114</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1136</p>
@@ -87,7 +87,7 @@ from SEAB.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>K115</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1184</p>
