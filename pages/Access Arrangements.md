@@ -362,20 +362,33 @@ cannot apply special consideration for the same medical condition.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If your AA application is accepted for processing, it will be subjected
 to a rigorous review by a panel and be considered based on its circumstances.
-Your AA application outcome will be released via the following platforms,
-within two months from the date of your application’s submission.
+The processing time depends on factors including the complexity of the
+AA requested for and the timely submission of all supporting documents.
+Certain types of AA requests such as the use of a Reader, Practical Assistant,
+Scribe, or Word Processor may take longer time to process.
+<br>
+<br>For AA applications submitted by the deadline, the outcome will usually
+be released by April of the examination year. Your AA application outcome
+will be released via the following platforms:
 <br>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>If you are a school candidate, your school will inform you of the outcome.
 Following the release of your AA application outcome, your schools may
 work with you to trial your approved accommodations during your daily teaching
-and learning sessions to better prepare you for your national examinations.
+and learning sessions to better prepare you for your national examinations.</p>
+<p></p>
+</li>
+<li>
+<p>If you are a private candidate, please access the Candidates Portal to
+view your outcome.
 <br>
 </p>
-<p>If you are a private candidate, please access the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a> to view
-your outcome. Following the release of your outcome, you and/or your parents
-could consider trialing the approved AAs where feasible, to enhance your
-examination preparation.
+</li>
+</ul>
+<p>Following the release of your outcome, you and/or your parents could consider
+trialing the approved AAs where feasible, to enhance your examination preparation.
 <br>
 </p>
 <p>If you have received AA for an examination paper due to a medical condition,
