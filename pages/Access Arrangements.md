@@ -363,7 +363,7 @@ cannot apply special consideration for the same medical condition.</p>
 <p>If your AA application is accepted for processing, it will be subjected
 to a rigorous review by a panel and be considered based on its circumstances.
 The processing time depends on factors including the complexity of the
-AA requested for<s>*</s> and the timely submission of all supporting documents.
+AA requested for and the timely submission of all supporting documents.
 Certain types of AA requests such as the use of a Reader, Practical Assistant,
 Scribe, or Word Processor may take longer time to process.
 <br>
