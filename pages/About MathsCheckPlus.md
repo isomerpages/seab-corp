@@ -4,6 +4,8 @@ permalink: /assessment-for-learning-afl-tools/about-mathscheckplus/
 variant: tiptap
 description: ""
 ---
+<p><strong>About Mathematics Assessment for Learning (AfL) Tool </strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="MathsCheckPlus" src="/images/AfL tools/MC__ed.png">
 </div>
