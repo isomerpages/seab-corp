@@ -18,14 +18,21 @@ are presented to students in a fixed, sequential order.</p>
 a customised test experience as it adjusts the test difficulty according
 to the student’s performance during the test. Students are given approximately
 1 hour to complete the test.</p>
-<h4>MathsCheck<sup>Plus</sup> for Teaching and Learning</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>MathsCheck<sup>Plus</sup> for Teaching and Learning</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>SEAB collaborates with Academy of Singapore Teachers (AST) to conduct
-workshops for MathsCheck<sup>Plus</sup> Champions from participating schools.</p>
+workshops for MathsCheckPlus Champions from participating schools.</p>
 <p>AST’s Master Teachers use the insights from MathsCheck<sup>Plus</sup> reports
 to develop classroom strategies to close students’ learning gaps. The workshops
 are a valuable platform for teachers to understand their students’ learning
 difficulties and learn good practices from colleagues from other schools.</p>
-<h4>MathsCheck<sup>Plus</sup> Reports</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>MathsCheck<sup>Plus</sup> Reports</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>A School Report and a Class Report will be provided.</p>
 <p><strong>School Report</strong>
 </p>
@@ -41,7 +48,11 @@ skills and topics.</p>
 <p>Teachers can use the information to identify students who need greater
 support, and craft class-level and cohort-level remediation strategies.</p>
 <p></p>
-<h4>Progression from MathsCheck<sup>Plus</sup> to CATalytics</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Progression from MathsCheck<sup>Plus</sup> to CATalytics</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Using the insights from P4 MathsCheck<sup>Plus</sup>, teachers can identify
 students who need additional support in specific topics and use CATalytics
 to pinpoint exact learning gaps. This targeted approach also enables teachers
@@ -51,11 +62,18 @@ a topic post-intervention.</p>
 CATalytics can be used in tandem to support students’ Mathematical development
 throughout their primary school years.</p>
 <p></p>
-<h4>Registration</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Registration</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Registration for MathsCheck<sup>Plus</sup> will open in the second half
 of the year. School leaders and key personnel will receive emails with
 registration details.
 <br>If you are interested to sign up for MathsCheck<sup>Plus</sup>, you may
 indicate your interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
 <br>SEAB will reach out to you when the registration period opens.</p>
+</div>
+</details>
+</div>
 <p></p>
