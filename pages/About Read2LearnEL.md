@@ -4,6 +4,8 @@ permalink: /assessment-for-learning-afl-tools/about-read2learnel/
 variant: tiptap
 description: ""
 ---
+<p><strong>English Assessment for Learning (AfL) Tool   </strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Read2LearnEL" src="/images/AfL tools/R2L_ed.png">
 </div>
