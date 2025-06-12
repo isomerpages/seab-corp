@@ -30,8 +30,8 @@ and performance data. The data helps teachers to:</p>
 <br>4. refine and improve lesson design based on data-driven insights.</p>
 <p>Please click the links below to explore the Mathematics and English Language
 AfL tools offered.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MathsCheckPlus" src="/images/AfL tools/MC__card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grade-level Mathematics assessment for P2 and P4 students</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="about-mathscheckplus" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MathsCheckPlus" src="/images/AfL tools/MC__card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Grade-level Mathematics assessment for P2 and P4 students</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/about-catalytics" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CATalytics" src="/images/AfL tools/cat_card.png">
