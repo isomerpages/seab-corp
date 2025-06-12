@@ -59,5 +59,4 @@ School leaders and key personnel will receive emails with registration
 details.
 <br>If you are interested to sign up for CATalytics, you may indicate your
 interest here.
-<br>SEAB will reach out to you when the registration period opens.<p></p>
-<p></p>
+<br>SEAB will reach out to you when the registration period opens.
