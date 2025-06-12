@@ -28,9 +28,8 @@ and Viewing segment of Singapore English Language Syllabus 2020 (Primary).</p>
 Community (NLC) that is jointly facilitated by SEAB and ELIS.</p>
 <p>As an NLC member, teachers will be supported in their learning to:</p>
 <p>1. build and demonstrate knowledge and understanding of how to diagnose
-students’ learning needs by using Read2LearnEL data</p>
-<p>2. inquire into their formative assessment practices using Read2LearnEL
-data</p>
+students’ learning needs by using Read2Learn<sup>EL</sup> data</p>
+<p>2. inquire into their formative assessment practices using Read2Learn<sup>EL</sup> data</p>
 <h4>Reports</h4>
 <p>The Read2Learn<sup>EL</sup> reports comprise:</p>
 <p>1. Dashboards detailing student performance in relation to bands and Learning
@@ -40,12 +39,10 @@ Outcomes</p>
 <p>4. Exemplars for literary and informational passages</p>
 <p><strong>Band Performance Dashboard</strong>
 </p>
-<p><strong> </strong>
-</p>
+<p></p>
 <p><strong>Learning Outcome Dashboard</strong>
 </p>
-<p><strong> </strong>
-</p>
+<p></p>
 <p><strong>Band Descriptors Ideas for Teaching</strong>
 </p>
 <p></p>
