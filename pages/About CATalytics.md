@@ -4,7 +4,7 @@ permalink: /assessment-for-learning-afl-tools/about-catalytics/
 variant: tiptap
 description: ""
 ---
-<p><strong>Mathematics Assessment for Learning (AfL) Tool   </strong>
+<p><strong>Mathematics Assessment for Learning (AfL) Tool</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="CAtalytics" src="/images/AfL tools/CAT_ed.png">
@@ -33,6 +33,10 @@ can then develop focused remediation strategies and prepare appropriate
 resources for effective intervention.</p>
 <p>Here is some feedback from teachers on how they have used CATalytics reports
 to enhance their teaching and learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="catalytics feedback" src="/images/AfL tools/CATalytics_feedback_poster.png">
+</div>
 <h4>CATalytics Reports</h4>
 <p>The CATalytics reports comprise:
 <br>1. Group Profile Report (by school and class)
@@ -43,15 +47,27 @@ to enhance their teaching and learning.</p>
 can partially manage, and cannot manage.</p>
 <h4>Group Profile Report (by school and group)</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="group profile report" src="/images/AfL tools/CAT_1.png">
+</div>
 <p><strong>Student Profile Report</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student profile report" src="/images/AfL tools/CAT_2.jpg">
+</div>
 <p><strong>Profile Descriptors</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="profile descriptors" src="/images/AfL tools/CAT_3.png">
+</div>
 <p><strong>Common Errors</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="common errors report" src="/images/AfL tools/CAT_4.png">
+</div>
 <p></p>
 <h4>Registration</h4>
 <p>Registration for CATalytics will open in the second half of the year.
