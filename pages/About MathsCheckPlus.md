@@ -41,12 +41,20 @@ at the school level. It provides a qualitative comparison of students’
 performance against the national average performance. If the school participates
 in MathsCheck<sup>Plus</sup> for three consecutive years, the School Report
 also provides trend information.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MC+ school report" src="/images/AfL tools/MC_1.png">
+</div>
 <p><strong>Class Report</strong>
 </p>
 <p>The class report informs teachers about each student’s mastery of Mathematical
 skills and topics.</p>
 <p>Teachers can use the information to identify students who need greater
 support, and craft class-level and cohort-level remediation strategies.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MC+ class report" src="/images/AfL tools/MC_2.png">
+</div>
 <p></p>
 </div>
 </details>
@@ -61,6 +69,10 @@ a topic post-intervention.</p>
 <p>Please refer to the infographic below for an overview of how MathsCheck<sup>Plus</sup> and
 CATalytics can be used in tandem to support students’ Mathematical development
 throughout their primary school years.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Progression MC+ to CATalytics" src="/images/AfL tools/Infograhic_final_June.jpg">
+</div>
 <p></p>
 </div>
 </details>
