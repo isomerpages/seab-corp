@@ -52,8 +52,8 @@ throughout their primary school years.</p>
 <h4>Registration</h4>
 <p>Registration for MathsCheck<sup>Plus</sup> will open in the second half
 of the year. School leaders and key personnel will receive emails with
-registration details.</p>
-<p>If you are interested to sign up for MathsCheck<sup>Plus</sup>, you may
-indicate your interest here.</p>
-<p>SEAB will reach out to you when the registration period opens.</p>
+registration details.
+<br>If you are interested to sign up for MathsCheck<sup>Plus</sup>, you may
+indicate your interest here.
+<br>SEAB will reach out to you when the registration period opens.</p>
 <p></p>
