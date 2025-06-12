@@ -51,5 +51,5 @@ Outcomes
 the year. School leaders and key personnel will receive emails with registration
 details.
 <br>If you are interested to sign up for Read2Learn<sup>EL</sup>, you may
-indicate your interest here.
+indicate your interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
 <br>SEAB will reach out to you when the registration period opens.</p>
