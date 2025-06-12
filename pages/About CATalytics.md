@@ -37,26 +37,25 @@ to enhance their teaching and learning.</p>
 <br>1. Group Profile Report (by school and class)
 <br>2. Student Profile Report
 <br>3. Profile Descriptors
-<br>4. Common Error Analysis
-</p><p>They provide information on the learning outcomes that students can manage,
+<br>4. Common Error Analysis</p>
+<p>They provide information on the learning outcomes that students can manage,
 can partially manage, and cannot manage.</p>
-<h4>Group Profile Report (by school and group) </h4>
+<h4>Group Profile Report (by school and group)</h4>
 <p></p>
 <p><strong>Student Profile Report</strong>
 </p>
 <p></p>
 <p><strong>Profile Descriptors</strong>
 </p>
-<p><strong> </strong>
-</p>
+<p></p>
 <p><strong>Common Errors</strong>
 </p>
 <p></p>
 <p></p>
 <h4>Registration</h4>
-Registration for CATalytics will open in the second half of the year.
+<p>Registration for CATalytics will open in the second half of the year.
 School leaders and key personnel will receive emails with registration
 details.
 <br>If you are interested to sign up for CATalytics, you may indicate your
-interest here.
-<br>SEAB will reach out to you when the registration period opens.
+interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
+<br>SEAB will reach out to you when the registration period opens.</p>
