@@ -16,7 +16,7 @@ are presented to students in a fixed, sequential order.</p>
 a customised test experience as it adjusts the test difficulty according
 to the student’s performance during the test. Students are given approximately
 1 hour to complete the test.</p>
-<h4>MathsCheck<sup>Plus</sup> for Teaching and Learning  </h4>
+<h4>MathsCheck<sup>Plus</sup> for Teaching and Learning</h4>
 <p>SEAB collaborates with Academy of Singapore Teachers (AST) to conduct
 workshops for MathsCheck<sup>Plus</sup> Champions from participating schools.</p>
 <p>AST’s Master Teachers use the insights from MathsCheck<sup>Plus</sup> reports
