@@ -26,17 +26,17 @@ information on students’ manageability of learning outcomes in the Reading
 and Viewing segment of Singapore English Language Syllabus 2020 (Primary).</p>
 <p>Participating schools can take part in the Read2Learn<sup>EL</sup> Networked-Learning
 Community (NLC) that is jointly facilitated by SEAB and ELIS.</p>
-<p>As an NLC member, teachers will be supported in their learning to:</p>
-<p>1. build and demonstrate knowledge and understanding of how to diagnose
-students’ learning needs by using Read2Learn<sup>EL</sup> data</p>
-<p>2. inquire into their formative assessment practices using Read2Learn<sup>EL</sup> data</p>
+<p>As an NLC member, teachers will be supported in their learning to:
+<br>1. build and demonstrate knowledge and understanding of how to diagnose
+students’ learning needs by using Read2Learn<sup>EL</sup> data
+<br>2. inquire into their formative assessment practices using Read2Learn<sup>EL</sup> data</p>
 <h4>Reports</h4>
-<p>The Read2Learn<sup>EL</sup> reports comprise:</p>
-<p>1. Dashboards detailing student performance in relation to bands and Learning
-Outcomes</p>
-<p>2. Qualitative descriptors for each band</p>
-<p>3. Ideas for Teaching</p>
-<p>4. Exemplars for literary and informational passages</p>
+<p>The Read2Learn<sup>EL</sup> reports comprise:
+<br>1. Dashboards detailing student performance in relation to bands and Learning
+Outcomes
+<br>2. Qualitative descriptors for each band
+<br>3. Ideas for Teaching
+<br>4. Exemplars for literary and informational passages</p>
 <p><strong>Band Performance Dashboard</strong>
 </p>
 <p></p>
@@ -49,8 +49,7 @@ Outcomes</p>
 <h4>Registration</h4>
 <p>Registration for Read2Learn<sup>EL</sup> will open in the second half of
 the year. School leaders and key personnel will receive emails with registration
-details.</p>
-<p>If you are interested to sign up for Read2Learn<sup>EL</sup>, you may
-indicate your interest here.</p>
-<p>SEAB will reach out to you when the registration period opens.</p>
-<p></p>
+details.
+<br>If you are interested to sign up for Read2Learn<sup>EL</sup>, you may
+indicate your interest here.
+<br>SEAB will reach out to you when the registration period opens.</p>
