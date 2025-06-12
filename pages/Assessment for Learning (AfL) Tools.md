@@ -34,7 +34,7 @@ AfL tools offered.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CATalytics" src="/images/AfL tools/AfL tools/cat_card.png">
+<img style="width: 100%" height="auto" width="100%" alt="CATalytics" src="/images/AfL tools/cat_card.png">
 </div>
 </div>
 <div class="isomer-card-body">
