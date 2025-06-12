@@ -16,11 +16,11 @@ outcomes for a topic for his/her grade level. It is customised to the student’
 ability with items chosen such that the test is age appropriate without
 being too challenging. The student’s performance is dependent on the difficulty
 of the items he/she has attempted.</p>
-<p>CATalytics is currently offered in 4 topics:</p>
-<p>1. Decimals</p>
-<p>2. Fractions</p>
-<p>3. Geometry</p>
-<p>4. Measurement and Area &amp; Volume</p>
+<p>CATalytics is currently offered in 4 topics:
+<br>1. Decimals
+<br>2. Fractions
+<br>3. Geometry
+<br>4. Measurement and Area &amp; Volume</p>
 <p>Each topical test consists of 30 multiple choice questions. Students are
 given 1 hour to complete each test.</p>
 <p>Schools can choose the number of topics they would like to sign up for.
@@ -33,12 +33,12 @@ resources for effective intervention.</p>
 <p>Here is some feedback from teachers on how they have used CATalytics reports
 to enhance their teaching and learning.</p>
 <h4>CATalytics Reports</h4>
-<p>The CATalytics reports comprise:</p>
-<p>1. Group Profile Report (by school and class)</p>
-<p>2. Student Profile Report</p>
-<p>3. Profile Descriptors</p>
-<p>4. Common Error Analysis</p>
-<p>They provide information on the learning outcomes that students can manage,
+<p>The CATalytics reports comprise:
+<br>1. Group Profile Report (by school and class)
+<br>2. Student Profile Report
+<br>3. Profile Descriptors
+<br>4. Common Error Analysis
+</p><p>They provide information on the learning outcomes that students can manage,
 can partially manage, and cannot manage.</p>
 <h4>Group Profile Report (by school and group) </h4>
 <p></p>
@@ -54,10 +54,10 @@ can partially manage, and cannot manage.</p>
 <p></p>
 <p></p>
 <h4>Registration</h4>
-<p>Registration for CATalytics will open in the second half of the year.
+Registration for CATalytics will open in the second half of the year.
 School leaders and key personnel will receive emails with registration
-details.</p>
-<p>If you are interested to sign up for CATalytics, you may indicate your
-interest here.</p>
-<p>SEAB will reach out to you when the registration period opens.</p>
+details.
+<br>If you are interested to sign up for CATalytics, you may indicate your
+interest here.
+<br>SEAB will reach out to you when the registration period opens.<p></p>
 <p></p>
