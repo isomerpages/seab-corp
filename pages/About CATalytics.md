@@ -45,26 +45,23 @@ to enhance their teaching and learning.</p>
 <br>4. Common Error Analysis</p>
 <p>They provide information on the learning outcomes that students can manage,
 can partially manage, and cannot manage.</p>
-<h4>Group Profile Report (by school and group)</h4>
-<p></p>
+<p><strong>Group Profile Report (by school and group)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group profile report" src="/images/AfL tools/CAT_1.png">
 </div>
 <p><strong>Student Profile Report</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="student profile report" src="/images/AfL tools/CAT_2.jpg">
 </div>
 <p><strong>Profile Descriptors</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="profile descriptors" src="/images/AfL tools/CAT_3.png">
 </div>
 <p><strong>Common Errors</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="common errors report" src="/images/AfL tools/CAT_4.png">
 </div>
