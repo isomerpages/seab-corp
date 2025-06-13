@@ -82,9 +82,11 @@ throughout their primary school years.</p>
 <p>Registration for MathsCheck<sup>Plus</sup> will open in the second half
 of the year. School leaders and key personnel will receive emails with
 registration details.
-<br>If you are interested to sign up for MathsCheck<sup>Plus</sup>, you may
+<br>
+</p>
+<p>If you are interested to sign up for MathsCheck<sup>Plus</sup>, you may
 indicate your interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
-<br>SEAB will reach out to you when the registration period opens.</p>
+SEAB will reach out to you when the registration period opens.</p>
 </div>
 </details>
 </div>
