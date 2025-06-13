@@ -63,13 +63,14 @@ can partially manage, and cannot manage.</p>
 <p><strong>Common Errors</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="common errors report" src="/images/AfL tools/CAT_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="common errors report" src="/images/AfL tools/common_errors_v2.png">
 </div>
-<p></p>
 <h4>Registration</h4>
 <p>Registration for CATalytics will open in the second half of the year.
 School leaders and key personnel will receive emails with registration
 details.
-<br>If you are interested to sign up for CATalytics, you may indicate your
+<br>
+</p>
+<p>If you are interested to sign up for CATalytics, you may indicate your
 interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
-<br>SEAB will reach out to you when the registration period opens.</p>
+SEAB will reach out to you when the registration period opens.</p>
