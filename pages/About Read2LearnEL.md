@@ -52,7 +52,7 @@ Outcomes
 <p><strong>Band Descriptors Ideas for Teaching</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="band descriptors" src="/images/AfL tools/R2L_3.png">
+<img style="width: 75%;" height="auto" width="100%" alt="band descriptors" src="/images/AfL tools/R2L_3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
