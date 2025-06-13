@@ -67,7 +67,7 @@ to pinpoint exact learning gaps. This targeted approach also enables teachers
 to provide more targeted intervention and check how students are managing
 a topic post-intervention.</p>
 <p>Please refer to the infographic below for an overview of how MathsCheck<sup>Plus</sup> and
-<a href="/assessment-for-learning-afl-tools/about-catalytics/" rel="noopener nofollow" target="_blank">CATalytics</a>can be used in tandem to support students’ Mathematical
+<a href="https://seab.gov.sg/assessment-for-learning-afl-tools/about-catalytics/" rel="noopener nofollow" target="_blank">CATalytics</a>can be used in tandem to support students’ Mathematical
 development throughout their primary school years.</p>
 <p></p>
 <div class="isomer-image-wrapper">
