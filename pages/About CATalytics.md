@@ -35,7 +35,7 @@ resources for effective intervention.</p>
 to enhance their teaching and learning.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="catalytics feedback" src="/images/AfL tools/CATalytics_feedback_poster.png">
+<img style="width: 70%;" height="auto" width="100%" alt="catalytics feedback" src="/images/AfL tools/CATalytics_feedback_poster.png">
 </div>
 <h4>CATalytics Reports</h4>
 <p>The CATalytics reports comprise:
