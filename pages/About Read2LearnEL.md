@@ -4,7 +4,7 @@ permalink: /assessment-for-learning-afl-tools/about-read2learnel/
 variant: tiptap
 description: ""
 ---
-<p><strong>English Assessment for Learning (AfL) Tool   </strong>
+<p><strong>English Assessment for Learning (AfL) Tool</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Read2LearnEL" src="/images/AfL tools/R2L_ed.png">
@@ -41,17 +41,29 @@ Outcomes
 <br>4. Exemplars for literary and informational passages</p>
 <p><strong>Band Performance Dashboard</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="band performance" src="/images/AfL tools/R2L_1.png">
+</div>
 <p><strong>Learning Outcome Dashboard</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="learning outcomes dashboard" src="/images/AfL tools/R2L_2.png">
+</div>
 <p><strong>Band Descriptors Ideas for Teaching</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="band descriptors" src="/images/AfL tools/R2L_3.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ideas for teaching" src="/images/AfL tools/ideas_for_teaching_updated.png">
+</div>
 <h4>Registration</h4>
 <p>Registration for Read2Learn<sup>EL</sup> will open in the second half of
 the year. School leaders and key personnel will receive emails with registration
 details.
-<br>If you are interested to sign up for Read2Learn<sup>EL</sup>, you may
+<br>
+</p>
+<p>If you are interested to sign up for Read2Learn<sup>EL</sup>, you may
 indicate your interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
-<br>SEAB will reach out to you when the registration period opens.</p>
+SEAB will reach out to you when the registration period opens.</p>
