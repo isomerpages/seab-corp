@@ -1,7 +1,7 @@
 ---
 title: About Read2LearnEL
 permalink: /assessment-for-learning-afl-tools/about-read2learnel/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>English Assessment for Learning (AfL) Tool</strong>

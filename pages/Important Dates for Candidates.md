@@ -180,7 +180,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 </tbody>
 </table>
-<p>*<a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>Contact SEAB</u></a>&nbsp;if
+<p>*<a href="https://go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">Contact SEAB</a>&nbsp;if
 you have not received the following by the dates indicated:
 <br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 26
 May 2025
