@@ -18,7 +18,7 @@ are presented to students in a fixed, sequential order.</p>
 a customised test experience as it adjusts the test difficulty according
 to the student’s performance during the test. Students are given approximately
 1 hour to complete the test.</p>
-<h4>MathsCheck<sup>Plus</sup> for Teaching and Learning  </h4>
+<h4>MathsCheck<sup>Plus</sup> for Teaching and Learning</h4>
 <p>SEAB collaborates with Academy of Singapore Teachers (AST) to conduct
 workshops for MathsCheck<sup>Plus</sup> Champions from participating schools.</p>
 <p>AST’s Master Teachers use the insights from MathsCheck<sup>Plus</sup> reports
@@ -63,8 +63,10 @@ development throughout their primary school years.</p>
 of the year. School leaders and key personnel will receive emails with
 registration details.</p>
 <p>If you are interested to sign up for MathsCheck<sup>Plus</sup>, you may
-indicate your interest <a href="https://form.gov.sg/68147080fd740d11856d65dc" rel="noopener nofollow" target="_blank">here</a>.
+indicate your interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
 SEAB will reach out to you when the registration period opens.</p>
+<p>Interested in other Assessment for Learning (AfL) tools? Discover more
+<a href="http://www.seab.gov.sg/assessment-for-learning-afl-tools/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
 <p></p>

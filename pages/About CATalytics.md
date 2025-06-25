@@ -74,3 +74,5 @@ details.
 <p>If you are interested to sign up for CATalytics, you may indicate your
 interest <a href="https://go.gov.sg/afltools" rel="noopener nofollow" target="_blank">here</a>.
 SEAB will reach out to you when the registration period opens.</p>
+<p>Interested in other Assessment for Learning (AfL) tools? Discover more
+<a href="http://www.seab.gov.sg/assessment-for-learning-afl-tools/" rel="noopener nofollow" target="_blank">here</a>.</p>

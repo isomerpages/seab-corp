@@ -112,6 +112,9 @@ complex competencies for 21st Century education</p>
 <p>Tertiary qualification in Mathematics and/or statistics-related field</p>
 </li>
 <li>
+<p>Candidates with 0 to 3 years of working experience are welcome to apply</p>
+</li>
+<li>
 <p>Experience in research studies, educational measurements and/or data analytics
 (e.g. machine learning &amp; data mining)</p>
 </li>
