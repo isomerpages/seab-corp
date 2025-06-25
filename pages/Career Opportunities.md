@@ -112,15 +112,18 @@ complex competencies for 21st Century education</p>
 <p>Tertiary qualification in Mathematics and/or statistics-related field</p>
 </li>
 <li>
-<p>Candidates with 0 to 3 years of working experience are welcome to apply</p>
+<p>Candidates with 0 to 3 years of working experience can be considered</p>
 </li>
 <li>
 <p>Experience in research studies, educational measurements and/or data analytics
 (e.g. machine learning &amp; data mining)</p>
 </li>
 <li>
-<p>Experience in the education sector will be an advantageProficient in the
-use of statistical analysis software (e.g. STATA, SAS, RUMM2020, R-Programming)</p>
+<p>Experience in the education sector will be an advantage</p>
+</li>
+<li>
+<p>Proficient in the use of statistical analysis software (e.g. STATA, SAS,
+RUMM2020, R-Programming)</p>
 </li>
 <li>
 <p>Experience in the use of coding applications (such as Visual Studio) with
