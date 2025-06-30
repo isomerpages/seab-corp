@@ -1,6 +1,6 @@
 ---
-title: About Read2LearnEL
-permalink: /assessment-for-learning-afl-tools/about-read2learnel/
+title: About Read2Learn
+permalink: /assessment-for-learning-afl-tools/about-read2learn/
 variant: tiptap
 description: ""
 ---

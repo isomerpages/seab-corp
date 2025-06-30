@@ -42,6 +42,6 @@ AfL tools offered.</p>
 <div class="isomer-card-title">Topical Mathematics Assessments for P5 and P6 Students</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/assessment-for-learning-afl-tools/about-read2learnel" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Read2LearnEL" src="/images/AfL tools/R2L_card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Reading Comprehension Assessment for P5 Students</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/assessment-for-learning-afl-tools/about-read2learn" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Read2LearnEL" src="/images/AfL tools/R2L_card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">English Reading Comprehension Assessment for P5 Students</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
