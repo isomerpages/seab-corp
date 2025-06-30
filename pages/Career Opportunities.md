@@ -19,7 +19,7 @@ information.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH (2 YEAR CONTRACT)</strong>
+<summary><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH - 2 YEAR CONTRACT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -79,7 +79,7 @@ usage, etc.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH (2 YEAR CONTRACT)</strong>
+<summary><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -142,7 +142,74 @@ get buy-in from stakeholder groups</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>SENIOR EXECUTIVE / ASSISTANT MANAGER, OFFICE AND ESTATE MANAGEMENT – 2 YEAR CONTRACT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Job Responsibilities </strong>
+</p>
+<p></p>
+<p>Successful applicant will play an active role in managing soft services
+through the Integrated Facilities Management (IFM) framework, whilst overseeing
+office administration and coordinating all facility-related events and
+activities. The key responsibilities include:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oversee the day-to-day office administration including mail scanning and
+distribution, courier service management, newspapers distribution, pantry
+and stationery supplies, staff workstation, and softphone and landline
+allocations</p>
+</li>
+<li>
+<p>Oversee the day-to-day IFM soft services and relevant process/procedures
+with service providers to ensure service delivery and contractual obligations
+are met. This includes conducting monthly joint inspection, vendor performance
+monitoring, and service quality assessments</p>
+</li>
+<li>
+<p>&nbsp;Manage facility booking and event setup to support the exam operations
+within short turnaround time and assist in the review of existing processes
+to improve its effectiveness</p>
+</li>
+<li>
+<p>Process registry records and new file series in the system, including
+conducting UAT to ensure reliability and functionality</p>
+</li>
+<li>
+<p>Ensure that sufficient pantry and stationery supplies are maintained for
+daily operations</p>
+</li>
+<li>
+<p>Manage contract lifecycle including drafting and renewal processes</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tertiary Qualification in Facilities Management/Engineering or Business
+Administration, with at least 2 years of related working experience</p>
+</li>
+<li>
+<p>Experience in event management</p>
+</li>
+<li>
+<p>Experience in the management of IFM soft services and office administration
+would be an advantage</p>
+</li>
+<li>
+<p>Possess strong critical thinking, communication, writing, and presentation
+skills</p>
+</li>
+</ul>
 </div>
+</details>
+</div>
+<p></p>
 <p><strong>APPLICATION PROCEDURE</strong>
 </p>
 <p>If you are interested in any of the above position, please submit your
