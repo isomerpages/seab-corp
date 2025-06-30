@@ -9,7 +9,7 @@ description: eExam Resources for Private Candidates
 <summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Check out the online guides<sup>~</sup> or <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a> for
+<p>Check out the online guides<sup>~</sup> or <a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a> for
 the following examinations to better understand their format and requirements.
 You will need to download the online guide before you can play the file.</p>
 <p></p>
