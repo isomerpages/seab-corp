@@ -132,8 +132,7 @@ examination results:</p>
 </li>
 <li>
 <p>Front and back of the identification document that you have used to sit
-for the examination, or a document from the Immigration Checkpoints Authority
-certifying that the identification number is tied to you</p>
+for the examination</p>
 </li>
 <li>
 <p>School Name</p>
