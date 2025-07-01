@@ -5,7 +5,7 @@ variant: tiptap
 description: SPERS-Sec
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/spers-sec/about-spers-sec/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About SPERS" src="/images/pexels_louis_bauer_249360.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About SPERS</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/spers-sec/about-spers-sec/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About SPERS-Sec" src="/images/pexels_louis_bauer_249360.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About SPERS-Sec</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/spers-sec/eligibility-criteria/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
