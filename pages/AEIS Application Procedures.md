@@ -12,7 +12,7 @@ the AEIS application periods.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Create your individual account in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer" target="_blank"><u>Candidates Portal (CP)</u></a>&nbsp;during
-the application period.&nbsp; Please refer to the <a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-on-account-creation-in-cp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a> on
+the application period.&nbsp; Please refer to the <a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-for-candidates-portal.pdf" rel="noopener nofollow" target="_blank">user guide</a> on
 account creation in CP.</p>
 <p></p>
 </li>
