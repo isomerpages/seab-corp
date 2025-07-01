@@ -5,8 +5,8 @@ variant: tiptap
 description: AEIS Application Procedures
 ---
 <h3><strong>When to apply</strong></h3>
-<p><strong>Interested applicants can refer to <a href="https://www.moe.gov.sg/international-students/aeis/apply" rel="noopener noreferrer nofollow" target="_blank"><u>MOE's website</u></a>&nbsp;for the AEIS application periods.</strong>
-</p>
+<p>Interested applicants can refer to <a href="https://www.moe.gov.sg/international-students/aeis/apply" rel="noopener noreferrer nofollow" target="_blank"><u>MOE's website</u></a>&nbsp;for
+the AEIS application periods.</p>
 <h3><strong>How to apply</strong></h3>
 <p>Please follow the steps below to apply for AEIS:</p>
 <ol data-tight="true" class="tight">
