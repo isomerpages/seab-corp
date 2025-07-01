@@ -5,15 +5,19 @@ variant: tiptap
 description: AEIS Application Procedures
 ---
 <h3><strong>When to apply</strong></h3>
-<p><strong>Interested applicants can refer to <a href="https://www.moe.gov.sg/international-students/aeis/apply" rel="noopener noreferrer nofollow" target="_blank"><u>MOE's website</u></a>&nbsp;for the AEIS application periods.</strong>
-</p>
+<p>Interested applicants can refer to <a href="https://www.moe.gov.sg/international-students/aeis/apply" rel="noopener noreferrer nofollow" target="_blank"><u>MOE's website</u></a>&nbsp;for
+the AEIS application periods.</p>
 <h3><strong>How to apply</strong></h3>
 <p>Please follow the steps below to apply for AEIS:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Create your individual account in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer" target="_blank"><u>Candidates Portal (CP)</u></a>&nbsp;during
-the application period.&nbsp; Please refer to the <a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-on-account-creation-in-cp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a> on
-account creation in CP.
+the application period.&nbsp; Please refer to the <a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-for-candidates-portal.pdf" rel="noopener nofollow" target="_blank">user guide</a> on
+account creation in CP.</p>
+<p></p>
+</li>
+<li>
+<p>Read through the <a href="https://www.moe.gov.sg/-/media/files/international-students/instructions-to-candidates.pdf" rel="noopener nofollow" target="_blank">Instructions to Candidates</a>.
 <br>
 </p>
 </li>
@@ -32,16 +36,21 @@ period:</p>
 submit an accurate English translated copy.</p>
 </li>
 <li>
-<p>The applicant's passport with validity of at least 6 months.</p>
+<p>The applicant's passport bio-data page. The passport should have a validity
+of at least 6 months.</p>
 </li>
 <li>
-<p>The applicant's statement of results for the relevant Cambridge English
-Qualifications (CEQ) test taken within 12 months before the month of submission
-of their AEIS-Primary online application. There is no need to submit the
+<p>The applicant’s passport-sized photo in JPEG or PNG format. Recommended
+image dimension: 410 x 514 px.</p>
+</li>
+<li>
+<p>(Primary school applicants) The applicant’s statement of results for the
+relevant Cambridge English Qualifications (CEQ) test taken from July 2024
+for 2025 AEIS Primary online application. There is no need to submit the
 Cambridge English certificate.</p>
 </li>
 <li>
-<p>The applicant's passport size photo.
+<p>Additional documents such as marriage certificate that may be required.
 <br>
 </p>
 </li>
