@@ -17,7 +17,7 @@ account creation in CP.</p>
 <p></p>
 </li>
 <li>
-<p>Read through the <a href="https://go.gov.sg/aeisands-aeisinstructionstocandidates" rel="noopener nofollow" target="_blank">Instructions to Candidates</a>.
+<p>Read through the <a href="https://www.moe.gov.sg/-/media/files/international-students/instructions-to-candidates.pdf" rel="noopener nofollow" target="_blank">Instructions to Candidates</a>.
 <br>
 </p>
 </li>
