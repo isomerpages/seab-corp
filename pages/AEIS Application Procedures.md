@@ -13,7 +13,11 @@ description: AEIS Application Procedures
 <li>
 <p>Create your individual account in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer" target="_blank"><u>Candidates Portal (CP)</u></a>&nbsp;during
 the application period.&nbsp; Please refer to the <a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-on-account-creation-in-cp.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a> on
-account creation in CP.
+account creation in CP.</p>
+<p></p>
+</li>
+<li>
+<p>Read through the Instructions to Candidates.
 <br>
 </p>
 </li>
@@ -32,16 +36,21 @@ period:</p>
 submit an accurate English translated copy.</p>
 </li>
 <li>
-<p>The applicant's passport with validity of at least 6 months.</p>
+<p>The applicant's passport bio-data page. The passport should have a validity
+of at least 6 months.</p>
 </li>
 <li>
-<p>The applicant's statement of results for the relevant Cambridge English
-Qualifications (CEQ) test taken within 12 months before the month of submission
-of their AEIS-Primary online application. There is no need to submit the
+<p>The applicant’s passport-sized photo in JPEG or PNG format. Recommended
+image dimension: 410 x 514 px.</p>
+</li>
+<li>
+<p>(Primary school applicants) The applicant’s statement of results for the
+relevant Cambridge English Qualifications (CEQ) test taken from July 2024
+for 2025 AEIS Primary online application. There is no need to submit the
 Cambridge English certificate.</p>
 </li>
 <li>
-<p>The applicant's passport size photo.
+<p>Additional documents such as marriage certificate that may be required.
 <br>
 </p>
 </li>
