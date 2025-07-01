@@ -26,10 +26,7 @@ the S-AEIS during the registration period.
 </li>
 <li>
 <p>Please upload the following documents in the CP during the registration
-period:
-<br>
-<br>
-</p>
+period:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The applicant's birth certificate. If it is in other languages, please
@@ -46,15 +43,13 @@ image dimension: 410 x 514 px.</p>
 <li>
 <p>(Primary school applicants) The applicant’s statement of results for the
 relevant Cambridge English Qualifications (CEQ) test taken from January
-2024 for 2025 S-AEIS Primary online application. There is no need to submit
+2025 for 2026 S-AEIS Primary online application. There is no need to submit
 the Cambridge English certificate.</p>
 </li>
-<li>
+</ul>
 <p>Additional documents such as marriage certificate that may be required.
 <br>
 </p>
-</li>
-</ul>
 </li>
 <li>
 <p>Make payment for the fees through the preferred mode of credit or debit
