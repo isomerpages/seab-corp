@@ -1010,7 +1010,8 @@ their formats and requirements.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e-Examination guide</p>
+<p><a href="https://youtu.be/Th6K8jXbWSk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1025,7 +1026,8 @@ their formats and requirements.</p>
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e-Examination video guide</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1040,7 +1042,8 @@ their formats and requirements.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e-Examination guide</p>
+<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
