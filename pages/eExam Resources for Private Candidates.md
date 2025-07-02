@@ -795,7 +795,8 @@ their formats and requirements.</p>
 <p>1151</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -807,7 +808,8 @@ their formats and requirements.</p>
 <p>1152</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
