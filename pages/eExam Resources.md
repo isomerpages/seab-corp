@@ -776,8 +776,6 @@ their formats and requirements.</p>
 <br>Malay Language and Literature [Revised]
 <br>Tamil Language and Literature [Revised]</p>
 <p></p>
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">For Candidate Reference</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9575
@@ -788,7 +786,8 @@ their formats and requirements.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
