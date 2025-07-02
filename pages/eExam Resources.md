@@ -1180,8 +1180,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>N(T)-Level</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -1197,17 +1198,23 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/Th6K8jXbWSk" rel="noopener nofollow" target="_blank">English Language Paper 1</a>
-</p>
+<p>English Language Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/Th6K8jXbWSk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1221,6 +1228,10 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1233,6 +1244,10 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1244,6 +1259,9 @@ their formats and requirements.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
