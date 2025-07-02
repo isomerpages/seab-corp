@@ -70,7 +70,7 @@ sections:
   - infopic:
       title: Tests for Admissions, Placement Exercises
       id: infopic
-      description: Find out more about the 2025 registration for admission tests and
+      description: Find out more about the registration for admission tests and
         placement exercises.
       button: View Details
       url: /tests-for-admissions-placement-exercises/
