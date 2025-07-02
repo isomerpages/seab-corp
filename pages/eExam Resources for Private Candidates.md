@@ -443,8 +443,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -457,6 +458,9 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -466,8 +470,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>7155</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -483,8 +493,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -497,6 +508,9 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -506,8 +520,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>9569</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
