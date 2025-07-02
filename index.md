@@ -67,6 +67,15 @@ sections:
       alt: registration
       image: /images/notebook_registration_06.jpg
       url: /updatesforprivatecandidates/
+  - infopic:
+      title: Tests for Admissions, Placement Exercises
+      id: infopic
+      description: Find out more about the registration for admission tests and
+        placement exercises.
+      button: View Details
+      url: /tests-for-admissions-placement-exercises/
+      image: /images/AEIS/AEIS__S_AEIS.jpg
+      alt: admissions
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
