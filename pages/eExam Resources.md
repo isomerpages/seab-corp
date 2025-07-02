@@ -955,8 +955,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Chinese B</a>
-</p>
+<p>Chinese B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -974,8 +973,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Malay B</a>
-</p>
+<p>Malay B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -990,8 +988,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Tamil B</a>
-</p>
+<p>Tamil B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1006,8 +1003,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Exercise and Sports Science</a>
-</p>
+<p>Exercise and Sports Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6081</p>
