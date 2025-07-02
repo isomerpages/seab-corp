@@ -1078,10 +1078,11 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/nahumantiesrevisedssp1guide" rel="noopener nofollow" target="_blank">Humanities Paper 1 Social Studies</a>
-</p>
-<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
-</p>
+<p>Humanities Paper 1</p>
+<p>Social Studies</p>
+<p></p>
+<p>Digital Answer Booklet Video Guide</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2125, 2126, 2127</p>
@@ -1250,4 +1251,5 @@ their formats and requirements.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
