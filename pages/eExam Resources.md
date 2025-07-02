@@ -891,7 +891,11 @@ their formats and requirements.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 <p></p>
+<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
