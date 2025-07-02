@@ -849,8 +849,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>N(A)-Level</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -867,6 +868,9 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -880,6 +884,11 @@ their formats and requirements.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>e-Examination guide</p>
+<p></p>
+<p>e-Examination video guide</p>
 </td>
 </tr>
 <tr>
@@ -895,6 +904,9 @@ their formats and requirements.</p>
 <td rowspan="3" colspan="1">
 <p>2025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -905,6 +917,9 @@ their formats and requirements.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1197</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -917,6 +932,9 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>1198</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -928,8 +946,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
