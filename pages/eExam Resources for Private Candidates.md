@@ -866,8 +866,8 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Humanities Paper 1</p>
-<p>Social Studies</p>
+<p>Humanities Paper 1
+<br>Social Studies</p>
 <p></p>
 <p>Digital Answer Booklet Video Guide</p>
 </td>
@@ -992,8 +992,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://youtu.be/Th6K8jXbWSk" rel="noopener nofollow" target="_blank">English Language Paper 1</a>
-</p>
+<p>English Language Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195</p>
@@ -1008,8 +1007,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener noreferrer nofollow" target="_blank">Music Paper 1</a>
-</p>
+<p>Music Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6129</p>
@@ -1024,8 +1022,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">Science Paper 1</a>
-</p>
+<p>Science Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5148</p>
@@ -1040,8 +1037,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener noreferrer nofollow" target="_blank">Basic Mother Tongue Paper 1</a>
-</p>
+<p>Basic Mother Tongue Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1202, 1203, 1204</p>
