@@ -930,8 +930,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -948,6 +949,9 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -963,6 +967,10 @@ their formats and requirements.</p>
 <td rowspan="3" colspan="1">
 <p>2020</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -974,6 +982,10 @@ their formats and requirements.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1151</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -987,6 +999,10 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>1152</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -999,6 +1015,10 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2019</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -1010,8 +1030,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
