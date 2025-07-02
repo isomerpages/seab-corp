@@ -840,7 +840,7 @@ their formats and requirements.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
