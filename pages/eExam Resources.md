@@ -1217,8 +1217,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">Music Paper 1</a>
-</p>
+<p>Music Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6129</p>
@@ -1233,8 +1232,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">Science Paper 1</a>
-</p>
+<p>Science Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5148</p>
@@ -1249,8 +1247,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">Basic Mother Tongue Paper 1</a>
-</p>
+<p>Basic Mother Tongue Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1202, 1203, 1204</p>
