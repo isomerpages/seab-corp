@@ -1259,7 +1259,8 @@ their formats and requirements.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 </tbody>
