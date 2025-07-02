@@ -767,8 +767,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a>
-</p>
+<p>Chinese B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1153</p>
@@ -783,8 +782,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener noreferrer nofollow" target="_blank">Malay B</a>
-</p>
+<p>Malay B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1151</p>
@@ -796,8 +794,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener noreferrer nofollow" target="_blank">Tamil B</a>
-</p>
+<p>Tamil B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1152</p>
