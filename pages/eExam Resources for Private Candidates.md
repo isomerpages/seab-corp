@@ -471,7 +471,8 @@ their formats and requirements.</p>
 <p>7155</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
