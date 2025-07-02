@@ -802,7 +802,8 @@ their formats and requirements.</p>
 <p>2013</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e-Examination guide</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -814,7 +815,8 @@ their formats and requirements.</p>
 <p>8613</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e-Examination guide</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -826,7 +828,8 @@ their formats and requirements.</p>
 <p>8614</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e-Examination guide</p>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
