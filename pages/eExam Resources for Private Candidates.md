@@ -610,8 +610,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a>
-</p>
+<p>Chinese B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8611</p>
@@ -626,8 +625,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Malay B</a>
-</p>
+<p>Malay B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8613</p>
@@ -639,8 +637,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener noreferrer nofollow" target="_blank">Tamil B</a>
-</p>
+<p>Tamil B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8614</p>
@@ -652,8 +649,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">H2 Music</a>
-</p>
+<p>H2 Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9753</p>
@@ -662,7 +658,7 @@ their formats and requirements.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
