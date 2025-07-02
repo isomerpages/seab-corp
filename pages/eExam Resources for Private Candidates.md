@@ -15,8 +15,9 @@ You will need to download the online guide before you can play the file.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -33,6 +34,9 @@ You will need to download the online guide before you can play the file.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -44,6 +48,9 @@ You will need to download the online guide before you can play the file.</p>
 <td rowspan="3" colspan="1">
 <p>2014</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -52,6 +59,9 @@ You will need to download the online guide before you can play the file.</p>
 <td rowspan="1" colspan="1">
 <p>8613</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -59,6 +69,9 @@ You will need to download the online guide before you can play the file.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8614</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -71,6 +84,9 @@ You will need to download the online guide before you can play the file.</p>
 <td rowspan="3" colspan="1">
 <p>2015</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -78,6 +94,9 @@ You will need to download the online guide before you can play the file.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8656</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -87,8 +106,14 @@ You will need to download the online guide before you can play the file.</p>
 <td rowspan="1" colspan="1">
 <p>8657</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
