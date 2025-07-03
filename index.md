@@ -71,7 +71,8 @@ sections:
   - infopic:
       title: Updates for Private Candidates
       id: infopic
-      description: Find out more about the registration for 2025 GCE-Level examinations.
+      description: Please access this page for the updates about the 2025 GCE-Level
+        examinations.
       button: VIEW DETAILS
       alt: registration
       image: /images/notebook_registration_06.jpg
