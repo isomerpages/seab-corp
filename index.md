@@ -60,14 +60,6 @@ sections:
       url: /important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
-      title: Updates for Private Candidates
-      id: infopic
-      description: Find out more about the registration for 2025 GCE-Level examinations.
-      button: VIEW DETAILS
-      alt: registration
-      image: /images/notebook_registration_06.jpg
-      url: /updatesforprivatecandidates/
-  - infopic:
       title: Tests for Admissions, Placement Exercises
       id: infopic
       description: Find out more about the registration for admission tests and
@@ -76,6 +68,14 @@ sections:
       url: /tests-for-admissions-placement-exercises/
       image: /images/AEIS/AEIS__S_AEIS.jpg
       alt: admissions
+  - infopic:
+      title: Updates for Private Candidates
+      id: infopic
+      description: Find out more about the registration for 2025 GCE-Level examinations.
+      button: VIEW DETAILS
+      alt: registration
+      image: /images/notebook_registration_06.jpg
+      url: /updatesforprivatecandidates/
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
