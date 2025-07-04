@@ -103,7 +103,7 @@ for the examination</p>
 <p>School Name</p>
 </li>
 </ul>
-<h4>3.&nbsp;If you have sat for your examinations using a different identification number or the following examinations</h4>
+<h4>3.&nbsp;If you have sat for your examinations using a different identification number for the following examinations</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>PSLE in 1974 and before</p>

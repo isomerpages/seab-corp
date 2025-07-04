@@ -462,8 +462,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -475,17 +476,26 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">Computing</a>
-</p>
+<p>Computing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7155</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -498,8 +508,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>N-Level</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -511,17 +522,26 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">N(T) CPA</a>
-</p>
+<p>N(T) CPA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7018</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -534,8 +554,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -547,17 +568,26 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>Subject Code</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">Computing</a>
-</p>
+<p>Computing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9569</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/computerbasedpracticalcpacomputingslides" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -578,8 +608,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>A-Level</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -596,16 +627,23 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Translation (Chinese)</a>&nbsp;[Revised]</p>
+<p>Translation (Chinese) [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9571</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -614,8 +652,6 @@ their formats and requirements.</p>
 <br>Malay Language and Literature [Revised]
 <br>Tamil Language and Literature [Revised]</p>
 <p></p>
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">For Candidate Reference</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9575
@@ -625,11 +661,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Chinese B</a>
-</p>
+<p>Chinese B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8611</p>
@@ -637,35 +676,57 @@ their formats and requirements.</p>
 <td rowspan="3" colspan="1">
 <p>2013</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/TkLbeianTl4" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Malay B</a>
-</p>
+<p>Malay B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8613</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/ydkRmpwBpQQ" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">Tamil B</a>
-</p>
+<p>Tamil B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8614</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/Th1HZmNw6ls" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">H2 Music</a>
-</p>
+<p>H2 Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9753</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/-NLvvLkexlA" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -681,6 +742,9 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
@@ -692,15 +756,13 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">China Studies in English</a>
-</p>
-<p></p>
-<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
-</p>
-<p></p>
+<p>China Studies in English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9628</p>
@@ -708,10 +770,17 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>China Studies in Chinese ~&nbsp;</p>
+<p>China Studies in Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9629</p>
@@ -719,8 +788,15 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/tEcApAKiT8U" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -740,8 +816,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -758,11 +835,13 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Chinese B</a>
-</p>
+<p>Chinese B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -773,11 +852,17 @@ their formats and requirements.</p>
 <td rowspan="3" colspan="1">
 <p>2020</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/TkLbeianTl4" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Malay B</a>
-</p>
+<p>Malay B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -785,11 +870,17 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>1151</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/ydkRmpwBpQQ" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Tamil B</a>
-</p>
+<p>Tamil B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -797,17 +888,30 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>1152</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/Th1HZmNw6ls" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">Exercise and Sports Science</a>
-</p>
+<p>Exercise and Sports Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6081</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/tEcApAKiT8U" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -820,8 +924,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -841,8 +951,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>N(A)-Level</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -859,13 +970,15 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://go.gov.sg/nahumantiesrevisedssp1guide" rel="noopener nofollow" target="_blank">Humanities Paper 1 Social Studies</a>
-</p>
-<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">Digital Answer Booklet Video Guide</a>
-</p>
+<p>Humanities Paper 1</p>
+<p>Social Studies</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2125, 2126, 2127</p>
@@ -873,10 +986,17 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/nahumantiesrevisedssp1guide" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese ~</p>
+<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -887,10 +1007,14 @@ their formats and requirements.</p>
 <td rowspan="3" colspan="1">
 <p>2025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/TkLbeianTl4" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay ~</p>
+<p>Malay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -898,16 +1022,24 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>1197</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/ydkRmpwBpQQ" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil ~</p>
+<p>Tamil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1198</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/Th1HZmNw6ls" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -920,8 +1052,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -941,8 +1079,9 @@ their formats and requirements.</p>
 <p></p>
 <p><strong>N(T)-Level</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -958,11 +1097,13 @@ their formats and requirements.</p>
 <th rowspan="1" colspan="1">
 <p>First year of e-Exam</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>e-Exam Resources</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/Th6K8jXbWSk" rel="noopener nofollow" target="_blank">English Language Paper 1</a>
-</p>
+<p>English Language Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195</p>
@@ -970,11 +1111,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/Th6K8jXbWSk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">Music Paper 1</a>
-</p>
+<p>Music Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6129</p>
@@ -982,11 +1126,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">Science Paper 1</a>
-</p>
+<p>Science Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5148</p>
@@ -994,11 +1141,14 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">Basic Mother Tongue Paper 1</a>
-</p>
+<p>Basic Mother Tongue Paper 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1202, 1203, 1204</p>
@@ -1006,10 +1156,18 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsnlevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+</p>
+<p></p>
+<p><a href="https://youtu.be/tEcApAKiT8U" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
