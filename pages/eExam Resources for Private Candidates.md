@@ -722,7 +722,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>China Studies in Chinese ~&nbsp;</p>
+<p>China Studies in Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9629</p>
@@ -731,7 +731,8 @@ their formats and requirements.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://youtu.be/tEcApAKiT8U" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
