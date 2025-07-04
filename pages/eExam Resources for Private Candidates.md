@@ -645,6 +645,9 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
 </p>
+<p></p>
+<p><a href="https://youtu.be/Th1HZmNw6ls" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
