@@ -1,6 +1,6 @@
 ---
-title: About MathsCheckPlus
-permalink: /assessment-for-learning-afl-tools/about-mathscheckplus/
+title: About MathsCheck Plus
+permalink: /assessment-for-learning-afl-tools/about-mathscheck-plus/
 variant: tiptap
 description: ""
 ---
