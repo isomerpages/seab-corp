@@ -1119,7 +1119,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese ~</p>
+<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1131,7 +1131,8 @@ their formats and requirements.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://youtu.be/TkLbeianTl4" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
