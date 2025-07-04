@@ -934,7 +934,8 @@ their formats and requirements.</p>
 <p>1198</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://youtu.be/Th1HZmNw6ls" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
