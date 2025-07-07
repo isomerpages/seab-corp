@@ -4,19 +4,11 @@ permalink: /updatesforprivatecandidates/
 variant: tiptap
 description: Updates for Private Candidates
 ---
-<h4><strong>2025 Updates for Private Candidates - Supplementary Registration</strong></h4>
-<p>If you have missed the main private candidates’ registration exercise
-for the 2025 Singapore-Cambridge GCE-Level examinations earlier, you can
-register for the examinations during the supplementary registration exercise
-from <strong>21 May 2025 (Wednesday), 9.00am to 28 May 2025 (Wednesday), 11.00pm. Registration should be done via the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a>.</strong>
-</p>
-<p>You can only register for subjects examined in the Year-End examinations
-via the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a>.
-Please note that <strong>registration for the Mid-Year Mother Tongue Language examinations is closed.</strong>
-</p>
-<p>Key information about the eligibility criteria, registration guidelines,
-procedures and examination fees are presented below. You should read the
-<a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener noreferrer nofollow" target="_blank">Registration Information e-booklet</a>for the details.</p>
+<h4><strong>2025 Updates for Private Candidates </strong></h4>
+<p>The registration and subject amendments for the 2025 GCE-Level examinations
+for private candidates have ended on 28 May 2025.
+<br>If you would like to register for the 2026 GCE-Level examinations as a
+private candidate, please visit this page in March 2026.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>ELIGIBILITY CRITERIA AND REGISTRATION GUIDELINES</strong>
