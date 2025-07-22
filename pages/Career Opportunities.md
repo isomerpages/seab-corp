@@ -82,7 +82,8 @@ usage, etc.</p>
 <summary><strong>ASSISTANT MANAGER / MANAGER (EXAM SYSTEMS), EXAM OPERATIONS DIVISION – 2 YEAR CONTRACT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Job Responsibilities</p>
+<p><strong>Job Responsibilities</strong>
+</p>
 <p>Successful applicant will play an active role in supporting the conduct
 of e-Examination using SEAB's existing systems for both National and non-National
 Examinations, as well as to provide technical and operational support to
@@ -146,6 +147,71 @@ stakeholders effectively</p>
 <li>
 <p>Self-motivated and proactive individual who is a team player and able
 to adapt well in a fast-paced and volatile environment</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>SENIOR EXECUTIVE / ASSISTANT MANAGER, OFFICE AND ESTATE MANAGEMENT – 2 YEAR CONTRACT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Job Responsibilities</strong>
+</p>
+<p>Successful applicant will play an active role in managing soft services
+through the Integrated Facilities Management (IFM) framework, whilst overseeing
+office administration and coordinating all facility-related events and
+activities. The key responsibilities include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oversee the day-to-day office administration including mail scanning and
+distribution, courier service management, newspapers distribution, pantry
+and stationery supplies, staff workstation, and softphone and landline
+allocations</p>
+</li>
+<li>
+<p>Oversee the day-to-day IFM soft services and relevant process/procedures
+with service providers to ensure service delivery and contractual obligations
+are met. This includes conducting monthly joint inspection, vendor performance
+monitoring, and service quality assessments</p>
+</li>
+<li>
+<p>Manage facility booking and event setup to support the exam operations
+within short turnaround time and assist in the review of existing processes
+to improve its effectiveness</p>
+</li>
+<li>
+<p>Process registry records and new file series in the system, including
+conducting UAT to ensure reliability and functionality</p>
+</li>
+<li>
+<p>Ensure that sufficient pantry and stationery supplies are maintained for
+daily operations</p>
+</li>
+<li>
+<p>Manage contract lifecycle including drafting and renewal processes</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tertiary Qualification in Facilities Management/Engineering or Business
+Administration, with at least 2 years of related working experience</p>
+</li>
+<li>
+<p>Candidates with no working experience can be considered</p>
+</li>
+<li>
+<p>Experience in event management</p>
+</li>
+<li>
+<p>Experience in the management of IFM soft services and office administration
+would be an advantage</p>
+</li>
+<li>
+<p>Possess strong critical thinking, communication, writing, and presentation
+skills</p>
 </li>
 </ul>
 </div>
