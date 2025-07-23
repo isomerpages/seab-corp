@@ -69,7 +69,7 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
+<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
 Mother Tongue Language e-Oral examination to understand the revised examination
 format.</p>
 <h4><strong>Cambridge Subjects</strong></h4>
@@ -167,9 +167,6 @@ format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/NA Lvl Syllabus Private Cddts/2025/2127_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies</u>°<u>, Literature in English)</u></a>
-<a href="/files/NA Lvl Syllabus Private Cddts/2026/2127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,7 +396,7 @@ format.</p>
 </table>
 <p>^ Change is to response format for Paper 2. The new response format requires
 candidates to write their answers on the question paper.
-<br>° Subject/Paper with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+<br>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">

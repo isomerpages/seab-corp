@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Ordinary Level Syllabuses Examined for Private Candidates
 permalink: /gce-o-level/o-level-syllabuses-examined-for-private-candidates-2025/
-variant: tiptap
+variant: markdown
 description: O-Level Syllabuses Examined in 2025 for Private Candidates
 ---
 <p>Here are the 2025 GCE O-Level examination syllabuses that are offered
@@ -113,7 +113,7 @@ follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank"><u>Online Tutorial</u></a> for
+<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank"><u>Online Tutorial</u></a> for
 Mother Tongue Language and Higher Mother Tongue Language e-Oral examination
 to understand the revised examination format.</p>
 <h4><strong>Cambridge Subjects</strong></h4>
@@ -222,8 +222,7 @@ to understand the revised examination format.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Private Cddts/2025/2261_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2261_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u><br></u>
-</a><a href="/files/O Lvl Syllabus Private Cddts/2025/2261_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
+<br><a href="/files/O Lvl Syllabus Private Cddts/2025/2261_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br>[2023]</p>
 </td>
 </tr>

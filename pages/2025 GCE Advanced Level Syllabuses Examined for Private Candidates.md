@@ -103,7 +103,7 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
+<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
 Mother Tongue Language e-Oral examination and <a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</a> to
 understand the revised examination format.</p>
 <h4><strong>Subjects Examined at A- and AO-Levels</strong></h4>
@@ -846,7 +846,7 @@ required:
 </table>
 <p># Last year of exam in 2025.
 <br>* Last year of exam in 2026.
-<br>° Subject with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
+<br>° Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
 details.
 <br><a href="/files/A Level Syllabus Private Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics

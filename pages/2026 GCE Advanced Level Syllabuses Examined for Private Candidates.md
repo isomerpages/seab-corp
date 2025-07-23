@@ -103,7 +103,7 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
+<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
 Mother Tongue Language e-Oral examination and <a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</a> to
 understand the revised examination format.</p>
 <h4><strong>Subjects Examined at A- and AO-Levels</strong></h4>

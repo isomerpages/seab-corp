@@ -4,7 +4,7 @@ permalink: /updatesforprivatecandidates/
 variant: tiptap
 description: Updates for Private Candidates
 ---
-<h4><strong>2025 Updates for Private Candidates </strong></h4>
+<h4><strong>2025 Updates for Private Candidates</strong></h4>
 <p>The registration and subject amendments for the 2025 GCE-Level examinations
 for private candidates have ended on 28 May 2025.
 <br>If you would like to register for the 2026 GCE-Level examinations as a
@@ -198,11 +198,6 @@ your Entry Proof before the examinations.
 <br>
 </p>
 <p>If you have registered for the Science Practical examinations, please
-note that the venues and reporting timings are not indicated on your Entry
-Proof as the information will only be made available at least 7 days before
-each of your examinations via email. Please refer below for more information.
-<br>
-<br>If you have registered for the Science Practical examinations, please
 note that the venues and reporting timings are not indicated on your Entry
 Proof as the information will only be made available at least 7 days before
 each of your examinations via email. Please refer below for more information.</p>
