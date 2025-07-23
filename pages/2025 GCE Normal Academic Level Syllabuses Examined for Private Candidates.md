@@ -69,7 +69,7 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
+<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
 Mother Tongue Language e-Oral examination to understand the revised examination
 format.</p>
 <h4><strong>Cambridge Subjects</strong></h4>
