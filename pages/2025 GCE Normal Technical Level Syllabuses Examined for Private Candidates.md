@@ -80,7 +80,7 @@ conducted in the e-Examination format (for example, e-Oral).</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank"><u>Online Tutorial</u></a> for
+<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank"><u>Online Tutorial</u></a> for
 Mother Tongue Language e-Oral examination to understand the revised examination
 format.</p>
 <h4><strong>Cambridge Subjects</strong></h4>
