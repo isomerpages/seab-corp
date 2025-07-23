@@ -396,7 +396,7 @@ format.</p>
 </table>
 <p>^ Change is to response format for Paper 2. The new response format requires
 candidates to write their answers on the question paper.
-<br>° Subject/Paper with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+<br>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
