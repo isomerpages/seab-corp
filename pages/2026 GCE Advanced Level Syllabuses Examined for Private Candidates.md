@@ -1092,5 +1092,5 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tbody>
 </table>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
-register for Mother Tongue Language Syllabus B can write to <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
+register for Mother Tongue Language Syllabus B can write to <a href="https://www.go.gov.sg/askus-seab" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
 their request.</p>
