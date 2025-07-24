@@ -607,7 +607,7 @@ to understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p>° Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+<p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
@@ -852,6 +852,6 @@ details.</p>
 </tbody>
 </table>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
-register for Mother Tongue Language Syllabus B can write to <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
+register for Mother Tongue Language Syllabus B can write to <a href="https://www.go.gov.sg/askus-seab" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
 their request.</p>
 <p></p>
