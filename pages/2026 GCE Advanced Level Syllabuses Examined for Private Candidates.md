@@ -909,7 +909,7 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p>° Subject with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+<p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.
 <br>* Last year of exam in 2026.&nbsp;
 <br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
