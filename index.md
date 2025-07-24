@@ -60,15 +60,6 @@ sections:
       url: /important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
-      title: Tests for Admissions, Placement Exercises
-      id: infopic
-      description: Find out more about the registration for admission tests and
-        placement exercises.
-      button: View Details
-      url: /tests-for-admissions-placement-exercises/
-      image: /images/AEIS/AEIS__S_AEIS.jpg
-      alt: admissions
-  - infopic:
       title: Updates for Private Candidates
       id: infopic
       description: Please access this page for the updates about the 2025 GCE-Level

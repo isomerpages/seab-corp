@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Ordinary Level Syllabuses Examined for Private Candidates
 permalink: /gce-o-level/o-level-syllabuses-examined-for-private-candidates-2025/
-variant: markdown
+variant: tiptap
 description: O-Level Syllabuses Examined in 2025 for Private Candidates
 ---
 <p>Here are the 2025 GCE O-Level examination syllabuses that are offered
@@ -938,5 +938,5 @@ candidates to write answers on the question paper.</p>
 </tbody>
 </table>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
-register for Mother Tongue Language Syllabus B can write to <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
+register for Mother Tongue Language Syllabus B can write to <a href="https://www.go.gov.sg/askus-seab" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
 their request.</p>

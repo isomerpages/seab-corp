@@ -1,7 +1,7 @@
 ---
 title: 2025 GCE Advanced Level Syllabuses Examined for School Candidates
 permalink: /gce-a-level/a-level-syllabuses-examined-for-school-candidates-2025/
-variant: markdown
+variant: tiptap
 description: 2025 GCE Advanced Level Syllabuses Examined for School Candidates
 ---
 <p>Here are the 2025 GCE A-Level examination syllabuses that are offered
@@ -402,7 +402,9 @@ from SEAB.</p>
 <p>9173</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9173_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;| <a href="/files/A Level Syllabus Sch Cddts/2025/9173_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9173_y24_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>&nbsp;|
+<a href="/files/A Level Syllabus Sch Cddts/2025/9173_y24_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
+</a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2025/9173_y24_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;|
 <a href="/files/A Level Syllabus Sch Cddts/2025/9173_y24_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Insert</u>
 </a>
@@ -592,7 +594,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a> °</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2025/9628_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in English</u></a>°</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -830,7 +832,7 @@ from SEAB.</p>
 <p>** Last year of exam in 2025; for JC2 repeats and CI3 candidates only.
 <br># Last year of exam in 2025.
 <br>* Last year of exam in 2026.
-<br>° Subject with e-Examination. Refer to <a href="https://staging.d3lmfx40ccc97d.amplifyapp.com/e-exam-resources/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
+<br>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.
 <br><a href="/files/A Level Syllabus Sch Cddts/2025/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
