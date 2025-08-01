@@ -16,7 +16,7 @@ schools closer to the date of the exercise each year. Prior to the announcement,
 you can refer to the tentative dates of the exercise on&nbsp;<a href="/important-dates-for-candidates" rel="noopener nofollow" target="_blank">SEAB's website</a>.</p>
 <p></p>
 <p>You are to return to your school on the day of the results release to
-collect your results.
+receive your results.
 <br>
 <br>If you are unavailable on the day of the results release, please appoint
 a proxy and inform your school in advance of the arrangement.</p>
@@ -28,8 +28,9 @@ a proxy and inform your school in advance of the arrangement.</p>
 <p>
 <br>You will be able to submit your appeal for a review of your Mid-Year Mother
 Tongue Language (MTL) examination results and make the payment through
-your schools. More details regarding the appeal process and fees will be
-provided on the day of each year's Mid-Year MTL results release.
+<a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u>
+</a>. More details regarding the appeal process and fees will be provided
+on the day of each year's Mid-Year MTL results release.
 <br>
 </p>
 <p><strong>Appeal Outcome</strong>
