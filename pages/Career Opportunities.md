@@ -147,7 +147,7 @@ skills</p>
 <summary><strong>ASSISTANT MANAGER / MANAGER, CORPORATE COMMUNICATIONS AND PARTNERSHIP – 2 YEAR CONTRACT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Job Responsibilities </strong>
+<p><strong>Job Responsibilities</strong>
 </p>
 <p>Successful applicant will play an active role in maintaining SEAB’s image
 as a trusted authority in examinations and assessment, and as an organisation
@@ -197,8 +197,10 @@ groups of visitors and customers is advantageous</p>
 <li>
 <p>Familiar with the Customer Relation Management Systems such as Call Management
 Systems, Case Management Systems, and with the use of Microsoft Office
-applications e.g., Microsoft Excel. Experience in Robotic Process Automation
-is advantageous</p>
+applications e.g., Microsoft Excel.</p>
+</li>
+<li>
+<p>Experience in Robotic Process Automation is advantageous</p>
 </li>
 <li>
 <p>Possess strong communication, stakeholder engagement, customer service
