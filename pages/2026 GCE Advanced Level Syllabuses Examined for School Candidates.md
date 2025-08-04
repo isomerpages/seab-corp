@@ -499,6 +499,10 @@ from SEAB.</p>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sp_4.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 4</u></a>
+</p>
+<p><a href="https://go.gov.sg/h2physics9478paper4q2bdataset" rel="noopener nofollow" target="_blank">Data File</a>
+</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/SEAB_9478_Physics_Excel_Reference_Guide_2026_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Excel Reference Guide</u></a>
 <br>[2025]</p>
 </td>
 </tr>
