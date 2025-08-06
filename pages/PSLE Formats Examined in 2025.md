@@ -7,7 +7,7 @@ description: PSLE Formats Examined in 2025
 <p>Here are the 2025 PSLE examination formats.</p>
 <p>Please note that from 2017, the oral examination for both Standard and
 Foundation Mother Tongue Languages will be conducted in the e-Examination
-format. Check out this <a href="https://spitbreak.github.io/eoral.seab/" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> to
+format. Check out this <a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank"><u>online tutorial</u></a> to
 understand the revised examination format.</p>
 <table style="minWidth: 75px">
 <colgroup>
