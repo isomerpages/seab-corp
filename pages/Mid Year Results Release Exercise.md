@@ -27,10 +27,10 @@ a proxy and inform your school in advance of the arrangement.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 <br>You will be able to submit your appeal for a review of your Mid-Year Mother
-Tongue Language (MTL) examination results and make the payment through
-<a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u>
-</a>. More details regarding the appeal process and fees will be provided
-on the day of each year's Mid-Year MTL results release.
+Tongue Language (MTL) examination results through your schools and make
+the payment through <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Candidates Portal</u></a>. More
+details regarding the appeal process and fees will be provided on the day
+of each year's Mid-Year MTL results release.
 <br>
 </p>
 <p><strong>Appeal Outcome</strong>
