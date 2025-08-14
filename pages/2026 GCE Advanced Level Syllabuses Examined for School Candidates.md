@@ -1509,4 +1509,5 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://go.gov.sg/datasetq2b" rel="noopener nofollow" target="_blank">Data File</a>
+</p>
