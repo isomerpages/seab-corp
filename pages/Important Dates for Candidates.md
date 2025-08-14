@@ -175,7 +175,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <p>25 February – 27 February 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 August – 25 August 2025</p>
+<p>21 August 2025</p>
 </td>
 </tr>
 </tbody>
