@@ -71,7 +71,8 @@ sections:
   - infopic:
       title: Train Disruption Advice
       id: infopic
-      description: Please refer to this page for information on train disruption.
+      description: Please refer to this page if you are affected by a train service
+        disruption
       button: VIEW DETAILS
       url: /train-disruption-advice/
       image: /images/traindistruptionadvice.png
