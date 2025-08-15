@@ -80,7 +80,7 @@ available below.</p>
 <a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Train Disruption Image" src="/images/traindistruptionadvice.png">
+<img style="width: 100%" height="auto" width="100%" alt="Train Disruption Image" src="/images/train_mrt.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

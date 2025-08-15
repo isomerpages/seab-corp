@@ -62,12 +62,21 @@ sections:
   - infopic:
       title: Updates for Private Candidates
       id: infopic
-      description: Please access this page for the updates about the 2025 GCE-Level
+      description: Please access this page for updates about the 2025 GCE-Level
         examinations.
       button: VIEW DETAILS
       alt: registration
       image: /images/notebook_registration_06.jpg
       url: /updatesforprivatecandidates/
+  - infopic:
+      title: Train Disruption Advice
+      id: infopic
+      description: Please refer to this page if you are affected by a train service
+        disruption
+      button: VIEW DETAILS
+      url: /train-disruption-advice/
+      image: /images/train_mrt.jpg
+      alt: train disruption
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST

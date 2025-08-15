@@ -162,17 +162,19 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tentative dates of 2025 Results Release^</strong>
+<p><strong>Dates of 2025 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 December – 22 December 2025</p>
+<p>Tentative:
+<br>18 December – 22 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 January – 16 January 2026</p>
+<p>Tentative:
+<br>14 January – 16 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 February – 27 February 2026</p>
+<p>Tentative:25 February – 27 February 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 August 2025</p>
