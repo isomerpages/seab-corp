@@ -75,7 +75,7 @@ sections:
         disruption
       button: VIEW DETAILS
       url: /train-disruption-advice/
-      image: /images/traindistruptionadvice.png
+      image: /images/train_mrt.jpg
       alt: train disruption
   - resources:
       title: 📰 Highlights & News
