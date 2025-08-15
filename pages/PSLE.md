@@ -57,7 +57,7 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">Distributors of Past Years' Papers</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="train disruption" src="/images/traindistruptionadvice.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Train Disruption Advice</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/train-disruption-advice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="train disruption" src="/images/train_mrt.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Train Disruption Advice</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/result-slips-examination-certificates-for-psle-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
