@@ -60,15 +60,6 @@ sections:
       url: /important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
-      title: Train Disruption Advice
-      id: infopic
-      description: Please read the instructions for examination candidates affected by
-        a train service disruption.
-      button: VIEW DETAILS
-      url: /train-disruption-advice/
-      image: /images/traindistruptionadvice.png
-      alt: Image alt text
-  - infopic:
       title: Updates for Private Candidates
       id: infopic
       description: Please access this page for updates about the 2025 GCE-Level
@@ -77,6 +68,14 @@ sections:
       alt: registration
       image: /images/notebook_registration_06.jpg
       url: /updatesforprivatecandidates/
+  - infopic:
+      title: Train Disruption Advice
+      id: infopic
+      description: Please refer to this page for information on train disruption.
+      button: VIEW DETAILS
+      url: /train-disruption-advice/
+      image: /images/traindistruptionadvice.png
+      alt: train disruption
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
