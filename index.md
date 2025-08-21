@@ -89,4 +89,11 @@ sections:
         to find answers to your queries.
       button: 🔎 View FAQ
       url: https://ask.gov.sg/seab
+  - infobar:
+      title: ▶️ SEAB is on YouTube!
+      id: infobar
+      description: Watch informative videos covering national examinations and
+        behind-the-scenes stories from SEAB.
+      button: 👉🏻 CHECK IT OUT!
+      url: https://www.youtube.com/@SEAB_SG
 ---
