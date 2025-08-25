@@ -15,8 +15,8 @@ PSLE results.</p>
 <h3><strong>Digitised Examination Results Through MySkillsFuture Portal</strong></h3>
 <p>Past years' PSLE results from 1976 and GCE-Level examination results from
 1975 are available in digital form at no cost. They can be retrieved online
-through the MySkillsFuture portal or mobile application (see Table 1 below).
-You would need a Singpass account for access.</p>
+through the MySkillsFuture portal (see Table 1 below). You would need a
+Singpass account for access.</p>
 <p>The digitised results are secured with tamper-resistant encryptions and
 allow for secure verification. Any modified document(s) will fail the verification
 process and will be flagged as being tampered with.</p>

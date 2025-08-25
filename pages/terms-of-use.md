@@ -24,7 +24,7 @@ Thank you for visiting this Website. By accessing and using this Website, you sh
 1.   The Contents of this Web Site are provided on an "as is" basis without any warranties of any kind. To the fullest extent permitted by law, SEAB does not warrant and hereby disclaims any warranty.
 2.   As to the accuracy, correctness, reliability, non-infringement, title, merchantability, or fitness for any particular purpose of the Contents of this Web Site;
 3.   That the Contents are available this Web Site or any functions associated will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements
-4.   For any feedback on our data protection policies and procedures, you may wish to contact our QSM at Tel: 6377 7553 / Email: [seab\_qsm@seab.gov.sg](mailto:seab_qsm@seab.gov.sg).
+4.   For any feedback on our data protection policies and procedures, you may wish to contact our QSM at [seab\_qsm@seab.gov.sg](mailto:seab_qsm@seab.gov.sg).
 5.   SEAB shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
 #### **Right of Access**
