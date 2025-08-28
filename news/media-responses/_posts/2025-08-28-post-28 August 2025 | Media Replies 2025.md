@@ -36,8 +36,8 @@ their perspectives. Should students require support during the conversations,
 the oral examiners will provide additional prompts and students will not
 be penalised.</p>
 <p><strong>Mr Yue Lip Sin</strong>
-</p>
-<p><strong>Chief Executive, Singapore Examinations and Assessment Board</strong>
+<br>
+<strong>Chief Executive, Singapore Examinations and Assessment Board</strong>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
