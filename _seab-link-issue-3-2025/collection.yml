@@ -2,6 +2,7 @@ collections:
   seab-link-issue-3-2025:
     output: true
     order:
+      - Development of 21CC through the Revised GCE A Level Project Work.md
       - "Improvements to Access Arrangements in National Examinations:
         Implementation of Buzzer Devices.md"
       - 2025 Singapore Cambridge Consultative Committee Meeting.md
