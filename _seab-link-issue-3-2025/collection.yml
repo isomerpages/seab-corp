@@ -2,6 +2,7 @@ collections:
   seab-link-issue-3-2025:
     output: true
     order:
+      - 2025 Singapore Cambridge Consultative Committee Meeting.md
       - "26th AFELTA: Embracing AI in Language Testing and Assessment.md"
       - SEAB Hosts MOE Assessment Champions Networked Learning Community (NLC).md
       - SEAB Showcases Adaptive Testing Tools to Educators.md
