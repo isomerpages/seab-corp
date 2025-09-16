@@ -2,6 +2,9 @@ collections:
   seab-link-issue-3-2025:
     output: true
     order:
+      - Editor's Note.md
+      - H2 China Studies in English and China Studies in Chinese 1st Hybrid
+        eWritten exams for Humanities.md
       - Development of 21CC through the Revised GCE A Level Project Work.md
       - "Improvements to Access Arrangements in National Examinations:
         Implementation of Buzzer Devices.md"
@@ -15,7 +18,4 @@ collections:
       - Meaningful Engagements at SEAB.md
       - 2025 SEAB Seminar Empower and Elevate.md
       - SEABlebrating SG60 A Reel Good Time.md
-      - Editor's Note.md
-      - H2 China Studies in English and China Studies in Chinese 1st Hybrid
-        eWritten exams for Humanities.md
       - From Kitchen to Community SEAB's Volunteering at Willing Hearts.md
