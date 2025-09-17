@@ -79,7 +79,6 @@ sections:
       alt: train disruption
   - infopic:
       title: SEAB Annual Report 2024/2025
-      subtitle: ""
       id: infopic
       description: Read more about SEAB's Annual Report for 2024/2025
       button: View details
