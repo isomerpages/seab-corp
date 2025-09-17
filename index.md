@@ -77,6 +77,14 @@ sections:
       url: /train-disruption-advice/
       image: /images/train_mrt.jpg
       alt: train disruption
+  - infopic:
+      title: SEAB Annual Report 2024/2025
+      id: infopic
+      description: Read more about SEAB's Annual Report for 2024/2025
+      button: View details
+      url: https://go.gov.sg/seabannualreport2024-2025
+      image: /images/2024AR_cover.png
+      alt: SEAB Annual Report 2024/2025
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
