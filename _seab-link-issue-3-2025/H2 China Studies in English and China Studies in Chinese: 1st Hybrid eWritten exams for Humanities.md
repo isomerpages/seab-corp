@@ -15,6 +15,12 @@ Answer Booklet (DAB).&nbsp; &nbsp;</p>
 sessions were conducted in April this year. These practice sessions were
 designed to familiarise candidates with their respective examination formats
 before the year-end examinations.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="practice session at YIJC" src="/images/SEABlink/IMG20250422104604__1_.jpg">
+</div>
+<p><em>A CSE practice session at Yishun Innova Junior College</em>
+</p>
 <p>The shift to electronic examinations for CSE and CSC is driven by three
 key factors: First, candidates are already well-prepared through their
 regular use of the Singapore Student Learning Space (SLS) and Personal
@@ -23,6 +29,11 @@ offers valuable editing capabilities that help candidates better plan,
 organise, and refine their essays for improved clarity and coherence. Finally,
 this transition helps prepare candidates for the digital nature of the
 modern workplace, preparing our students for the world of work.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cover page of Digital Answer Booklet" src="/images/SEABlink/IMG_3716.jpg">
+</div>
+<p><em>Cover page of the CSE DAB&nbsp;</em>
+</p>
 <p>The CSE e-written examination practice sessions were successfully conducted
 with 137 candidates from Anglo-Chinese Junior College, Jurong Pioneer Junior
 College, Victoria Junior College, and Yishun Innova Junior College. The
@@ -36,7 +47,13 @@ which enabled them to easily track and return to partially completed or
 questions not attempted, so that they could return to them easily. Majority
 of the students liked the experience of taking the computer-based exam
 and prefer it to paper-based exams.</p>
-<p>A total of 164 candidates from Dunman High School, Eunoia Junior College,
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
+</div>
+<p>A candidate planning his responses using the hardcopy question paper.&nbsp;</p>
+<p>A candidate planning his responses using the hardcopy question paper&nbsp;
+total of 164 candidates from Dunman High School, Eunoia Junior College,
 Hwa Chong Institution, and River Valley High School participated in the
 CSC e-written examination practice sessions.&nbsp; Most candidates expressed
 comfort with typing in Chinese Language and preferred taking the examination
