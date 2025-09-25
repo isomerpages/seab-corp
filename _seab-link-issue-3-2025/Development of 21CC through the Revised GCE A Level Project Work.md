@@ -26,6 +26,11 @@ Authority (LTA), the Ministry of Sustainability and the Environment (MSE)
 and the National Volunteer &amp; Philanthropy Centre (NVPC). PW not only
 enhances students’ joy of learning but also heightens their awareness of
 nationally significant issues.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="students in project work discussion" src="/images/SEABlink/Stock___2024___Catholic_JC_23__1_.jpg">
+</div>
+<p><em>Project Work brings students and teacher together in meaningful dialogue. (Photo Source: MOE)&nbsp;</em>
+</p>
 <p>Working in groups of four to five, the first cohort of revised PW students
 in 2024 relished the freedom offered by the new open task format to explore
 topics of their interest. Empowered to exercise greater agency and ownership
@@ -35,6 +40,11 @@ thinking. Such interest-driven efforts are evident in projects ranging
 from sustainable clothing choices and cat abandonment to sleep deprivation
 and financial literacy for the young. Working in groups naturally fosters
 collaborative skills as students work towards a common goal.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="word cloud" src="/images/SEABlink/word_cloud_on_revised_pw.png">
+</div>
+<p><em>Word cloud derived from student survey responses regarding the revised PW.</em>
+</p>
 <p>The introduction of GRQ in OP further promotes collaborative learning,
 critical thinking, and communication skills, better preparing students
 for future academic and professional environments. Students must exercise
