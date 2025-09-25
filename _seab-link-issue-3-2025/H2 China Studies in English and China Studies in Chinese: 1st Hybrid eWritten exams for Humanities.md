@@ -51,10 +51,11 @@ and prefer it to paper-based exams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
 </div>
-<p>A candidate planning his responses using the hardcopy question paper.&nbsp;</p>
+<p><em>A candidate planning his responses using the hardcopy question paper.&nbsp;</em>
+</p>
 <p></p>
 <p>&nbsp;A total of 164 candidates from Dunman High School, Eunoia Junior
-College, Hwa Chong Institution, and River Valley High Schoo participated
+College, Hwa Chong Institution, and River Valley High School participated
 in the CSC e-written examination practice sessions.&nbsp; Most candidates
 expressed comfort with typing in Chinese Language and preferred taking
 the examination on a computer rather than writing on paper. They appreciated
