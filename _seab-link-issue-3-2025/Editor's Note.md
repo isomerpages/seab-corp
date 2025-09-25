@@ -4,6 +4,10 @@ permalink: /editor-s-note/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab-link issue 3" src="/images/SEABlink/seablings.png">
+</div>
 <p>Dear Readers,&nbsp;</p>
 <p>Welcome to the September 2025 edition of SEAB-link! This issue features
 14 articles highlighting key developments and initiatives that are shaping
