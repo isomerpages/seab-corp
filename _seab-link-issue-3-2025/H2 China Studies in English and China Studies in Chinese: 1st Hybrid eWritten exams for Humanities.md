@@ -51,13 +51,22 @@ and prefer it to paper-based exams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
 </div>
-<p>A total of 164 candidates from Dunman High School, Eunoia Junior College,
-Hwa Chong Institution, and River Valley High Schoo participated in the
-CSC e-written examination practice sessions.&nbsp; Most candidates expressed
-comfort with typing in Chinese Language and preferred taking the examination
-on a computer rather than writing on paper. They appreciated the ease of
-editing and organising their responses in the DAB.</p>
-<p>The practice sessions for both China Studies in English and China Studies
+<p>A candidate planning his responses using the hardcopy question paper.&nbsp;</p>
+<p></p>
+<p>&nbsp;A total of 164 candidates from Dunman High School, Eunoia Junior
+College, Hwa Chong Institution, and River Valley High Schoo participated
+in the CSC e-written examination practice sessions.&nbsp; Most candidates
+expressed comfort with typing in Chinese Language and preferred taking
+the examination on a computer rather than writing on paper. They appreciated
+the ease of editing and organising their responses in the DAB.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CSC students practice session at Hwa Chong" src="/images/SEABlink/CSC_PS_02.jpg">
+</div>
+<p></p>
+<p><em>Candidates taking CSC practice session paper at Hwa Chong Institution.&nbsp;</em>
+</p>
+<p>he practice sessions for both China Studies in English and China Studies
 in Chinese proved highly successful, with candidates demonstrating confidence
 and competence in navigating their respective examination formats. Students'
 positive experience and readiness to handle the hybrid e-Exam format bode
