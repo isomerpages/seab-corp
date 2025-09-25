@@ -30,7 +30,7 @@ organise, and refine their essays for improved clarity and coherence. Finally,
 this transition helps prepare candidates for the digital nature of the
 modern workplace, preparing our students for the world of work.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cover page of Digital Answer Booklet" src="/images/SEABlink/IMG_3716.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="cover page of Digital Answer Booklet" src="/images/SEABlink/IMG_3716.jpg">
 </div>
 <p><em>Cover page of the CSE DAB&nbsp;</em>
 </p>
@@ -49,12 +49,10 @@ of the students liked the experience of taking the computer-based exam
 and prefer it to paper-based exams.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
 </div>
-<p>A candidate planning his responses using the hardcopy question paper.&nbsp;</p>
-<p>A candidate planning his responses using the hardcopy question paper&nbsp;
-total of 164 candidates from Dunman High School, Eunoia Junior College,
-Hwa Chong Institution, and River Valley High School participated in the
+<p>A total of 164 candidates from Dunman High School, Eunoia Junior College,
+Hwa Chong Institution, and River Valley High Schoo participated in the
 CSC e-written examination practice sessions.&nbsp; Most candidates expressed
 comfort with typing in Chinese Language and preferred taking the examination
 on a computer rather than writing on paper. They appreciated the ease of
