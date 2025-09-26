@@ -14,14 +14,14 @@ language testing, as well as the responsible and sustainable use of AI
 in diverse educational and policy contexts. The forum, hosted by Shanghai
 International Studies University (SISU), was held from 21 to 22 August
 2025 in Shanghai.&nbsp;</p>
-<p>Dr. Xun Yan, Professor of Linguistics, Second Language Acquisition and
+<p>Dr. Yan Xun, Professor of Linguistics, Second Language Acquisition and
 Teacher Education, and Educational Psychology at University of Illinois
 at Urbana-Champaign delivered the keynote speech on recent developments
 in AI-empowered language testing and assessment across four key domains:
 automated item generation and delivery, automated scoring, test security,
 and adaptive testing.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="speaker" src="/images/SEABlink/8_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="speaker" src="/images/SEABlink/8_1.png">
 </div>
 <p><em>Dr. Yan Xun sharing his valuable insights with the AFELTA delegates</em>
 </p>
@@ -50,21 +50,21 @@ of immediate and customised feedback to students.&nbsp;</p>
 <br>The SEAB team also gleaned valuable insights into ongoing research and
 studies pertaining to English Language testing in other countries.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="shanghai speaker" src="/images/SEABlink/8_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="shanghai speaker" src="/images/SEABlink/8_2.png">
 </div>
 <p>For example, Shanghai International Studies University (SISU), having
 explored the integration of Artificial Intelligence into the development
 and validation of its Test for English Majors (TEM), shared the potential
 and limitations of this approach.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="HK speaker" src="/images/SEABlink/9_1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="HK speaker" src="/images/SEABlink/9_1.png">
 </div>
 <p>The Hong Kong Examinations and Assessment Authority (HKEAA) shared its
 exploration of transitioning the delivery mode of its speaking paper from
 face-to-face to an Internet-Delivered Speaking Test using a video conferencing
 platform.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Korea speaker" src="/images/SEABlink/9_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Korea speaker" src="/images/SEABlink/9_2.png">
 </div>
 <p>The Korea English Language Testing Association (KELTA) shared its findings
 on the potential of AI and immersive environments in enhancing descriptive
@@ -89,7 +89,7 @@ fundamental issues and ethical considerations in leveraging AI in language
 testing assessment as well as opportunities to network with researchers
 and practitioners across Asia.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="seab team" src="/images/SEABlink/IMG_20250822_WA0001.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="seab team" src="/images/SEABlink/IMG_20250822_WA0001.jpg">
 </div>
 <p><em>The SEAB team with the Korean and Hong Kong delegates at the conference dinner</em>
 </p>
@@ -110,3 +110,8 @@ them on their 30th Anniversary. She extended her sincere gratitude to our
 Chief Executive, Mr Yue Lip Sin and staff of SEAB. We hope to continue
 to strengthen the bonds and close network that we have established in the
 coming years.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="gift to smeea" src="/images/SEABlink/7_1.png">
+</div>
+<p><em>Mr Andrew Leo and Ms Serene Tan, SEAB presenting the 30<sup>th</sup> Anniversary gift and congratulatory letter to Ms Zhang Po, Centre Director of SMEEA.</em>
+</p>
