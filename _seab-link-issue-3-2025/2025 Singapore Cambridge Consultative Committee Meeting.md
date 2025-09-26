@@ -27,7 +27,23 @@ learning and assessment, and educational reforms in both countries. The
 meeting also discussed efforts by education systems on both sides to improve
 student health and wellbeing as well as addressed curriculum and assessment
 approaches for climate change and sustainability education.&nbsp;</p>
-<p>As part of the CCM to showcase the local education and educational initiatives,
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="delegation" src="/images/SEABlink/Photo_1.jpg">
+</div>
+<p><em>The Singapore delegation sharing recent educational moves to nurture the joy of learning.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOE" src="/images/SEABlink/Photo_2.jpg">
+</div>
+<p><em>MOE senior management participated virtually in the meeting on educational initiatives.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="virtual" src="/images/SEABlink/Photo_3.jpg">
+</div>
+<p><em>Dr Ryan Chow from SEAB updated the meeting on auto-marking initiative.</em>
+</p>
+<p>
+<br>As part of the CCM to showcase the local education and educational initiatives,
 Cambridge arranged visits to a school and research institute. The Singapore
 delegation visited Long Road Sixth Form College on the first day of its
 Open House, where the college was expecting about 9,000 parents and their
@@ -42,6 +58,11 @@ achievement rates. The college was rated by the UK’s Ofsted as ‘Good’ in
 its overall effectiveness in teaching, learning and assessment. Notably,
 it has been successful in supporting high-needs students, who make good
 progress and outperform their peers.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="showcase" src="/images/SEABlink/ccm1.png">
+</div>
+<p><em>College key personnel with the Singapore delegation during the campus tour.</em>
+</p>
 <p>Another visit was made to the Scott Polar Research Institute (SPRI), established
 in 1920 as part of the University of Cambridge. Dr David Waterhouse, the
 curator of SPRI, hosted the Singapore delegation. As he guided the delegates
@@ -51,9 +72,20 @@ in their quest to better understand the polar regions. With his good-natured
 humour, he clarified the common misconception that polar bears and penguins
 live together. In fact, they never naturally encounter each other, as polar
 bears are found in the Arctic while penguins live in the Antarctic.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="showcase" src="/images/SEABlink/ccm2.png">
+</div>
+<p><em>The Singapore delegation exploring exhibits about the Arctic and Antarctic at The Scott Polar Research Institute.</em>
+</p>
 <p>The 2025 CCM concluded with a successful and enjoyable meeting of educational
 partners who engaged in in-depth discussions and exchanged ideas about
 current and future developments in education and assessments. This platform
 has cemented and will continue to strengthen the professional working relationships
 and friendships that the educational partners have established.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="delegation2" src="/images/SEABlink/Photo_8.jpg">
+</div>
+<p><em>Looking forward to next year's CCM to be hosted by SEAB in Singapore.</em>
+</p>
+<p></p>
 <p>&nbsp;</p>
