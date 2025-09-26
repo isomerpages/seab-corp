@@ -57,14 +57,19 @@ different organisations <em>empower</em> their people and <em>elevate</em> their
 capabilities through innovation. Special thanks go to our hosts for their
 warm hospitality and for curating such rich and engaging experiences.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech LJ" src="/images/SEABlink/17.png">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="URA LJ" src="/images/SEABlink/18_2.png">
+</div>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><em>SEAB staff at the engaging learning journeys at GovTech, URA and PSA</em>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSA LJ" src="/images/SEABlink/18_1.png">
+</div>
+<p>&nbsp;<em>SEAB staff at the engaging learning journeys at GovTech, URA and PSA</em>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <h4><strong>Keynote Sharing by GovTech: AI in the Future of Assessment</strong>&nbsp;</h4>
 <p>The afternoon seminar opened with Mr John Soh, Lead Data Scientist, DXD,
 and Ms Irene Lam, Deputy Director, DXD, from GovTech, who spoke on <em>“Rethinking Exams: How Artificial Intelligence Can Shape the Future of Assessment.” </em>They
@@ -75,9 +80,11 @@ and generates actionable insights. By reducing repetitive workload, these
 innovations empower assessment officers to focus on higher-value work that
 demands human judgment and expertise. The session concluded with a forward-looking
 prose on how AI could elevate assessment practices and enable SEAB to stay
-ahead in a rapidly evolving assessment landscape.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;</p>
+ahead in a rapidly evolving assessment landscape.&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech speakers" src="/images/SEABlink/16_2.png">
+</div>
 <p><em>Speakers John Soh and Irene Lam from GovTech sharing about use of AI</em>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><strong>Hands-on AI Sessions by Research and Development Division</strong>&nbsp;</h4>
@@ -103,12 +110,14 @@ responsiveness, regardless of technical background.&nbsp;</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;<em>&nbsp;&nbsp;&nbsp; </em>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI" src="/images/SEABlink/15_1.png">
+</div>
 <p><em>“See, no need to type!”</em>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><em>SEAB staff learning to use AI chatbots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="chatbot" src="/images/SEABlink/15_2.png">
+</div>
+<p>&nbsp;<em>SEAB staff learning to use AI chatbots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><strong>Culture Traits Engagement</strong>&nbsp;</h4>
 <p>Following the AI sessions, the HR Department led an engagement exercise
@@ -121,10 +130,10 @@ in the future. SEAB staff identified the traits they believed would empower
 individuals and teams to work more effectively and elevate SEAB’s ability
 to scale the next S-curve. The inputs were then consolidated for management’s
 decision of the refreshed cultural traits.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="culture traits discussion" src="/images/SEABlink/16_1.png">
+</div>
 <p><em>Staff engaged in discussions about SEAB’s cultural traits</em>&nbsp;</p>
 <p>&nbsp;</p>
 <h4><strong>Reflection and Dialogue with Senior Management</strong>&nbsp;</h4>
@@ -136,8 +145,11 @@ collective desire to elevate the organisation’s impact and shape a workplace
 that cares for its people. The key questions were addressed by senior management
 which reinforced a shared commitment to listening, learning, and adapting
 together.&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</p>
-<p><em>Senior management answering various questions posed</em>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="senior management talk" src="/images/SEABlink/19_1.png">
+</div>
+<p>&nbsp;&nbsp; <em>Senior management answering various questions posed</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The Seminar concluded with group photos, marking the end of a purposeful
 afternoon. The conversations, skills, and ideas shared at the 2025 SEAB
@@ -146,13 +158,9 @@ As we move forward under the theme <em>“Empower and Elevate”</em>, SEAB
 staff are encouraged to apply new tools, embody our evolving culture traits,
 and work together to advance SEAB’s mission with confidence and ambition.&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Grateful for another successful run of the seminar!&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Related reads: Page 26 <a href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="Hyperlink SCXW156873435 BCX8" rel="noreferrer noopener" target="_blank"><u>Issue 2/2024</u></a>:
-2024 SEAB Seminar: Be the Change, Shape Our Future&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="seab seminar 2025" src="/images/SEABlink/17_2.png">
+</div>
+<p><em>Grateful for another successful run of the seminar!&nbsp;</em>
+</p>
+<p></p>
