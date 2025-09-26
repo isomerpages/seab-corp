@@ -14,10 +14,14 @@ assessment strategies. Participants learn to integrate agency within the
 Learning-Assessment Cycle, design assessments that promote student ownership,
 and align planning with teaching practices. Through reflection, educators
 develop approaches to empower students in their learning journey.&nbsp;</p>
+<p></p>
+<p><em>Participants engaging in thoughtful group work&nbsp;</em>
+</p>
+<p><em>Trainers from SEAB’s Assessment Planning and Development Division (Diana, Sau Mei, Vincent and Rita) with participants against a backdrop of thoughtful reflections&nbsp;</em>
+</p>
 <p>The feedback gathered from participants across all the three runs highlighted
 the workshop’s relevance and usefulness in guiding Singapore educators
-to empower students to achieve student outcomes in 21CC.&nbsp;&nbsp;</p>
-<p></p>
-<p>Following these three successful runs in 2025, additional sessions will
-be conducted in 2026. Educators keen to participate should keep an eye
-out for registration details for the upcoming 2026 sessions via <a href="https://www.seab.gov.sg/training-and-consultancy/seab-in-house-workshops/" class="Hyperlink SCXW144473426 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB’s website</u></a>.&nbsp;</p>
+to empower students to achieve student outcomes in 21CC.&nbsp;&nbsp;Following
+these three successful runs in 2025, additional sessions will be conducted
+in 2026. Educators keen to participate should keep an eye out for registration
+details for the upcoming 2026 sessions via <a href="https://www.seab.gov.sg/training-and-consultancy/seab-in-house-workshops/" class="Hyperlink SCXW144473426 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB’s website</u></a>.&nbsp;</p>
