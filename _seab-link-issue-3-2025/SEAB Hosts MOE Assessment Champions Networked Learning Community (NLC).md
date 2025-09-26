@@ -24,6 +24,10 @@ deeper learning capabilities among students. Following that, Director of
 Curriculum Policy Office and 21st Century Competencies Office, Mr Sherwin
 Cheng, delivered a speech that explored the three key shifts of School-Based
 Assessment and their implications for classroom assessment practices.&nbsp;</p>
+<p><em>Chief Executive of SEAB, Mr Yue Lip Sin, presenting his welcome address</em>
+</p>
+<p><em>An enlightening speech from Director of Curriculum Policy Office and 21st Century Competencies Office, Mr Sherwin Cheng</em>
+</p>
 <p>The event featured breakout sessions covering topics such as data-driven
 school planning, assessment culture enhancement, and Artificial Intelligence
 (AI)-enabled assessment tools. These sessions facilitated meaningful discussions
@@ -32,6 +36,9 @@ in mind. Running concurrently, a marketplace segment showcased a variety
 of interesting assessment practices by teachers from various primary and
 secondary schools, covering assessment in the age of AI, the importance
 of teacher feedback and educational technology.&nbsp;</p>
+<p>
+<br><em>A vibrant scene unfolded as breakout sessions buzzed with active discussions and participants explored insightful exhibits showcasing innovative practices from various institutions during the marketplace segment.</em>
+</p>
 <p>SEAB's Research and Development Division participated in the marketplace
 segment, presenting on three Assessment for Learning tools – CATalytics,
 MathsCheck<sup>Plus </sup>and Read2Learn<sup>EL</sup>. CATalytics and MathsCheck<sup>Plus </sup>employ
@@ -49,6 +56,8 @@ by offering personalised learning analytics, providing timely feedback
 for student development, and supporting teachers with practical data insights.
 Schools that are currently using these tools shared how the diagnostic
 capabilities have enhanced their teaching and learning practices.&nbsp;</p>
+<p><em>Participants interacting at SEAB’s AfL booths</em>
+</p>
 <p>The collaborative spirit shown during the event reflected SEAB's commitment
 to partnering with MOE and schools to enhance balanced assessment practices.
 The positive response from participating schools suggests growing recognition
