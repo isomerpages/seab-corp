@@ -24,14 +24,14 @@ reminder of the importance of compassion and community service.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="volunteers" src="/images/SEABlink/20.png">
 </div>
-<p><em>Our volunteers were all smiles as they tackled the tasks of squeezing limes, cutting vegetables and gutting fish.&nbsp;</em>
-</p>
+<em>Our volunteers were all smiles as they tackled the tasks of squeezing limes, cutting vegetables and gutting fish.&nbsp;</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="volunteers" src="/images/SEABlink/21.png">
 </div>
-<p><em>Our staff also packed food and delivered the meals to respective beneficiaries.</em>
-</p>
+<em>Our staff also packed food and delivered the meals to respective beneficiaries.</em>
+<p></p>
 <p>A big thank you goes out to all SEAB staff who took time out of their
 busy schedules to give back.&nbsp; Not only did we achieve our target,
 but more importantly, we came together to nurture a kinder, more compassionate,
@@ -40,8 +40,8 @@ that continues to bind us together.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab volunteers" src="/images/SEABlink/22.png">
 </div>
-<p><em>SEAB volunteers from the various sessions beaming with pride, knowing they had made a difference.</em>
-</p>
+<em>SEAB volunteers from the various sessions beaming with pride, knowing they had made a difference.</em>
+<p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <p></p>
