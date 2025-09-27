@@ -13,14 +13,14 @@ assessment community at the international front.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NIETS group" src="/images/SEABlink/niets_group.png">
 </div>
-<p><em>Delegates from Thailand's National Institute of Educational Testing Service (NIETS) with SEAB’s senior management team and colleagues from Assessment Planning and Development Division (APDD) and Research Development Division (RDD).&nbsp;</em>
-</p>
+<em>Delegates from Thailand's National Institute of Educational Testing Service (NIETS) with SEAB’s senior management team and colleagues from Assessment Planning and Development Division (APDD) and Research Development Division (RDD).&nbsp;</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BCEC group" src="/images/SEABlink/BCEC_group.png">
 </div>
-<p><em>Delegates from the Brazilian Congressional Education Caucus (Frente Parlamentar Mista da Educação, FPME) with SEAB’s senior management team.&nbsp;</em>
-</p>
+<em>Delegates from the Brazilian Congressional Education Caucus (Frente Parlamentar Mista da Educação, FPME) with SEAB’s senior management team.&nbsp;</em>
+<p></p>
 <p></p>
 <p>On 11 August 2025, in a meaningful reunion marking 10 years since their
 last visit to SEAB in 2015, a 17-member delegation from NIETS, led by its
@@ -56,26 +56,26 @@ an environment of mutual learning and trust.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="tour exam operations" src="/images/SEABlink/tour2.png">
 </div>
-<p><em>The tour of the exam operations facility was one of the highlights of the visits for NIETS and BCEC</em>
-</p>
+<em>The tour of the exam operations facility was one of the highlights of the visits for NIETS and BCEC</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NIETS dialogue" src="/images/SEABlink/Niets_boardrm.png">
 </div>
-<p><em>The open dialogue with NIETS allowed for rich discussions about assessment innovations and challenges.</em>
-</p>
+<em>The open dialogue with NIETS allowed for rich discussions about assessment innovations and challenges.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NIETS gifts" src="/images/SEABlink/niets_gifts.png">
 </div>
-<p><em>NIETS' visit was particularly memorable with an exchange of commemorative gifts marking their 20th anniversary.</em>
-</p>
+<em>NIETS' visit was particularly memorable with an exchange of commemorative gifts marking their 20th anniversary.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BCEC dialogue" src="/images/SEABlink/BCEC_boardrm.png">
 </div>
-<p><em>An engaging dialogue in action between SEAB and the Brazilian delegates&nbsp;</em>
-</p>
+<em>An engaging dialogue in action between SEAB and the Brazilian delegates&nbsp;</em>
+<p></p>
 <p></p>
 <p>These visits from international delegations reflect SEAB's growing role
 in international educational assessment discourse. Through such exchanges,
@@ -115,39 +115,39 @@ SEAB's appreciation for educators as key stakeholders.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="speakers" src="/images/SEABlink/eng1.png">
 </div>
-<p><em>Insightful presentations from Ms Koh Li Min, Assessment Officer (Sciences) (left) and Mr Muhammad Sufian Ramli, Assessment Officer (Malay Language) (right) from Assessment Planning and Development Division (APDD).&nbsp;</em>
-</p>
+<em>Insightful presentations from Ms Koh Li Min, Assessment Officer (Sciences) (left) and Mr Muhammad Sufian Ramli, Assessment Officer (Malay Language) (right) from Assessment Planning and Development Division (APDD).&nbsp;</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="heritage gallery" src="/images/SEABlink/eng2.png">
 </div>
-<p><em>Left: The participants found out more about the history of national examinations during the Heritage Gallery tour.&nbsp;</em>
+<em>Left: The participants found out more about the history of national examinations during the Heritage Gallery tour.&nbsp;</em>
 <br><em>Right: The 1897 question papers shared by Cambridge Archives are popular among visitors at SEAB’s Heritage Gallery.&nbsp;</em>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="tour" src="/images/SEABlink/eng3.png">
 </div>
-<p><em>The TLP group on an engaging tour of SEAB’s exam operations facility.</em>
-</p>
+<em>The TLP group on an engaging tour of SEAB’s exam operations facility.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="breakout" src="/images/SEABlink/eng4.png">
 </div>
-<p><em>The breakout discussions also served as a valuable networking opportunity for educators to connect and exchange feedback and insights.</em>&nbsp;</p>
+<em>The breakout discussions also served as a valuable networking opportunity for educators to connect and exchange feedback and insights.</em>&nbsp;<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dialogue" src="/images/SEABlink/eng5.png">
 </div>
-<p><em>The candid dialogue sessions with SEAB's senior management consistently emerge as a programme highlight, fostering open and authentic exchanges.&nbsp;</em>
-</p>
+<em>The candid dialogue sessions with SEAB's senior management consistently emerge as a programme highlight, fostering open and authentic exchanges.&nbsp;</em>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group" src="/images/SEABlink/eng6.png">
 </div>
-<p><em>MLS participants (top) and TLP participants (bottom) were all smiles upon receiving cupcakes!</em>
-</p>
+<em>MLS participants (top) and TLP participants (bottom) were all smiles upon receiving cupcakes!</em>
+<p></p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -260,7 +260,7 @@ in educational assessment.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NZQA" src="/images/SEABlink/nzqa.png">
 </div>
-<p><em>SEAB and NZQA attendees during their virtual knowledge exchange session on digital assessment implementation</em>&nbsp;</p>
+<em>SEAB and NZQA attendees during their virtual knowledge exchange session on digital assessment implementation</em>&nbsp;<p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <p></p>
