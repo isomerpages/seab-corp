@@ -30,20 +30,20 @@ approaches for climate change and sustainability education.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="delegation" src="/images/SEABlink/Photo_1.jpg">
 </div>
-<p><em>The Singapore delegation sharing recent educational moves to nurture the joy of learning.</em>
-</p>
+<em>The Singapore delegation sharing recent educational moves to nurture the joy of learning.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE" src="/images/SEABlink/Photo_2.jpg">
 </div>
-<p><em>MOE senior management participated virtually in the meeting on educational initiatives.</em>
-</p>
+<em>MOE senior management participated virtually in the meeting on educational initiatives.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="virtual" src="/images/SEABlink/Photo_3.jpg">
 </div>
-<p><em>Dr Ryan Chow from SEAB updated the meeting on auto-marking initiative.</em>
-</p>
+<em>Dr Ryan Chow from SEAB updated the meeting on auto-marking initiative.</em>
+<p></p>
 <p>As part of the CCM to showcase the local education and educational initiatives,
 Cambridge arranged visits to a school and research institute. The Singapore
 delegation visited Long Road Sixth Form College on the first day of its
@@ -62,8 +62,8 @@ progress and outperform their peers.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="showcase" src="/images/SEABlink/ccm1.png">
 </div>
-<p><em>College key personnel with the Singapore delegation during the campus tour.</em>
-</p>
+<em>College key personnel with the Singapore delegation during the campus tour.</em>
+<p></p>
 <p></p>
 <p>Another visit was made to the Scott Polar Research Institute (SPRI), established
 in 1920 as part of the University of Cambridge. Dr David Waterhouse, the
@@ -77,8 +77,8 @@ bears are found in the Arctic while penguins live in the Antarctic.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="showcase" src="/images/SEABlink/ccm2.png">
 </div>
-<p><em>The Singapore delegation exploring exhibits about the Arctic and Antarctic at The Scott Polar Research Institute.</em>
-</p>
+<em>The Singapore delegation exploring exhibits about the Arctic and Antarctic at The Scott Polar Research Institute.</em>
+<p></p>
 <p></p>
 <p>The 2025 CCM concluded with a successful and enjoyable meeting of educational
 partners who engaged in in-depth discussions and exchanged ideas about
@@ -88,8 +88,8 @@ and friendships that the educational partners have established.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="delegation2" src="/images/SEABlink/Photo_8.jpg">
 </div>
-<p><em>Looking forward to next year's CCM to be hosted by SEAB in Singapore.</em>
-</p>
+<em>Looking forward to next year's CCM to be hosted by SEAB in Singapore.</em>
+<p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/14__Kampong_Gelam_shophouses.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Collaborative Insights from the 2024 Singapore-Cambridge Consultative Committee Mee</div><div class="isomer-card-description">p. 9</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
