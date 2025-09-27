@@ -59,20 +59,12 @@ warm hospitality and for curating such rich and engaging experiences.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech LJ" src="/images/SEABlink/17.png">
-</div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="URA LJ" src="/images/SEABlink/18_2.png">
-</div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSA LJ" src="/images/SEABlink/18_1.png">
 </div>
-<p><em>SEAB staff at the engaging learning journeys at GovTech, URA and PSA</em>&nbsp;</p>
+<em>SEAB staff at the engaging learning journeys at GovTech, URA and PSA</em>&nbsp;<p></p>
 <p></p>
 <h4><strong>Keynote Sharing by GovTech: AI in the Future of Assessment</strong>&nbsp;</h4>
 <p>The afternoon seminar opened with Mr John Soh, Lead Data Scientist, DXD,
@@ -89,7 +81,7 @@ ahead in a rapidly evolving assessment landscape.&nbsp;&nbsp;&nbsp;&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech speakers" src="/images/SEABlink/16_2.png">
 </div>
-<p><em>Speakers John Soh and Irene Lam from GovTech sharing about use of AI</em>&nbsp;</p>
+<em>Speakers John Soh and Irene Lam from GovTech sharing about use of AI</em>&nbsp;<p></p>
 <p></p>
 <h4><strong>Hands-on AI Sessions by Research and Development Division</strong>&nbsp;</h4>
 <p>The spirit of “Empower and Elevate” continued with two concurrent hands-on
@@ -116,13 +108,13 @@ responsiveness, regardless of technical background.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI" src="/images/SEABlink/15_1.png">
 </div>
-<p><em>“See, no need to type!”</em>&nbsp;</p>
+<em>“See, no need to type!”</em>&nbsp;<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="chatbot" src="/images/SEABlink/15_2.png">
 </div>
-<p><em>SEAB staff learning to use AI chatbots</em>
-</p>
+<em>SEAB staff learning to use AI chatbots</em>
+<p></p>
 <p></p>
 <h4><strong>Culture Traits Engagement</strong>&nbsp;</h4>
 <p>Following the AI sessions, the HR Department led an engagement exercise
@@ -138,7 +130,7 @@ decision of the refreshed cultural traits.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="culture traits discussion" src="/images/SEABlink/16_1.png">
 </div>
-<p><em>Staff engaged in discussions about SEAB’s cultural traits</em>&nbsp;</p>
+<em>Staff engaged in discussions about SEAB’s cultural traits</em>&nbsp;<p></p>
 <p></p>
 <h4><strong>Reflection and Dialogue with Senior Management</strong>&nbsp;</h4>
 <p>In the final segment, SEAB staff reflected on the day’s insights and posed
@@ -152,7 +144,7 @@ together.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="senior management talk" src="/images/SEABlink/19_1.png">
 </div>
-<p><em>Senior management answering various questions posed</em>&nbsp;</p>
+<em>Senior management answering various questions posed</em>&nbsp;<p></p>
 <p></p>
 <p>The Seminar concluded with group photos, marking the end of a purposeful
 afternoon. The conversations, skills, and ideas shared at the 2025 SEAB
@@ -163,7 +155,7 @@ work together to advance SEAB’s mission with confidence and ambition.&nbsp;</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab seminar 2025" src="/images/SEABlink/17_2.png">
 </div>
-<p><em>Grateful for another successful run of the seminar!&nbsp;</em>
-</p>
+<em>Grateful for another successful run of the seminar!&nbsp;</em>
 <p></p>
 <p></p>
+<p></p></div></div>
