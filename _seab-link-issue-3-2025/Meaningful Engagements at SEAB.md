@@ -105,27 +105,38 @@ meaningful partnerships with the education community and sharing our recent
 developments and initiatives on assessment. As a thoughtful gesture to
 commemorate Teachers' Day in advance, each participant was presented with
 a cupcake, acknowledging their dedication to the teaching profession and
-SEAB's appreciation for educators as key stakeholders.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;</p>
+SEAB's appreciation for educators as key stakeholders.&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="speakers" src="/images/SEABlink/eng1.png">
+</div>
 <p><em>Insightful presentations from Ms Koh Li Min, Assessment Officer (Sciences) (left) and Mr Muhammad Sufian Ramli, Assessment Officer (Malay Language) (right) from Assessment Planning and Development Division (APDD).&nbsp;</em>
 </p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="heritage gallery" src="/images/SEABlink/eng2.png">
+</div>
 <p><em>Left: The participants found out more about the history of national examinations during the Heritage Gallery tour.&nbsp;</em>
 </p>
 <p><em>Right: The 1897 question papers shared by Cambridge Archives are popular among visitors at SEAB’s Heritage Gallery.&nbsp;</em>
 </p>
 <p>&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;</p>
-<p><em>The TLP group on an engaging tour of SEAB’s exam operations facility</em>&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="tour" src="/images/SEABlink/eng3.png">
+</div>
+<p>&nbsp;<em>The TLP group on an engaging tour of SEAB’s exam operations facility</em>&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="breakout" src="/images/SEABlink/eng4.png">
+</div>
 <p><em>The breakout discussions also served as a valuable networking opportunity for educators to connect and exchange feedback and insights.</em>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="dialogue" src="/images/SEABlink/eng5.png">
+</div>
 <p><em>The candid dialogue sessions with SEAB's senior management consistently emerge as a programme highlight, fostering open and authentic exchanges.&nbsp;</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="group" src="/images/SEABlink/eng6.png">
+</div>
 <p><em>MLS participants (top) and TLP participants (bottom) were all smiles upon receiving cupcakes!&nbsp;</em>
 </p>
 <p>&nbsp;</p>
