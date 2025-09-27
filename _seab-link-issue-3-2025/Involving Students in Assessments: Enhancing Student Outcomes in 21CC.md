@@ -17,14 +17,14 @@ develop approaches to empower students in their learning journey.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group discussion" src="/images/SEABlink/14_1.png">
 </div>
-<p><em>Participants engaging in thoughtful group work&nbsp;</em>
-</p>
+<em>Participants engaging in thoughtful group work&nbsp;</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="facilitators" src="/images/SEABlink/14.png">
 </div>
-<p><em>Trainers from SEAB’s Assessment Planning and Development Division (Diana, Sau Mei, Vincent and Rita) with participants against a backdrop of thoughtful reflections&nbsp;</em>
-</p>
+<em>Trainers from SEAB’s Assessment Planning and Development Division (Diana, Sau Mei, Vincent and Rita) with participants against a backdrop of thoughtful reflections&nbsp;</em>
+<p></p>
 <p></p>
 <p>The feedback gathered from participants across all the three runs highlighted
 the workshop’s relevance and usefulness in guiding Singapore educators
