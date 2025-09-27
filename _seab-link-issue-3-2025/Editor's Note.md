@@ -1,7 +1,7 @@
 ---
 title: Editor's Note
 permalink: /seab-link-issue-3-2025/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p></p>
@@ -12,7 +12,7 @@ description: ""
 <p>Welcome to the September 2025 edition of SEAB-link! This issue features
 14 articles highlighting key developments and initiatives that are shaping
 Singapore's assessment landscape.&nbsp;</p>
-<p><strong>Advancing Assessment for Learning&nbsp;</strong>&nbsp;</p>
+<h4><strong>Advancing Assessment for Learning&nbsp;</strong>&nbsp;</h4>
 <p>We were delighted to host the MOE Assessment Champions Networked Learning
 Community meeting in May, welcoming 350 teachers to explore learner-centred
 assessment practices. Participants had the opportunity to experience our
@@ -23,26 +23,30 @@ personalised learning in schools.&nbsp;</p>
 session in July 2025, where 300 school leaders from 96 primary schools
 discovered practical applications of these tools and shared valuable insights
 with their peers.&nbsp;</p>
-<p><strong>Expanding e-Examinations</strong>&nbsp;</p>
-2025 marked another milestone for e-Examinations as H2 China Studies subjects
+<h4><strong>Expanding e-Examinations</strong>&nbsp;</h4>
+<p>2025 marked another milestone for e-Examinations as H2 China Studies subjects
 became the first Humanities subjects to implement hybrid e-written examinations
 at A-Level. This development reflects our ongoing commitment to modernising
-assessment while maintaining high standards.&nbsp;<p></p>
-<p><strong>Enhancing Access Arrangements</strong>&nbsp;</p>
-Following successful pilot studies, buzzer devices are now available as
+assessment while maintaining high standards.&nbsp;</p>
+<p></p>
+<h4><strong>Enhancing Access Arrangements</strong>&nbsp;</h4>
+<p>Following successful pilot studies, buzzer devices are now available as
 standard tools for national examinations. These helpful attention-support
 devices can now be used without special applications, making implementation
-simpler for schools.&nbsp;<p></p>
-<p><strong>Making a Difference</strong>&nbsp;</p>
-Beyond our work in assessment, this issue also showcases how SEAB staff
+simpler for schools.&nbsp;</p>
+<p></p>
+<h4><strong>Making a Difference</strong>&nbsp;</h4>
+<p>Beyond our work in assessment, this issue also showcases how SEAB staff
 are contributing to the community through their volunteer efforts at Willing
 Hearts, demonstrating our commitment to social responsibility and helping
-the less fortunate.&nbsp;<p></p>
-<p><strong>More to Discover</strong>&nbsp;</p>
-These featured stories represent just five of the 14 articles in this
+the less fortunate.&nbsp;</p>
+<p></p>
+<h4><strong>More to Discover</strong>&nbsp;</h4>
+<p>These featured stories represent just five of the 14 articles in this
 issue. We encourage you to explore the remaining pieces, which offer additional
 insights into our ongoing contributions to elevate assessment and positive
-impact for our education community.&nbsp;<p></p>
+impact for our education community.&nbsp;</p>
+<p></p>
 <p>We hope you enjoy reading about these developments in these stories as
 we continue our shared mission of excellence in assessment.&nbsp;</p>
 <p>&nbsp;<strong><em>SEAB-link Editorial Team</em>&nbsp;</strong>
