@@ -10,14 +10,16 @@ National Institute of Educational Testing Service (NIETS) and another from
 the Brazilian Congressional Education Caucus (Frente Parlamentar Mista
 da Educação, FPME). Both visits underscored SEAB's esteemed role in the
 assessment community at the international front.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NIETS group" src="/images/SEABlink/niets_group.png">
+</div>
 <p><em>Delegates from Thailand's National Institute of Educational Testing Service (NIETS) with SEAB’s senior management team and colleagues from Assessment Planning and Development Division (APDD) and Research Development Division (RDD).&nbsp;</em>
 </p>
-<p>&nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BCEC group" src="/images/SEABlink/BCEC_group.png">
+</div>
 <p><em>Delegates from the Brazilian Congressional Education Caucus (Frente Parlamentar Mista da Educação, FPME) with SEAB’s senior management team.&nbsp;</em>
 </p>
-<p>&nbsp;</p>
 <p>On 11 August 2025, in a meaningful reunion marking 10 years since their
 last visit to SEAB in 2015, a 17-member delegation from NIETS, led by its
 Director, Assistant Professor Sirida Burachat, returned for another exchange.
@@ -26,7 +28,6 @@ This visit was also particularly significant as it coincided with NIETS'
 assessments in Thailand. This includes administering standardised high-stake
 and mandatory examinations, such as the Ordinary National Educational Test
 (O-NET) and other tests for different school levels.&nbsp;</p>
-<p>&nbsp;</p>
 <p>On 18 August 2025, in a pioneering engagement with Brazil, SEAB hosted
 a big delegation from the Brazilian Congressional Education Caucus (Frente
 Parlamentar Mista da Educação, FPME). Led by Mr Rafael de Goes Brito, Leader
@@ -41,7 +42,6 @@ Institute of Technical Education (ITE), National Institute of Education
 tour reflects their commitment to understanding Singapore's education achievements
 and gathering insights to inform Brazil's educational changes while fostering
 bilateral collaboration between both countries.&nbsp;</p>
-<p>&nbsp;</p>
 <p>The visits for both organisations began with a tour of SEAB's exam operations
 facility, where the delegation gained firsthand insights into our secure
 facilities and digital infrastructure. The delegates showed keen interest
@@ -51,24 +51,23 @@ with their own strategic direction towards digital assessment. The visit
 was marked by candid exchanges between SEAB and both organisations about
 practical challenges and experiences in educational assessment, fostering
 an environment of mutual learning and trust.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="tour exam operations" src="/images/SEABlink/tour2.png">
+</div>
 <p><em>The tour of the exam operations facility was one of the highlights of the visits for NIETS and BCEC</em>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NIETS dialogue" src="/images/SEABlink/Niets_boardrm.png">
+</div>
 <p><em>The open dialogue with NIETS allowed for rich discussions about assessment innovations and challenges.</em>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NIETS gifts" src="/images/SEABlink/niets_gifts.png">
+</div>
 <p><em>NIETS' visit was particularly memorable with an exchange of commemorative gifts marking their 20th anniversary.&nbsp;&nbsp;</em>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BCEC dialogue" src="/images/SEABlink/BCEC_boardrm.png">
+</div>
 <p><em>An engaging dialogue in action between SEAB and the Brazilian delegates&nbsp;</em>
 </p>
 <p>These visits from international delegations reflect SEAB's growing role
