@@ -128,9 +128,85 @@ SEAB's appreciation for educators as key stakeholders.&nbsp;</p>
 </p>
 <p><em>MLS participants (top) and TLP participants (bottom) were all smiles upon receiving cupcakes!&nbsp;</em>
 </p>
-<p>&nbsp;&nbsp;</p>
-<p><strong>Reflections from Participants</strong>&nbsp;</p>
 <p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="feedback" src="/images/SEABlink/feedback.png">
+</div>
+<p><strong><em>Feedback from the coordinator, on behalf of MLS participants</em></strong>
+</p>
+<p>The visit to SEAB offered a comprehensive view of how SEAB continues to
+evolve national examinations to be more relevant, engaging, and authentic,
+with a strong emphasis on higher-order thinking, real-world application,
+and e21CC.</p>
+<p>It was inspiring to learn how SEAB harnesses technology to enhance the
+efficiency and authenticity of national examinations, from the use of rich
+media in e-Exams to innovative assessment modes that better reflect real-life
+contexts. The sharing on Assessment for Learning (AfL) tools currently
+in development also highlighted SEAB’s forward-thinking approach to supporting
+teaching and learning, and do not just focus on examinations.</p>
+<p>I particularly enjoyed the tour of the SEAB Heritage Gallery, as it provided
+an insightful journey into the organisation’s history and its pivotal role
+in shaping Singapore’s education landscape. We also had the privilege to
+engage in a candid dialogue with SEAB’s senior management — Mr Yue Lip
+Sin (Chief Executive), Mr Tan Kuo Cheang (Director, Assessment Planning
+and Development), and Mr Pang Chong Han (Director, Exam Operations). Their
+sharing gave us a deeper understanding of the rationale and considerations
+behind key decisions, reinforcing the alignment between policy intent,
+assessment design, and educational outcomes.</p>
+<p>This visit has enriched my perspective on assessment as a powerful driver
+of learning, and deepened my appreciation for SEAB’s commitment to upholding
+the integrity, fairness, and relevance of our national examinations. I
+am grateful for the warm hospitality and the opportunity to engage meaningfully
+with the team behind this important national mission. The MLS participants
+were also particularly grateful to receive an early Teachers' Day gift
+from the thoughtful SEAB team. Thank you!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Feedback from the coordinator, on behalf of TLP participants</em></strong>
+</p>
+<p>Dear SEAB,</p>
+<p>On behalf of our teacher participants, we would like to express our heartfelt
+appreciation to SEAB for the warm welcome and the valuable insights shared
+during our visit.</p>
+<p>The tour of SEAB’s Heritage Gallery was a highlight, offering us a fascinating
+glimpse into the history of national examinations and SEAB’s important
+role over the years. We were surprised to learn that the PSLE started as
+far back as 1960, a reminder of how far the assessment landscape has come.
+Learning about the future direction of e-Examinations also gave us a sense
+of how assessment is evolving to stay relevant.</p>
+<p>The discussion on ‘Making Assessment Relevant, Progressive and Authentic’
+was enriching, as it clarified common myths and highlighted how assessments
+are made authentic through real-world problem contexts. The sharing of
+Coursework, including the Design Project (Design and Technology) and Authentic
+Studio Practice (Art), along with the videos of students’ submissions,
+left teachers inspired and awed by their passion and creativity.</p>
+<p>We really appreciated the dialogue with SEAB’s senior management. It was
+indeed a rare and valuable opportunity. The question-and-answer session
+allowed teacher participants to voice our thoughts and concerns openly,
+and we felt assured knowing that our perspectives were heard and respected.
+Thank you once again for the generous sharing, the thoughtful engagement,
+and for opening up this meaningful space for dialogue and learning.</p>
+<p>Lastly, our TLP team believes that visiting the SEAB Heritage Gallery
+should be a rite of passage for every teacher, a chance to walk through
+the rich history and inspiring journey of examinations in Singapore, and
+to carry forward a deeper appreciation of the legacy we are part of.</p>
+<p>Thank you, SEAB.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h4><strong>SEAB Explores Electronic Examination Best Practices with New Zealand Qualifications Authority (NZQA)</strong>&nbsp;</h4>
 <p>On 20 May 2025, SEAB engaged in a productive virtual conference with the
