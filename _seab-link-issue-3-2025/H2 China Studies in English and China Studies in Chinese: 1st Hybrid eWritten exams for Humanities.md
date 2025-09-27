@@ -19,8 +19,8 @@ before the year-end examinations.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="practice session at YIJC" src="/images/SEABlink/IMG20250422104604__1_.jpg">
 </div>
-<p><em>A CSE practice session at Yishun Innova Junior College.</em>
-</p>
+<em>A CSE practice session at Yishun Innova Junior College</em>
+<p></p>
 <p>The shift to electronic examinations for CSE and CSC is driven by three
 key factors: First, candidates are already well-prepared through their
 regular use of the Singapore Student Learning Space (SLS) and Personal
@@ -32,8 +32,8 @@ modern workplace, preparing our students for the world of work.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="cover page of Digital Answer Booklet" src="/images/SEABlink/IMG_3716.jpg">
 </div>
-<p><em>Cover page of the CSE DAB.&nbsp;</em>
-</p>
+<em>Cover page of the CSE DAB&nbsp;</em>
+<p></p>
 <p>The CSE e-written examination practice sessions were successfully conducted
 with 137 candidates from Anglo-Chinese Junior College, Jurong Pioneer Junior
 College, Victoria Junior College, and Yishun Innova Junior College. The
@@ -51,8 +51,8 @@ and prefer it to paper-based exams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
 </div>
-<p><em>A candidate planning his responses using the hardcopy question paper.&nbsp;</em>
-</p>
+<em>A candidate planning his responses using the hardcopy question paper&nbsp;</em>
+<p></p>
 <p>A total of 164 candidates from Dunman High School, Eunoia Junior College,
 Hwa Chong Institution, and River Valley High School participated in the
 CSC e-written examination practice sessions.&nbsp; Most candidates expressed
@@ -63,8 +63,8 @@ editing and organising their responses in the DAB.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CSC students practice session at Hwa Chong" src="/images/SEABlink/CSC_PS_02.jpg">
 </div>
-<p><em>Candidates taking CSC practice session paper at Hwa Chong Institution.&nbsp;</em>
-</p>
+<em>Candidates taking CSC practice session paper at Hwa Chong Institution&nbsp;</em>
+<p></p>
 <p>The practice sessions for both China Studies in English and China Studies
 in Chinese proved highly successful, with candidates demonstrating confidence
 and competence in navigating their respective examination formats. Students'
