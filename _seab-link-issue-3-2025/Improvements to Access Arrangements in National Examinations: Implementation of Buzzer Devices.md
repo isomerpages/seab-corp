@@ -19,7 +19,7 @@ attention and re-engage with their current tasks.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="buzzer" src="/images/SEABlink/issue_32025_photos_and_graphics.png">
 </div>
-<p><em>The buzzer can be worn on the wrist or clipped on the shirt or pants.</em>&nbsp;</p>
+<em>The buzzer can be worn on the wrist or clipped on the shirt or pants.</em>&nbsp;<p></p>
 <p></p>
 <p>In 2025, SEAB conducted a pilot study with students from primary to pre-university
 levels to determine if these buzzers could improve their focus in examination
