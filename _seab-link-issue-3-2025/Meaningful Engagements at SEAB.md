@@ -247,5 +247,9 @@ ensuring quality and integrity.&nbsp;</p>
 <p>This engagement has provided valuable insights into digital assessment
 transformation and reinforced the importance of international collaboration
 in educational assessment.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NZQA" src="/images/SEABlink/nzqa.png">
+</div>
 <p><em>SEAB and NZQA attendees during their virtual knowledge exchange session on digital assessment implementation</em>&nbsp;</p>
 <p>&nbsp;</p>
