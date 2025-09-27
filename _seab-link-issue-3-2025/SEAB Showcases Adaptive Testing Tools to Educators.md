@@ -12,9 +12,9 @@ MathsCheck<sup>Plus</sup>, CATalytics, and Read2Learn<sup>EL</sup>.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RDD" src="/images/SEABlink/rdd1.png">
 </div>
-<p><em>Left: Mr Kelvin Lim, Director of Research and Development Division opening the event</em>
+<em>Left: Mr Kelvin Lim, Director of Research and Development Division opening the event</em>
 <br><em>Right: Dr Koh Poh Wee delivering the keynote address on “Adaptive Testing: Where Learning, Assessment and Instructions Meet”</em>
-</p>
+<p></p>
 <p></p>
 <p>Mr Kelvin Lim, Director of Research and Development Division, opened the
 event by highlighting the importance of collaborative innovation in education
@@ -38,10 +38,10 @@ demonstrating how these digital assessment tools work complementarily.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RDD speakers" src="/images/SEABlink/rdd2.png">
 </div>
-<p><em>Left: Ms Esther Yee giving an example of how MathsCheck<sup>Plus</sup> and CATalytics can be used in tandem during the Mathematics breakout session</em>
+<em>Left: Ms Esther Yee giving an example of how MathsCheck<sup>Plus</sup> and CATalytics can be used in tandem during the Mathematics breakout session</em>
 <br><em>Middle: Dr Chang Suo Hui, delivering a presentation titled “Do students understand the problem?”</em>
 <br><em>Right: Ms Pearl Chua shares Townsville Primary School's journey on using MathsCheck<sup>Plus</sup> report to make informed data-driven decisions through her presentation "Making Data-Informed Decisions for Teaching and Learning"</em>
-</p>
+<p></p>
 <p></p>
 <p>Dr Chang Suo Hui from Academy of Singapore Teachers (AST) then delved
 into the critical area of word problems, presenting a three-pronged approach
@@ -60,8 +60,8 @@ both pedagogical excellence and professional development.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="maths breakout" src="/images/SEABlink/rdd6.png">
 </div>
-<p><em>Active participation from educators during the Mathematics breakout session's Q&amp;A.</em>
-</p>
+<em>Active participation from educators during the Mathematics breakout session's Q&amp;A.</em>
+<p></p>
 <p></p>
 <p>The English breakout session began with Dr Elizabeth Pang from the Ministry
 of Education’s Curriculum Planning and Development Division giving an overview
@@ -78,9 +78,9 @@ expertise while encouraging continuous professional learning among educators.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="R2L speakers" src="/images/SEABlink/rdd3.png">
 </div>
-<p><em>Left: Dr Elizabeth Pang delivering her presentation titled “Development of Read2Learn”</em>
+<em>Left: Dr Elizabeth Pang delivering her presentation titled “Development of Read2Learn”</em>
 <br><em>Right: Dr Tay May Yin presenting on Read2Learn NLC</em>
-</p>
+<p></p>
 <p></p>
 <p>Their presentations were followed by sharing from two primary schools.
 Mdm Annisa from Tanjong Katong Primary School explained their adoption
@@ -95,9 +95,9 @@ coaching.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="teacher speakers" src="/images/SEABlink/rdd4.png">
 </div>
-<p><em>Left: Mdm Annisa from Tanjong Katong Primary School sharing on usage of “Read2Learn @ Tanjong Katong Primary”</em>
+<em>Left: Mdm Annisa from Tanjong Katong Primary School sharing on usage of “Read2Learn @ Tanjong Katong Primary”</em>
 <br><em>Middle and Right: Mdm Chin Sau Lai and Mdm Malar from Princess Elizabeth Primary School presenting on “Closing the Comprehension Gap:&nbsp;​Supporting Comprehension Teaching with Read2Learn​”</em>
-</p>
+<p></p>
 <p></p>
 <p>Following the presentations, participants explored an interactive exhibition
 featuring Read2Learn<sup>EL</sup>. The hands-on showcase provided a unique
@@ -108,8 +108,8 @@ its development.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AFL booths" src="/images/SEABlink/rdd5.png">
 </div>
-<p><em>Participants eagerly seek clarifications from the Read2Learn team members as they explore some of the exhibits on showcase.</em>
-</p>
+<em>Participants eagerly seek clarifications from the Read2Learn team members as they explore some of the exhibits on showcase.</em>
+<p></p>
 <p></p>
 <p>The 2025 Assessment for Learning Sharing Session concluded on a high note
 with enthusiastic participation during the Q&amp;A session, demonstrating
@@ -125,6 +125,6 @@ January to March.&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RDD group" src="/images/SEABlink/rddgrp.png">
 </div>
-<p><em>SEAB’s Research and Development Division team, organisers of Assessment for Learning Sharing 2025</em>
-</p>
+<em>SEAB’s Research and Development Division team, organisers of Assessment for Learning Sharing 2025</em>
+<p></p>
 <p></p>
