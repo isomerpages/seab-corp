@@ -2,7 +2,7 @@
 title: "H2 China Studies in English and China Studies in Chinese: 1st Hybrid
   eWritten exams for Humanities"
 permalink: /h2-china-studies-in-english-and-china-studies-in-chinese-1st-hybrid-ewritten-exams-for-humanities/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>2025 marks another milestone for e-Examinations journey, as Hybrid e-Written
@@ -19,7 +19,8 @@ before the year-end examinations.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="practice session at YIJC" src="/images/SEABlink/IMG20250422104604__1_.jpg">
 </div>
-<em>A CSE practice session at Yishun Innova Junior College</em>
+<p><em>A CSE practice session at Yishun Innova Junior College</em>
+</p>
 <p></p>
 <p>The shift to electronic examinations for CSE and CSC is driven by three
 key factors: First, candidates are already well-prepared through their
@@ -32,7 +33,8 @@ modern workplace, preparing our students for the world of work.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="cover page of Digital Answer Booklet" src="/images/SEABlink/IMG_3716.jpg">
 </div>
-<em>Cover page of the CSE DAB&nbsp;</em>
+<p><em>Cover page of the CSE DAB&nbsp;</em>
+</p>
 <p></p>
 <p>The CSE e-written examination practice sessions were successfully conducted
 with 137 candidates from Anglo-Chinese Junior College, Jurong Pioneer Junior
@@ -51,7 +53,8 @@ and prefer it to paper-based exams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
 </div>
-<em>A candidate planning his responses using the hardcopy question paper&nbsp;</em>
+<p><em>A candidate planning his responses using the hardcopy question paper&nbsp;</em>
+</p>
 <p></p>
 <p>A total of 164 candidates from Dunman High School, Eunoia Junior College,
 Hwa Chong Institution, and River Valley High School participated in the
@@ -63,7 +66,8 @@ editing and organising their responses in the DAB.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CSC students practice session at Hwa Chong" src="/images/SEABlink/CSC_PS_02.jpg">
 </div>
-<em>Candidates taking CSC practice session paper at Hwa Chong Institution&nbsp;</em>
+<p><em>Candidates taking CSC practice session paper at Hwa Chong Institution&nbsp;</em>
+</p>
 <p></p>
 <p>The practice sessions for both China Studies in English and China Studies
 in Chinese proved highly successful, with candidates demonstrating confidence
@@ -73,3 +77,7 @@ well for the upcoming examinations in November. Moreover, the smooth implementat
 and favourable reception of these practice sessions serve as an encouraging
 precedent for the future rollout of e-written examinations across other
 GCE A-Level subjects in the coming years.&nbsp;</p>
+<h4><strong>Suggested Reads</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-1-2025/journey-with-eexaminations-updates-for-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="eexams" src="/images/SEABlink/eexam_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB's Journey with e-Examinations: Updates for 2024</div><div class="isomer-card-link">SEAB-link Issue 1/2025</div></div></a>
+</div>
+<p></p>
