@@ -12,6 +12,9 @@ how teachers approach assessment in education.&nbsp;&nbsp;</p>
 <p>On 4 June 2025, 35 educators celebrated a milestone in assessment leadership
 at the <a href="https://www.seab.gov.sg/training-and-consultancy/seab-in-house-workshops/" class="Hyperlink SCXW225069267 BCX8" rel="noreferrer noopener" target="_blank"><u>Certificate in Examination and Assessment in Education (CEA in Edn)</u></a> graduation
 ceremony.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CEA 2025" src="/images/SEABlink/DSC3391.jpg">
+</div>
 <p><em>Group photo of CEA graduates with the instructors from SEAB.</em>
 </p>
 <p>These teachers were not just graduating from the programme—they were set
@@ -20,13 +23,12 @@ to champion assessment practices in Singapore's classrooms.&nbsp;&nbsp;</p>
 delivered her valedictorian address. The Marsiling Primary School educator
 emphasised the importance of strengthening validity and reliability through
 students' responses to feedback.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CEA valedictorian" src="/images/SEABlink/23.png">
+</div>
 <p><em>Left: CEA graduate, Ms Lee Chun Hua, delivering her valedictorian address.</em>
 </p>
 <p><em>Right: CEA graduates listening attentively to Ms Lee Chun Hua’s speech.</em>
-</p>
-<p>
-<br>
 </p>
 <p>As she spoke, I observed her fellow graduates nodding in recognition as
 she outlined her evidence-based practices:&nbsp;</p>
@@ -49,6 +51,9 @@ fact how SEAB has thoughtfully implemented e-Examinations: Innovation does
 not happen in leaps. It happens in iterations. Each feature of the electronic
 assessment system represented countless hours of refinement, and rigorous
 testing, to enhance the examination experience for the candidates.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Science" src="/images/SEABlink/DSC3417.jpg">
+</div>
 <p><em>Senior Assessment Specialist (Sciences), Mr Tan Lee Sze, giving a demonstration of SEAB’s e-Examinations system.</em>
 </p>
 <p>The final segment of the programme brought together Chief Executive, Mr
@@ -57,6 +62,10 @@ Mr Tan Kuo Cheang and Mr Pek Wee Haur, in an engaging dialogue session.
 The discussion highlighted the importance of SEAB and teachers working
 together to navigate today’s volatile, uncertain, complex and ambiguous
 (VUCA) world.&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CEA dialogue" src="/images/SEABlink/24.png">
+</div>
 <p><em>The dialogue session generated key insights about assessment practices and their strategic implementation.</em>
 </p>
 <p>As the event came to an end, one thing was clear: This was more than just
