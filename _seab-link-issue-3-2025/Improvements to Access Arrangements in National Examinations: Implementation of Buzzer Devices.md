@@ -47,4 +47,4 @@ for students to apply for Access Arrangement to use it during examinations.
 This simplifies implementation and eases the load on teachers who need
 to serve as prompters during examinations. Schools are encouraged to proliferate
 the effective use of buzzers among their students.&nbsp;</p>
-<p>Find our more information about <a href="https://www.seab.gov.sg/access-arrangements/" rel="noopener nofollow" target="_blank">Access Arrangements</a>.</p>
+<p>Find out more information about <a href="https://www.seab.gov.sg/access-arrangements/" rel="noopener nofollow" target="_blank">Access Arrangements</a>.</p>
