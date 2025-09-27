@@ -1,7 +1,7 @@
 ---
 title: "26th AFELTA: Embracing AI in Language Testing and Assessment"
 permalink: /26th-afelta-embracing-ai-in-language-testing-and-assessment/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -23,7 +23,8 @@ and adaptive testing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="speaker" src="/images/SEABlink/8_1.png">
 </div>
-<em>Dr. Yan Xun sharing his valuable insights with the AFELTA delegates</em>
+<p><em>Dr. Yan Xun sharing his valuable insights with the AFELTA delegates</em>
+</p>
 <p></p>
 <p>SEAB was represented by Senior Assessment Specialist Mr Andrew Leo and
 Assessment Officer Ms Serene Tan, both from the Assessment Planning and
@@ -40,9 +41,10 @@ of immediate and customised feedback to students.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab speakers" src="/images/SEABlink/7.png">
 </div>
-<em>Sharing by SEAB</em>
+<p><em>Sharing by SEAB</em>
 <br><em>Left: Mr Andrew Leo presenting on e-Examination implementation in a national English language assessment in Singapore</em>
 <br><em>Right: Ms Serene Tan sharing how technology is leveraged to enhance teaching, learning and assessment in Singapore and SEAB’s e-Examination journey</em>
+</p>
 <p></p>
 <p>The SEAB team also gleaned valuable insights into ongoing research and
 studies pertaining to English Language testing in other countries.</p>
@@ -88,7 +90,8 @@ and practitioners across Asia.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="seab team" src="/images/SEABlink/IMG_20250822_WA0001.jpg">
 </div>
-<em>The SEAB team with the Korean and Hong Kong delegates at the conference dinner</em>
+<p><em>The SEAB team with the Korean and Hong Kong delegates at the conference dinner</em>
+</p>
 <p></p>
 <h4><strong>Visit to the Shanghai Municipal Educational Examinations Authority</strong>&nbsp;</h4>
 <p>On 20 August, Mr Andrew Leo and Ms Serene Tan, also paid a special visit
@@ -110,5 +113,23 @@ coming years.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="gift to smeea" src="/images/SEABlink/7_1.png">
 </div>
-<em>Mr Andrew Leo and Ms Serene Tan, SEAB presenting the 30<sup>th</sup> Anniversary gift and congratulatory letter to Ms Zhang Po, Centre Director of SMEEA.</em>
+<p><em>Mr Andrew Leo and Ms Serene Tan, SEAB presenting the 30<sup>th</sup> Anniversary gift and congratulatory letter to Ms Zhang Po, Centre Director of SMEEA.</em>
+</p>
+<h4><strong>Suggested Reads</strong></h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-1-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/Picture2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Key Moments from Academic Forum for English Language Testing in Asia</div><div class="isomer-card-description">p.29</div><div class="isomer-card-link">SEAB-link Issue 1/2024</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/smeea.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Building Connections and Enhancing Understanding Through Dialogue: Corporate
+Visit from Shanghai Municipal Educational Examinations Authority (SMEEA)</div>
+<div class="isomer-card-description">p.14</div>
+<div class="isomer-card-link">SEAB-link Issue 2/2024</div>
+</div>
+</a>
+</div>
 <p></p>
