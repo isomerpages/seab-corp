@@ -12,13 +12,11 @@ da Educação, FPME). Both visits underscored SEAB's esteemed role in the
 assessment community at the international front.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>Delegates from Thailand's National Institute of Educational Testing Service
-(NIETS) with SEAB’s senior management team and colleagues from Assessment
-Planning and Development Division (APDD) and Research Development Division
-(RDD)..&nbsp;</p>
+<p><em>Delegates from Thailand's National Institute of Educational Testing Service (NIETS) with SEAB’s senior management team and colleagues from Assessment Planning and Development Division (APDD) and Research Development Division (RDD).&nbsp;</em>
+</p>
 <p>&nbsp; &nbsp;</p>
-<p>Delegates from the Brazilian Congressional Education Caucus (Frente Parlamentar
-Mista da Educação, FPME) with SEAB’s senior management team&nbsp;</p>
+<p><em>Delegates from the Brazilian Congressional Education Caucus (Frente Parlamentar Mista da Educação, FPME) with SEAB’s senior management team.&nbsp;</em>
+</p>
 <p>&nbsp;</p>
 <p>On 11 August 2025, in a meaningful reunion marking 10 years since their
 last visit to SEAB in 2015, a 17-member delegation from NIETS, led by its
@@ -59,21 +57,20 @@ an environment of mutual learning and trust.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<p>The tour of the exam operations facility was one of the highlights of
-the visits for NIETS and BCEC&nbsp;</p>
+<p><em>The tour of the exam operations facility was one of the highlights of the visits for NIETS and BCEC</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>The open dialogue with NIETS allowed for rich discussions about assessment
-innovations and challenges.&nbsp;</p>
+<p><em>The open dialogue with NIETS allowed for rich discussions about assessment innovations and challenges.</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp; &nbsp;</p>
 <p>&nbsp;</p>
-<p>NIETS' visit was particularly memorable with an exchange of commemorative
-gifts marking their 20th anniversary.&nbsp;&nbsp;</p>
+<p><em>NIETS' visit was particularly memorable with an exchange of commemorative gifts marking their 20th anniversary.&nbsp;&nbsp;</em>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<p>An engaging dialogue in action between SEAB and the Brazilian delegates&nbsp;</p>
+<p><em>An engaging dialogue in action between SEAB and the Brazilian delegates&nbsp;</em>
+</p>
 <p>These visits from international delegations reflect SEAB's growing role
 in international educational assessment discourse. Through such exchanges,
 we not only share Singapore's assessment expertise but also gain valuable
@@ -82,10 +79,7 @@ strengthen our international partnerships and contribute to the continuous
 improvement of assessment practices worldwide. As we continue to host delegations
 from various countries, SEAB remains committed to fostering meaningful
 collaborations that advance educational assessment both locally and globally.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Thank you to various colleagues for supporting the corporate visits this
-August. We are happy to extend SEAB's warm hospitality to our distinguished
-guests!&nbsp;</p>
+<p></p>
 <hr>
 <h4><strong>SEAB wraps up 2025 Conversations sessions with teacher participants&nbsp;</strong>&nbsp;</h4>
 <p>SEAB recently welcomed teacher participants from NIE's Management and
@@ -114,35 +108,29 @@ a cupcake, acknowledging their dedication to the teaching profession and
 SEAB's appreciation for educators as key stakeholders.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp;</p>
-<p>Insightful presentations from Ms Koh Li Min, Assessment Officer (Sciences)
-(left) and Mr Muhammad Sufian Ramli, Assessment Officer (Malay Language)
-(right) from Assessment Planning and Development Division (APDD).&nbsp;</p>
+<p><em>Insightful presentations from Ms Koh Li Min, Assessment Officer (Sciences) (left) and Mr Muhammad Sufian Ramli, Assessment Officer (Malay Language) (right) from Assessment Planning and Development Division (APDD).&nbsp;</em>
+</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Left: The participants found out more about the history of national examinations
-during the Heritage Gallery tour.&nbsp;</p>
-<p>Right: The 1897 question papers shared by Cambridge Archives are popular
-among visitors at SEAB’s Heritage Gallery.&nbsp;</p>
+<p><em>Left: The participants found out more about the history of national examinations during the Heritage Gallery tour.&nbsp;</em>
+</p>
+<p><em>Right: The 1897 question papers shared by Cambridge Archives are popular among visitors at SEAB’s Heritage Gallery.&nbsp;</em>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp;</p>
-<p>The TLP group on an engaging tour of SEAB’s exam operations facility&nbsp;&nbsp;</p>
+<p><em>The TLP group on an engaging tour of SEAB’s exam operations facility</em>&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<p>The breakout discussions also served as a valuable networking opportunity
-for educators to connect and exchange feedback and insights.&nbsp;</p>
+<p><em>The breakout discussions also served as a valuable networking opportunity for educators to connect and exchange feedback and insights.</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp;</p>
-<p>The candid dialogue sessions with SEAB's senior management consistently
-emerge as a programme highlight, fostering open and authentic exchanges.&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>MLS participants (top) and TLP participants (bottom) were all smiles upon
-receiving cupcakes!&nbsp;</p>
+<p><em>The candid dialogue sessions with SEAB's senior management consistently emerge as a programme highlight, fostering open and authentic exchanges.&nbsp;</em>
+</p>
+<p><em>MLS participants (top) and TLP participants (bottom) were all smiles upon receiving cupcakes!&nbsp;</em>
+</p>
 <p>&nbsp;&nbsp;</p>
 <p><strong>Reflections from Participants</strong>&nbsp;</p>
 <p>&nbsp;</p>
-<p>Related reads:&nbsp;
-<br>Issue 2/2025: <a href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="Hyperlink SCXW157254010 BCX8" rel="noreferrer noopener" target="_blank"><u>Meaningful Engagements and Milestones at SEAB</u></a>&nbsp;</p>
 <hr>
 <h4><strong>SEAB Explores Electronic Examination Best Practices with New Zealand Qualifications Authority (NZQA)</strong>&nbsp;</h4>
 <p>On 20 May 2025, SEAB engaged in a productive virtual conference with the
@@ -172,11 +160,5 @@ ensuring quality and integrity.&nbsp;</p>
 <p>This engagement has provided valuable insights into digital assessment
 transformation and reinforced the importance of international collaboration
 in educational assessment.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><em>SEAB and NZQA attendees during their virtual knowledge exchange session on digital assessment implementation</em>&nbsp;</p>
 <p>&nbsp;</p>
