@@ -45,4 +45,5 @@ insights into our ongoing contributions to elevate assessment and positive
 impact for our education community.&nbsp;</p>
 <p>We hope you enjoy reading about these developments in these stories as
 we continue our shared mission of excellence in assessment.&nbsp;</p>
-<p>&nbsp;<em>SEAB-link Editorial Team</em>&nbsp;</p>
+<p>&nbsp;<strong><em>SEAB-link Editorial Team</em>&nbsp;</strong>
+</p>
