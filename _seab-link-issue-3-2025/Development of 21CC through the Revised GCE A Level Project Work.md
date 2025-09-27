@@ -29,8 +29,9 @@ nationally significant issues.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="students in project work discussion" src="/images/SEABlink/Stock___2024___Catholic_JC_23__1_.jpg">
 </div>
-<p><em>Project Work brings students and teacher together in meaningful dialogue. (Photo Source: MOE)&nbsp;</em>
-</p>
+<em>Project Work brings students and teacher together in meaningful dialogue. 
+<br>(Photo Source: MOE)&nbsp;</em>
+<p></p>
 <p>Working in groups of four to five, the first cohort of revised PW students
 in 2024 relished the freedom offered by the new open task format to explore
 topics of their interest. Empowered to exercise greater agency and ownership
@@ -43,8 +44,8 @@ collaborative skills as students work towards a common goal.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="word cloud" src="/images/SEABlink/word_cloud_on_revised_pw.png">
 </div>
-<p><em>Word cloud derived from student survey responses regarding the revised PW.</em>
-</p>
+<em>Word cloud derived from student survey responses regarding the revised PW.</em>
+<p></p>
 <p>The introduction of GRQ in OP further promotes collaborative learning,
 critical thinking, and communication skills, better preparing students
 for future academic and professional environments. Students must exercise
