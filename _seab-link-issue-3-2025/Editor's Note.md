@@ -24,25 +24,25 @@ session in July 2025, where 300 school leaders from 96 primary schools
 discovered practical applications of these tools and shared valuable insights
 with their peers.&nbsp;</p>
 <p><strong>Expanding e-Examinations</strong>&nbsp;</p>
-<p>2025 marked another milestone for e-Examinations as H2 China Studies subjects
+2025 marked another milestone for e-Examinations as H2 China Studies subjects
 became the first Humanities subjects to implement hybrid e-written examinations
 at A-Level. This development reflects our ongoing commitment to modernising
-assessment while maintaining high standards.&nbsp;</p>
+assessment while maintaining high standards.&nbsp;<p></p>
 <p><strong>Enhancing Access Arrangements</strong>&nbsp;</p>
-<p>Following successful pilot studies, buzzer devices are now available as
+Following successful pilot studies, buzzer devices are now available as
 standard tools for national examinations. These helpful attention-support
 devices can now be used without special applications, making implementation
-simpler for schools.&nbsp;</p>
+simpler for schools.&nbsp;<p></p>
 <p><strong>Making a Difference</strong>&nbsp;</p>
-<p>Beyond our work in assessment, this issue also showcases how SEAB staff
+Beyond our work in assessment, this issue also showcases how SEAB staff
 are contributing to the community through their volunteer efforts at Willing
 Hearts, demonstrating our commitment to social responsibility and helping
-the less fortunate.&nbsp;</p>
+the less fortunate.&nbsp;<p></p>
 <p><strong>More to Discover</strong>&nbsp;</p>
-<p>These featured stories represent just five of the 14 articles in this
+These featured stories represent just five of the 14 articles in this
 issue. We encourage you to explore the remaining pieces, which offer additional
 insights into our ongoing contributions to elevate assessment and positive
-impact for our education community.&nbsp;</p>
+impact for our education community.&nbsp;<p></p>
 <p>We hope you enjoy reading about these developments in these stories as
 we continue our shared mission of excellence in assessment.&nbsp;</p>
 <p>&nbsp;<strong><em>SEAB-link Editorial Team</em>&nbsp;</strong>
