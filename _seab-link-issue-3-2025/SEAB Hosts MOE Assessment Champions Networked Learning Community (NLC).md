@@ -27,12 +27,10 @@ Assessment and their implications for classroom assessment practices.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="CE speech" src="/images/SEABlink/10.png">
-</div>
 <em>Chief Executive of SEAB, Mr Yue Lip Sin, presenting his welcome address.</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DCPO speech" src="/images/SEABlink/10_1.png">
-</div>
 <em>An enlightening speech from Director of Curriculum Policy Office and 21st Century Competencies Office, Mr Sherwin Cheng.</em>
 <p></p>
 <p>The event featured breakout sessions covering topics such as data-driven
@@ -45,7 +43,6 @@ secondary schools, covering assessment in the age of AI, the importance
 of teacher feedback and educational technology.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="marketplace" src="/images/SEABlink/11_ed.png">
-</div>
 <em>A vibrant scene unfolded as breakout sessions buzzed with active discussions and participants explored insightful exhibits showcasing innovative practices from various institutions during the marketplace segment.</em>
 <p></p>
 <p>SEAB's Research and Development Division participated in the marketplace
@@ -67,11 +64,10 @@ Schools that are currently using these tools shared how the diagnostic
 capabilities have enhanced their teaching and learning practices.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="afl booths" src="/images/SEABlink/12_ed.png">
-</div>
 <em>Participants interacting at SEAB’s AfL booths</em>
 <p></p>
 <p>The collaborative spirit shown during the event reflected SEAB's commitment
 to partnering with MOE and schools to enhance balanced assessment practices.
 The positive response from participating schools suggests growing recognition
 of how technology-enabled assessment tools can support both teaching and
-learning.</p>
+learning.</p></div></div></div></div>
