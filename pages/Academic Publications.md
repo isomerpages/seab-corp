@@ -1,7 +1,7 @@
 ---
 title: Academic Publications
 permalink: /academic-publications/
-variant: tiptap
+variant: markdown
 description: Academic Publications
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
