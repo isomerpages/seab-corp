@@ -66,7 +66,7 @@ warm hospitality and for curating such rich and engaging experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSA LJ" src="/images/SEABlink/18_1.png">
 </div>
-<em>SEAB staff at the engaging learning journeys at GovTech, URA and PSA</em>&nbsp;<p></p>
+<em>SEAB staff at the engaging learning journeys at GovTech, URA and PSA</em>&nbsp;
 <p></p>
 <p></p>
 <h4><strong>Keynote Sharing by GovTech: AI in the Future of Assessment</strong>&nbsp;</h4>
@@ -84,7 +84,7 @@ ahead in a rapidly evolving assessment landscape.&nbsp;&nbsp;&nbsp;&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech speakers" src="/images/SEABlink/16_2.png">
 </div>
-<em>Speakers John Soh and Irene Lam from GovTech sharing about use of AI</em>&nbsp;<p></p>
+<em>Speakers John Soh and Irene Lam from GovTech sharing about use of AI</em>&nbsp;
 <p></p>
 <p></p>
 <h4><strong>Hands-on AI Sessions by Research and Development Division</strong>&nbsp;</h4>
@@ -136,7 +136,7 @@ decision of the refreshed cultural traits.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="culture traits discussion" src="/images/SEABlink/16_1.png">
 </div>
-<em>Staff engaged in discussions about SEAB’s cultural traits</em>&nbsp;<p></p>
+<em>Staff engaged in discussions about SEAB’s cultural traits</em>&nbsp;
 <p></p>
 <p></p>
 <h4><strong>Reflection and Dialogue with Senior Management</strong>&nbsp;</h4>
