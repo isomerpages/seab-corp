@@ -193,7 +193,7 @@ from SEAB.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
 <a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_st_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Transcript</a>
-<br><a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9737_y26_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
 <a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3</a> 
 <br>[2025]</p>
