@@ -151,7 +151,7 @@ together.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="senior management talk" src="/images/SEABlink/19_1.png">
 </div>
-<em>Senior management answering various questions posed</em>&nbsp;<p></p>
+<em>Senior management answering various questions posed</em>&nbsp;
 <p></p>
 <p></p>
 <p>The Seminar concluded with group photos, marking the end of a purposeful
