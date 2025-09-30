@@ -29,19 +29,16 @@ student health and wellbeing as well as addressed curriculum and assessment
 approaches for climate change and sustainability education.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="delegation" src="/images/SEABlink/Photo_1.jpg">
-</div>
 <em>The Singapore delegation sharing recent educational moves to nurture the joy of learning.</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE" src="/images/SEABlink/Photo_2.jpg">
-</div>
 <em>MOE senior management participated virtually in the meeting on educational initiatives.</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="virtual" src="/images/SEABlink/Photo_3.jpg">
-</div>
 <em>Dr Ryan Chow from SEAB updated the meeting on auto-marking initiative.</em>
 <p></p>
 <p>As part of the CCM to showcase the local education and educational initiatives,
@@ -61,7 +58,6 @@ it has been successful in supporting high-needs students, who make good
 progress and outperform their peers.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="showcase" src="/images/SEABlink/ccm1.png">
-</div>
 <em>College key personnel with the Singapore delegation during the campus tour.</em>
 <p></p>
 <p></p>
@@ -76,7 +72,6 @@ live together. In fact, they never naturally encounter each other, as polar
 bears are found in the Arctic while penguins live in the Antarctic.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="showcase" src="/images/SEABlink/ccm2.png">
-</div>
 <em>The Singapore delegation exploring exhibits about the Arctic and Antarctic at The Scott Polar Research Institute.</em>
 <p></p>
 <p></p>
@@ -87,7 +82,6 @@ has cemented and will continue to strengthen the professional working relationsh
 and friendships that the educational partners have established.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="delegation2" src="/images/SEABlink/Photo_8.jpg">
-</div>
 <em>Looking forward to next year's CCM to be hosted by SEAB in Singapore.</em>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
@@ -96,4 +90,4 @@ and friendships that the educational partners have established.&nbsp;</p>
 </div>
 <p></p>
 <p></p>
-<p>&nbsp;</p>
+<p>&nbsp;</p></div></div></div></div></div></div>
