@@ -14,7 +14,6 @@ at the <a href="https://www.seab.gov.sg/training-and-consultancy/seab-in-house-w
 ceremony.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CEA 2025" src="/images/SEABlink/DSC3391.jpg">
-</div>
 <em>Group photo of CEA graduates with the instructors from SEAB.</em>
 <p></p>
 <p></p>
@@ -26,7 +25,6 @@ emphasised the importance of strengthening validity and reliability through
 students' responses to feedback.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CEA valedictorian" src="/images/SEABlink/23.png">
-</div>
 <em>Left: CEA graduate, Ms Lee Chun Hua, delivering her valedictorian address.</em>
 <br><em>Right: CEA graduates listening attentively to Ms Lee Chun Hua’s speech.</em>
 <p></p>
@@ -57,7 +55,6 @@ assessment system represented countless hours of refinement, and rigorous
 testing, to enhance the examination experience for the candidates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Science" src="/images/SEABlink/DSC3417.jpg">
-</div>
 <em>Senior Assessment Specialist (Sciences), Mr Tan Lee Sze, giving a demonstration of SEAB’s e-Examinations system.</em>
 <p></p>
 <p></p>
@@ -70,7 +67,6 @@ together to navigate today’s volatile, uncertain, complex and ambiguous
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CEA dialogue" src="/images/SEABlink/24.png">
-</div>
 <em>The dialogue session generated key insights about assessment practices and their strategic implementation.</em>
 <p></p>
 <p></p>
@@ -82,4 +78,4 @@ schools, one thoughtful step at a time.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/cea2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Empowering Educators:  Graduation of Participants in Certificate  in Examination and Assessment (CEA) in  Education</div><div class="isomer-card-description">p.24</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
 </div>
-<p></p>
+<p></p></div></div></div></div>
