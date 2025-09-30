@@ -28,7 +28,6 @@ enhances students’ joy of learning but also heightens their awareness of
 nationally significant issues.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="students in project work discussion" src="/images/SEABlink/Stock___2024___Catholic_JC_23__1_.jpg">
-</div>
 <em>Project Work brings students and teacher together in meaningful dialogue. 
 <br>(Photo Source: MOE)&nbsp;</em>
 <p></p>
@@ -43,7 +42,6 @@ and financial literacy for the young. Working in groups naturally fosters
 collaborative skills as students work towards a common goal.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="word cloud" src="/images/SEABlink/word_cloud_on_revised_pw.png">
-</div>
 <em>Word cloud derived from student survey responses regarding the revised PW.</em>
 <p></p>
 <p>The introduction of GRQ in OP further promotes collaborative learning,
@@ -56,4 +54,4 @@ mirror authentic social discourse.&nbsp;&nbsp;</p>
 <p>In a world facing increasingly complex challenges, the role of the GCE
 A-Level Project Work becomes ever more vital as we equip future generations
 with the skills and dispositions to chart their personal journeys and contribute
-to our nation’s development.</p>
+to our nation’s development.</p></div></div>
