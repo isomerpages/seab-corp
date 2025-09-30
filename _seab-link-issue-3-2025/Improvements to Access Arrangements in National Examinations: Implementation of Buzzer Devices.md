@@ -18,7 +18,6 @@ periodic vibrations at set intervals, prompting students to check their
 attention and re-engage with their current tasks.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="buzzer" src="/images/SEABlink/issue_32025_photos_and_graphics.png">
-</div>
 <em>The buzzer can be worn on the wrist or clipped on the shirt or pants.</em>
 <p>In 2025, SEAB conducted a pilot study with students from primary to pre-university levels to determine if these buzzers could improve their focus in examination conditions. The results were promising – with 77% of students demonstrating improved focus and 71% expressing a preference for buzzer prompts over teacher prompts.&nbsp;</p>
 <p>Besides proving effective in examination conditions, buzzers’ applications
@@ -42,4 +41,4 @@ for students to apply for Access Arrangement to use it during examinations.
 This simplifies implementation and eases the load on teachers who need
 to serve as prompters during examinations. Schools are encouraged to proliferate
 the effective use of buzzers among their students.&nbsp;</p>
-<p>Find out more information about <a href="https://www.seab.gov.sg/access-arrangements/" rel="noopener nofollow" target="_blank">Access Arrangements</a>.</p>
+<p>Find out more information about <a href="https://www.seab.gov.sg/access-arrangements/" rel="noopener nofollow" target="_blank">Access Arrangements</a>.</p></div>
