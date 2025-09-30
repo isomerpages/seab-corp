@@ -112,7 +112,7 @@ responsiveness, regardless of technical background.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI" src="/images/SEABlink/15_1.png">
 </div>
-<em>“See, no need to type!”</em>&nbsp;<p></p>
+<em>“See, no need to type!”</em>&nbsp;
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
