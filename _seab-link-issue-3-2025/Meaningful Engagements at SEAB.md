@@ -124,25 +124,20 @@ SEAB's appreciation for educators as key stakeholders.</p>
 <em>Left: The participants found out more about the history of national examinations during the Heritage Gallery tour.&nbsp;</em>
 <br><em>Right: The 1897 question papers shared by Cambridge Archives are popular among visitors at SEAB’s Heritage Gallery.&nbsp;</em>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="tour" src="/images/SEABlink/eng3.png">
 </div>
 <em>The TLP group on an engaging tour of SEAB’s exam operations facility.</em>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="breakout" src="/images/SEABlink/eng4.png">
 </div>
-<em>The breakout discussions also served as a valuable networking opportunity for educators to connect and exchange feedback and insights.</em>&nbsp;<p></p>
+<em>The breakout discussions also served as a valuable networking opportunity for educators to connect and exchange feedback and insights.</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dialogue" src="/images/SEABlink/eng5.png">
 </div>
 <em>The candid dialogue sessions with SEAB's senior management consistently emerge as a programme highlight, fostering open and authentic exchanges.&nbsp;</em>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group" src="/images/SEABlink/eng6.png">
 </div>
