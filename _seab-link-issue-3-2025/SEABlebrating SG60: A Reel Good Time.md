@@ -71,7 +71,8 @@ and share in laughter, music, and camaraderie.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SG60" src="/images/SEABlink/DSC08393_Enhanced_NR.jpg">
 </div>
-<em>&nbsp;One SEAB family celebrating SG60!</em>&nbsp;<p></p>
+<em>&nbsp;One SEAB family celebrating SG60!</em>&nbsp;
+<p></p>
 <p></p>
 <h4><strong>Suggested Reads</strong></h4>
 <p></p>
