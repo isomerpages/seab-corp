@@ -65,7 +65,6 @@ warm hospitality and for curating such rich and engaging experiences.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSA LJ" src="/images/SEABlink/18_1.png">
-</div>
 <em>SEAB staff at the engaging learning journeys at GovTech, URA and PSA</em>&nbsp;
 <p></p>
 <p></p>
@@ -83,8 +82,7 @@ ahead in a rapidly evolving assessment landscape.&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech speakers" src="/images/SEABlink/16_2.png">
-</div>
-<em>Speakers John Soh and Irene Lam from GovTech sharing about use of AI</em>&nbsp;
+<em>Speakers John Soh and Irene Lam from GovTech sharing about the use of AI</em>&nbsp;
 <p></p>
 <p></p>
 <h4><strong>Hands-on AI Sessions by Research and Development Division</strong>&nbsp;</h4>
@@ -111,13 +109,11 @@ responsiveness, regardless of technical background.&nbsp;</p>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI" src="/images/SEABlink/15_1.png">
-</div>
 <em>“See, no need to type!”</em>&nbsp;
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="chatbot" src="/images/SEABlink/15_2.png">
-</div>
 <em>SEAB staff learning to use AI chatbots</em>
 <p></p>
 <p></p>
@@ -135,7 +131,6 @@ to scale the next S-curve. The inputs were then consolidated for management’s
 decision of the refreshed cultural traits.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="culture traits discussion" src="/images/SEABlink/16_1.png">
-</div>
 <em>Staff engaged in discussions about SEAB’s cultural traits</em>&nbsp;
 <p></p>
 <p></p>
@@ -150,7 +145,6 @@ which reinforced a shared commitment to listening, learning, and adapting
 together.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="senior management talk" src="/images/SEABlink/19_1.png">
-</div>
 <em>Senior management answering various questions posed</em>&nbsp;
 <p></p>
 <p></p>
@@ -162,7 +156,6 @@ encouraged to apply new tools, embody our evolving culture traits, and
 work together to advance SEAB’s mission with confidence and ambition.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seab seminar 2025" src="/images/SEABlink/17_2.png">
-</div>
 <em>Grateful for another successful run of the seminar!&nbsp;</em>
 <p></p>
 <p></p>
@@ -170,4 +163,4 @@ work together to advance SEAB’s mission with confidence and ambition.&nbsp;</p
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/sem2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 SEAB Seminar:  Be the Change, Shape Our Future</div><div class="isomer-card-description">p.26</div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
 </div>
-<p></p>
+<p></p></div></div></div></div></div></div></div>
