@@ -16,13 +16,11 @@ and align planning with teaching practices. Through reflection, educators
 develop approaches to empower students in their learning journey.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group discussion" src="/images/SEABlink/14_1.png">
-</div>
 <em>Participants engaging in thoughtful group work&nbsp;</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="facilitators" src="/images/SEABlink/14.png">
-</div>
 <em>Trainers from SEAB’s Assessment Planning and Development Division (Diana, Sau Mei, Vincent and Rita) with participants against a backdrop of thoughtful reflections&nbsp;</em>
 <p></p>
 <p></p>
@@ -42,4 +40,4 @@ out for registration details for the upcoming 2026 sessions via <a href="https:/
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-1-2025/21cc-workshop-on-assessment-as-learning/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/wshop_21.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Empowering 21st Century Learners: Insights from SEAB's Workshop on Assessment as Learning</div><div class="isomer-card-link">SEAB-link Issue 1/2025</div></div></a>
 </div>
-<p></p>
+<p></p></div></div>
