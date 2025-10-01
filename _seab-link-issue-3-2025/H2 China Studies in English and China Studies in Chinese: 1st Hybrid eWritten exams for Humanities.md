@@ -2,15 +2,15 @@
 title: "H2 China Studies in English and China Studies in Chinese: 1st Hybrid
   eWritten exams for Humanities"
 permalink: /seab-link-issue-3-2025/h2-china-studies-in-english-and-china-studies-in-chinese/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<p>2025 marks another milestone for our e-Examinations journey, as Hybrid e-Written
-examinations are first introduced for Humanities Subjects at GCE A-Level.
-For both A-Level China Studies in English (CSE) and China Studies in Chinese
-(CSC), candidates will receive physical question papers and submit their
-responses digitally through SEAB's e-Examination system using the Digital
-Answer Booklet (DAB).&nbsp; &nbsp;</p>
+<p>2025 marks another milestone for our e-Examinations journey, as Hybrid
+e-Written examinations are first introduced for Humanities Subjects at
+GCE A-Level. For both A-Level China Studies in English (CSE) and China
+Studies in Chinese (CSC), candidates will receive physical question papers
+and submit their responses digitally through SEAB's e-Examination system
+using the Digital Answer Booklet (DAB).&nbsp; &nbsp;</p>
 <p>In preparation for the 2025 GCE A-Level e-Written Examinations, practice
 sessions were conducted in April this year. These practice sessions were
 designed to familiarise candidates with their respective examination formats
@@ -18,7 +18,9 @@ before the year-end examinations.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="practice session at YIJC" src="/images/SEABlink/IMG20250422104604__1_.jpg">
-<em>A CSE practice session at Yishun Innova Junior College</em>
+</div>
+<p><em>A CSE practice session at Yishun Innova Junior College</em>
+</p>
 <p></p>
 <p></p>
 <p>The shift to electronic examinations for CSE and CSC is driven by three
@@ -29,9 +31,12 @@ offers valuable editing capabilities that help candidates better plan,
 organise, and refine their essays for improved clarity and coherence. Finally,
 this transition helps prepare candidates for the digital nature of the
 modern workplace, preparing our students for the world of work.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="cover page of Digital Answer Booklet" src="/images/SEABlink/IMG_3716.jpg">
-<em>Cover page of the CSE DAB&nbsp;</em>
+<img style="width: 100%" height="auto" width="100%" alt="cover page of CSE DAB" src="/images/SEABlink/eexam_h2.png">
+</div>
+<p><em>Cover page of the CSE DAB&nbsp;</em>
+</p>
 <p></p>
 <p></p>
 <p>The CSE e-written examination practice sessions were successfully conducted
@@ -50,7 +55,9 @@ and prefer it to paper-based exams.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
-<em>A candidate planning his responses using the hardcopy question paper&nbsp;</em>
+</div>
+<p><em>A candidate planning his responses using the hardcopy question paper&nbsp;</em>
+</p>
 <p></p>
 <p></p>
 <p>A total of 164 candidates from Dunman High School, Eunoia Junior College,
@@ -62,7 +69,9 @@ editing and organising their responses in the DAB.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CSC students practice session at Hwa Chong" src="/images/SEABlink/CSC_PS_02.jpg">
-<em>Candidates taking CSC practice session paper at Hwa Chong Institution&nbsp;</em>
+</div>
+<p><em>Candidates taking CSC practice session paper at Hwa Chong Institution&nbsp;</em>
+</p>
 <p></p>
 <p></p>
 <p>The practice sessions for both China Studies in English and China Studies
@@ -76,4 +85,4 @@ GCE A-Level subjects in the coming years.&nbsp;</p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-1-2025/journey-with-eexaminations-updates-for-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="eexams" src="/images/SEABlink/eexam_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB's Journey with e-Examinations: Updates for 2024</div><div class="isomer-card-link">SEAB-link Issue 1/2025</div></div></a>
 </div>
-<p></p></div></div></div></div>
+<p></p>
