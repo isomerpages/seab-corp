@@ -38,7 +38,7 @@ traits.&nbsp;&nbsp;&nbsp;</p>
 <p>The highlight of the morning was a musical performance by talented students
 from West Grove Primary School, who charmed everyone with a ukulele rendition
 of the National Day song ‘Home’. The performance became even more special
-when two SEAB staff members, Pamela Tan and Mr Shane Seah from the Corporate
+when two SEAB staff members, Ms Pamela Tan and Mr Shane Seah from the Corporate
 Cluster, joined in with their voices, creating a heartwarming musical collaboration.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="westgrove ukelele" src="/images/SEABlink/3_1.png">
