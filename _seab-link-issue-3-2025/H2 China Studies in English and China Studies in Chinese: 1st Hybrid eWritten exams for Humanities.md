@@ -18,9 +18,8 @@ before the year-end examinations.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="practice session at YIJC" src="/images/SEABlink/IMG20250422104604__1_.jpg">
-</div>
-<p><em>A CSE practice session at Yishun Innova Junior College</em>
-</p>
+<em>A CSE practice session at Yishun Innova Junior College</em>
+<p></p>
 <p></p>
 <p></p>
 <p>The shift to electronic examinations for CSE and CSC is driven by three
@@ -34,9 +33,8 @@ modern workplace, preparing our students for the world of work.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="cover page of CSE DAB" src="/images/SEABlink/eexam_h2.png">
-</div>
-<p><em>Cover page of the CSE DAB&nbsp;</em>
-</p>
+<em>Cover page of the CSE DAB&nbsp;</em>
+<p></p>
 <p></p>
 <p></p>
 <p>The CSE e-written examination practice sessions were successfully conducted
@@ -55,9 +53,8 @@ and prefer it to paper-based exams.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="student with hardcopy question paper" src="/images/SEABlink/IMG_3724.jpg">
-</div>
-<p><em>A candidate planning his responses using the hardcopy question paper&nbsp;</em>
-</p>
+<em>A candidate planning his responses using the hardcopy question paper&nbsp;</em>
+<p></p>
 <p></p>
 <p></p>
 <p>A total of 164 candidates from Dunman High School, Eunoia Junior College,
@@ -69,9 +66,8 @@ editing and organising their responses in the DAB.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CSC students practice session at Hwa Chong" src="/images/SEABlink/CSC_PS_02.jpg">
-</div>
-<p><em>Candidates taking CSC practice session paper at Hwa Chong Institution&nbsp;</em>
-</p>
+<em>Candidates taking CSC practice session paper at Hwa Chong Institution&nbsp;</em>
+<p></p>
 <p></p>
 <p></p>
 <p>The practice sessions for both China Studies in English and China Studies
@@ -85,4 +81,4 @@ GCE A-Level subjects in the coming years.&nbsp;</p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-1-2025/journey-with-eexaminations-updates-for-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="eexams" src="/images/SEABlink/eexam_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB's Journey with e-Examinations: Updates for 2024</div><div class="isomer-card-link">SEAB-link Issue 1/2025</div></div></a>
 </div>
-<p></p>
+<p></p></div></div></div></div>
