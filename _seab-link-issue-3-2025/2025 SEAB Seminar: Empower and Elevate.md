@@ -82,7 +82,7 @@ ahead in a rapidly evolving assessment landscape.&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech speakers" src="/images/SEABlink/16_2.png">
-<em>Speakers John Soh and Irene Lam from GovTech sharing about the use of AI</em>&nbsp;
+<em>Speakers Mr John Soh and Ms Irene Lam from GovTech sharing about the use of AI</em>&nbsp;
 <p></p>
 <p></p>
 <h4><strong>Hands-on AI Sessions by Research and Development Division</strong>&nbsp;</h4>
