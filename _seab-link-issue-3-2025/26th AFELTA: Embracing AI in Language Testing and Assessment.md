@@ -48,21 +48,24 @@ of immediate and customised feedback to students.&nbsp;</p>
 studies pertaining to English Language testing in other countries.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="shanghai speaker" src="/images/SEABlink/8_2.png">
-</div>
+<em>Representative from Shanghai International Studies University (SISU)</em>
+<p></p>
 <p>For example, Shanghai International Studies University (SISU), having
 explored the integration of Artificial Intelligence into the development
 and validation of its Test for English Majors (TEM), shared the potential
 and limitations of this approach.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="HK speaker" src="/images/SEABlink/9_1.png">
-</div>
+<em>Representative from Hong Kong Examinations and Assessment Authority (HKEAA)</em>
+<p></p>
 <p>The Hong Kong Examinations and Assessment Authority (HKEAA) shared its
 exploration of transitioning the delivery mode of its speaking paper from
 face-to-face to an Internet-Delivered Speaking Test using a video conferencing
 platform.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Korea speaker" src="/images/SEABlink/9_2.png">
-</div>
+<em>Representative from Korea English Language Testing Association (KELTA)</em>
+<p></p>
 <p>The Korea English Language Testing Association (KELTA) shared its findings
 on the potential of AI and immersive environments in enhancing descriptive
 assessment practices in primary English.&nbsp;&nbsp;</p>
@@ -128,4 +131,4 @@ Visit from Shanghai Municipal Educational Examinations Authority (SMEEA)</div>
 </div>
 </a>
 </div>
-<p></p></div></div></div></div>
+<p></p></div></div></div></div></div></div></div>
