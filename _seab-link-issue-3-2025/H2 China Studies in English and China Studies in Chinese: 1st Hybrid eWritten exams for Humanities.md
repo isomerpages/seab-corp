@@ -33,7 +33,7 @@ this transition helps prepare candidates for the digital nature of the
 modern workplace, preparing our students for the world of work.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cover page of CSE DAB" src="/images/SEABlink/eexam_h2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="cover page of CSE DAB" src="/images/SEABlink/eexam_h2.png">
 </div>
 <p><em>Cover page of the CSE DAB&nbsp;</em>
 </p>
