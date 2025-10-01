@@ -13,14 +13,6 @@ what will be shown on the result slip and examination certificate from
 <p><strong>Examination Certificates</strong>
 <br>You will receive your PSLE certificate if you are awarded a grade for
 at least one PSLE subject. Ungraded subjects are not reflected on the certificate.</p>
-<p><strong>Amendments to Examination Certificates</strong>
-<br>Please check the personal particulars printed on your examination certificates.
-If you find any error, you can submit your request for an amendment through
-your school, together with your original certificate. There will be an
-administration fee payable for any request to amend an examination certificate.</p>
-<p>All requests have to be submitted through your school by the deadline
-set from the date of issue of the certificates. You can refer to the PSLE
-instructions for candidates for information on the deadline.</p>
 <p><strong>Retrieval of Past Years' Examination Results</strong>
 <br>As the result slips and examination certificates are controlled documents,
 no replacements will be issued if you lose them.</p>
