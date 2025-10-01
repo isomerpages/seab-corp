@@ -116,10 +116,7 @@ SEAB's appreciation for educators as key stakeholders.</p>
 <em>Left: The participants found out more about the history of national examinations during the Heritage Gallery tour.&nbsp;</em>
 <br><em>Right: The 1897 question papers shared by Cambridge Archives are popular among visitors at SEAB’s Heritage Gallery.&nbsp;</em>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="tour" src="/images/SEABlink/eng3.png">
-<em>The TLP group on an engaging tour of SEAB’s exam operations facility.</em>
-<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="breakout" src="/images/SEABlink/eng4.png">
 <em>The breakout discussions also served as a valuable networking opportunity for educators to connect and exchange feedback and insights.</em>
@@ -127,6 +124,7 @@ SEAB's appreciation for educators as key stakeholders.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dialogue" src="/images/SEABlink/eng5.png">
 <em>The candid dialogue sessions with SEAB's senior management consistently emerge as a programme highlight, fostering open and authentic exchanges.&nbsp;</em>
+	<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group" src="/images/SEABlink/eng6.png">
 <em>MLS participants (top) and TLP participants (bottom) were all smiles upon receiving cupcakes!</em>
@@ -248,4 +246,4 @@ in educational assessment.&nbsp;</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/engagementtwa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Meaningful Engagements and Milestones at SEAB</div><div class="isomer-card-link">SEAB-link Issue 2/2025</div></div></a>
 </div>
-<p>&nbsp;</p></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<p>&nbsp;</p></div></div></div></div></div></div></div></div></div></div></div></div>
