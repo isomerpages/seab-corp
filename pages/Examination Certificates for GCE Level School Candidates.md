@@ -79,14 +79,6 @@ on the examination certificates:</p>
 </p>
 </li>
 </ul>
-<h3><strong>Amendment of Examination Certificates</strong></h3>
-<p>Please check the personal particulars printed on your examination certificates.
-If you find any error, you can submit your request for an amendment through
-your school, together with your original certificates. There will be an
-administration fee payable for any request to amend an examination certificate.</p>
-<p>All requests have to be submitted through your school by the deadline
-set from the date of issue of the certificates. Please refer to the Examination
-Rules and Regulations for School Candidates for information on the deadline.</p>
 <h3><strong>Retrieval of Past Years' Examination Results</strong></h3>
 <p>As the examination certificates are controlled documents, no replacements
 will be issued if you lose them.</p>

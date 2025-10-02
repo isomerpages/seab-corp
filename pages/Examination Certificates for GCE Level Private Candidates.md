@@ -84,15 +84,6 @@ on the examination certificates:</p>
 </p>
 </li>
 </ul>
-<h4><strong>Amendment of Examination Certificates</strong></h4>
-<p>Please check the personal particulars printed on your examination certificates.
-If you find any error, you can submit your request for an amendment to
-<a href="/about-us/contact-us" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u>
-</a>. There will be an administration fee payable for any request to amend
-an examination certificate.</p>
-<p>All requests have to be submitted to SEAB by the deadline set from the
-date of issue of the certificates. Please refer to the Examination Rules
-and Regulations for Private Candidates for information on the deadline.</p>
 <h4><strong>Retrieval of Past Years' Examination Results</strong></h4>
 <p>As the examination certificates are controlled documents, no replacements
 will be issued if you lose them.</p>
