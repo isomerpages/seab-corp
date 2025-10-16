@@ -211,9 +211,8 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <br>+86 13922703951
 <br><a href="mailto:zinan.zhang@nurturagroup.sg" rel="noopener nofollow" target="_blank">zinan.zhang@nurturagroup.sg</a>
 <br>
-<br>Ms Janice Wang
-<br>+86 13825116913
-<br><a href="mailto:janice.wang@nurturagroup.sg" rel="noopener nofollow" target="_blank">janice.wang@nurturagroup.sg</a>
+<br>Ms Susan Wu
+<br>+86 13450355106<a href="mailto:susan.wu@scagz.com" rel="noopener noreferrer nofollow" target="_blank"><br>susan.wu@scagz.com</a>
 </p>
 </td>
 </tr>
