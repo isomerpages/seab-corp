@@ -19,66 +19,6 @@ information.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>RESEARCH OFFICER (DATA SCIENCE), ASSESSMENT RESEARCH - 2 YEAR CONTRACT</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>Job Responsibilities</strong>
-</p>
-<p></p>
-<p>Successful applicant will play an active role in handling, analysing and
-mining data to provide meaning analysis and visualisation for decision
-making. The key responsibilities include:</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Analyse large amount of data for trends and patterns, and build predictive
-models and machine learning algorithms</p>
-</li>
-<li>
-<p>Apply sound methodologies in data science, statistical analysis and data
-mining</p>
-</li>
-<li>
-<p>Perform data visualisation to derive insights and value-add to decision
-making</p>
-</li>
-<li>
-<p>Develop automated marking models for different subjects with constructed
-responses ranging from answers that are one sentence in length to complex
-answers requiring an essay or analysis</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Job Requirements</strong>
-</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tertiary Qualification in Data Science, or Computer Science, or Statistics,
-with a minimum of 2 to 3 years’ experience in manipulating data sets, building
-statistical models and hands-on experience in machine learning applications</p>
-</li>
-<li>
-<p>Candidates with 0 to 1 year of working experience can be considered</p>
-</li>
-<li>
-<p>Strong in programming experience and proficient in Python/R/C++</p>
-</li>
-<li>
-<p>Possess knowledge of a variety of machine learning techniques, such as
-clustering, recommender systems, Natural Language Processing, Deep learning
-etc., and their real-world application</p>
-</li>
-<li>
-<p>Possess knowledge of advanced statistical techniques and concepts, such
-as regression, properties of distributions, statistical tests and proper
-usage, etc.</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>ASSISTANT MANAGER / MANAGER (EXAM SYSTEMS), EXAM OPERATIONS DIVISION – 2 YEAR CONTRACT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -150,6 +90,64 @@ stakeholders effectively</p>
 <li>
 <p>Self-motivated and proactive in finding solutions and addressing stakeholders’
 concerns&nbsp;</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Job Responsibilities</strong>
+</p>
+<p></p>
+<p>Successful applicant will play an active role in researching educational
+measurement and assessment issues, as well as developing assessment services
+and products that are fit for purpose, educationally sound, and positively
+transforming for stakeholders. The key responsibilities include:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct research studies which focus on harnessing technology to assess
+complex competencies for 21st Century education</p>
+</li>
+<li>
+<p>Apply statistical techniques to support assessment-related analysis</p>
+</li>
+<li>
+<p>Provide project management and consultancy services for assessment projects</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tertiary qualification in Statistics</p>
+</li>
+<li>
+<p>Experience in research studies, educational measurements and/or data analytics
+(e.g. machine learning &amp; data mining)</p>
+</li>
+<li>
+<p>Experience in the education sector will be an advantage - Proficient in
+the use of statistical analysis software (e.g. STATA, SAS, RUMM2020, R-Programming)</p>
+</li>
+<li>
+<p>Experience in the use of coding applications (such as Visual Studio) with
+C/C#/C++, Visual Basic or Java Programming, will be useful</p>
+</li>
+<li>
+<p>Adaptable, meticulous individual with excellent analytical skills</p>
+</li>
+<li>
+<p>Able to communicate complex concepts in applied and practical manner to
+get buy-in from stakeholder groups</p>
+</li>
+<li>
+<p>Enjoy working in teams in a dynamic and creative work environment</p>
 </li>
 </ul>
 </div>
