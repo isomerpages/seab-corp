@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p><strong>NAME AND CONSTITUENCY OF MEMBER OF PARLIAMENT</strong>
 </p>
-<p>Mr Gerald Giam Yean Song</p>
+<p>Mr Gerald Giam Yean Song, Aljunied GRC</p>
 <p><strong>QUESTION</strong>
 </p>
 <p>To ask the Minister for Education (a) what percentage of questions in
