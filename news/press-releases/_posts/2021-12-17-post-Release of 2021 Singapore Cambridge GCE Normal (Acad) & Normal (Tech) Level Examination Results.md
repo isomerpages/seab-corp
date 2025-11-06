@@ -51,7 +51,7 @@ Point Average (GPA) are guaranteed a place in a polytechnic diploma course
 mapped to their Higher Nitec course.</p>
 <p>8. About 1,200 DPP places will be offered across all three ITE Colleges.
 Applications for the DPP will open on 17 December 2021. For more information,
-please refer to <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</u></a>.</p>
+please refer to http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/.</p>
 <p>9. Secondary 4 N(A) students who sat for the GCE N(A)-Level Examinations
 in 2021 as school candidates also have the option of applying for the Polytechnic
 Foundation Programme (PFP). Students are eligible to apply for the PFP
