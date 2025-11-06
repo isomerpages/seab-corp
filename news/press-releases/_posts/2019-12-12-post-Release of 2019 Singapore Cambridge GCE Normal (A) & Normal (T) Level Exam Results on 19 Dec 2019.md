@@ -26,10 +26,10 @@ at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target=
 </p>
 <p>4. Students who wish to apply for courses offered by the Institute of
 Technical Education (ITE) can submit their applications online via the
-ITE application portal (<a href="https://www.ite.edu.sg/apply-now/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/apply-now/</a>),
-between 2.30 pm on 19 December 2019 and 5.00 pm on 23 December 2019. Hard
-copy application forms will also be available at the Customer Service Centres
-at the three ITE Colleges.</p>
+ITE application portal (https://www.ite.edu.sg/apply-now/), between 2.30
+pm on 19 December 2019 and 5.00 pm on 23 December 2019. Hard copy application
+forms will also be available at the Customer Service Centres at the three
+ITE Colleges.</p>
 <p>5. For courses offered under Aptitude-Based Admissions, students may check
 the interview details online via the ITE application portal on 26 December
 2019.</p>

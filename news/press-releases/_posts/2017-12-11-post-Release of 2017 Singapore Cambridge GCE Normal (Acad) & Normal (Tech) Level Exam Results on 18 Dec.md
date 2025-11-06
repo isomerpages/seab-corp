@@ -20,13 +20,13 @@ provided by the candidates during the registration period. Private candidates
 who are eligible for SingPass<sup>1</sup> can also use their SingPass account
 to obtain their results online via the internet Examination Results Release
 System (iERRS) on the Singapore Examinations and Assessment Board’s website
-at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>from
+at <a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg </a>from
 2.00 pm on 18 December 2017.</p>
 <p>4. Students who wish to apply for courses offered by the Institute of
 Technical Education (ITE) can submit their applications online via the
-ITE application portal (<a href="https://www.ite.edu.sg/wps/portal/intake/" rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/wps/portal/intake/</a>)
-upon collection of their results. Hard copy application forms will also
-be available at the Customer Service Centres at each of the three ITE Colleges.</p>
+ITE application portal (www.ite.edu.sg/wps/portal/intake/) upon collection
+of their results. Hard copy application forms will also be available at
+the Customer Service Centres at each of the three ITE Colleges.</p>
 <p><strong>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</strong>
 </p>
 <p>5. The Direct-Entry-Scheme to Polytechnic Programme (DPP) prepares students

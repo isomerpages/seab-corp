@@ -19,7 +19,7 @@ post. The result slips will be mailed on 13 January 2020 to the address
 provided by the candidates during the registration period. Private candidates
 who are eligible for SingPass1 can also use their SingPass account to obtain
 their results online via the internet Examination Results Release System
-(iERRS) on the Singapore Examinations and Assessment Board website ( www.seab.gov.sg)
+(iERRS) on the Singapore Examinations and Assessment Board website (www.seab.gov.sg)
 from 2.00pm on 13 January 2020.</p>
 <p><strong>Joint Admissions Exercise</strong>
 </p>
@@ -81,8 +81,8 @@ More details on Polytechnic EAE can be found at <a href="https://eae.polytechnic
 the ITE EAE in 2019 and have their offers confirmed based on their GCE
 O-Level examination results will not be eligible to participate in the
 JAE. Their EAE offers are confirmed if they meet the subject-specific Minimum
-Entry Requirements for the course. More details on ITE EAE can be found
-at <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</a>.</p>
+Entry Requirements for the course. For more information, please refer to
+http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
 <p>14. Secondary 4 Normal (Academic) [N(A)] students who have sat for O-Level
