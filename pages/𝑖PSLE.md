@@ -15,7 +15,7 @@ of the Singapore PSLE.</p>
 <p>Good performing 𝑖PSLE candidates may have the opportunity to be considered
 for the ASEAN Scholarship.</p>
 <blockquote>
-<p><strong><a href="/files/Timetable/2025_iPSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2025</a></strong>
+<p><strong><a href="/files/Timetable/2026_iPSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2026</a></strong>
 </p>
 </blockquote>
 <h4><strong>EXAMINATION SUBJECTS AND SYLLABUS</strong></h4>

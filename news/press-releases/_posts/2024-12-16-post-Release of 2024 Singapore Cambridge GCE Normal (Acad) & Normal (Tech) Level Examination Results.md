@@ -62,7 +62,7 @@ a place in a polytechnic diploma course mapped to their <em>Higher Nitec </em>co
 <li>
 <p>About 1,200 DPP places will be offered across all three ITE Colleges in
 Academic Year (AY) 2025. Applications for the DPP AY2025 intake will open
-on 16 December 2024. For more information, please refer to <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>.</p>
+on 16 December 2024. For more information, please refer to https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp.</p>
 <p></p>
 </li>
 <li>
