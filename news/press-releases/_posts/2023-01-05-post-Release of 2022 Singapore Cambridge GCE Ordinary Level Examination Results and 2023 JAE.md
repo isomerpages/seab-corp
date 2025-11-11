@@ -198,9 +198,9 @@ Saturday, 21 January 2023, 9.00am to 5.00pm (Saturdays: 9.00am to 12.00pm).</p>
 </p>
 <p><strong><sup><sub>5</sub></sup><sub>&nbsp;The ELR2B2 aggregate comprises English Language, 2 relevant subjects for the polytechnic course applied for and 2 other best subjects which could be elective subjects.</sub></strong>
 </p>
-<p><strong><sup><sub>6</sub></sup><sub>&nbsp;More details on the ITE EAE can be found at </sub><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/" rel="noopener noreferrer nofollow" target="_blank"><sub>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/</sub></a></strong>
+<p><strong><sup><sub>6</sub></sup><sub>&nbsp;More details on the ITE EAE can be found at https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec/eae/.</sub></strong>
 </p>
 <p><strong><sup><sub>7</sub></sup><sub>&nbsp;The raw ELMAB3 aggregate comprises English Language, Mathematics, and the student’s three other best subjects, and excludes CCA bonus points. CCA bonus points will be taken into account during posting.</sub></strong>
 </p>
-<p><strong><sup><sub>8</sub></sup><sub>&nbsp;More information on the DPP and eligibility requirements can be found at </sub><a href="http://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener noreferrer nofollow" target="_blank"><sub>www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</sub></a><sub>.</sub></strong><sub><br></sub>
+<p><strong><sup><sub>8</sub></sup><sub>&nbsp;More information on the DPP and eligibility requirements can be found at https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/.</sub></strong><sub><br></sub>
 </p>
