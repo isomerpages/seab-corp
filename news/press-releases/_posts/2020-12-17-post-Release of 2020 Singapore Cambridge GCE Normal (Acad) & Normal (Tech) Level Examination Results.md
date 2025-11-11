@@ -67,12 +67,12 @@ PFP should first progress to Secondary 5 on 4 January 2021. For more information
 please refer to <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank"><u>https://pfp.polytechnic.edu.sg/PFP/index.html</u></a>.</p>
 <p>12. All N(A) course students who have completed their secondary education
 may also apply to further their studies through ITE’s Nitec programmes.
-For more information on courses available at ITE, please refer to <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/courses/full-time-courses/nitec/</u></a>.</p>
+For more information on courses available at ITE, please refer to https://www.ite.edu.sg/courses/full-time-courses/nitec/.</p>
 <p><strong>PROGRESSION PATHWAYS FOR NORMAL (TECHNICAL) STUDENTS</strong>
 </p>
 <p>13. All N(T) course students who complete their secondary education in
 2020 may apply to further their studies through ITE’s Nitec programmes.
-For more information on courses available at ITE, please refer to <a href="https://www.ite.edu.sg/courses/full-time-courses/nitec/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.ite.edu.sg/courses/full-time-courses/nitec/</u></a>.</p>
+For more information on courses available at ITE, please refer to https://www.ite.edu.sg/courses/full-time-courses/nitec/..</p>
 <p>14. Schools may also laterally transfer Secondary 4 N(T) students to Secondary
 4 N(A) if they have obtained grade A for both English Language and Mathematics,
 and grade B or better for one other subject at the GCE N(T)-Level Examination.</p>
