@@ -303,4 +303,4 @@ of 28 points or lower. Applicants may combine results from no more than
 and three other best subjects (including one relevant subject) and excludes
 CCA. CCA bonus points are taken into account during posting.</p>
 <p><sup>8 </sup>More information on the DPP and eligibility requirements
-can be found at <a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/" rel="noopener nofollow" target="_blank">www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</a>.</p>
+can be found at https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp/</p>
