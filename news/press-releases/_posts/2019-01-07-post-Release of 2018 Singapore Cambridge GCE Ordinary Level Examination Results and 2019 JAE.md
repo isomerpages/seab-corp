@@ -111,7 +111,7 @@ More information on the DPP can be found at https://www.ite.edu.sg/wps/portal/de
 .</p>
 <p>19. Secondary 4 N(A) students who are newly eligible after taking into
 account their O-Level examination results should submit their DPP applications
-online via the DPP application portal at <a href="https://www.ite.edu.sg/wps/portal/intake/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/wps/portal/intake/</a>.
+online via the DPP application portal at https://www.ite.edu.sg/wps/portal/intake/.
 The final application phase for the Direct-Entry-Scheme to Polytechnic
 Programme (DPP) will open at 2.30pm on Monday, 14 January 2019 and close
 at 11.59pm of Friday, 18 January 2019.</p>
