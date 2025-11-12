@@ -146,7 +146,7 @@ to apply for the PFP.</p>
 </li>
 <li>
 <p>For more information on the DPP and the PFP, please visit these websites:</p>
-<p>·&nbsp;Direct-Entry-Scheme to Polytechnic Programme (DPP)&nbsp; (<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>)</p>
+<p>·&nbsp;Direct-Entry-Scheme to Polytechnic Programme (DPP)&nbsp;(https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp)</p>
 <p>· Polytechnic Foundation Programme (PFP) (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
 </li>
 </ol>
