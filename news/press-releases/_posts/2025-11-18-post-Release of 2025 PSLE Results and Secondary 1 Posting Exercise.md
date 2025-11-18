@@ -16,8 +16,7 @@ collection arrangements will be shared by the respective schools with their
 students. School candidates who are unable to return to school to collect
 their results may appoint a proxy to do so on their behalf by 27 November
 2025.&nbsp;</p>
-<p>
-<br><strong>Choosing Secondary Schools</strong>
+<p><strong>Choosing Secondary Schools</strong>
 </p>
 <p>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged
 to consider schools holistically when choosing a secondary school that
@@ -38,12 +37,21 @@ their learning.</p>
 <p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students can visit
 the schools’ open houses and explore their websites to find out more about
 the schools’ offerings. More information is available at:</p>
-<p>· SchoolFinder (<a href="go.gov.sg/secschoolfinder" rel="noopener nofollow" target="_blank">go.gov.sg/secschoolfinder</a>)</p>
-<p>·&nbsp;Open houses held by secondary schools (<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/</a>)</p>
-<p>· PSLE Full SBB Microsite (<a href="moe.gov.sg/microsites/psle-fsbb/" rel="noopener nofollow" target="_blank">moe.gov.sg/microsites/psle-fsbb/</a>)</p>
-<p>· Websites of secondary schools</p>
-<p>
-<br><strong>Crest Secondary School and Spectra Secondary School</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>SchoolFinder (<a href="go.gov.sg/secschoolfinder" rel="noopener nofollow" target="_blank">go.gov.sg/secschoolfinder</a>)</p>
+</li>
+<li>
+<p>Open houses held by secondary schools (<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/" rel="noopener nofollow" target="_blank">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/</a>)</p>
+</li>
+<li>
+<p>PSLE Full SBB Microsite (<a href="moe.gov.sg/microsites/psle-fsbb/" rel="noopener nofollow" target="_blank">moe.gov.sg/microsites/psle-fsbb/</a>)</p>
+</li>
+<li>
+<p>Websites of secondary schools</p>
+</li>
+</ul>
+<p><strong>Crest Secondary School and Spectra Secondary School</strong>
 </p>
 <p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crest Secondary
 School (CSS) and Spectra Secondary School (SSS) offer an alternative educational
@@ -54,8 +62,7 @@ information on CSS and SSS can be found on their school websites (<a href="www.c
 <a href="www.spectra.edu.sg" rel="noopener nofollow" target="_blank">www.spectra.edu.sg</a>). The schools also organise open houses, where
 students can find out more about the schools’ distinctive programmes, subjects,
 culture, ethos, and other offerings.</p>
-<p>
-<br><strong>Submission of Secondary 1 School Choices and Options</strong>
+<p><strong>Submission of Secondary 1 School Choices and Options</strong>
 </p>
 <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can submit
 their S1 school choices and options through the online S1 Portal accessible
@@ -66,18 +73,25 @@ a valid Singpass to log in to the S1 Portal. Only one parent is required
 to log in and submit the registration through the S1 Portal. Parents who
 require assistance with their online submission may contact the student’s
 primary school before 4:30pm on 1 December 2025.</p>
-<p>
-<br><strong>Release of Secondary 1 Posting Results</strong>
+<p><strong>Release of Secondary 1 Posting Results</strong>
 </p>
 <p>9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The S1 Posting
 Results will be released on either 18<sup>th</sup> or 19<sup>th</sup> December
 2025. The posting results can be accessed through any of the following
 channels:</p>
-<p>· S1 Portal (accessible through <a href="www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>) using parents’
+<ul data-tight="true" class="tight">
+<li>
+<p>S1 Portal (accessible through <a href="www.moe.gov.sg/s1-posting" rel="noopener nofollow" target="_blank">www.moe.gov.sg/s1-posting</a>) using parents’
 Singpass;</p>
-<p>· Short Message Service (SMS) via a local mobile number (if provided by
+</li>
+<li>
+<p>Short Message Service (SMS) via a local mobile number (if provided by
 the applicant during the application process);</p>
-<p>· At the student’s primary school.</p>
+</li>
+<li>
+<p>At the student’s primary school.</p>
+</li>
+</ul>
 <p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More information on S1 Posting
 is available at MOE’s&nbsp;S1 Posting website. For enquiries, please visit
 <a href="www.moe.gov.sg/contact" rel="noopener nofollow" target="_blank">www.moe.gov.sg/contact</a>.</p>
