@@ -25,8 +25,10 @@ or them being unable to take the examinations altogether.</p>
 ensure that the grades and examination certificates have the same validity
 for all candidates.</p>
 <p></p>
-<p>Hence, AA must not provide candidates with an advantage over the others
-and compromise the assessment objectives.</p>
+<p>AA must not provide candidates with an advantage over the others and compromise
+the assessment objectives. For example, Reader is not allowed for Language
+papers as their natural intonation could interfere with the assessment
+objectives.</p>
 <p></p>
 <p>When evaluating AA applications, the primary considerations are the assessment
 objectives, student’s medical conditions, how the student typically learns
