@@ -25,21 +25,21 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Examination Calendar 2025</strong>
+<p><strong>Examination Calendar 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025-psle-exam-timetable" rel="noopener nofollow" target="_blank">Calendar</a>
+<p><a href="https://go.gov.sg/2026-psle-exam-cal" rel="noopener nofollow" target="_blank">Calendar</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 Marking Exercise</strong>
+<p><strong>2026 Marking Exercise</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 13 October&nbsp;– Wed, 15 October 2025</p>
+<p>Mon, 12 October&nbsp;– Wed, 14 October 2026</p>
 </td>
 </tr>
 <tr>
@@ -90,19 +90,19 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Examination Timetable 2025</strong>
+<p><strong>Examination Timetable 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025-gce-na-nt-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="https://go.gov.sg/2026-n-level-exam-cal" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025-gce-o-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="https://go.gov.sg/2026-o-level-exam-cal" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/2025-gce-a-level-exam-timetable" rel="noopener nofollow" target="_blank">Timetable</a>
+<p><a href="https://go.gov.sg/2026-a-level-exam-cal" rel="noopener nofollow" target="_blank">Timetable</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
