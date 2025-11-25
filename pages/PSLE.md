@@ -10,7 +10,7 @@ education, in Singapore.&nbsp;
 <br>
 <br>More information about the PSLE is available below.</p>
 <blockquote>
-<p><strong><a href="https://go.gov.sg/2025-psle-exam-timetable" rel="noopener nofollow" target="_blank">Examination Calendar 2025</a></strong>
+<p><strong><a href="https://go.gov.sg/2026-psleexamcal-tentative" rel="noopener nofollow" target="_blank">Examination Calendar 2026 (Tentative)</a></strong>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important dates Image" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"></div></div></a>
