@@ -7,6 +7,8 @@ description: GCE A Level Private Candidates
 <p>Information about the GCE A-Level examination for private candidates are
 available below.</p>
 <blockquote>
+<p><strong><a href="https://go.gov.sg/2025-gce-a-level-exam-timetable" rel="noopener nofollow" target="_blank">Examination Calendar 2025</a></strong>
+</p>
 <p><strong><a href="https://go.gov.sg/2026-a-level-exam-cal" rel="noopener nofollow" target="_blank">Examination Calendar 2026</a></strong>
 </p>
 </blockquote>
