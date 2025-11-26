@@ -1264,7 +1264,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9901_y26_sp1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9901_y26_sp2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br>[2026]&nbsp;</p>
+<br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1326,7 +1326,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9921_y26_sp1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9921_y26_sp2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br>[2026]&nbsp;</p>
+<br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1388,7 +1388,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9941_y26_sp1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9941_y26_sp2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br>[2026]&nbsp;</p>
+<br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
