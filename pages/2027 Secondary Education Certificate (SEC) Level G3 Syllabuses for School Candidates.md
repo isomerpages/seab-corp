@@ -15,8 +15,7 @@ in these online specimen papers, due to copyright restrictions. In such
 cases, a description of the item / image / resource, and/or a web-link
 may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.&nbsp;</p>
-<p><strong><em>Cambridge Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>Cambridge Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -749,8 +748,7 @@ from SEAB.&nbsp;</p>
 details.&nbsp;
 <br>+ These subjects are applicable only for candidates from schools approved
 to offer the subjects.&nbsp;</p>
-<p><strong><em>Applied Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -807,8 +805,7 @@ to offer the subjects.&nbsp;</p>
 that are approved to offer the subjects. If you are registering for Applied
 Subjects, you will need to pay the subject fees quoted by the examining
 agencies.&nbsp;</p>
-<p><strong><em>Local Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
