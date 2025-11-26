@@ -921,7 +921,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.&nbsp;
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
 H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
-<p><strong>Local Subjects</strong>&nbsp;</p>
+<h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
