@@ -14,7 +14,7 @@ in these online specimen papers, due to copyright restrictions. In such
 cases, a description of the item / image / resource, and/or a web-link
 may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.&nbsp;</p>
-<p><strong>Cambridge Subjects</strong>&nbsp;</p>
+<h4><strong>Cambridge Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -445,8 +445,7 @@ from SEAB.&nbsp;</p>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.&nbsp;&nbsp;</p>
-<p><strong>Local Subjects</strong><em>&nbsp;</em>
-</p>
+<h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
