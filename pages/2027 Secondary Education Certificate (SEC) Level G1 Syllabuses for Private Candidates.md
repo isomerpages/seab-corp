@@ -100,8 +100,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 <p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Online Tutorial</u></a> for
 Mother Tongue Language e-Oral examination to understand the revised examination
 format.&nbsp;</p>
-<p><strong><em>Cambridge Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>Cambridge Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -167,8 +166,7 @@ format.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Local Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
