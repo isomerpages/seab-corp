@@ -106,7 +106,7 @@ are as follows:&nbsp;</p>
 <p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Online Tutorial</u></a> for
 Mother Tongue Language e-Oral examination and <a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</u></a> to
 understand the revised examination format.&nbsp;</p>
-<p><strong>Subjects Examined at A- and AO-Levels</strong>&nbsp;</p>
+<h4><strong>Subjects Examined at A- and AO-Levels</strong>&nbsp;</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -201,7 +201,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Cambridge Subjects</strong>&nbsp;</p>
+<h4><strong>Cambridge Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -597,7 +597,7 @@ understand the revised examination format.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9174_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a> °&nbsp;</p>
-<p><u>[Updated]</u>&nbsp;</p>
+<p>[Updated]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -720,15 +720,14 @@ understand the revised examination format.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9569_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;
-<br><u>[Revised]</u>&nbsp;</p>
-<p>Software<s> required</s>:&nbsp;
-<br>• Python <u>3.11.7</u><s>IDLE 3.6.4</s>&nbsp;
-<br>• Flask <u>3.12</u><s>0.12.2</s>&nbsp;
-<br>• <u>Scikit-learn 1.7.2</u><s>PyMongo 3.6.0</s>&nbsp;
-<br>• Jupyter<u>Lab 4.4.9</u><s> Notebook 5.5.0</s>&nbsp;
+<br>[Revised]&nbsp;</p>
+<p>Software:&nbsp;
+<br>• Python 3.11.7
+<br>• Flask 3.12&nbsp;
+<br>• Scikit-learn 1.7.2
+<br>• JupyterLab 4.4.9
 <br>• DB Browser for SQLite 3.10.1&nbsp;
 <br>• Notepad++ 7.5.4&nbsp;
-<br><s>• MongoDB Community Server 3.4.9</s>&nbsp;
 <br>• Chrome&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -741,10 +740,10 @@ understand the revised examination format.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Paper 1</u>&nbsp;</p>
-<p><u>Paper 2</u>&nbsp;</p>
-<p><u>Reference Guide for H2 Computing</u>&nbsp;</p>
-<p><u>[2026]</u>&nbsp;&nbsp;</p>
+<p>Paper 1&nbsp;</p>
+<p>Paper 2&nbsp;</p>
+<p>Reference Guide for H2 Computing&nbsp;</p>
+<p>[2026]&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
