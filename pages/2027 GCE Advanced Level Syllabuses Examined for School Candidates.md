@@ -14,7 +14,7 @@ in these online specimen papers, due to copyright restrictions. In such
 cases, a description of the item / image / resource, and/or a web-link
 may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.&nbsp;</p>
-<p><strong>Cambridge Subjects</strong>&nbsp;</p>
+<h4><strong>Cambridge Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -934,7 +934,7 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses&nbsp;
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
 H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
-<p><strong>H3 Cambridge Subjects</strong>&nbsp;</p>
+<h4><strong>H3 Cambridge Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -1132,7 +1132,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 H3 Mathematics (9820) syllabus.&nbsp;
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
 H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
-<p><strong>Local Subjects</strong>&nbsp;</p>
+<h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -1413,8 +1413,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Other Local Subjects</strong><em>&nbsp;</em>
-</p>
+<h4><strong>Other Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
