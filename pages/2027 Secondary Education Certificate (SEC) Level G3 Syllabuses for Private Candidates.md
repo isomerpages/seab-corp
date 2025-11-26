@@ -143,8 +143,7 @@ follows:&nbsp;</p>
 <p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Online Tutorial</u></a> for
 Mother Tongue Language and Higher Mother Tongue Language e-Oral examination
 to understand the revised examination format.&nbsp;</p>
-<p><strong>Cambridge Subjects</strong><em>&nbsp;</em>
-</p>
+<h4><strong>Cambridge Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -708,8 +707,7 @@ to understand the revised examination format.&nbsp;</p>
 </table>
 <p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
 details.&nbsp;</p>
-<p><strong>Local Subjects</strong><em>&nbsp;</em>
-</p>
+<h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
