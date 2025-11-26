@@ -73,8 +73,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0008_y25_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0008_y25_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -283,8 +282,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0038_y25_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Foundation Mathematics</u></a>&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0038_y25_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Foundation Mathematics</u></a>&nbsp;
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
