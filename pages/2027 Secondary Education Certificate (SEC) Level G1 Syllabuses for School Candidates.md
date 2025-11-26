@@ -14,8 +14,7 @@ in these online specimen papers, due to copyright restrictions. In such
 cases, a description of the item / image / resource, and/or a web-link
 may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.&nbsp;</p>
-<p><strong><em>Cambridge Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>Cambridge Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -177,8 +176,7 @@ from SEAB.&nbsp;</p>
 <br>G1 candidates can offer up to three subjects at the SEC G2 Level examinations
 if NTIL is included. The list of NTILs can be found under the <u>2026 GCE N(A)-Level Syllabuses</u> for
 school candidates.&nbsp;</p>
-<p><strong><em>MOE-ITE Applied Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>MOE-ITE Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -247,8 +245,7 @@ school candidates.&nbsp;</p>
 </table>
 <p>Please note that the MOE-ITE Applied Subjects listed above are only applicable
 to candidates from schools that are approved to offer the subjects.&nbsp;</p>
-<p><strong><em>Local Subjects</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
