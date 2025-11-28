@@ -136,7 +136,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/7062_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Design and Technology Syllabus T</u></a>&nbsp;</p>
+<p><a href="/files/NT G1 Lvl Syllabus Private/2027/K124_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Design and Technology Syllabus T</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
