@@ -2,7 +2,7 @@
 title: 2027 Secondary Education Certificate (SEC) Level G1 Syllabuses for
   Private Candidates
 permalink: /2027-secondary-education-certificate-sec-level-g1-syllabuses-for-private-candidates/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
@@ -131,7 +131,9 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/1195_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language Syllabus T</u></a>&nbsp;</p>
+<p><a href="/files/NT G1 Lvl Syllabus Private/2026/1202_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language Syllabus T</u></a>
+<a href="/files/NT G1 Lvl Syllabus Private/2026/1202_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -148,7 +150,8 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/4046_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics </u></a>&nbsp;&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/4046_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics </u></a>&nbsp;&nbsp;
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
