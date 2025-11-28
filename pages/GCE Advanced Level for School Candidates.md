@@ -7,8 +7,7 @@ description: GCE A Level School Candidates
 <p>More information about the GCE A-Level examination for school candidates
 is available below.</p>
 <blockquote>
-<p><strong><a href="https://go.gov.sg/2025-gce-a-level-exam-timetable" rel="noopener nofollow" target="_blank">Examination Calendar 2025</a></strong>
-<br><strong><a href="https://go.gov.sg/2026-a-level-exam-cal" rel="noopener nofollow" target="_blank">Examination Calendar 2026</a></strong>
+<p><strong><a href="https://go.gov.sg/2026-a-level-exam-cal" rel="noopener nofollow" target="_blank">Examination Calendar 2026</a></strong>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates for Candidates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"></div></div></a>
