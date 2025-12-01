@@ -62,8 +62,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2027/K110_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
-<a href="/files/NT Lvl Syllabus  Private Cddts/2027/K110_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K110_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
+<a href="/files/G1 Lvl Syllabus School Cddts/2027/K110_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2027/K125_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Nutrition and Food Science</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K125_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Nutrition and Food Science</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -98,7 +98,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT G1 Lvl Syllabus Private/2027/K126_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a> [Revised]&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K126_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a> [Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -118,7 +118,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT G1 Lvl Syllabus Private/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>&nbsp;</p>
 <p>[New]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT G1 Lvl Syllabus Private/2027/K124_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Design and Technology Syllabus T</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K124_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Design and Technology Syllabus T</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -155,7 +155,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/7066_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Elements of Business Skills</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Elements of Business Skills</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -203,7 +203,7 @@ school candidates.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/A101_MR_Examination_Syllabus_2026.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Mobile Robotics</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K130_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Mobile Robotics</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -217,7 +217,7 @@ school candidates.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/A201_SET_Examination_Syllabus_2026.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Smart Electrical Technology</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K131_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Smart Electrical Technology</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -231,7 +231,7 @@ school candidates.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/A301_RO_Examination_Syllabus_2026.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Retail Operations</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K132_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Retail Operations</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -278,7 +278,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/1202_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Chinese</u></a>&nbsp;
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Chinese</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -351,7 +351,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/6129_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Music</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K128_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Music</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
