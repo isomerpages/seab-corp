@@ -49,7 +49,7 @@ collaborative skills and good interpersonal and communication skills.</p>
 </li>
 </ul>
 <p>Interested applicants should submit their application <a href="https://form.gov.sg/68edfa4a5322524545f5a047" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-This is a one-off advertisement for fresh applicants. <strong>You need not apply again if you have applied for this position previously</strong>.
+This is an advertisement for fresh applicants. <strong>You need not apply again if you have applied for this position previously</strong>.
 Only shortlisted applicants will be invited for an interview by end of
 January 2026.</p>
 <p>Closing Date: 11 January 2026, 5pm.</p>
