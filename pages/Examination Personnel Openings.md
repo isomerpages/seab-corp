@@ -24,10 +24,12 @@ materials to the candidates.</p>
 <li>
 <p>Manage candidates in the examination/ test venue to ensure order and safety.</p>
 </li>
-</ul>
+<li>
 <p>At the end of the examination/ test, collect back all the answer scripts
 and examination/ test materials, and ensure all examination/ test materials
 are handed safely over to the Chief Presiding Examiner (CPE).</p>
+</li>
+</ul>
 <p><strong>Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
