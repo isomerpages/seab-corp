@@ -155,7 +155,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Elements of Business Skills</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Elements of Business Skills</u></a>
+<br>[Refined°]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -177,7 +178,8 @@ from SEAB.&nbsp;</p>
 <p>* Last year of exam in 2026.&nbsp;
 <br>G1 candidates can offer up to three subjects at the SEC G2 Level examinations
 if NTIL is included. The list of NTILs can be found under the <u>2026 GCE N(A)-Level Syllabuses</u> for
-school candidates.&nbsp;</p>
+school candidates.
+<br>° Changes in syllabus content only. No change to scheme of assessment.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
