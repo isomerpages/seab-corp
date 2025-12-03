@@ -394,7 +394,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/7086_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/7086_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
+<br>[Refined]*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -406,7 +407,9 @@ from SEAB.&nbsp;</p>
 <p>7086&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
+<p>Paper 1
+<br>Paper 2
+<br>Paper 2 Insert</p>
 </td>
 </tr>
 <tr>
@@ -429,7 +432,8 @@ from SEAB.&nbsp;</p>
 </tbody>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
-details.&nbsp;&nbsp;</p>
+details.
+<br>* Changes in syllabus content only. No change to scheme of assessment.</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
