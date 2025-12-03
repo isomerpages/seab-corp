@@ -407,9 +407,10 @@ from SEAB.&nbsp;</p>
 <p>7086&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1
-<br>Paper 2
-<br>Paper 2 Insert</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> 
+<br><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> 
+<br><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2 Insert</a>
+</p>
 </td>
 </tr>
 <tr>
