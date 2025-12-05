@@ -324,7 +324,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2026/5106_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science (Physics, Biology)</a>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/5106_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science (Physics, Biology)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
