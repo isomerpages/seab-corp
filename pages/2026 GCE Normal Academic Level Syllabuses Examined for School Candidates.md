@@ -265,6 +265,21 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5106_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Physics, Biology)</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5106</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/NA Level Syllabus Sch Cddts/2026/5107_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Science (Chemistry, Biology)</u></a>
 </p>
 </td>
@@ -295,7 +310,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2026/6127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/6127_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>

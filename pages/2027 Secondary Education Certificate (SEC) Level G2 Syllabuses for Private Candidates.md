@@ -222,7 +222,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/2246_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K226_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -239,7 +239,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/3236_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Bengali</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K239_K240_K241_K242_K243_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Bengali</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bengali&nbsp;</p>
@@ -256,7 +256,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/3237_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Gujarati</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K239_K240_K241_K242_K243_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Gujarati</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gujarati&nbsp;</p>
@@ -273,7 +273,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/3238_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Hindi</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K239_K240_K241_K242_K243_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Hindi</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hindi&nbsp;</p>
@@ -290,7 +290,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/3239_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Panjabi</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K239_K240_K241_K242_K243_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Panjabi</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Panjabi&nbsp;</p>
@@ -307,7 +307,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/3240_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Urdu</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K239_K240_K241_K242_K243_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Urdu</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Urdu&nbsp;</p>
@@ -324,7 +324,9 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/4045_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics </u></a>&nbsp;&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K210_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
+<a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/4045_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u> </u>
+</a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -341,7 +343,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/4051_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Additional Mathematics</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K232_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Additional Mathematics</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -375,19 +377,19 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/5106_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Biology)</u></a>&nbsp;</p>
+<p>Science (Physics, Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English&nbsp;</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5106&nbsp;</p>
+<p>5106</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -409,25 +411,30 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/7086_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/7086_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
+<br>[Refined*]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K233</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7086&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> 
+<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> 
+<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2 Insert</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
-details.<strong>&nbsp;</strong>&nbsp;</p>
+details.
+<br>*Changes in syllabus content only. No change to scheme of assessment.</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -459,7 +466,7 @@ details.<strong>&nbsp;</strong>&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/1196_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K220_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">

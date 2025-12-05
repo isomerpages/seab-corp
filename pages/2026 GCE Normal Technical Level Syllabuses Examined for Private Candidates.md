@@ -185,7 +185,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1203_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1203_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Malay</u></a>
 <br>
 </p>
 </td>
@@ -201,7 +201,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus  Private Cddts/2026/1204_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/1204_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Basic Tamil</u></a>
 <br>
 </p>
 </td>
