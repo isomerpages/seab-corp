@@ -377,8 +377,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science
-<br>(Physics, Biology)</p>
+<p>Science (Physics, Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
