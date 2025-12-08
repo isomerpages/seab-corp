@@ -341,7 +341,7 @@ understand the revised examination format.&nbsp;</p>
 <p><a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
 <a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_st_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8833_y26_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
 <a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
 <br><a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
