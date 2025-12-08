@@ -614,7 +614,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9476_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9476_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -682,7 +682,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9508_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a> *&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9508_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a> *&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
