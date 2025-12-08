@@ -28,7 +28,7 @@ description: Supplementary Placement Exercise (SPE)
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/spe/school-selections-and-postings/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="School Selections and Postings" src="/images/SPE/Images for Cards/pexels_cottonbro_4065152.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Selections and Postings</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/faq?categoryid=8084AE24F977441297CF4C56829039AE" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/frequently-asked-questions-spers-sec-spe/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Frequently Asked Questions" src="/images/SPE/Images for Cards/pexels_olya_kobruseva_5428824.jpg">
