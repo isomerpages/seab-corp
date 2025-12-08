@@ -430,7 +430,7 @@ details.<strong>&nbsp;</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/1198_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/1198_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
 <br>
 </p>
 </td>
