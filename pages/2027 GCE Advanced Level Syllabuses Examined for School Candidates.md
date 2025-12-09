@@ -708,8 +708,9 @@ from SEAB.&nbsp;</p>
 <p>9735&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9735_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<a href="/files/A Level Syllabus Sch Cddts/2027/9735_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>| <a href="/files/A Level Syllabus Sch Cddts/2027/9735_y27_st_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9735_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>|
+<a href="/files/A Level Syllabus Sch Cddts/2027/9735_y27_st_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
+</a>&nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9735_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
 <a href="/files/A Level Syllabus Sch Cddts/2027/9735_y27_si_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
@@ -757,8 +758,9 @@ from SEAB.&nbsp;</p>
 <p>9737&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9737_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<a href="/files/A Level Syllabus Sch Cddts/2027/9737_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>| <a href="/files/A Level Syllabus Sch Cddts/2027/9737_y27_st_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9737_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>|
+<a href="/files/A Level Syllabus Sch Cddts/2027/9737_y27_st_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
+</a>&nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9737_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
 <a href="/files/A Level Syllabus Sch Cddts/2027/9737_y27_si_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
@@ -872,7 +874,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9805_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9805_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -886,7 +888,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9809_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9809_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -900,7 +902,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9813_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -918,8 +920,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9814_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9814_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -934,8 +936,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9816_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9816_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -952,8 +954,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9818_y26_sy_v0_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9818_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -967,7 +969,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9819_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Music</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9819_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Music</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -981,7 +983,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9820_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9820_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
+<a href="/files/A Level Syllabus Sch Cddts/2027/9820_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -998,7 +1002,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9822_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9822_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -1012,7 +1016,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9823_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9823_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -1040,9 +1044,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/SEAB_Mathematics_MF27.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H3 Mathematics (9820) syllabus.&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
 H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 <h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 150px">
