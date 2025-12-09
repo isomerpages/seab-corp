@@ -1308,7 +1308,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8611_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese B</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/8611_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese B</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -1322,7 +1322,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8613_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay B</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/8613_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay B</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -1336,7 +1336,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8614_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil B</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/8614_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil B</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -1350,7 +1350,7 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8882_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Project Work</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/8882_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Project Work</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
