@@ -1,7 +1,7 @@
 ---
 title: 2027 GCE Advanced Level Syllabuses Examined for Private Candidates
 permalink: /2027-gce-advanced-level-syllabuses-examined-for-private-candidates/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Here are the 2027 GCE A-Level examination syllabuses that are offered
@@ -131,7 +131,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8187_y26_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8187_y27_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic&nbsp;</p>
@@ -145,7 +145,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8058_y26_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Law</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8058_y27_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Law</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -159,7 +159,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8059_y26_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Theology</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8059_y27_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Theology</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -173,7 +173,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9018_y26_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Law</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9018_y27_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Law</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -187,7 +187,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9019_y26_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Theology</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9019_y27_sy.pdf" class="Hyperlink SCXW123766382 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Theology</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -232,7 +232,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8827_8828_8829_8836_8837_y26_sy__resized_.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Bengali</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8827_8828_8829_8836_8837_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Bengali</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bengali&nbsp;</p>
@@ -249,7 +249,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8827_8828_8829_8836_8837_y26_sy__resized_.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Gujarati</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8827_8828_8829_8836_8837_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Gujarati</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gujarati&nbsp;</p>
@@ -266,7 +266,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8827_8828_8829_8836_8837_y26_sy__resized_.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Hindi</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8827_8828_8829_8836_8837_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Hindi</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hindi&nbsp;</p>
@@ -283,7 +283,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8831_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>French</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8831_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>French</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -296,19 +296,19 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8831_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8831_y26_st_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8831_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Private Cddts/2027/8831_y27_st_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8831_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8831_y26_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8831_y26_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8831_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Private Cddts/2027/8831_y27_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+</a><a href="/files/A Level Syllabus Private Cddts/2027/8831_y27_si_2.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a> 
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8831_y27_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8841_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8841_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -320,13 +320,12 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8841_y25_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br>[2024]&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8833_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>German</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>German</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,19 +338,19 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8833_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8833_y26_st_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_st_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8833_y26_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8833_y26_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8833_y26_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8833_y27_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8834_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8834_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -368,7 +367,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8835_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Japanese</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8835_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Japanese</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,19 +380,19 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8835_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8835_y26_st_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8835_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Private Cddts/2027/8835_y27_st_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8835_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8835_y26_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8835_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Private Cddts/2027/8835_y27_si_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8835_y26_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8835_y27_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8827_8828_8829_8836_8837_y26_sy__resized_.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Panjabi</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8827_8828_8829_8836_8837_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Panjabi</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Panjabi&nbsp;</p>
@@ -410,7 +409,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8827_8828_8829_8836_8837_y26_sy__resized_.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Urdu</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8827_8828_8829_8836_8837_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Urdu</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Urdu&nbsp;</p>
@@ -427,7 +426,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8838_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a> °&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8838_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a> °&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -444,7 +443,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8843_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8843_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -461,7 +460,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8865_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8865_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -473,15 +472,12 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8865_y25_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8865_y25_spab_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Printed Answer Booklet</u>
-</a>&nbsp;
-<br>[2024]&nbsp;</p>
+<p>-&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8867_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8867_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -494,14 +490,14 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8867_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8867_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8867_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8867_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8873_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8873_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -514,14 +510,15 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8873_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8873_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8873_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/8873_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8873_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8876_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8876_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -534,14 +531,14 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8876_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8876_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8876_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/8876_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8879_y26_sy_v0_4.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8879_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -554,15 +551,15 @@ understand the revised examination format.&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8879_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8879_y26_si_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8879_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Private Cddts/2027/8879_y27_si_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8881_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>General Paper</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8881_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>General Paper</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -579,7 +576,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9173_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9173_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Geography</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -596,7 +593,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9174_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a> °&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9174_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a> °&nbsp;
 <br>[Updated]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -614,7 +611,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9476_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9476_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -627,16 +624,16 @@ understand the revised examination format.&nbsp;</p>
 <p>9476&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9476_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9476_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9476_y26_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9476_y26_sp_4.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9476_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9476_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9476_y27_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9476_y27_sp_4.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9477_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9477_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -649,10 +646,10 @@ understand the revised examination format.&nbsp;</p>
 <p>9477&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9477_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9477_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9477_y26_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9477_y26_sp_4.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9477_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9477_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9477_y27_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9477_y27_sp_4.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
@@ -671,18 +668,18 @@ understand the revised examination format.&nbsp;</p>
 <p>9478&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9478_y26_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9478_y26_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9478_y26_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9478_y26_sp_4.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9478_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9478_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9478_y27_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9478_y27_sp_4.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
 <br><a href="https://go.gov.sg/datasetq2b" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Data File</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/SEAB_9478_Physics_Excel_Reference_Guide_2026_v0_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Excel Reference Guide</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Private Cddts/2027/SEAB_9478_Physics_Excel_Reference_Guide.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Excel Reference Guide</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9508_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a> *&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9508_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a> *&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -699,7 +696,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9539_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9539_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -711,15 +708,12 @@ understand the revised examination format.&nbsp;</p>
 <p>9539&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9539_y25_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9539_y25_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9539_y25_sp_3.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br>[2024]&nbsp;</p>
+<p>-&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9569_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9569_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;
 <br>[Revised]&nbsp;</p>
 <p>Software:&nbsp;
 <br>• Python 3.11.7
@@ -740,15 +734,15 @@ understand the revised examination format.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;</p>
-<p>Paper 2&nbsp;</p>
-<p>Reference Guide for H2 Computing&nbsp;</p>
-<p>[2026]&nbsp;&nbsp;</p>
+<p>Paper 1&nbsp;
+<br>Paper 2&nbsp;
+<br>Reference Guide for H2 Computing&nbsp;
+<br>[2026]&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9570_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9570_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -765,7 +759,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9587_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Management of Business</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9587_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Management of Business</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -782,7 +776,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9593_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounting</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9593_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounting</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -799,7 +793,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9628_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>China Studies in English</u></a> °&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9628_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>China Studies in English</u></a> °&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -816,7 +810,9 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9649_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Further Mathematics</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9649_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Further Mathematics</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/9649_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -828,69 +824,12 @@ understand the revised examination format.&nbsp;</p>
 <p>9649&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9649_y25_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9649_y25_spab_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Printed Answer Booklet</u>
-</a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9649_y25_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9649_y25_spab_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Printed Answer Booklet</u>
-</a>&nbsp;
-<br>[2024]&nbsp;</p>
+<p>&nbsp;-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9729_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a> *&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9729&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9744_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a> *&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9744&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9749_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a> *&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9749&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9758_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9758_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -902,13 +841,7 @@ understand the revised examination format.&nbsp;</p>
 <p>9758&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9758_y25_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9758_y25_spab_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Printed Answer Booklet</u>
-</a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9758_y25_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9758_y25_spab_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Printed Answer Booklet</u>
-</a>&nbsp;
-<br>[2024]&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
@@ -919,7 +852,7 @@ details.&nbsp;
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
+<br><a href="/files/A Level Syllabus Private Cddts/2027/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
 H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 <h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
@@ -952,7 +885,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8655_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8655_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/8655_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -969,7 +904,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9571_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Translation (Chinese)</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9571_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Translation (Chinese)</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/9571_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -986,7 +923,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9575_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language &amp; Literature</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9575_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language &amp; Literature</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/9575_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -1003,8 +942,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9629_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;&nbsp;
-<br>[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9629_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>China Studies in Chinese</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -1021,7 +960,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8656_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8656_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/8656_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -1038,7 +979,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9576_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language &amp; Literature</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9576_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language &amp; Literature</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/9576_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -1055,7 +998,9 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/8657_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/8657_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language</u></a>
+<a href="/files/A Level Syllabus Private Cddts/2027/8657_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -1072,7 +1017,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9577_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language &amp; Literature</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9577_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language &amp; Literature</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
