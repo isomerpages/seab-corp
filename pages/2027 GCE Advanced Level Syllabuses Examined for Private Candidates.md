@@ -633,7 +633,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2027/9477_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;&nbsp;
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9477_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -655,7 +655,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/9478_y26_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>&nbsp;&nbsp;
+<p>Physics
 <br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -679,7 +679,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2027/9508_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a> *&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9508_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -848,8 +849,7 @@ understand the revised examination format.&nbsp;</p>
 </table>
 <p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
 details.&nbsp;
-<br>* Last year of exam in 2026. &nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Private%20Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
+<br><a href="/files/A Level Syllabus Private Cddts/2027/SEAB_Mathematics_MF27.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.&nbsp;
 <br><a href="/files/A Level Syllabus Private Cddts/2027/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
