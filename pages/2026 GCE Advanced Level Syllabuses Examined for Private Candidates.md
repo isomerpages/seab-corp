@@ -291,7 +291,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8831_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8831_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
@@ -331,7 +332,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8833_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8833_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -371,7 +373,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8835_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8835_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
@@ -484,7 +487,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -503,7 +507,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -522,7 +527,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -541,7 +547,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/8879_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/8879_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -613,7 +620,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a> [Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chemistry</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -634,7 +642,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9477_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Biology</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -655,7 +664,8 @@ understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a> [Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9478_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -716,7 +726,7 @@ understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9569_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<br>Software required:
+<br>Software:
 <br>• Python IDLE 3.6.4
 <br>• Flask 0.12.2
 <br>• PyMongo 3.6.0
@@ -1004,7 +1014,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
