@@ -912,8 +912,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 <p>9813&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_si_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9813_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2027/9813_y27_si_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
@@ -930,7 +930,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 <p>9814&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9814_y26_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9814_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
@@ -946,8 +946,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 <p>9816&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9816_y26_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9816_y26_si_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9816_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2027/9816_y27_si_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
@@ -994,10 +994,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
 <p>9820&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9820_y25_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9820_y25_spab_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Printed Answer Booklet</u>
-</a>&nbsp;
-<br>[2024]&nbsp;</p>
+<p>-&nbsp;</p>
 </td>
 </tr>
 <tr>
