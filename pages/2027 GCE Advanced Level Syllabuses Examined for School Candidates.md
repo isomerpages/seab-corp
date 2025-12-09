@@ -489,8 +489,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>&nbsp;
-<br>[Revised]&nbsp;&nbsp;</p>
+<p>Physics [Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;&nbsp;</p>
@@ -547,7 +546,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9519_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Theatre Studies and Drama</u></a>&nbsp;</p>
+<p>Theatre Studies and Drama</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
