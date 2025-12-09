@@ -489,7 +489,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physics [Revised]&nbsp;&nbsp;</p>
+<p>Physics
+<br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;&nbsp;</p>
@@ -601,8 +602,9 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Spanish</u></a>&nbsp;
-<br>[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Spanish</u></a>
+</p>
+<p>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Spanish&nbsp;</p>
@@ -719,7 +721,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9736_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>German</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9736_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>German</u></a>
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1364,3 +1366,4 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>
