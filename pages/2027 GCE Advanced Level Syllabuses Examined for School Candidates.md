@@ -824,10 +824,7 @@ from SEAB.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>* Last year of exam in 2026.&nbsp;
-<br>+ These subjects are applicable only for candidates from schools approved
-to offer the subjects.&nbsp;
-<br>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
+<p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.&nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/SEAB_Mathematics_MF27.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
 H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
