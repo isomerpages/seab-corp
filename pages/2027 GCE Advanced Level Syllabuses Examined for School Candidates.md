@@ -444,8 +444,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Chemistry</u></a>&nbsp;
+<br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;&nbsp;</p>
@@ -457,17 +457,18 @@ from SEAB.&nbsp;</p>
 <p>9476&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
+<a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9477_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Biology</u></a>
+<br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;&nbsp;</p>
@@ -479,17 +480,17 @@ from SEAB.&nbsp;</p>
 <p>9477&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9477_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9477_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9477_y27_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9477_y27_sp_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Physics</u></a>&nbsp;
+<br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;&nbsp;</p>
@@ -501,18 +502,18 @@ from SEAB.&nbsp;</p>
 <p>9478&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9478_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9478_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9478_y27_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9478_y27_sp_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
 <br><a href="https://go.gov.sg/datasetq2b" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Data File</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/SEAB_9478_Physics_Excel_Reference_Guide_2026_v0_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Excel Reference Guide</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/SEAB_9478_Physics_Excel_Reference_Guide.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Excel Reference Guide</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9508_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a> *&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9508_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language and Linguistics</u></a> *&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -529,7 +530,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9539_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9539_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -563,8 +564,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9569_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -576,15 +577,15 @@ from SEAB.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;</p>
-<p>Paper 2&nbsp;</p>
-<p>Reference Guide for H2 Computing&nbsp;</p>
-<p>[2026]&nbsp;</p>
+<p>Paper 1&nbsp;
+<br>Paper 2&nbsp;
+<br>Reference Guide for H2 Computing&nbsp;
+<br>[2026]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9570_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9570_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Economics</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -601,8 +602,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9578_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Spanish</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Spanish</u></a>&nbsp;
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Spanish&nbsp;</p>
@@ -614,19 +615,19 @@ from SEAB.&nbsp;</p>
 <p>9578&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9578_y26_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9578_y26_st_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_st_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9578_y26_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9578_y26_si_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_si_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9578_y26_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9587_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Management of Business</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9587_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Management of Business</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -643,7 +644,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9593_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounting</u></a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9593_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounting</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
