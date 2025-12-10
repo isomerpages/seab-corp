@@ -45,7 +45,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/1195_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language Syllabus T</u></a>&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/1195_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -138,7 +138,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K124_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Design and Technology Syllabus T</u></a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K124_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Design and Technology</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -280,7 +281,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Chinese</u></a>&nbsp;
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,7 +299,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/1203_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Malay</u></a>&nbsp;
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/1203_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,7 +317,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/1204_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Tamil</u></a>&nbsp;
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/1204_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -334,7 +335,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/5148_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Science Syllabus T</u></a>&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/5148_y26_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Science</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
