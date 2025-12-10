@@ -138,7 +138,7 @@ format.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K100</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195&nbsp;</p>
@@ -149,7 +149,8 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K110_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics </u></a>&nbsp;&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K110_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -223,7 +224,7 @@ format.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K121</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1203&nbsp;</p>
@@ -241,7 +242,7 @@ format.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K122</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1204&nbsp;</p>
@@ -259,7 +260,7 @@ format.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K123</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5148&nbsp;</p>
