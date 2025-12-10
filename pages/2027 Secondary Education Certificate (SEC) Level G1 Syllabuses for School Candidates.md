@@ -51,7 +51,7 @@ from SEAB.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K100</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195&nbsp;</p>
@@ -306,7 +306,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K121</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1203&nbsp;</p>
@@ -324,7 +324,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K122</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1204&nbsp;</p>
@@ -341,7 +341,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K123</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5148&nbsp;</p>
