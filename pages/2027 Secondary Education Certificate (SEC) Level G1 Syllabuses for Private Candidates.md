@@ -44,7 +44,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K100</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1195&nbsp;</p>
@@ -58,7 +58,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 <p>Chinese&nbsp;Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K120</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1202&nbsp;</p>
@@ -72,7 +72,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 <p>Malay&nbsp;Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K121</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1203&nbsp;</p>
@@ -86,7 +86,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 <p>Tamil&nbsp;Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K122</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1204&nbsp;</p>
