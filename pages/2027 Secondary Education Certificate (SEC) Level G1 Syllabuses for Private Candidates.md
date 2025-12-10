@@ -41,7 +41,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language Syllabus T&nbsp;</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -55,7 +55,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basic Chinese&nbsp;</p>
+<p>Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -69,7 +69,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basic Malay&nbsp;</p>
+<p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -83,7 +83,7 @@ in the e-Examination format (for example, e-Oral).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basic Tamil&nbsp;</p>
+<p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -131,8 +131,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT G1 Lvl Syllabus Private/2026/1202_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language Syllabus T</u></a>
-<a href="/files/NT G1 Lvl Syllabus Private/2026/1202_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="/files/NT G1 Lvl Syllabus Private/2026/1202_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,7 +198,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Chinese</u></a>&nbsp;
+<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,7 +216,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/1203_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Malay</u></a>&nbsp;
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/1203_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,7 +234,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/1204_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Basic Tamil</u></a>&nbsp;
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/1204_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,7 +252,8 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/5148_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Science Syllabus T</u></a>&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20%20Private%20Cddts/2026/5148_y26_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Science</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
