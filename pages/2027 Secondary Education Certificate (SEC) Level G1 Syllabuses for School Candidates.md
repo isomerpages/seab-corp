@@ -155,7 +155,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp1.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Elements of Business Skills</u></a>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Elements of Business Skills</u></a>
 <br>[Refined°]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,8 +168,8 @@ from SEAB.&nbsp;</p>
 <p>7066&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;</p>
-<p>Paper 2&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;</p>
 <p>[2026]&nbsp;&nbsp;</p>
 </td>
 </tr>
