@@ -45,7 +45,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K200_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language Syllabus A</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K200_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -62,13 +62,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/2022_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K228_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K228</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022&nbsp;</p>
@@ -249,9 +249,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K210_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
-<a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/4045_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u> </u>
-</a>&nbsp;&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K210_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -305,13 +303,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5105_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K223_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K223</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5105&nbsp;</p>
@@ -322,13 +320,14 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science (Physics, Biology)</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K224_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science (Physics, Biology)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>K224</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5106</p>
@@ -339,13 +338,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5107_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K225_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K225</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5107&nbsp;</p>
@@ -411,14 +410,14 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/7086_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
 <br>[Refined]*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K233</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7086&nbsp;</p>
@@ -483,7 +482,7 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K220_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K220_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -501,14 +500,14 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/1197_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay</u></a>&nbsp;
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K221_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K221</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1197&nbsp;</p>
@@ -519,14 +518,14 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/1198_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil</u></a>&nbsp;
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K222_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K222</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1198&nbsp;</p>

@@ -99,7 +99,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8831_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8831_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
@@ -139,7 +140,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8833_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8833_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -179,7 +181,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8835_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
@@ -293,7 +296,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8867_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Physics</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -312,7 +316,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -331,7 +336,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8876_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -350,7 +356,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/8879_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/8879_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -422,7 +429,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9357_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9357_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -441,7 +449,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> [Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -462,7 +471,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> [Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9477_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -483,7 +493,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a> [Revised]&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9478_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -597,7 +608,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9578_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Spanish</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9578_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Spanish</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Spanish</p>
@@ -713,7 +725,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9735_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9735_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>French</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French</p>
@@ -735,7 +748,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9736_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>&nbsp;[Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9736_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>German</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German</p>
@@ -757,7 +771,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9737_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9737_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Japanese</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese</p>
@@ -973,7 +988,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9813_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -990,7 +1006,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9814_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -1005,7 +1022,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9816_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Biology</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -1022,7 +1040,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9818_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9818_y26_sy_v0_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -1215,7 +1234,8 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a> [Revised]</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>

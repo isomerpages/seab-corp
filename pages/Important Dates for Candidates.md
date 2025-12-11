@@ -166,8 +166,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tentative:
-<br>18 December – 22 December 2025</p>
+<p>18 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tentative:
