@@ -347,9 +347,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 <p>5148&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/20MYm2H6WVo" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Video Clip</u></a>&nbsp;
-<br><a href="https://youtu.be/6NjK9_FYgKA" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Animation Clip</u></a>&nbsp;
-<br>[2023]&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
