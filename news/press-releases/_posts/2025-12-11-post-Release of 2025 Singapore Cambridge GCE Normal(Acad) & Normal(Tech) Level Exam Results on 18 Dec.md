@@ -98,7 +98,7 @@ DPP and the PFP, please visit these websites:</p>
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP) (<a href="https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/" rel="noopener nofollow" target="_blank">www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/for-gce-n-students-jie-h/</a>)</p>
 </li>
 <li>
-<p>Polytechnic Foundation Programme (PFP) (<a href="https://www.pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
+<p>Polytechnic Foundation Programme (PFP) (<a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>)</p>
 </li>
 </ul>
 <p><strong>Education and Career Guidance (ECG) Support</strong>
