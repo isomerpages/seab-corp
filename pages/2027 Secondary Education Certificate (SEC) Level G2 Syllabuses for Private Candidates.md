@@ -467,7 +467,7 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K220_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K220_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -485,14 +485,14 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/1197_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay</u></a>&nbsp;
+<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/1197_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K221</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1197&nbsp;</p>
@@ -503,14 +503,14 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/1198_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil</u></a>&nbsp;
+<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/1198_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;K222</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1198&nbsp;</p>
