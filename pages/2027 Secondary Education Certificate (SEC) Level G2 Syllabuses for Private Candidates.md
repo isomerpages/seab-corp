@@ -374,7 +374,8 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science (Physics, Biology)</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K224_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science (Physics, Biology)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -391,7 +392,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/5107_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K225_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -408,7 +409,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/7086_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
 <br>[Refined*]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -481,7 +482,7 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/1197_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>&nbsp;
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K221_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -499,7 +500,7 @@ details.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Lvl%20Syllabus%20Private%20Cddts/2026/1198_y26_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language</u></a>&nbsp;
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K222_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language</u></a>&nbsp;
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
