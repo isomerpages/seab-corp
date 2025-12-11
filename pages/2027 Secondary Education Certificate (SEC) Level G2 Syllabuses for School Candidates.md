@@ -303,7 +303,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5105_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K223_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -320,7 +320,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science (Physics, Biology)</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K224_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science (Physics, Biology)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -337,7 +338,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/5107_y26_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K225_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
