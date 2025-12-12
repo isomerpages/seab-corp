@@ -337,7 +337,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0039_y25_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Foundation Science</u></a>&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0039_y26_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Foundation Science</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
