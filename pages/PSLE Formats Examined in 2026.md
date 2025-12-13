@@ -92,7 +92,9 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0009_y25_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Science</u></a>&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0009_y26_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Science</u></a>
+<a href="/files/PSLE Syllabus documents/2026 PSLE/0009_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -337,7 +339,9 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0039_y26_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Foundation Science</u></a>&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0039_y26_sy.pdf" class="Hyperlink SCXW178358671 BCX8" rel="noreferrer noopener" target="_blank"><u>Foundation Science</u></a>
+<a href="/files/PSLE Syllabus documents/2026 PSLE/0039_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
