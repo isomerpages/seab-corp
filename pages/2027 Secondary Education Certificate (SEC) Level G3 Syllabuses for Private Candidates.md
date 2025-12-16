@@ -672,7 +672,7 @@ to understand the revised examination format.&nbsp;</p>
 <p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K342_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> 
 <br><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K342_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
 <a href="/files/G3 Lvl Syllabus Private Cddts/2027/K342_y27_sp2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
-<br>[2027]</p>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
