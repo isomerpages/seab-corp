@@ -740,7 +740,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/1116_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Chinese</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K364_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Chinese</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -757,7 +757,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1160_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K320_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -774,7 +774,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/2031_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Chinese</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K332_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Chinese</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -791,7 +791,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/1117_y26_sy_final.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Malay</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K356_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Malay</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -808,7 +808,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/1148_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K321_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -825,7 +825,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/2032_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Malay</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K333_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Malay</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -842,7 +842,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/2080_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Religious Knowledge</u></a>&nbsp;
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/k363_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Islamic Religious Knowledge</u></a>&nbsp;
 <br><sub>Note: Religious Knowledge cannot be used as one of the best-scoring subjects for aggregate score computation for JC and Millennia Institute admission. See </sub>
 <a href="https://safe.menlosecurity.com/https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u><sub>link</sub> </u>
 </a><sub>.</sub>&nbsp;</p>
@@ -864,7 +864,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/3186_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K386_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic&nbsp;</p>
@@ -881,7 +881,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/1147_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Tamil</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K357_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Tamil</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -898,7 +898,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/1157_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K322_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -915,7 +915,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/2033_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Tamil</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K334_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Tamil</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -932,7 +932,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/2263_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K338_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Chinese)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -949,7 +949,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2264_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Malay)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K339_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Malay)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -966,7 +966,7 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/2265_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K340_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
