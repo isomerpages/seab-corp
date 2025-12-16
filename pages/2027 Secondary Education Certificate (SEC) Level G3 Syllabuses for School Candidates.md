@@ -89,7 +89,7 @@ from SEAB.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K300&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1184&nbsp;</p>
@@ -106,7 +106,7 @@ from SEAB.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K331&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2065&nbsp;</p>
@@ -221,8 +221,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2299_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Drama</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2299_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Drama</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -517,7 +517,7 @@ from SEAB.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K353&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6063&nbsp;</p>
@@ -570,7 +570,7 @@ from SEAB.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K323&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6091&nbsp;</p>
@@ -604,7 +604,7 @@ from SEAB.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K325&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6093&nbsp;</p>
@@ -632,8 +632,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_sy_v0_3.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_sy_v0_3.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -653,8 +653,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_sy_v0_3.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Art</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_sy_v0_3.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Art</u></a>&nbsp;&nbsp;
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -704,20 +704,21 @@ from SEAB.&nbsp;</p>
 <p>7085&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;</p>
-<p>Paper 2 |Insert&nbsp;</p>
-<p>[2026] &nbsp;</p>
+<p>Paper 1&nbsp;
+<br>Paper 2 | Insert&nbsp;
+<br>[2026] &nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7087_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7087_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
+<br>[Refined]*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K342&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7087&nbsp;</p>
@@ -750,7 +751,8 @@ from SEAB.&nbsp;</p>
 <p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.&nbsp;
 <br>+ These subjects are applicable only for candidates from schools approved
-to offer the subjects.&nbsp;</p>
+to offer the subjects.
+<br>* Changes to syllabus content only. No change to scheme of assessment.&nbsp;</p>
 <h4><strong>Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -855,23 +857,6 @@ agencies.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1153_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese B</u></a> △&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1153&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1160_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -929,7 +914,7 @@ agencies.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K356</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1117&nbsp;</p>
@@ -946,7 +931,7 @@ agencies.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K365&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1133&nbsp;</p>
@@ -963,27 +948,10 @@ agencies.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K321&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1148&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1151_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay B</u></a> △&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1151&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-&nbsp;</p>
@@ -997,7 +965,7 @@ agencies.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K333</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2032&nbsp;</p>
@@ -1014,27 +982,10 @@ agencies.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K357&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1147&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1152_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil B</u></a> △&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tamil&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1152&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-&nbsp;</p>
@@ -1048,7 +999,7 @@ agencies.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K322&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1157&nbsp;</p>
@@ -1065,7 +1016,7 @@ agencies.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K334&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2033&nbsp;</p>
@@ -1144,5 +1095,5 @@ agencies.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>△ Mother Tongue B is not a GCE O-Level subject.&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
