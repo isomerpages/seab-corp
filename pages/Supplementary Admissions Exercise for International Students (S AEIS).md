@@ -38,6 +38,6 @@ description: Supplementary Admissions Exercise for International Students (S AEI
 <div class="isomer-card-title">Frequently Asked Questions</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/s-aeis/key-activities-and-milestones" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="saeis_activities" src="/images/S AEIS/Images for Cards/notebook_registration_02.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Key Activities and Milestones</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/s-aeis/key-activities-and-milestones/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="saeis_activities" src="/images/S AEIS/Images for Cards/notebook_registration_02.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Key Activities and Milestones</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
