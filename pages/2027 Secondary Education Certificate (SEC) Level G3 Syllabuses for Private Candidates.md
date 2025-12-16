@@ -45,7 +45,7 @@ follows:&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K300</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1184&nbsp;</p>
@@ -73,7 +73,7 @@ follows:&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K321&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1148&nbsp;</p>
@@ -87,7 +87,7 @@ follows:&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K322&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1157&nbsp;</p>
@@ -115,7 +115,7 @@ follows:&nbsp;</p>
 <p>Higher Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K356&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1117&nbsp;</p>
@@ -129,7 +129,7 @@ follows:&nbsp;</p>
 <p>Higher Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K357&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1147&nbsp;</p>
@@ -174,13 +174,13 @@ to understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/1184_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K300_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K300&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1184&nbsp;</p>
@@ -197,7 +197,7 @@ to understand the revised examination format.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K331</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2065&nbsp;</p>
@@ -590,7 +590,7 @@ to understand the revised examination format.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K323</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6091&nbsp;</p>
@@ -624,7 +624,7 @@ to understand the revised examination format.&nbsp;</p>
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K325</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6093&nbsp;</p>
@@ -655,25 +655,28 @@ to understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/7087_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>&nbsp;</p>
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/7087_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
+<br>[Refined]*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K342</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7087&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
+<p>Paper 1
+<br>Paper 2 | Insert
+<br>[2027]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Private%20Cddts/2026/7155_y26_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;
-<br>Software<s> </s>:&nbsp;</p>
+<br>Software:&nbsp;</p>
 <ul>
 <li>
 <p>Microsoft Office (Excel)&nbsp;</p>
@@ -707,6 +710,7 @@ to understand the revised examination format.&nbsp;</p>
 </table>
 <p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
 details.&nbsp;</p>
+<p>* Changes in syllabus content only. No change to scheme of assessment.</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -795,7 +799,7 @@ details.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K356&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1117&nbsp;</p>
@@ -812,7 +816,7 @@ details.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K321</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1148&nbsp;</p>
@@ -829,7 +833,7 @@ details.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K333&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2032&nbsp;</p>
@@ -849,7 +853,7 @@ details.&nbsp;</p>
 <p>Malay&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K363</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2080&nbsp;</p>
@@ -868,7 +872,7 @@ details.&nbsp;</p>
 <p>Arabic&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K386</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3186&nbsp;</p>
@@ -885,7 +889,7 @@ details.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K357&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1147&nbsp;</p>
@@ -902,7 +906,7 @@ details.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K322&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1157&nbsp;</p>
@@ -919,7 +923,7 @@ details.&nbsp;</p>
 <p>Tamil&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K334&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2033&nbsp;</p>
