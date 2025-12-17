@@ -222,7 +222,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2299_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Drama</u></a>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K352_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Drama</u></a>
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
