@@ -703,7 +703,9 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7085_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Business </u></a>+&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Business</u></a>
+<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7085_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u> </u>
+</a>+&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -715,14 +717,15 @@ from SEAB.&nbsp;</p>
 <p>7085&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;
-<br>Paper 2 | Insert&nbsp;
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>&nbsp;
+<br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sp2_insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>&nbsp;
 <br>[2026] &nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7087_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K342_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Principles of Accounts</u></a>
 <br>[Refined]*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -735,12 +738,15 @@ from SEAB.&nbsp;</p>
 <p>7087&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K342_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>
+<br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K342_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<a href="/files/G3 Lvl Syllabus School Cddts/2027/K342_y27_sp2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7155_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K349_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
