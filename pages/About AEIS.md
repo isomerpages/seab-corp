@@ -14,8 +14,7 @@ Key AEIS activities and milestones can be found on this <a href="https://www.sea
 <br>MOE will not issue permits for entry into Singapore for applicants to
 sit for the AEIS tests. The applicant should only submit his/her registration
 if he/she is able to enter Singapore. Applicants should refer to the
-<a href="https://safetravel.ica.gov.sg/" rel="noopener noreferrer" target="_blank"><u>Immigration &amp; Checkpoints Authority (ICA)</u>
-</a>&nbsp;and the <a href="https://www.moh.gov.sg/covid-19" rel="noopener noreferrer" target="_blank"><u>Ministry of Health (MOH)</u></a>&nbsp;websites
+<a href="https://www.ica.gov.sg/" rel="noopener nofollow" target="_blank">Immigration and Checkpoints Authority (ICA)</a>&nbsp;and the <a href="https://www.moh.gov.sg/covid-19" rel="noopener noreferrer" target="_blank"><u>Ministry of Health (MOH)</u></a>&nbsp;websites
 for the latest travel and health measures.</p>
 <p>An entry proof is issued after an approval is granted to the applicant
 by MOE. The entry proof is needed for admission into the test venue for
