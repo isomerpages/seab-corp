@@ -79,8 +79,7 @@ from SEAB.&nbsp;</p>
 <br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> 
 <br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3</a> 
 <br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sp4.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 4</a>
-</p>
-<p>[2026]</p>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
@@ -1098,4 +1097,6 @@ agencies.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
-<p>&nbsp;</p>
+<p>&nbsp;
+<br>
+</p>
