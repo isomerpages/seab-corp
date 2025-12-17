@@ -467,7 +467,9 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/5086_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/k326_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>
+<a href="/files/G3 Lvl Syllabus School Cddts/2027/k326_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -484,7 +486,9 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/5087_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Biology)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/k327_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Biology)</u></a>
+<a href="/files/G3 Lvl Syllabus School Cddts/2027/k327_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -501,7 +505,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/5088_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/k328_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Chemistry, Biology)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -518,7 +522,9 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6063_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Electronics</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K353_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Electronics</u></a>
+<a href="/files/G3 Lvl Syllabus School Cddts/2027/K353_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -530,9 +536,7 @@ from SEAB.&nbsp;</p>
 <p>6063&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6063_y25_sp_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6063_y25_sp_2.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
-<br>[2024]&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -1104,5 +1108,5 @@ agencies.&nbsp;</p>
 </table>
 <p></p>
 <p>&nbsp;
-<br>
+<br><a href="/files/G3 Lvl Syllabus School Cddts/2027/k326_y27_sy.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
