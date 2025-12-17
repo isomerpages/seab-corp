@@ -240,13 +240,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/3034_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Spanish</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K373_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Spanish</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Spanish&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K373</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3034&nbsp;</p>
@@ -344,13 +344,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/3249_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Burmese</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K369_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Burmese</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Burmese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K369&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3249&nbsp;</p>
@@ -361,13 +361,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/3260_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Thai</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K374_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Thai</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thai&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K374&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3260&nbsp;</p>
@@ -378,13 +378,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/3917_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>French</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K370_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>French</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>French&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K370&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3917&nbsp;</p>
@@ -395,13 +395,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/3918_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>German</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K371_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>German</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>German&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K371</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3918&nbsp;</p>
@@ -412,13 +412,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/3919_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Japanese</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K372_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Japanese</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>K372&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3919&nbsp;</p>
