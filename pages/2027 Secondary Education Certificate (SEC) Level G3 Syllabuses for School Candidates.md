@@ -46,7 +46,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1135_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic as a 3rd Language</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K386_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic as a 3rd Language</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic&nbsp;</p>
@@ -63,7 +63,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1136_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Bahasa Indonesia as a 3rd Language</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Bahasa Indonesia as a 3rd Language</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bahasa Indonesia&nbsp;</p>
@@ -75,10 +75,12 @@ from SEAB.&nbsp;</p>
 <p>1136&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1
-<br>Paper 2
-<br>Paper 3
-<br>Paper 4</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> 
+<br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> 
+<br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sp3.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3</a> 
+<br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sp4.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 4</a>
+</p>
+<p>[2026]</p>
 </td>
 </tr>
 <tr>
