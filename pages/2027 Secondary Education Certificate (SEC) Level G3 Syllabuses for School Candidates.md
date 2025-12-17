@@ -84,7 +84,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/1184_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K300_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>English Language</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -101,7 +101,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2065_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K331_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -118,7 +118,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2174_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a> °&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K330_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>History</u></a> °&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -135,7 +135,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2260_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Geography)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K335_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Geography)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -152,7 +152,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2261_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, History)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K336_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, History)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -169,7 +169,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2262_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in English)</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K337_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in English)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
