@@ -119,28 +119,24 @@ obtain at least a Grade D or better in at least one N(T) subject.</p>
 <p><sup>4</sup> In the calculation of ELMAB3 for Secondary 5N(A) progression,
 candidates’ 2025 GCE N(A)-Level and school-based GCE O-Level preliminary
 examination results were taken into consideration.</p>
-<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> CCA
-bonus points are not factored into the ELMAB3 aggregate used for considering
-eligibility for Secondary 5N(A).</p>
-<p><a href="#_ftnref6" rel="noopener noreferrer nofollow" target="_blank">[6]</a> To
-be eligible for the DPP, students must also attain a minimum N(A)-Level
-Grade of 4 in both English Language (minimum required grade of 3 for Business
-&amp; Services courses) and Mathematics, and minimum N(A)-Level Grade of
-5 in three other subjects (excluding CCA). CCA bonus points are not factored
-into the ELMAB3 aggregate used for considering eligibility for the DPP,
-but are taken into account for posting.</p>
-<p><a href="#_ftnref7" rel="noopener noreferrer nofollow" target="_blank">[7]</a> DPP
-graduates require a minimum raw GPA of 2.5 (Applied Sciences/Engineering/ICT)
+<p><sup>5</sup> CCA bonus points are not factored into the ELMAB3 aggregate
+used for considering eligibility for Secondary 5N(A).</p>
+<p><sup>6</sup> To be eligible for the DPP, students must also attain a minimum
+N(A)-Level Grade of 4 in both English Language (minimum required grade
+of 3 for Business &amp; Services courses) and Mathematics, and minimum
+N(A)-Level Grade of 5 in three other subjects (excluding CCA). CCA bonus
+points are not factored into the ELMAB3 aggregate used for considering
+eligibility for the DPP, but are taken into account for posting.</p>
+<p><sup>7</sup> DPP graduates require a minimum raw GPA of 2.5 (Applied Sciences/Engineering/ICT)
 or 3.0 (Business/Services) excluding CCA points for polytechnic entry.
 DPP graduates also need to pass a Mathematics elective at ITE or have scored
 C and above for O-Level Mathematics for Applied Sciences/Engineering/ICT
 courses.</p>
-<p><a href="#_ftnref8" rel="noopener noreferrer nofollow" target="_blank">[8]</a> To
-be eligible for the PFP, students must obtain a raw ELMAB3 aggregate score
-of 12 points or lower (excluding CCA bonus points), and attain minimum
-(i) N(A)-Level Grades 2 and 3 for English Language for Group 2 and 1 courses
-respectively; (ii) N(A)-Level Grade 3 for the relevant two subjects; and
-(iii) N(A)-Level Grade 4 for any two other subjects (excluding CCA) that
-make up the ELMAB3 aggregate. CCA bonus points are not factored into the
-ELMAB3 aggregate used for considering eligibility for the PFP, but are
-taken into account for posting.</p>
+<p><sup>8</sup> To be eligible for the PFP, students must obtain a raw ELMAB3
+aggregate score of 12 points or lower (excluding CCA bonus points), and
+attain minimum (i) N(A)-Level Grades 2 and 3 for English Language for Group
+2 and 1 courses respectively; (ii) N(A)-Level Grade 3 for the relevant
+two subjects; and (iii) N(A)-Level Grade 4 for any two other subjects (excluding
+CCA) that make up the ELMAB3 aggregate. CCA bonus points are not factored
+into the ELMAB3 aggregate used for considering eligibility for the PFP,
+but are taken into account for posting.</p>
