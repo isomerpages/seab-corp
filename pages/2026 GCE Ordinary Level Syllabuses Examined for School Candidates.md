@@ -892,7 +892,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1152_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> △</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1152_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil B</u></a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
@@ -906,7 +906,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1157_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1157_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -921,7 +921,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2033_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2033_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
