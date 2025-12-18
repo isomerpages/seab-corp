@@ -636,7 +636,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1116_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1116_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -651,7 +651,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1160_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1160_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -666,7 +666,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2031_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2031_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -681,7 +681,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1117_y26_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1117_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -696,7 +696,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1148_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1148_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -711,7 +711,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2032_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2032_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -726,7 +726,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a> 
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a> 
 <br><sub>Note: Religious Knowledge cannot be used as one of the best-scoring subjects for aggregate score computation for JC and Millennia Institute admission. See </sub>
 <a href="https://safe.menlosecurity.com/https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener nofollow" target="_blank"><sub>link</sub>
 </a><sub>.</sub>
@@ -761,7 +761,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1147_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1147_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,7 +776,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1157_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1157_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -791,7 +791,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2033_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2033_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -836,7 +836,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2265_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2265_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
