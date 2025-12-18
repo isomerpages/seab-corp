@@ -27,7 +27,7 @@ Secondary 5 N(A) or post-secondary pathways.&nbsp;</p>
 </p>
 <p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 76.4% of the school
 candidates from the N(A) course are eligible for progression to Secondary
-5 N(A)<sup>4</sup>.<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank"> </a>These candidates must have obtained a raw aggregate
+5 N(A)<sup>4</sup>. These candidates must have obtained a raw aggregate
 of 19 points or lower in English Language, Mathematics and the best three
 subjects (ELMAB3)<sup>5</sup>, and at least a N(A)-Level Grade 5 for all
 subjects used in the computation of the ELMAB3.&nbsp;&nbsp;</p>
