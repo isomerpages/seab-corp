@@ -578,7 +578,7 @@ to understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Private Cddts/2026/7155_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<br>[Revised] Software required:</p>
+<br>Software:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Microsoft Office (Excel)</p>
@@ -636,7 +636,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1116_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1116_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -651,7 +651,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1160_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1160_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -666,7 +666,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2031_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2031_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -681,7 +681,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1117_y26_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1117_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -696,7 +696,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1148_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1148_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -711,7 +711,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2032_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2032_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -740,7 +740,7 @@ details.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y25_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 1</u></a>
-<br><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y25_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;
+<br><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sp2_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>&nbsp;
 <br>[2025]</p>
 </td>
 </tr>
@@ -761,7 +761,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1147_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1147_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,7 +776,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1157_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/1157_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -791,7 +791,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2033_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2033_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -836,7 +836,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2265_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2265_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
