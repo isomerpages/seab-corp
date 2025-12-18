@@ -726,7 +726,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a> 
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2080_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Islamic Religious Knowledge</u></a> 
 <br><sub>Note: Religious Knowledge cannot be used as one of the best-scoring subjects for aggregate score computation for JC and Millennia Institute admission. See </sub>
 <a href="https://safe.menlosecurity.com/https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges-and-millennia-institute" rel="noopener nofollow" target="_blank"><sub>link</sub>
 </a><sub>.</sub>
