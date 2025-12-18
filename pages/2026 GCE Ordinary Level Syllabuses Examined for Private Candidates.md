@@ -578,7 +578,7 @@ to understand the revised examination format.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/O Lvl Syllabus Private Cddts/2026/7155_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Computing</u></a>
-<br>[Revised] Software required:</p>
+<br>Software:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Microsoft Office (Excel)</p>
