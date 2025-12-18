@@ -64,9 +64,9 @@ least one Pass grade on one or more subjects. You can refer to this&nbsp;
 <a href="/examination-certificates-private-candidates/" rel="noopener nofollow" target="_blank">link</a>&nbsp;for more information on the eligibility to receive an examination
 certificate.</p>
 <p></p>
-<p>Your examination certificates will be delivered via mail within a week
-from the date of the release of the results, to&nbsp;the address that you
-had provided to SEAB.</p>
+<p>Your examination certificates will be delivered via mail within five working
+days from the date of the release of the results, to&nbsp;the address that
+you had provided to SEAB.</p>
 <p></p>
 <p>You can also view your examination results online via <a href="https://myexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB’s Candidates Portal</u></a>&nbsp;during
 the specified period.
