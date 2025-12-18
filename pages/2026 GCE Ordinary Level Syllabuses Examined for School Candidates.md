@@ -188,7 +188,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2299_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Drama</a> [Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2299_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Drama</a> 
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
