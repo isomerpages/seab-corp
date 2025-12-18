@@ -552,7 +552,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6114_y26_sy_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> [Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6114_y26_sy_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -568,7 +569,8 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6124_y26_sy_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Art</a> [Revised]</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/6124_y26_sy_v0_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Art</a> 
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -727,7 +729,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1116_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1116_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -742,7 +744,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a> △</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -964,7 +966,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2265_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2265_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Humanities (Social Studies, Literature in Tamil)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
