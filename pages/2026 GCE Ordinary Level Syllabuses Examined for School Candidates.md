@@ -744,7 +744,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a> △</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1153_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese B</a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -758,7 +758,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1160_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1160_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -773,7 +773,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1166_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese (Special Programme)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1166_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese (Special Programme)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -788,7 +788,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2031_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2031_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -803,7 +803,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y26_sy_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1117_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -818,7 +818,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1133_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay (Special Programme)</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1133_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay (Special Programme)</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -833,7 +833,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1148_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1148_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -848,7 +848,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1151_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay B</a> △</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1151_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay B</a> △</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -862,7 +862,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2032_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2032_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in Malay</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -877,7 +877,7 @@ agencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1147_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/1147_y26_sy_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Higher Tamil</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
