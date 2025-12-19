@@ -67,11 +67,11 @@ the DPP can be submitted online via the ITE application portal between
 <p><strong>Release of DPP Posting Results and Acceptance of DPP Offers</strong>
 </p>
 <p>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DPP posting results will
-be released at 2pm on 26 December 2025. Candidates may check the posting
+be released at 9am on 26 December 2025. Candidates may check the posting
 results online via the ITE application portal.</p>
 <p>11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Candidates who receive a
 DPP offer should accept or reject the offer via the ITE application portal
-between 2pm on 26 December 2025 and 11.59pm on 2 January 2026.</p>
+between 9am on 26 December 2025 and 11.59pm on 2 January 2026.</p>
 <p>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates who do
 not have a confirmed place in the DPP should report to their secondary
 schools in 2026 for Secondary 5.</p>
