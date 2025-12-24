@@ -14,8 +14,8 @@ Key S-AEIS activities and milestones can be found on this <a href="https://www.s
 </p>
 <p>MOE will not issue permits for entry into Singapore for applicants to
 sit for the S-AEIS tests. The applicant should only submit his/her registration
-if he/she is able to enter Singapore. Applicants should refer to the&nbsp;
-<a href="https://safetravel.ica.gov.sg/" rel="noopener noreferrer" target="_blank"><u>Immigration &amp; Checkpoints Authority (ICA)</u>
+if he/she is able to enter Singapore. Applicants should refer to the
+<a href="https://www.ica.gov.sg/" rel="noopener noreferrer" target="_blank"><u>Immigration &amp; Checkpoints Authority (ICA)</u>
 </a>&nbsp;and the&nbsp; <a href="https://www.moh.gov.sg/covid-19" rel="noopener noreferrer" target="_blank"><u>Ministry of Health (MOH)</u></a>&nbsp;websites
 for the latest travel and health measures.</p>
 <p>An entry proof is issued after an approval is granted to the applicant
