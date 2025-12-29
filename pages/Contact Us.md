@@ -154,11 +154,8 @@ updating personal details, missing fields, system errors.</p>
 <p>Public holidays;</p>
 </li>
 <li>
-<p>Afternoons on the eve of Chinese New Year, Christmas, and New Year;</p>
-</li>
-<li>
-<p>Corporate events on 7 February 2025, 1 April 2025, 19 September 2025,
-10 October 2025 and 24 December 2025.</p>
+<p>Afternoons on the eve of Chinese New Year and New Year, 2 April 2026,
+7 August 2026 and 24 December 2026.</p>
 </li>
 </ul>
 <p>Peak periods are:</p>
