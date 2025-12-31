@@ -489,7 +489,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physics
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9478_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Physics</a> 
 <br>[Revised]&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -548,7 +548,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Theatre Studies and Drama</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9519_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Theatre Studies and Drama</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>

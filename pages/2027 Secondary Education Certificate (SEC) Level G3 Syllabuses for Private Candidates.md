@@ -740,13 +740,13 @@ details.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K364_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Chinese</u></a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus Private Cddts/2027/K355_y27_sy.pdf" class="Hyperlink SCXW162603124 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Chinese</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>K364&nbsp;</p>
+<p>K355&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1116&nbsp;</p>

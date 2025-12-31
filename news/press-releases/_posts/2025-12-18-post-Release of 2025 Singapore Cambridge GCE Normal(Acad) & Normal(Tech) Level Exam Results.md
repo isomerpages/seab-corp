@@ -135,9 +135,10 @@ C and above for O-Level Mathematics for Applied Sciences/Engineering/ICT
 courses.</p>
 <p><sup>8</sup> To be eligible for the PFP, students must obtain a raw ELMAB3
 aggregate score of 12 points or lower (excluding CCA bonus points), and
-attain minimum (i) N(A)-Level Grades 2 and 3 for English Language for Group
-2 and 1 courses respectively; (ii) N(A)-Level Grade 3 for the relevant
-two subjects; and (iii) N(A)-Level Grade 4 for any two other subjects (excluding
+attain minimum (i) N(A)-Level Grade 3 for English Language and Mathematics/Additional
+Mathematics; (ii) N(A)-Level Grade 3 for the one relevant subject (where
+the relevant subject depends on the PFP cluster that the student is applying
+for); and (iii) N(A)-Level Grade 4 for any two other subjects (excluding
 CCA) that make up the ELMAB3 aggregate. CCA bonus points are not factored
 into the ELMAB3 aggregate used for considering eligibility for the PFP,
 but are taken into account for posting.</p>
