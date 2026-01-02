@@ -90,8 +90,7 @@ understand the revised examination format.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/PSLE Syllabus documents/2026 PSLE/0009_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
-</p>
-<p>[Revised]</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -308,9 +307,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0039_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Science&nbsp;</a>
-</p>
-<p>[Revised]</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0039_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Science</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
