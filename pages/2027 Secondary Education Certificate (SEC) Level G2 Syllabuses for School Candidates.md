@@ -296,9 +296,7 @@ from SEAB.&nbsp;</p>
 <p>N.A.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;
-<br>Paper 2&nbsp;
-<br>[2026]&nbsp;</p>
+<p>To be available in end January 2026</p>
 </td>
 </tr>
 <tr>
@@ -385,10 +383,7 @@ from SEAB.&nbsp;</p>
 <p>6127&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6127_y26_sp_1.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6127_y26_si_1.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>To be available in end January 2026</p>
 </td>
 </tr>
 <tr>
