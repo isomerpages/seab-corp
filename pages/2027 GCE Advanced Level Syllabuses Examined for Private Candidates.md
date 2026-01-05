@@ -738,7 +738,7 @@ understand the revised examination format.&nbsp;</p>
 <p>Paper 1&nbsp;
 <br>Paper 2&nbsp;
 <br>Reference Guide for H2 Computing&nbsp;
-<br>[2026]~&nbsp;</p>
+<br>[2026] ~&nbsp;</p>
 </td>
 </tr>
 <tr>
