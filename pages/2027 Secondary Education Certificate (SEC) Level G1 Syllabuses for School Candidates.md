@@ -109,16 +109,12 @@ from SEAB.&nbsp;</p>
 <p>6128&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/6128_y26_sp_1.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/6128_y26_si_1.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>To be available in end January 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>&nbsp;</p>
-<p>[New]&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a> [New]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -130,9 +126,7 @@ from SEAB.&nbsp;</p>
 <p>N.A.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;</p>
-<p>Paper 2&nbsp;</p>
-<p>[2026]&nbsp;</p>
+<p>To be available in end January 2026</p>
 </td>
 </tr>
 <tr>
