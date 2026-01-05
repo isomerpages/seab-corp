@@ -46,13 +46,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K386_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic as a 3rd Language</u></a>&nbsp;</p>
+<p>Arabic as a 3rd language ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>K386</p>
+<p>K366</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1135&nbsp;</p>
@@ -656,10 +656,8 @@ from SEAB.&nbsp;</p>
 <p>6114&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_sp_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_si_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>Paper 1 | Insert ~
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -677,11 +675,9 @@ from SEAB.&nbsp;</p>
 <p>6124&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_sp_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_si_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_sp_3.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>Paper 1 | Insert
+<br>Paper 3
+<br>[2025] ~</p>
 </td>
 </tr>
 <tr>
@@ -769,7 +765,8 @@ from SEAB.&nbsp;</p>
 details.&nbsp;
 <br>+ These subjects are applicable only for candidates from schools approved
 to offer the subjects.
-<br>* Changes to syllabus content only. No change to scheme of assessment.&nbsp;</p>
+<br>* Changes to syllabus content only. No change to scheme of assessment.&nbsp;
+<br>~ This document will be made available soon.</p>
 <h4><strong>Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
