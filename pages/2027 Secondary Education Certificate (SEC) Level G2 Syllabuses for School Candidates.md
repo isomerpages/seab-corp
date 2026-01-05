@@ -296,7 +296,9 @@ from SEAB.&nbsp;</p>
 <p>N.A.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be available in end January 2026</p>
+<p>Paper 1~
+<br>Paper 2~
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +385,7 @@ from SEAB.&nbsp;</p>
 <p>6127&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be available in end January 2026</p>
+<p>Paper 1~ | Insert~ [2025]</p>
 </td>
 </tr>
 <tr>
@@ -445,7 +447,8 @@ from SEAB.&nbsp;</p>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.
-<br>* Changes in syllabus content only. No change to scheme of assessment.</p>
+<br>* Changes in syllabus content only. No change to scheme of assessment.
+<br>~ This document will be made available soon.</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
