@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
-(SEC) Level G3 examination syllabuses that are offered to private candidates:&nbsp;</p>
+(SEC) Level G3 examination syllabuses that are offered to private candidates.&nbsp;</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
 your understanding that some items / images / resources may not be available
@@ -15,8 +15,8 @@ may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.&nbsp;</p>
 <p>From 2017, certain papers of selected GCE O-Level subjects are conducted
 in the e-Examination format (for example, e-Oral). This will continue to
-apply to these G1 subjects under the SEC examinations.These subjects are
-as follows:&nbsp;</p>
+apply to these G3 subjects under the SEC examinations. These subjects are
+as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
