@@ -4,8 +4,9 @@ permalink: /secondary-education-cert/g1-level-syllabuses-for-school-candidates-2
 variant: tiptap
 description: ""
 ---
-<p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
-(SEC) Level G1 examination syllabuses that are offered to school candidates.&nbsp;</p>
+<p>Here are the G1 subject syllabuses under the 2027 Singapore-Cambridge
+Secondary Education Certificate (SEC) examinations that are offered to
+school candidates.</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
 your understanding that some items / images / resources may not be available
