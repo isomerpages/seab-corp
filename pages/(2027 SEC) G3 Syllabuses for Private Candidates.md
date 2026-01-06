@@ -13,10 +13,10 @@ in these online specimen papers, due to copyright restrictions. In such
 cases, a description of the item / image / resource, and/or a web-link
 may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.&nbsp;</p>
-<p>From 2017, certain papers of selected SEC Level G3 subjects will be conducted
-in the e-Examination format (for example, e-Oral). These subjects are as
-follows:&nbsp;</p>
-<p>&nbsp;</p>
+<p>From 2017, certain papers of selected GCE O-Level subjects are conducted
+in the e-Examination format (for example, e-Oral). This will continue to
+apply to these G1 subjects under the SEC examinations.These subjects are
+as follows:&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
