@@ -174,7 +174,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2286_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a> +</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/2286_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a> +#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -603,7 +603,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/7085_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>&nbsp;+</p>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/7085_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>&nbsp;+#</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -654,7 +654,8 @@ from SEAB.</p>
 <p>° Subject with e-Examination. Refer to <a href="/e-exam-resources" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
 details.
 <br>+ These subjects are applicable only for candidates from schools approved
-to offer the subjects.</p>
+to offer the subjects.
+<br># Last year of exam in 2026</p>
 <h4><strong>Applied Subjects</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
