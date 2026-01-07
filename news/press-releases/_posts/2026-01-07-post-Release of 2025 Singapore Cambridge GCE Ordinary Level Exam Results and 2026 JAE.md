@@ -189,7 +189,7 @@ for more information:</p>
 <p>29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students may also consult their teachers
 or ECG Counsellors in their respective secondary schools about their next
 steps. Alternatively, they can make an ECG counselling appointment via
-the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
+the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
 The ECG Centre @ MOE offers online or phone counselling services from 7
 to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <hr>
