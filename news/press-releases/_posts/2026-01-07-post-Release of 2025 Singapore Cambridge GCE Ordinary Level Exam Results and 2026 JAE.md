@@ -193,12 +193,10 @@ the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener
 The ECG Centre @ MOE offers online or phone counselling services from 7
 to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Form&nbsp;A
-will list the applicant’s gross aggregate scores for JC, MI, polytechnic,
-ITE aggregate types and courses which he/she is eligible to apply for under
-the JAE.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> More
-details on DSA-JC can be found at <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>
+<p><sup>1</sup>Form&nbsp;A will list the applicant’s gross aggregate scores
+for JC, MI, polytechnic, ITE aggregate types and courses which he/she is
+eligible to apply for under the JAE.</p>
+<p><sup>2</sup>More details on DSA-JC can be found at <a href="https://www.moe.gov.sg/dsa-jc" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>
 </p>
 <p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> More
 details on Polytechnic EAE can be found at <a rel="noopener noreferrer nofollow" target="_blank">eae.polytechnic.edu.sg</a>
