@@ -132,11 +132,10 @@ and meet the subject-specific requirements for their chosen cluster.</p>
 <p>20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PFP-eligible
 students will receive a copy of <u>Form&nbsp;P</u> from their respective
 secondary schools in person. Interested students are required to submit
-their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>
-<a rel="noopener noreferrer nofollow" target="_blank"></a>using their Singpass account. More information on the eligibility
-requirements for the PFP, as well as how GCE O-Level results are considered
-in the computation of the ELMAB3 aggregate, can be found on the PFP website
-indicated above.</p>
+their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>using
+their Singpass account. More information on the eligibility requirements
+for the PFP, as well as how GCE O-Level results are considered in the computation
+of the ELMAB3 aggregate, can be found on the PFP website indicated above.</p>
 <p>21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications for the PFP will open from
 1.30pm on 14 January 2026, to 4.30pm on 19 January 2026. The PFP posting
 results will be released at 1.30pm on 26 January 2026 through the PFP website.
@@ -180,10 +179,10 @@ decisions about their next steps. They may refer to the following websites
 for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE’s CourseFinder (<a rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
+<p>MOE’s CourseFinder (<a href="https://moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+<p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
 </li>
 </ul>
 <p></p>
