@@ -39,17 +39,16 @@ for admission to junior colleges (JC), Millennia Institute (MI), polytechnics,
 and the Institute of Technical Education (ITE) may do so via the Joint
 Admissions Exercise (JAE) using their GCE O-Level examination results.</p>
 <p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eligible school and private
-candidates will receive a digital copy of <u>Form A</u><a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> via their registered
-email addresses from 2.45pm on 14 January 2026. All candidates eligible
-for JAE may also download a copy of Form A from the JAE-Internet System
-(JAE-IS) during the application period.</p>
+candidates will receive a digital copy of <u>Form A<sup>1</sup></u> via their
+registered email addresses from 2.45pm on 14 January 2026. All candidates
+eligible for JAE may also download a copy of Form A from the JAE-Internet
+System (JAE-IS) during the application period.</p>
 <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The JAE-IS will be accessible
 from 4pm on 14 January 2026, to 4.30pm on 19 January 2026 for applicants
-to submit their course choices through the JAE website at <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>. Applicants are
-strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
-before submitting their online application. The JAE-IS can be accessed
-using Singpass. Applicants can find more information on the following MOE
-websites:</p>
+to submit their course choices through the JAE website at <a href="https://www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>.
+Applicants are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) before
+submitting their online application. The JAE-IS can be accessed using Singpass.
+Applicants can find more information on the following MOE websites:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>JAE website for more details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
