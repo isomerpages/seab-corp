@@ -127,15 +127,16 @@ O-Level results to apply for a place in the Polytechnic Foundation Programme
 which provides students with a practice-oriented approach to prepare them
 for entry into the relevant diploma courses.</p>
 <p>19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are eligible to apply for the
-PFP if they obtain a raw ELMAB3 aggregate<a href="#_ftn7" rel="noopener noreferrer nofollow" target="_blank">[7]</a> of 12 points or lower and meet the subject-specific
-requirements for their chosen cluster.</p>
+PFP if they obtain a raw ELMAB3 aggregate<sup>7</sup> of 12 points or lower
+and meet the subject-specific requirements for their chosen cluster.</p>
 <p>20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PFP-eligible
 students will receive a copy of <u>Form&nbsp;P</u> from their respective
 secondary schools in person. Interested students are required to submit
-their applications online via the PFP website at <a rel="noopener noreferrer nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html </a>using
-their Singpass account. More information on the eligibility requirements
-for the PFP, as well as how GCE O-Level results are considered in the computation
-of the ELMAB3 aggregate, can be found on the PFP website indicated above.</p>
+their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>
+<a rel="noopener noreferrer nofollow" target="_blank"></a>using their Singpass account. More information on the eligibility
+requirements for the PFP, as well as how GCE O-Level results are considered
+in the computation of the ELMAB3 aggregate, can be found on the PFP website
+indicated above.</p>
 <p>21&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications for the PFP will open from
 1.30pm on 14 January 2026, to 4.30pm on 19 January 2026. The PFP posting
 results will be released at 1.30pm on 26 January 2026 through the PFP website.
@@ -143,14 +144,15 @@ Students will be required to indicate whether they wish to accept, reject,
 or appeal for a change of course by 4.30pm on 29 January 2026.</p>
 <p><u>Direct-Entry-Scheme to Polytechnic Programme (DPP)</u>
 </p>
-<p>22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DPP<a href="#_ftn8" rel="noopener noreferrer nofollow" target="_blank">[8]</a> prepares students for progression into selected polytechnic
-diploma courses via a two-year <em>Higher Nitec </em>course at ITE. Students
-are eligible to apply if they obtain a raw ELMAB3 aggregate of 19 points
-or lower and meet the subject-specific requirements for their chosen course.</p>
+<p>22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DPP<sup>8</sup> prepares students
+for progression into selected polytechnic diploma courses via a two-year <em>Higher Nitec </em>course
+at ITE. Students are eligible to apply if they obtain a raw ELMAB3 aggregate
+of 19 points or lower and meet the subject-specific requirements for their
+chosen course.</p>
 <p>23&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eligible Secondary 4 N(A) students may
-submit their DPP applications online via the DPP application portal <a rel="noopener noreferrer nofollow" target="_blank">at www.ite.edu.sg/apply-for-ite-courses</a>.
-Applications for the DPP will open from 12am on 14 January 2026 to 11.59pm
-on 19 January 2026.</p>
+submit their DPP applications online via the DPP application portal at
+<a href="https://www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>. Applications for the DPP will
+open from 12am on 14 January 2026 to 11.59pm on 19 January 2026.</p>
 <p>24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The DPP posting results for applications
 made under the final application phase will be released at 9am on 21 January
 2026 through the DPP application portal. Students will be required to indicate
