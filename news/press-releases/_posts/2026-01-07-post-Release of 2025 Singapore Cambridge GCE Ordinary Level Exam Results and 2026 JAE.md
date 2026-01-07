@@ -198,8 +198,7 @@ for JC, MI, polytechnic, ITE aggregate types and courses which he/she is
 eligible to apply for under the JAE.</p>
 <p><sup>2</sup>More details on DSA-JC can be found at <a href="https://www.moe.gov.sg/dsa-jc" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>
 </p>
-<p><a href="#_ftnref3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> More
-details on Polytechnic EAE can be found at <a rel="noopener noreferrer nofollow" target="_blank">eae.polytechnic.edu.sg</a>
+<p><sup>3</sup>More details on Polytechnic EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener nofollow" target="_blank">eae.polytechnic.edu.sg</a>
 </p>
 <p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> The
 ELR2B2 aggregate comprises English Language, 2 relevant subjects for the
