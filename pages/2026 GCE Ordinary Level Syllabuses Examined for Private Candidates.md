@@ -247,7 +247,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2286_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Economics</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/2286_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Economics</a>  <sup>#</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -547,7 +547,7 @@ to understand the revised examination format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Private Cddts/2026/7085_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Business Studies</u></a>
+<p><a href="/files/O Lvl Syllabus Private Cddts/2026/7085_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Business Studies</a>  <sup>#</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -608,7 +608,8 @@ to understand the revised examination format.</p>
 </tbody>
 </table>
 <p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
-details.</p>
+details.
+<br># Last year of exam in 2026</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
