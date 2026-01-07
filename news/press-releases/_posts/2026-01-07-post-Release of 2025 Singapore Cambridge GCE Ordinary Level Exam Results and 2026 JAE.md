@@ -132,7 +132,7 @@ and meet the subject-specific requirements for their chosen cluster.</p>
 <p>20&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PFP-eligible
 students will receive a copy of <u>Form&nbsp;P</u> from their respective
 secondary schools in person. Interested students are required to submit
-their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a>using
+their applications online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">pfp.polytechnic.edu.sg/PFP/index.html</a> using
 their Singpass account. More information on the eligibility requirements
 for the PFP, as well as how GCE O-Level results are considered in the computation
 of the ELMAB3 aggregate, can be found on the PFP website indicated above.</p>
