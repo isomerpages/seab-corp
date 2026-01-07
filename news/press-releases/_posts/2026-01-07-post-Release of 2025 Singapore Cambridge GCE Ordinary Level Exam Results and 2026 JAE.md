@@ -110,15 +110,16 @@ they are eligible for.</p>
 <p><u>ITE EAE</u>
 </p>
 <p>16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For students who have accepted conditional
-offers to an ITE course through the ITE EAE<a href="#_ftn6" rel="noopener noreferrer nofollow" target="_blank">[6]</a> in 2025, their offers would have been confirmed based
-on their GCE O-Level examination results, once they meet the subject-specific
-Minimum Entry Requirements for the course.</p>
+offers to an ITE course through the ITE EAE<sup>6</sup> in 2025, their offers
+would have been confirmed based on their GCE O-Level examination results,
+once they meet the subject-specific Minimum Entry Requirements for the
+course.</p>
 <p><strong>Progression Pathways for Secondary Four Normal (Academic) Students</strong>
 </p>
 <p>17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 4 Normal (Academic) [N(A)]
 students who have sat for GCE O-Level subjects in 2025 can use their GCE
-O-Level results to apply for a place in the <a rel="noopener noreferrer nofollow" target="_blank">Polytechnic Foundation Programme (PFP) and </a>Direct-Entry-Scheme
-to Polytechnic Programme (DPP).</p>
+O-Level results to apply for a place in the Polytechnic Foundation Programme
+(PFP) and Direct-Entry-Scheme to Polytechnic Programme (DPP).</p>
 <p><u>Polytechnic Foundation Programme (PFP)</u>
 </p>
 <p>18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The PFP is an alternative to the Secondary
