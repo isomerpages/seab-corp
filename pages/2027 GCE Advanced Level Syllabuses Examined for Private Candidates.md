@@ -1,6 +1,6 @@
 ---
 title: 2027 GCE Advanced Level Syllabuses Examined for Private Candidates
-permalink: /2027-gce-advanced-level-syllabuses-examined-for-private-candidates/
+permalink: /gce-a-level/a-level-syllabuses-examined-for-private-candidates-2027/
 variant: tiptap
 description: ""
 ---
@@ -738,7 +738,7 @@ understand the revised examination format.&nbsp;</p>
 <p>Paper 1&nbsp;
 <br>Paper 2&nbsp;
 <br>Reference Guide for H2 Computing&nbsp;
-<br>[2026]&nbsp;&nbsp;</p>
+<br>[2026] ~&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -853,7 +853,8 @@ details.&nbsp;
 the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.&nbsp;
 <br><a href="/files/A Level Syllabus Private Cddts/2027/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
-H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;</p>
+H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
+<br>~ These documents will be made available soon.</p>
 <h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>

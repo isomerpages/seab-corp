@@ -1,13 +1,12 @@
 ---
-title: 2027 Secondary Education Certificate (SEC) Level G3 Syllabuses for School
-  Candidates
-permalink: /2027-secondary-education-certificate-sec-level-g3-syllabuses-for-school-candidates/
+title: (2027 SEC) G3 Syllabuses for School Candidates
+permalink: /secondary-education-cert/g3-syllabuses-for-school-candidates-2027/
 variant: tiptap
 description: ""
 ---
-<p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
-(SEC) Level G3<strong> </strong>examination syllabuses that are offered
-to school candidates.&nbsp;</p>
+<p>Here are the G3 subject syllabuses under the 2027 Singapore-Cambridge
+Secondary Education Certificate (SEC) examinations that are offered to
+school candidates.</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
 your understanding that some items / images / resources may not be available
@@ -46,13 +45,13 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K386_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Arabic as a 3rd Language</u></a>&nbsp;</p>
+<p>Arabic as a 3rd language ~</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>K386</p>
+<p>K366</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1135&nbsp;</p>
@@ -258,7 +257,6 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K360_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Hindi</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K360_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -430,7 +428,6 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K341_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Additional Mathematics</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K341_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -449,7 +446,6 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K310_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K310_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -468,7 +464,6 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/k326_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/k326_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -487,7 +482,6 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/k327_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Biology)</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/k327_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,7 +517,6 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K353_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Electronics</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K353_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -656,10 +649,8 @@ from SEAB.&nbsp;</p>
 <p>6114&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_sp_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6114_y26_si_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>Paper 1 | Insert ~
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
@@ -677,11 +668,9 @@ from SEAB.&nbsp;</p>
 <p>6124&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_sp_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_si_1.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/6124_y26_sp_3.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>Paper 1 | Insert
+<br>Paper 3
+<br>[2025] ~</p>
 </td>
 </tr>
 <tr>
@@ -703,9 +692,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Business</u></a>
-<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7085_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u> </u>
-</a>+&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Business</u></a>+&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -769,7 +756,8 @@ from SEAB.&nbsp;</p>
 details.&nbsp;
 <br>+ These subjects are applicable only for candidates from schools approved
 to offer the subjects.
-<br>* Changes to syllabus content only. No change to scheme of assessment.&nbsp;</p>
+<br>* Changes to syllabus content only. No change to scheme of assessment.&nbsp;
+<br>~ This document will be made available soon.</p>
 <h4><strong>Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -796,7 +784,6 @@ to offer the subjects.
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K375_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Biotechnology</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K375_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -860,7 +847,6 @@ agencies.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K355_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Chinese</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K355_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -949,7 +935,6 @@ agencies.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K365_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay (Special Programme)</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K365_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1036,7 +1021,6 @@ agencies.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K334_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Tamil</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K334_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

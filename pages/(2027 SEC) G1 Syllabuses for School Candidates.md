@@ -1,12 +1,12 @@
 ---
-title: 2027 Secondary Education Certificate (SEC) Level G1 Syllabuses for School
-  Candidates
-permalink: /2027-secondary-education-certificate-sec-level-g1-syllabuses-for-school-candidates/
+title: (2027 SEC) G1 Syllabuses for School Candidates
+permalink: /secondary-education-cert/g1-syllabuses-for-school-candidates-2027/
 variant: tiptap
 description: ""
 ---
-<p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
-(SEC) Level G1 examination syllabuses that are offered to school candidates.&nbsp;</p>
+<p>Here are the G1 subject syllabuses under the 2027 Singapore-Cambridge
+Secondary Education Certificate (SEC) examinations that are offered to
+school candidates.</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
 your understanding that some items / images / resources may not be available
@@ -109,16 +109,12 @@ from SEAB.&nbsp;</p>
 <p>6128&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/6128_y26_sp_1.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2026/6128_y26_si_1.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>Paper 1~ | Insert~ [2025]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>&nbsp;</p>
-<p>[New]&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a> [New]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -130,9 +126,8 @@ from SEAB.&nbsp;</p>
 <p>N.A.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;</p>
-<p>Paper 2&nbsp;</p>
-<p>[2026]&nbsp;</p>
+<p>Paper 1~
+<br>Paper 2~</p>
 </td>
 </tr>
 <tr>
@@ -168,8 +163,8 @@ from SEAB.&nbsp;</p>
 <p>7066&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>&nbsp;</p>
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>&nbsp;
+<br><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;</p>
 <p>[2026]&nbsp;&nbsp;</p>
 </td>
 </tr>
@@ -179,7 +174,8 @@ from SEAB.&nbsp;</p>
 <br>G1 candidates can offer up to three subjects at the SEC G2 Level examinations
 if NTIL is included. The list of NTILs can be found under the <u>2026 GCE N(A)-Level Syllabuses</u> for
 school candidates.
-<br>° Changes in syllabus content only. No change to scheme of assessment.</p>
+<br>° Changes in syllabus content only. No change to scheme of assessment.
+<br>~ This document will be made available soon.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>

@@ -1,6 +1,6 @@
 ---
 title: PSLE Formats Examined in 2026
-permalink: /psle-formats-examined-in-2026/
+permalink: /psle/psle-formats-examined-in-2026/
 variant: tiptap
 description: ""
 ---
@@ -29,7 +29,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0001_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -40,7 +41,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0005_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -51,7 +53,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Language</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0006_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -62,7 +65,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil Language</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0007_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -73,7 +77,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0008_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics </a>
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +89,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0009_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -96,7 +101,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Panjabi&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0010_0011_0012_0013_0014_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Panjabi&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Panjabi&nbsp;</p>
@@ -107,7 +113,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hindi&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0010_0011_0012_0013_0014_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Hindi&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hindi&nbsp;</p>
@@ -118,7 +125,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gujarati&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0010_0011_0012_0013_0014_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Gujarati&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gujarati&nbsp;</p>
@@ -129,7 +137,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bengali&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0010_0011_0012_0013_0014_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Bengali&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bengali&nbsp;</p>
@@ -140,7 +149,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Urdu&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0010_0011_0012_0013_0014_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Urdu&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Urdu&nbsp;</p>
@@ -151,7 +161,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese Language&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0015_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Language&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -162,7 +173,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Malay Language&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0016_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Malay Language&nbsp;</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -173,7 +185,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Tamil Language&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0017_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil Language</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -184,7 +196,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Panjabi&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0020_0021_0022_0023_0024_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Panjabi</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Panjabi&nbsp;</p>
@@ -195,7 +207,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Hindi&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0020_0021_0022_0023_0024_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Hindi</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hindi&nbsp;</p>
@@ -206,7 +218,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Gujarati&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0020_0021_0022_0023_0024_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Gujarati</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gujarati&nbsp;</p>
@@ -217,7 +229,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Bengali&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0020_0021_0022_0023_0024_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Bengali</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bengali&nbsp;</p>
@@ -228,7 +240,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Urdu&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0020_0021_0022_0023_0024_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Urdu</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Urdu&nbsp;</p>
@@ -239,7 +251,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Chinese Language&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0025_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese Language</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -250,7 +262,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Malay Language&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0026_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Malay Language</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>
@@ -261,7 +273,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Tamil Language&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0027_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Tamil Language</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil&nbsp;</p>
@@ -272,7 +284,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation English Language&nbsp;&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0031_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation English Language</a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -283,7 +295,7 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Mathematics&nbsp;
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0038_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Mathematics</a>&nbsp;
 <br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,7 +307,8 @@ understand the revised examination format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foundation Science&nbsp;</p>
+<p><a href="/files/PSLE Syllabus documents/2026 PSLE/0039_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Science</a>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>

@@ -1,12 +1,12 @@
 ---
-title: 2027 Secondary Education Certificate (SEC) Level G1 Syllabuses for
-  Private Candidates
-permalink: /2027-secondary-education-certificate-sec-level-g1-syllabuses-for-private-candidates/
+title: (2027 SEC) G1 Syllabuses for Private Candidates
+permalink: /secondary-education-cert/g1-syllabuses-for-private-candidates-2027/
 variant: tiptap
 description: ""
 ---
-<p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
-(SEC) Level G1 examination syllabuses that are offered to private candidates.&nbsp;</p>
+<p>Here are the G1 subject syllabuses under the 2027 Singapore-Cambridge
+Secondary Education Certificate (SEC) examinations that are offered to
+private candidates.</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
 your understanding that some items / images / resources may not be available
@@ -14,8 +14,9 @@ in these online specimen papers, due to copyright restrictions. In such
 cases, a description of the item / image / resource, and/or a web-link
 may be provided. The full specimen paper, in printed format, may be purchased
 from SEAB.&nbsp;</p>
-<p>From 2017, certain papers of selected SEC Level G1 subjects will be conducted
-in the e-Examination format (for example, e-Oral).&nbsp;</p>
+<p>From 2017, certain papers of selected GCE N(T)-Level subjects are conducted
+in the e-Examination format (for example, e-Oral). This will continue to
+apply to these G1 subjects under the SEC examinations.</p>
 <p>The subjects are as follows:&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>

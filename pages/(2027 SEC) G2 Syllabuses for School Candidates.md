@@ -1,12 +1,12 @@
 ---
-title: 2027 Secondary Education Certificate (SEC) Level G2 Syllabuses for School
-  Candidates
-permalink: /2027-secondary-education-certificate-sec-level-g2-syllabuses-for-school-candidates/
+title: (2027 SEC) G2 Syllabuses for School Candidates
+permalink: /secondary-education-cert/g2-syllabuses-for-school-candidates-2027/
 variant: tiptap
 description: ""
 ---
-<p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
-(SEC) Level G2 examination syllabuses that are offered to school candidates.&nbsp;</p>
+<p>Here are the G2 subject syllabuses under the 2027 Singapore-Cambridge
+Secondary Education Certificate (SEC) examinations that are offered to
+school candidates.</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
 your understanding that some items / images / resources may not be available
@@ -296,9 +296,9 @@ from SEAB.&nbsp;</p>
 <p>N.A.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;
-<br>Paper 2&nbsp;
-<br>[2026]&nbsp;</p>
+<p>Paper 1~
+<br>Paper 2~
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
@@ -372,8 +372,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;&nbsp;</p>
-<p>[Revised]&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -385,10 +385,7 @@ from SEAB.&nbsp;</p>
 <p>6127&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6127_y26_sp_1.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
-<a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/6127_y26_si_1.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
-</a>&nbsp;
-<br>[2025]&nbsp;</p>
+<p>Paper 1~ | Insert~ [2025]</p>
 </td>
 </tr>
 <tr>
@@ -450,7 +447,8 @@ from SEAB.&nbsp;</p>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.
-<br>* Changes in syllabus content only. No change to scheme of assessment.</p>
+<br>* Changes in syllabus content only. No change to scheme of assessment.
+<br>~ This document will be made available soon.</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
