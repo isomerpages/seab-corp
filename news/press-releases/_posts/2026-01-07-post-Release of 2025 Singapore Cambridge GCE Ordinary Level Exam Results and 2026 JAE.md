@@ -46,9 +46,10 @@ System (JAE-IS) during the application period.</p>
 <p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The JAE-IS will be accessible
 from 4pm on 14 January 2026, to 4.30pm on 19 January 2026 for applicants
 to submit their course choices through the JAE website at <a href="https://www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>.
-Applicants are strongly encouraged to complete the JAE worksheet (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>) before
-submitting their online application. The JAE-IS can be accessed using Singpass.
-Applicants can find more information on the following MOE websites:</p>
+Applicants are strongly encouraged to complete the JAE worksheet (<a href="https://www.moe.gov.sg/jaeworksheet" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jaeworksheet</a>)
+before submitting their online application. The JAE-IS can be accessed
+using Singpass. Applicants can find more information on the following MOE
+websites:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>JAE website for more details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
