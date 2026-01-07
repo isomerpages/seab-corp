@@ -692,9 +692,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Business</u></a>
-<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/7085_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u> </u>
-</a>+&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K344_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Business</u></a>+&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -786,7 +784,6 @@ to offer the subjects.
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K375_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Biotechnology</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K375_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -850,7 +847,6 @@ agencies.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K355_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Chinese</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K355_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -939,7 +935,6 @@ agencies.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K365_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay (Special Programme)</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K365_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1026,7 +1021,6 @@ agencies.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K334_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in Tamil</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K334_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
