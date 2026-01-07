@@ -52,15 +52,15 @@ using Singpass. Applicants can find more information on the following MOE
 websites:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>JAE website for more details on the JAE (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+<p>JAE website for more details on the JAE (<a href="https://www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
 </li>
 <li>
 <p>SchoolFinder for details of the offerings by JCs and MI, and their previous
-entry score ranges (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+entry score ranges (<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
 </li>
 <li>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
-aggregate type and area of interest (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+aggregate type and area of interest (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 </ul>
 <p><u>Application Results</u>
