@@ -87,20 +87,21 @@ via their registered email addresses from 2.45pm on 14 January 2026.</p>
 <p><u>DSA-JC</u>
 </p>
 <p>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have accepted offers through
-the 2025 DSA-JC<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> will
-be admitted to their chosen JC if they have met the JC admission criteria
-based on their GCE O-Level examination results. Students admitted to a
-JC through DSA-JC will not be eligible to participate in the JAE.</p>
+the 2025 DSA-JC<sup>2</sup> will be admitted to their chosen JC if they
+have met the JC admission criteria based on their GCE O-Level examination
+results. Students admitted to a JC through DSA-JC will not be eligible
+to participate in the JAE.</p>
 <p>13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who do not meet the JC admission
 criteria may take part in the JAE to apply for other courses which they
 are eligible for.</p>
 <p><u>Polytechnic EAE</u>
 </p>
 <p>14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For students who have accepted conditional
-offers to a polytechnic course through the Poly EAE<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a> in 2025, their offers would have been confirmed and
-they will not be eligible to participate in the JAE, if they meet the following
-criteria:
-<br>a.&nbsp;&nbsp;&nbsp;&nbsp; A net ELR2B2 score<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> of 26 points<a href="#_ftn5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> or lower for the GCE O-Level examinations; <u>and</u>
+offers to a polytechnic course through the Poly EAE<sup>3</sup> in 2025,
+their offers would have been confirmed and they will not be eligible to
+participate in the JAE, if they meet the following criteria:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp; A net ELR2B2 score<sup>4</sup> of 26 points<sup>5</sup> or
+lower for the GCE O-Level examinations; <u>and</u>
 <br>b.&nbsp;&nbsp; Minimum Entry Requirements for the respective polytechnic
 courses.</p>
 <p>15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who do not meet the above criteria
