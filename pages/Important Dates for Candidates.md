@@ -169,8 +169,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <p>18 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tentative:
-<br>14 January – 16 January 2026</p>
+<p>14 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tentative:25 February – 27 February 2026</p>
