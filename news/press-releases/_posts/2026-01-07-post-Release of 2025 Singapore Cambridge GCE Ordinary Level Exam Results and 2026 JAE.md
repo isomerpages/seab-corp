@@ -200,20 +200,16 @@ eligible to apply for under the JAE.</p>
 </p>
 <p><sup>3</sup>More details on Polytechnic EAE can be found at <a href="https://eae.polytechnic.edu.sg" rel="noopener nofollow" target="_blank">eae.polytechnic.edu.sg</a>
 </p>
-<p><a href="#_ftnref4" rel="noopener noreferrer nofollow" target="_blank">[4]</a> The
-ELR2B2 aggregate comprises English Language, 2 relevant subjects for the
-polytechnic course applied for and 2 other best subjects which could be
-elective subjects.</p>
-<p><a href="#_ftnref5" rel="noopener noreferrer nofollow" target="_blank">[5]</a> Except
-for Nursing courses, which require a net ELR2B2 aggregate of 28 points
-or lower. Applicants may combine results from no more than 2 sittings of
-the GCE O-Level examination.</p>
-<p><a href="#_ftnref6" rel="noopener noreferrer nofollow" target="_blank">[6]</a> More
-details on the ITE EAE can be found at <a rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/secondary-school-students/admissions/early-admissions-exercise/</a>
+<p><sup>4</sup>The ELR2B2 aggregate comprises English Language, 2 relevant
+subjects for the polytechnic course applied for and 2 other best subjects
+which could be elective subjects.</p>
+<p><sup>5</sup>Except for Nursing courses, which require a net ELR2B2 aggregate
+of 28 points or lower. Applicants may combine results from no more than
+2 sittings of the GCE O-Level examination.</p>
+<p><sup>6</sup>More details on the ITE EAE can be found at <a href="https://www.ite.edu.sg/secondary-school-students/admissions/early-admissions-exercise/" rel="noopener nofollow" target="_blank">www.ite.edu.sg/secondary-school-students/admissions/early-admissions-exercise/</a>
 </p>
-<p><a href="#_ftnref7" rel="noopener noreferrer nofollow" target="_blank">[7]</a> The
-raw ELMAB3 aggregate comprises English Language, Mathematics, and three
-other best subjects (including one relevant subject) and <u>excludes</u> CCA.
+<p><sup>7</sup>The raw ELMAB3 aggregate comprises English Language, Mathematics,
+and three other best subjects (including one relevant subject) and <u>excludes</u> CCA.
 CCA bonus points are taken into account during posting.</p>
-<p><a href="#_ftnref8" rel="noopener noreferrer nofollow" target="_blank">[8]</a> More
-information on the DPP and eligibility requirements can be found at <a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/</a>.</p>
+<p><sup>8</sup>More information on the DPP and eligibility requirements can
+be found at <a href="https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/</a>.</p>
