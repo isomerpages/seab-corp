@@ -531,23 +531,6 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9539_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9539&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9519_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Theatre Studies and Drama</a>
 </p>
 </td>
@@ -566,6 +549,23 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9539_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9539&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;-&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>
 <br>[Revised]&nbsp;</p>
 </td>
@@ -579,10 +579,9 @@ from SEAB.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;
-<br>Paper 2&nbsp;
-<br>Reference Guide for H2 Computing&nbsp;
-<br>[2026] ~</p>
+<p>Paper 1&nbsp; ~
+<br>Paper 2 ~&nbsp;
+<br>Reference Guide for H2 Computing&nbsp;~</p>
 </td>
 </tr>
 <tr>
