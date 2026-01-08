@@ -431,7 +431,7 @@ format.&nbsp;</p>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
 details.
-<br>*Changes in syllabus content only. No change to scheme of assessment.</p>
+<br>* Changes in syllabus content only. No change to scheme of assessment.</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>
