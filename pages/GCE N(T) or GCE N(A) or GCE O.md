@@ -10,6 +10,6 @@ description: GCE NT/ NA/ O Landing Page
 <div class="isomer-card-title">📚 GCE N(A) Level</div>
 <div class="isomer-card-link"></div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-o-level" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">📚 GCE O Level</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
