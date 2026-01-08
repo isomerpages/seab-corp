@@ -21,12 +21,12 @@ sections:
         - title: PSLE
           description: ""
           url: /psle
-        - title: GCE N(T)/N(A)
+        - title: GCE N(T)/N(A)/O
           description: ""
           url: /gce-n-t-or-gce-n-a/
-        - title: GCE O
+        - title: SEC
           description: ""
-          url: /gce-o-level
+          url: ""
         - title: GCE A
           description: ""
           url: /gce-a-level
