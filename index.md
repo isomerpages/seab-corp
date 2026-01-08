@@ -23,7 +23,7 @@ sections:
           url: /psle
         - title: GCE N(T)/N(A)/O
           description: ""
-          url: /gce-n-t-or-gce-n-a/
+          url: /gce-n-t-or-gce-n-a-or-gce-o/
         - title: SEC
           description: ""
           url: ""
