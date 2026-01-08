@@ -26,7 +26,7 @@ sections:
           url: /gce-n-t-or-gce-n-a-or-gce-o/
         - title: SEC
           description: ""
-          url: ""
+          url: /secondary-education-certificate-sec/
         - title: GCE A
           description: ""
           url: /gce-a-level
