@@ -579,7 +579,7 @@ from SEAB.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp; ~
+<p>Paper 1&nbsp;~
 <br>Paper 2 ~&nbsp;
 <br>Reference Guide for H2 Computing&nbsp;~</p>
 </td>
