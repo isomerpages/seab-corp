@@ -25,14 +25,14 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/access-arrangements" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Access Arrangements" src="/images/shutterstock_1799710684.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access Arrangements</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="/psle/psle-formats-examined-in-2025" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/psle/psle-formats-examined-in-2026" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSLE Formats Examined in 2025" src="/images/psleformats.png">
+<img style="width: 100%" height="auto" width="100%" alt="PSLE Formats Examined in 2026" src="/images/psleformats.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">PSLE Formats Examined in 2025</div>
+<div class="isomer-card-title">PSLE Formats Examined in 2026</div>
 <div class="isomer-card-link"></div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/e-exam-resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="eexam resources image" src="/images/eexamresources.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">e-Exam Resources for School Candidates</div><div class="isomer-card-link"></div></div></a>

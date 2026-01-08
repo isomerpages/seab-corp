@@ -354,8 +354,7 @@ format.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/7086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>
-</p>
+<p><a href="/files/NA Lvl Syllabus Private Cddts/2026/7086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -371,7 +370,7 @@ format.</p>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.<strong>&nbsp;</strong>
-</p>
+<br><strong>* </strong>Last year of exam in 2026.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

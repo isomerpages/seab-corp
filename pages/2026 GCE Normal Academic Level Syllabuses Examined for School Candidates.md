@@ -342,8 +342,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NA Level Syllabus Sch Cddts/2026/7086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>
-</p>
+<p><a href="/files/NA Level Syllabus Sch Cddts/2026/7086_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -372,7 +371,8 @@ from SEAB.</p>
 </tbody>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="/e-exam-resources/" rel="noopener nofollow" target="_blank">e-Exam Resources for School Candidates</a> for
-details.&nbsp;</p>
+details.&nbsp;
+<br>* Last year of exam in 2026.&nbsp;</p>
 <h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

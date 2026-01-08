@@ -101,7 +101,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7018_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a> *</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7018_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computer Applications</a>*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -130,8 +130,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7066_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills</a>
-</p>
+<p><a href="/files/NT Lvl Syllabus Sch Cddts/2026/7066_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Elements of Business Skills</a>*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>

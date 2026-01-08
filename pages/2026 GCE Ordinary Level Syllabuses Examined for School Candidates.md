@@ -617,7 +617,7 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/7087_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principles of Accounts</u></a>
+<p><a href="/files/O Lvl Syllabus Sch Cddts/2026/7087_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Principles of Accounts</a>  <sup>#</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
