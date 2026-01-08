@@ -374,7 +374,8 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;
-<br>[Revised]&nbsp;</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
