@@ -636,8 +636,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K347_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>
-<br>[Revised]&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K347_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -655,8 +654,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K348_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Art</u></a>&nbsp;&nbsp;
-<br>[Revised]&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K348_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Art</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
