@@ -109,7 +109,7 @@ from SEAB.&nbsp;</p>
 <p>6128&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1~ | Insert~ [2025]</p>
+<p>Paper 1~ | Insert~</p>
 </td>
 </tr>
 <tr>
@@ -164,18 +164,17 @@ from SEAB.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>&nbsp;
-<br><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;</p>
-<p>[2026]&nbsp;&nbsp;</p>
+<br><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;
+<br>[2026]&nbsp;&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>* Last year of exam in 2026.&nbsp;
+<br>° Changes in syllabus content only. No change to scheme of assessment.
 <br>G1 candidates can offer up to three subjects at the SEC G2 Level examinations
 if NTIL is included. The list of NTILs can be found under the <u>2026 GCE N(A)-Level Syllabuses</u> for
-school candidates.
-<br>° Changes in syllabus content only. No change to scheme of assessment.
-<br>~ This document will be made available soon.</p>
+school candidates. ~ This document will be made available soon.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
