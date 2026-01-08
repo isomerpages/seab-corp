@@ -422,9 +422,9 @@ format.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> 
-<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> 
-<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2 Insert</a>
-</p>
+<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br>[2026]</p>
 </td>
 </tr>
 </tbody>
