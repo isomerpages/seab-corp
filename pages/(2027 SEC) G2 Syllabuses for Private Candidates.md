@@ -41,6 +41,20 @@ apply to these G2 subjects under the SEC examinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>K200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
