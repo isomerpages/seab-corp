@@ -170,11 +170,11 @@ from SEAB.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>* Last year of exam in 2026.&nbsp;
-<br>° Changes in syllabus content only. No change to scheme of assessment.
+<p>° Changes in syllabus content only. No change to scheme of assessment.
 <br>G1 candidates can offer up to three subjects at the SEC G2 Level examinations
 if NTIL is included. The list of NTILs can be found under the <u>2026 GCE N(A)-Level Syllabuses</u> for
-school candidates. ~ This document will be made available soon.</p>
+school candidates.
+<br>~ This document will be made available soon.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>
