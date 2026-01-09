@@ -275,8 +275,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese </u></a>
-<a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Language</a>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,8 +293,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K121_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay </u></a>
-<a href="/files/G1 Lvl Syllabus School Cddts/2027/K121_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Language</a>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K121_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
