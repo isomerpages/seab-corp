@@ -200,9 +200,8 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese</u></a>
-<a href="/files/G1 Lvl Syllabus Private Cddts/2027/K120_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Language</a>
-<br>&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese&nbsp;</p>
@@ -219,8 +218,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K121_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay</u></a>
-<a href="/files/G1 Lvl Syllabus Private Cddts/2027/K121_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Language</a>
+<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K121_y27_sy.pdf" class="Hyperlink SCXW204833966 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
