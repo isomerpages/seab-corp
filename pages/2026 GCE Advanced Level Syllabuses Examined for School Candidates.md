@@ -534,6 +534,24 @@ from SEAB.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Sch Cddts/2026/9519_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Theatre Studies and Drama</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9519</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9539_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Literature in English</u></a> °</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -550,24 +568,6 @@ from SEAB.</p>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9539_y25_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 2</u></a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2026/9539_y25_sp_3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Paper 3</u></a>
 <br>[2024]</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2026/9519_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Theatre Studies and Drama</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9519</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
