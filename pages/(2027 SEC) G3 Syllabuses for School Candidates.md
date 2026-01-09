@@ -45,7 +45,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arabic as a 3rd language ~</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K366_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Arabic as a 3rd Language</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic&nbsp;</p>
