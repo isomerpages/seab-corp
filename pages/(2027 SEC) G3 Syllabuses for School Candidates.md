@@ -1,6 +1,6 @@
 ---
 title: (2027 SEC) G3 Syllabuses for School Candidates
-permalink: /secondary-education-cert/g3-syllabuses-for-school-candidates-2027/
+permalink: /secondary-education-certificate-sec/g3-syllabuses-for-school-candidates-2027/
 variant: tiptap
 description: ""
 ---
@@ -45,7 +45,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Arabic as a 3rd language ~</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K366_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Arabic as a 3rd Language</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arabic&nbsp;</p>
@@ -636,8 +637,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K347_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>
-<br>[Revised]&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K347_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -649,14 +649,13 @@ from SEAB.&nbsp;</p>
 <p>6114&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1 | Insert ~
-<br>[2025]</p>
+<p>Paper 1 ~ | Insert ~</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K348_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Art</u></a>&nbsp;&nbsp;
-<br>[Revised]&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K348_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Art</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -668,9 +667,8 @@ from SEAB.&nbsp;</p>
 <p>6124&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1 | Insert
-<br>Paper 3
-<br>[2025] ~</p>
+<p>Paper 1 ~ | Insert ~
+<br>Paper 3 ~</p>
 </td>
 </tr>
 <tr>
@@ -916,7 +914,6 @@ agencies.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K356_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Higher Malay</u></a>
-<a href="/files/G3 Lvl Syllabus School Cddts/2027/K356_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1055,9 +1052,8 @@ agencies.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K339_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Malay</u></a>
-<a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2026/2264_y26_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>)</u>
-</a>&nbsp;</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K339_y27_sy.pdf" class="Hyperlink SCXW51414592 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies, Literature in Malay)</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>

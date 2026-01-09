@@ -351,7 +351,7 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/8879_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;
-<br>[Revised]&nbsp;</p>
+<br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -424,7 +424,7 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9357_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>
-<br>[Revised]&nbsp;</p>
+<br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -458,7 +458,6 @@ from SEAB.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9476_y27_sp_4.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 4</u></a>&nbsp;
@@ -531,23 +530,6 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9539_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9539&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;-&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9519_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Theatre Studies and Drama</a>
 </p>
 </td>
@@ -566,6 +548,23 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9539_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Literature in English</u></a> °&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9539&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;-&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>
 <br>[Revised]&nbsp;</p>
 </td>
@@ -579,10 +578,9 @@ from SEAB.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;
-<br>Paper 2&nbsp;
-<br>Reference Guide for H2 Computing&nbsp;
-<br>[2026] ~</p>
+<p>Paper 1&nbsp;~
+<br>Paper 2 ~&nbsp;
+<br>Reference Guide for H2 Computing&nbsp;~</p>
 </td>
 </tr>
 <tr>
@@ -605,8 +603,7 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9578_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Spanish</u></a>
-</p>
-<p>[Revised]&nbsp;</p>
+<br>[Revised]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Spanish&nbsp;</p>
@@ -940,7 +937,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9818_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>
-<br>[Revised]&nbsp;</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -969,7 +967,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9820_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Mathematics</u></a>
-<a href="/files/A Level Syllabus Sch Cddts/2027/9820_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1092,7 +1089,6 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9575_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language and Literature</u></a>
-<a href="/files/A Level Syllabus Sch Cddts/2027/9575_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1176,7 +1172,6 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9576_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language and Literature</u></a>
-<a href="/files/A Level Syllabus Sch Cddts/2027/9576_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1197,9 +1192,8 @@ H3 Chemistry (9813) syllabus.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Sch Cddts/2027/9921_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language and Lite</u></a>
-<a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9921_y26_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>rature</u>
-</a>&nbsp;</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9921_y27_sy.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language and Literature</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay&nbsp;</p>

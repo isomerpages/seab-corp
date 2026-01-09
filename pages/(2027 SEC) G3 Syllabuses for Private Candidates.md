@@ -1,6 +1,6 @@
 ---
 title: (2027 SEC) G3 Syllabuses for Private Candidates
-permalink: /secondary-education-cert/g3-syllabuses-for-private-candidates-2027/
+permalink: /secondary-education-certificate-sec/g3-syllabuses-for-private-candidates-2027/
 variant: tiptap
 description: ""
 ---

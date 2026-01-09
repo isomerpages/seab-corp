@@ -11,28 +11,6 @@ is available below.</p>
 </p>
 </blockquote>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/important-dates-for-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Important Dates for Candidates" src="/images/imptdates_candidates.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Important Dates for Candidates</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/registration-information-for-gce-a-level-school-candidates" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Registration Information e-booklet" src="/images/registration.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2025 Registration Information e-booklet</div>
-<div class="isomer-card-link"></div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025 Examination Rules and Regulations" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Examination Rules and Regulations</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="/access-arrangements" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Access Arrangements" src="/images/shutterstock_1799710684.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Access Arrangements</div>
-<div class="isomer-card-link"></div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2025/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2025" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2025</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -43,7 +21,29 @@ is available below.</p>
 <div class="isomer-card-title">A-Level Syllabuses Examined in 2026</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/e-exam-resources/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="e-Exam Resources for School Candidates" src="/images/eexamresources.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">e-Exam Resources for School Candidates</div><div class="isomer-card-link"></div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2027/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2027" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2027</div><div class="isomer-card-link"></div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Examination Rules and Regulations" src="/images/pslerulesandreg.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">2025 Examination Rules and Regulations</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/registration-information-for-gce-a-level-school-candidates" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025 Registration Information e-booklet" src="/images/registration.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Registration Information e-booklet</div><div class="isomer-card-link"></div></div></a>
+<a rel="noopener noreferrer nofollow" href="/e-exam-resources/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="e-Exam Resources for School Candidates" src="/images/e_exam_resources_pic.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">e-Exam Resources for School Candidates</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/access-arrangements" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Access Arrangements" src="/images/shutterstock_1799710684.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access Arrangements</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/exam-readiness-checklist-gce-candidates" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

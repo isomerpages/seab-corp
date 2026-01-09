@@ -1,6 +1,6 @@
 ---
 title: (2027 SEC) G2 Syllabuses for School Candidates
-permalink: /secondary-education-cert/g2-syllabuses-for-school-candidates-2027/
+permalink: /secondary-education-certificate-sec/g2-syllabuses-for-school-candidates-2027/
 variant: tiptap
 description: ""
 ---
@@ -298,7 +298,8 @@ from SEAB.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Paper 1~
 <br>Paper 2~
-<br>[2026]</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -373,7 +374,8 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_sy.pdf" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;
-<br>[Revised]&nbsp;</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -385,7 +387,7 @@ from SEAB.&nbsp;</p>
 <p>6127&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1~ | Insert~ [2025]</p>
+<p>Paper 1~ | Insert~</p>
 </td>
 </tr>
 <tr>
@@ -421,9 +423,9 @@ from SEAB.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> 
-<br><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> 
-<br><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2 Insert</a>
-</p>
+<br><a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<a href="/files/G2 Lvl Syllabus School Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br>[2026]</p>
 </td>
 </tr>
 <tr>

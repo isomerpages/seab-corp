@@ -26,7 +26,7 @@ sections:
           url: /gce-n-t-or-gce-n-a/
         - title: GCE O
           description: ""
-          url: /gce-o-level
+          url: /gce-o-level/
         - title: GCE A
           description: ""
           url: /gce-a-level

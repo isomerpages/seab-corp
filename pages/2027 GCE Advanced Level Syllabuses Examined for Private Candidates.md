@@ -511,7 +511,6 @@ understand the revised examination format.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/8873_y27_sp_1.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/8873_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 <br><a href="/files/A Level Syllabus Private Cddts/2027/8873_y27_sp_2.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
 </td>
@@ -539,7 +538,7 @@ understand the revised examination format.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/8879_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a>&nbsp;&nbsp;
-<br>[Revised]&nbsp;</p>
+<br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -735,10 +734,9 @@ understand the revised examination format.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;
-<br>Paper 2&nbsp;
-<br>Reference Guide for H2 Computing&nbsp;
-<br>[2026] ~&nbsp;</p>
+<p>Paper 1&nbsp;~
+<br>Paper 2&nbsp;~
+<br>Reference Guide for H2 Computing&nbsp;~&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -812,7 +810,6 @@ understand the revised examination format.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/9649_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Further Mathematics</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/9649_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -887,7 +884,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/8655_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/8655_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -905,8 +901,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2027/9571_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Translation (Chinese)</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/9571_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9571_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Translation (Chinese</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -925,7 +920,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/9575_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language &amp; Literature</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/9575_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -962,7 +956,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/8656_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/8656_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -981,7 +974,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/9576_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language &amp; Literature</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/9576_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1000,7 +992,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/8657_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Tamil Language</u></a>
-<a href="/files/A Level Syllabus Private Cddts/2027/8657_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

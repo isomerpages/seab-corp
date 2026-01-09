@@ -1,6 +1,6 @@
 ---
 title: (2027 SEC) G2 Syllabuses for Private Candidates
-permalink: /secondary-education-cert/g2-syllabuses-for-private-candidates-2027/
+permalink: /secondary-education-certificate-sec/g2-syllabuses-for-private-candidates-2027/
 variant: tiptap
 description: ""
 ---
@@ -37,6 +37,20 @@ apply to these G2 subjects under the SEC examinations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Paper</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>K200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
 </tr>
 <tr>
@@ -422,16 +436,16 @@ format.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> 
-<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> 
-<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2 Insert</a>
-</p>
+<br><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<a href="/files/G2 Lvl Syllabus Private Cddts/2027/K233_y27_sp_2_Insert.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br>[2026]</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
 details.
-<br>*Changes in syllabus content only. No change to scheme of assessment.</p>
+<br>* Changes in syllabus content only. No change to scheme of assessment.</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>

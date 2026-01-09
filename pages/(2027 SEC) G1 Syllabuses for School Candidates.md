@@ -1,6 +1,6 @@
 ---
 title: (2027 SEC) G1 Syllabuses for School Candidates
-permalink: /secondary-education-cert/g1-syllabuses-for-school-candidates-2027/
+permalink: /secondary-education-certificate-sec/g1-syllabuses-for-school-candidates-2027/
 variant: tiptap
 description: ""
 ---
@@ -97,7 +97,7 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K126_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a> [Revised]&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K126_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Art</u></a> &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -109,7 +109,7 @@ from SEAB.&nbsp;</p>
 <p>6128&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1~ | Insert~ [2025]</p>
+<p>Paper 1~ | Insert~</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ from SEAB.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Elements of Business Skills</u></a>
-<br>[Refined°]</p>
+<br>[Refined*]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -164,17 +164,13 @@ from SEAB.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>&nbsp;
-<br><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;</p>
-<p>[2026]&nbsp;&nbsp;</p>
+<br><a href="/files/G1 Lvl Syllabus School Cddts/2027/K129_y27_sp2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;
+<br>[2026]&nbsp;&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>* Last year of exam in 2026.&nbsp;
-<br>G1 candidates can offer up to three subjects at the SEC G2 Level examinations
-if NTIL is included. The list of NTILs can be found under the <u>2026 GCE N(A)-Level Syllabuses</u> for
-school candidates.
-<br>° Changes in syllabus content only. No change to scheme of assessment.
+<p>* Changes in syllabus content only. No change to scheme of assessment.
 <br>~ This document will be made available soon.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
@@ -276,8 +272,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese </u></a>
-<a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Language</a>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K120_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Chinese Language</u></a>
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,8 +290,7 @@ to candidates from schools that are approved to offer the subjects.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K121_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay </u></a>
-<a href="/files/G1 Lvl Syllabus School Cddts/2027/K121_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Language</a>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K121_y27_sy.pdf" class="Hyperlink SCXW226680480 BCX8" rel="noreferrer noopener" target="_blank"><u>Malay Language</u></a>
 <br>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
