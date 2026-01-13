@@ -95,7 +95,7 @@ silent preparation time)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Oral Examiners to be informed of candidate’s condition</p>
+<p>Oral Examiners informed of candidate’s condition</p>
 </li>
 <li>
 <p>Use of</p>
@@ -135,6 +135,9 @@ silent preparation time)</p>
 </li>
 <li>
 <p>Word Processor</p>
+</li>
+<li>
+<p>Buzzer</p>
 </li>
 </ul>
 </li>
