@@ -240,11 +240,9 @@ examinations
 <br>d.Use of a Scribe
 <br>e.Use of Practical Assistant (applicable to GCE-Level only)
 <br>f. Use of Word Processor
-<br>g.Extra time exceeding the standard quantum</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>*</strong>A current profile of need(s) must include:
+<br>g.Extra time exceeding the standard quantum
+<br>
+<br><strong>*</strong>A current profile of need(s) must include:
 <br>a. Formal standardised assessments, where appropriate, and/or observations
 of the candidate by a relevant professional.
 <br>b. The candidate’s functional limitations in the examination setting should
@@ -255,6 +253,8 @@ in relation to the functional limitations, should be provided.
 the previous three years prior to the year of the examination) by a relevant
 professional, periodic therapy updates or evaluation reports may serve
 as a current profile of needs.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
