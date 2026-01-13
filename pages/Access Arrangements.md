@@ -262,10 +262,10 @@ as a current profile of needs.</p>
 <p>Educational Inputs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The School Report (for school candidates) is intended for school personnel
-to provide educational input. The report must provide educational observations
-including:</p>
-<p></p>
+<p><strong>For school candidates:</strong>
+</p>
+<p>The School Observation Report is intended for school personnel to provide
+educational input. The report must provide educational observations including:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Specific challenges faced by the candidate during school assessments under
@@ -278,43 +278,33 @@ assessments</p>
 <li>
 <p>Additional relevant observations that demonstrate why the candidate may
 have difficulties taking national examinations under standard conditions</p>
-<p></p>
 </li>
 </ul>
-<p>The Individual Report (for private candidates) is intended to collate
-educational input. The report must provide educational observations including:</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Specific challenges faced by the candidate in learning and examination
-settings (e.g. in private schools, tuition centres, private tuition, home-school)</p>
-</li>
-<li>
-<p>Details and effectiveness of any AA previously provided</p>
-</li>
-<li>
-<p>Additional relevant observations that demonstrate why the candidate may
-have difficulties taking national examinations under standard conditions</p>
-</li>
-<li>
-<p>For candidates who are not enrolled in any educational institution or
-receiving tuition and are preparing for the examination independently,
-they may complete this form on their own.</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Important Note:</strong>
-<br>The School Report / Individual Report should not:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Cite nor reference the contents of any accompanying medical or professional
-reports / memos / letters; or</p>
-</li>
-<li>
-<p>Duplicate information from accompanying medical or professional reports
-/ memos / letters.</p>
-</li>
-</ul>
+<p>&nbsp;</p>
+<p><strong>For private candidates:</strong>
+</p>
+<p>The Individual Report is intended to collate <u>educational input</u>.
+The report must provide educational observations including:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specific challenges faced by the
+candidate in learning and examination settings (e.g. in private schools,
+tuition centres, private tuition, home-school)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Details and effectiveness of any
+AA previously provided</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional relevant observations
+that demonstrate why the candidate may have difficulties taking national
+examinations under standard conditions</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For candidates who are not enrolled
+in any educational institution or receiving tuition and are preparing for
+the examination independently, they may complete this form on their own.</p>
+<p>&nbsp;</p>
+<p>Important Note:</p>
+<p>The School Observation Report / Individual Report should not:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cite nor
+reference the contents of any accompanying medical or professional reports
+/ memos / letters; or</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duplicate
+information from accompanying medical or professional reports / memos /
+letters.</p>
 </td>
 </tr>
 <tr>
