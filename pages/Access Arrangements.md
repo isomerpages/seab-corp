@@ -49,8 +49,8 @@ of the certification.</p>
 <summary><strong>COMMON TYPES OF AA</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The following are common types of AA administered to candidates with specific
-physical and learning disabilities who sit the national examinations:</p>
+<p>Examples of common types of AA administered for the national examinations
+are:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,8 +67,8 @@ physical and learning disabilities who sit the national examinations:</p>
 <p>Extra time (approximately 25% of the examination duration in most cases)</p>
 </li>
 <li>
-<p>More preparation time for oral examination (approximately 25% of the silent
-preparation time)</p>
+<p>More preparation time for oral examinations (approximately 25% of the
+silent preparation time)</p>
 </li>
 </ul>
 </td>
