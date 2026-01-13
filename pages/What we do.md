@@ -161,11 +161,11 @@ University of Singapore</div>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Tan Kuo Cheang
+<p>Mr Pek Wee Haur
 <br>Director, Assessment Planning and Development</p>
 </li>
 <li>
-<p>Mr Pek Wee Haur
+<p>Mr Chua Chor Huat
 <br>Director, Assessment Planning and Development</p>
 </li>
 <li>
