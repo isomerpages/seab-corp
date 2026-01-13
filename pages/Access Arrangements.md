@@ -232,19 +232,17 @@ etc.</p>
 <p><strong>A current profile of need(s)*</strong> (within 3 years of the examination
 year, i.e., if examination year is 2026, then the profile of need(s) should
 be dated 2023 or later) <strong>is required <u>only for the following AA:</u></strong>
-</p>
-<p>a. Modified Question Papers (QP) (only applicable to QP in 18-point bold
-print on A4)</p>
-<p>b. Exemption from Oral/Listening Comprehension/Science Practical/Written
-examinations</p>
-<p>c.Use of Reader or Reader Pen</p>
-<p>d.Use of a Scribe</p>
-<p>e.Use of Practical Assistant (applicable to GCE-Level only)</p>
-<p>f. Use of Word Processor</p>
+<br>a. Modified Question Papers (QP) (only applicable to QP in 18-point bold
+print on A4)
+<br>b. Exemption from Oral/Listening Comprehension/Science Practical/Written
+examinations
+<br>c.Use of Reader or Reader Pen
+<br>d.Use of a Scribe
+<br>e.Use of Practical Assistant (applicable to GCE-Level only)
+<br>f. Use of Word Processor
+<br>g.Extra time exceeding the standard quantum</p>
 </li>
 </ul>
-<p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extra time exceeding the
-standard quantum</p>
 <p>&nbsp;</p>
 <p><strong>*</strong>A current profile of need(s) must include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formal standardised
