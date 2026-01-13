@@ -153,7 +153,7 @@ silent preparation time)</p>
 <li>
 <p>Separate room: A designated examination venue for candidates with specific
 needs to sit the examination away from the main examination venue but alongside
-the candidates with similar AA.</p>
+other candidates with similar AA.</p>
 </li>
 <li>
 <p>Isolation room: A private examination venue for a candidate with specific
