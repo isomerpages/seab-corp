@@ -244,19 +244,17 @@ examinations
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>*</strong>A current profile of need(s) must include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formal standardised
-assessments, where appropriate, and/or observations of the candidate by
-a relevant professional.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The candidate’s functional
-limitations in the examination setting should be described.</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rationale for the
-specific AA requests being made for the candidate, in relation to the functional
-limitations, should be provided.</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For candidates who have been
-receiving recent ongoing therapy (within the previous three years prior
-to the year of the examination) by a relevant professional, periodic therapy
-updates or evaluation reports may serve as a current profile of needs.</p>
+<p><strong>*</strong>A current profile of need(s) must include:
+<br>a. Formal standardised assessments, where appropriate, and/or observations
+of the candidate by a relevant professional.
+<br>b. The candidate’s functional limitations in the examination setting should
+be described.
+<br>c. The rationale for the specific AA requests being made for the candidate,
+in relation to the functional limitations, should be provided.
+<br>d. For candidates who have been receiving recent ongoing therapy (within
+the previous three years prior to the year of the examination) by a relevant
+professional, periodic therapy updates or evaluation reports may serve
+as a current profile of needs.</p>
 </td>
 </tr>
 <tr>
