@@ -342,26 +342,39 @@ in the year of your national examinations:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>School candidates:
-<br>PSLE: mid-February
-<br>GCE-Level: end-February</p>
+<br>PSLE: Mid-February
+<br>GCE-Level: End February</p>
 </li>
 <li>
-<p>Private candidates: end of April</p>
+<p>Private candidates: End April</p>
 </li>
 </ul>
 <p></p>
-<p>Please note that late applications or amendments to applications for learning
-disabilities or permanent physical disabilities that are submitted <strong>less than two months before the national examinations (Oral / listening comprehension / Science practical / written) will not be accepted</strong>.
-<br>
+<p>While we recognise that late applications or amendments to applications
+do occur, applications for Learning Disabilities or Permanent Physical
+Disabilities <strong>submitted less than two months before the national examinations </strong>(including
+Oral/listening comprehension/Science practical/Written papers)<strong> <u>will not be accepted</u>.</strong>
 </p>
+<p></p>
 <p>SEAB will only accept AA applications for physical injuries sustained
-just before or during the national examinations, and for conditions mentioned
-above that were triggered by the onset of these physical injuries.
+just before or during the national examinations, and for learning or permanent
+physical disabilities that were triggered by the onset of these physical
+injuries.
 <br>
 </p>
 <p><strong>Important Note:</strong>
-<br>If your AA application is submitted late and is rejected by SEAB, you
-cannot apply special consideration for the same medical condition.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If your AA application is submitted late and/or rejected by SEAB, you
+cannot apply for special consideration (SC) for the same medical condition.</p>
+</li>
+<li>
+<p>If you have received AA for an examination paper due to a medical condition,
+you will not be eligible to apply for special consideration (SC) for sitting
+the paper with that same condition.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
