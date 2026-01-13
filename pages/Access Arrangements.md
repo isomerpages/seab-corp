@@ -462,14 +462,15 @@ the approved AA during your coursework or examinations.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you are a school candidate, please approach your school for assistance.
-Withdrawal requests must be submitted by your school through iEXAMS2 at
-least five working days before the commencement of your coursework or examinations.</p>
+Withdrawal requests must be submitted by your school through SEAB’s examination
+system at least five working days before the commencement of your coursework
+or examinations.</p>
 <p></p>
 <p>If you are a private candidate, you should submit your withdrawal requests
-via email to <a href="mailto:SEAB_CS_Admin@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> at
-least five working days before your examinations starts.</p>
+via email to <a rel="noopener noreferrer nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> at
+least five working days before your examinations start.</p>
 <p></p>
-<p>Once SEAB has approved a withdrawal request, the AA cannot be reinstated.</p>
+<p>Once SEAB has approved a withdrawal request, the AA cannot be reinstated.&nbsp;</p>
 </div>
 </details>
 </div>
