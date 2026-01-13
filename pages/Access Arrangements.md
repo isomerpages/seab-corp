@@ -179,19 +179,19 @@ needs to sit the examination without other candidates present.</p>
 <summary><strong>APPLYING FOR AA</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to the submission deadline section. Late applications would
+<p>Please refer to the submission deadline section. Late applications will
 not be accepted.</p>
 <p></p>
-<p>If you are a school candidate, you must submit your AA applications through
-your school. Please approach your school’s designated Special Educational
+<p>If you are a school candidate, you must submit your AA application(s)
+through your school. Please approach your school’s designated Special Educational
 Needs officers, AA coordinators and/or form teachers for assistance. AA
 applications by school candidates can be submitted one year ahead of the
 national examinations.</p>
 <p></p>
 <p>If you are a private candidate for the GCE-Level examinations, you must
-submit your AA applications via SEAB's <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a> after
-your examination registration. More information on examination registration
-can be found in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noopener noreferrer nofollow" target="_blank">registration information for private candidates</a>.</p>
+submit your AA applications via SEAB’s Candidates Portal after your examination
+registration. More information on examination registration can be found
+in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noopener nofollow" target="_blank">registration information for private candidates</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
