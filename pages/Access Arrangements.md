@@ -382,69 +382,55 @@ the paper with that same condition.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If your AA application is accepted for processing, it will be subjected
-to a rigorous review by a panel and be considered based on its circumstances.
-The processing time depends on factors including the complexity of the
-AA requested for and the timely submission of all supporting documents.
-Certain types of AA requests such as the use of a Reader, Practical Assistant,
-Scribe, or Word Processor may take longer time to process.
-<br>
-<br>Your AA application outcome will be released via the following platforms:
-<br>
-</p>
+to a rigorous review by a panel and will be considered based on its circumstances.
+The processing time depends on multiple factors including the complexity
+of the AA requested and the timely submission of all supporting documents.
+AA requests such as the use of a Reader, Practical Assistant, Scribe, or
+Word Processor may take longer to process.</p>
+<p>Your AA application outcome will be released via the following platforms:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If you are a school candidate, your school will inform you of the outcome.
 If your AA application is submitted by the deadline, your outcome will
 usually be released by April of your examination year.
 <br>
-<br>Following the release of your AA application outcome, your schools may
-work with you to trial your approved accommodations during your daily teaching
-and learning sessions to better prepare you for your national examinations.</p>
-<p></p>
+<br>Following the release of your AA application outcome, your school may
+work with you to trial your approved accommodations during your daily learning
+sessions to better prepare you for your national examinations.</p>
 </li>
 <li>
 <p>If you are a private candidate, please access the Candidates Portal to
 view your outcome. If your AA application is submitted by the deadline,
-your outcome will usually be released by June of your examination year.
-<br>
-<br>Following the release of your outcome, you and/or your parents could consider
-trialing the approved AAs where feasible, to enhance your examination preparation.
-<br>
-</p>
+your outcome will usually be released by June of your examination year.</p>
 </li>
 </ul>
-<p>If you have received AA for an examination paper due to a medical condition,
-you will not be eligible to apply for special consideration for sitting
-the paper with that same condition.</p>
+<p>Following the release of your outcome, you and/or your parents may consider
+trialing the approved AAs where feasible, to enhance your examination preparation.
+Please make your own arrangements if you would like to trial.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>ANNOTATION(S) ON EXAMINATION CERTIFICATES</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If the AA results in significant modifications to your examinations, your
-examination certificates and result slips will have either of these annotation
-symbols placed next to your subject(s) that had the approved AA:</p>
+<p>If the AA for your examinations result in significant modifications from
+the standardised conditions, your examination certificates and result slips
+will have either of these annotation symbols printed next to the subject(s)
+with the approved AA:</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exemption Symbol (#) - </strong>Approval
+has been given for you to be exempted from satisfying the full range of
+assessment objectives in the papers sat for this subject.</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access Arrangement Symbol (+) - </strong>You
+have sat for the paper under access arrangements (see next paragraph).</p>
+<p>The following AAs will be annotated:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p><strong>Exemption Symbol (#) -</strong> 'The candidate was exempted from
-satisfying the full range of assessment objectives in this subject.’</p>
-</li>
-<li>
-<p><strong>Access Arrangement Symbol (+) -</strong> 'The candidate sat for
-the paper under access arrangements.’</p>
-</li>
-</ul>
-<p>The following AAs granted to candidates during the examinations will be
-annotated:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Extra time allowance (including silent reading / preparation for oral
-examination);</p>
-</li>
 <li>
 <p>Exemption from satisfying the full range of assessment objectives in a
 subject (e.g. exemption from oral, listening comprehension examinations);</p>
+</li>
+<li>
+<p>Extra time allowance (including silent reading / preparation for oral
+examination);</p>
 </li>
 <li>
 <p>Modification of examination papers;</p>
@@ -453,27 +439,22 @@ subject (e.g. exemption from oral, listening comprehension examinations);</p>
 <p>Use of word processor facilities and other computer aids;</p>
 </li>
 <li>
-<p>Use of Reader or Reader Pen or Scribe;</p>
+<p>Use of Reader or Reader Pen or Scribe; and</p>
 </li>
 <li>
 <p>Practical assistance in areas such as handling apparatus and instruments
-or graph plotting.
-<br>
-</p>
+or graph plotting for GCE-level subjects.</p>
 </li>
 </ul>
-<p>The annotations are necessary to indicate factually that you had taken
-the national examinations under conditions that are different from the
-standard prescribed conditions, to uphold the integrity and fairness of
-the examination. Your examination certificate will not have the details
-of the AA. SEAB does not share the details of your granted AA with any
-third parties.
-<br>
-</p>
-<p>You can request to withdraw the approved AA and this must be submitted
-within the stipulated timelines (see section below). Otherwise, your examination
+<p>The annotations are necessary to indicate factually that you took the
+national examinations under <strong>conditions that are different from the standard prescribed conditions.</strong> This
+is intended to be fair to all candidates who have obtained the qualification
+and to uphold the integrity and fairness of the examination without discrimination.&nbsp; <strong>Details of the AA provisions and the related medical conditions are not indicated on your examination result documents, and SEAB will not share them with members of the public</strong>.</p>
+<p></p>
+<p>You can request to withdraw any approved AA by submitting a request within
+the stipulated timelines (see section below). Otherwise, your examination
 certificates and result slips will be annotated, even if you do not utilise
-your approved AA during your coursework or examinations.</p>
+the approved AA during your coursework or examinations.</p>
 </div>
 </details>
 <details class="isomer-details">
