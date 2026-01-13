@@ -285,21 +285,31 @@ have difficulties taking national examinations under standard conditions</p>
 </p>
 <p>The Individual Report is intended to collate <u>educational input</u>.
 The report must provide educational observations including:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Specific challenges faced by the candidate in learning and examination
 settings (e.g. in private schools, tuition centres, private tuition, home-school)</p>
+</li>
+<li>
 <p>Details and effectiveness of any AA previously provided</p>
+</li>
+<li>
 <p>Additional relevant observations that demonstrate why the candidate may
 have difficulties taking national examinations under standard conditions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For candidates who are not enrolled
-in any educational institution or receiving tuition and are preparing for
-the examination independently, they may complete this form on their own.</p>
+</li>
+<li>
+<p>For candidates who are not enrolled in any educational institution or
+receiving tuition and are preparing for the examination independently,
+they may complete this form on their own.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>Important Note:</p>
 <p>The School Observation Report / Individual Report should not:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cite nor
 reference the contents of any accompanying medical or professional reports
-/ memos / letters; or</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duplicate
+/ memos / letters; or
+<br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duplicate
 information from accompanying medical or professional reports / memos /
 letters.</p>
 </td>
@@ -315,10 +325,10 @@ letters.</p>
 </tbody>
 </table>
 <p>If you are a school candidate, you may approach your Special Educational
-Needs officers, AA coordinators and/or form teachers for more information
-on the required supporting documents for your AA application.
-<br>
-<br>If you are a private candidate, you can write to <a href="mailto:SEAB_CS_Admin@seab.gov.sg" rel="noopener nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> for
+Needs (SEN) officers, AA coordinators and/or form teachers for more information
+on the required supporting documents for your AA application.</p>
+<p></p>
+<p>If you are a private candidate, you can write to <a rel="noopener noreferrer nofollow" target="_blank">SEAB_CS_Admin@seab.gov.sg</a> for
 more information.</p>
 </div>
 </details>
