@@ -285,14 +285,11 @@ have difficulties taking national examinations under standard conditions</p>
 </p>
 <p>The Individual Report is intended to collate <u>educational input</u>.
 The report must provide educational observations including:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specific challenges faced by the
-candidate in learning and examination settings (e.g. in private schools,
-tuition centres, private tuition, home-school)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Details and effectiveness of any
-AA previously provided</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional relevant observations
-that demonstrate why the candidate may have difficulties taking national
-examinations under standard conditions</p>
+<p>Specific challenges faced by the candidate in learning and examination
+settings (e.g. in private schools, tuition centres, private tuition, home-school)</p>
+<p>Details and effectiveness of any AA previously provided</p>
+<p>Additional relevant observations that demonstrate why the candidate may
+have difficulties taking national examinations under standard conditions</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For candidates who are not enrolled
 in any educational institution or receiving tuition and are preparing for
 the examination independently, they may complete this form on their own.</p>
