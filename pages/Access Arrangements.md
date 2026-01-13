@@ -278,9 +278,9 @@ assessments</p>
 <li>
 <p>Additional relevant observations that demonstrate why the candidate may
 have difficulties taking national examinations under standard conditions</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>For private candidates:</strong>
 </p>
 <p>The Individual Report is intended to collate <u>educational input</u>.
@@ -301,12 +301,12 @@ have difficulties taking national examinations under standard conditions</p>
 <p>For candidates who are not enrolled in any educational institution or
 receiving tuition and are preparing for the examination independently,
 they may complete this form on their own.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Important Note:</p>
-<p>The School Observation Report / Individual Report should not:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cite nor
+<p>Important Note:
+<br>The School Observation Report / Individual Report should not:
+<br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cite nor
 reference the contents of any accompanying medical or professional reports
 / memos / letters; or
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duplicate
