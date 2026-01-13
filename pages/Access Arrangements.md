@@ -25,17 +25,24 @@ from specific components of an examination.</p>
 ensure that the grades and examination certificates have the same validity
 for all candidates.</p>
 <p></p>
-<p>AA must not provide candidates with an advantage over the others and compromise
-the assessment objectives. For example, Reader is not allowed for Language
-papers as their natural intonation could interfere with the assessment
-objectives.</p>
+<p>AA must not provide candidates with an advantage over others and compromise
+the assessment objectives. For example, in Mathematics and Science examinations,
+human Readers may be approved for candidates with dyslexia to enable them
+to demonstrate problem-solving skills when reading difficulties impede
+access to these competencies. However, Readers are not allowed for Language
+papers, as language examinations inherently assess reading comprehension
+and language processing skills, and human intonation would fundamentally
+alter what is being assessed.</p>
 <p></p>
-<p>When evaluating AA applications, the primary considerations are the assessment
-objectives, student’s medical conditions, how the student typically learns
-and functions in the classroom, and the school’s observations. Additional
-inputs such as recommendations from doctors and medical professionals will
-be taken into consideration during the review. This approach ensures that
-the approved AA is both appropriate for the candidate and fair to all candidates.</p>
+<p>When evaluating AA applications, the primary considerations are the candidate's
+diagnosed conditions, and the school's observations of how the candidate
+typically learns and functions in the classroom.<em> </em>Additional inputs
+such as recommendations from qualified professionals will be considered
+during the review. The Ministry of Education (MOE) and SEAB work closely
+with schools, parents, and qualified professionals to monitor and review
+candidates' needs, with the goal of providing appropriate support to candidates
+to demonstrate their learning mastery fairly while maintaining the integrity
+of the certification.</p>
 </div>
 </details>
 <details class="isomer-details">
