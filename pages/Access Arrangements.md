@@ -172,8 +172,7 @@ needs to sit the examination without other candidates present.</p>
 </tr>
 </tbody>
 </table>
-<p><em>*The above list of AAs is </em><strong><em>not </em></strong><em>exhaustive.</em>
-</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
