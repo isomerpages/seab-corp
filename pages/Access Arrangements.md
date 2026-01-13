@@ -213,48 +213,52 @@ in the <a href="https://www.seab.gov.sg/updatesforprivatecandidates/" rel="noope
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>A diagnosis of a Physical Disability / Learning Disability
-<br>Diagnosis must be done by qualified professionals registered with the
-relevant professional bodies, for example, with the Singapore Register
-of Psychologists, Allied Health Professions Council, Singapore Medical
-Council etc.
-<br>
+<p><strong>A clear statement of diagnosis of a Physical or Learning Disability</strong>
 </p>
-</li>
-<li>
-<p>Previous reports remain valid* if it is for the same condition (e.g.,
-reports used for PSLE can be used for GCE-Level examinations)</p>
-</li>
-<li>
-<p>Additional information can be provided through medical letters, assessment
-or therapy reports</p>
-</li>
-<li>
-<p>Documents can be submitted together or separately</p>
 <p></p>
 </li>
 </ul>
-<p>* For 2025 AA applications for learning disabilities, medical documents
-must be dated within three years of your national examination to ensure
-a current assessment of your condition. If your medical documents are dated
-more than three years ago, please submit a <strong>current profile of needs</strong> from
-a medical professional.</p>
-<p></p>
-<p>The current profile of needs must include:</p>
+<p>The diagnosis must be done by qualified professionals registered with
+the relevant professional bodies, for example, the Singapore Register of
+Psychologists, Allied Health Professions Council, Singapore Medical Council
+etc.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Formal standardised assessments (where appropriate)</p>
+<p><strong>Initial diagnostic reports identifying any learning or health needs</strong>
+</p>
+<p></p>
 </li>
 <li>
-<p>Medical professional's observations of your condition</p>
-</li>
-<li>
-<p>Description of how your condition affects you during examinations</p>
-</li>
-<li>
-<p>Clear justifications for each AA request, linked to your specific needs</p>
+<p><strong>A current profile of need(s)*</strong> (within 3 years of the examination
+year, i.e., if examination year is 2026, then the profile of need(s) should
+be dated 2023 or later) <strong>is required <u>only for the following AA:</u></strong>
+</p>
+<p>a. Modified Question Papers (QP) (only applicable to QP in 18-point bold
+print on A4)</p>
+<p>b. Exemption from Oral/Listening Comprehension/Science Practical/Written
+examinations</p>
+<p>c.Use of Reader or Reader Pen</p>
+<p>d.Use of a Scribe</p>
+<p>e.Use of Practical Assistant (applicable to GCE-Level only)</p>
+<p>f. Use of Word Processor</p>
 </li>
 </ul>
+<p>g.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extra time exceeding the
+standard quantum</p>
+<p>&nbsp;</p>
+<p><strong>*</strong>A current profile of need(s) must include:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formal standardised
+assessments, where appropriate, and/or observations of the candidate by
+a relevant professional.</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The candidate’s functional
+limitations in the examination setting should be described.</p>
+<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rationale for the
+specific AA requests being made for the candidate, in relation to the functional
+limitations, should be provided.</p>
+<p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For candidates who have been
+receiving recent ongoing therapy (within the previous three years prior
+to the year of the examination) by a relevant professional, periodic therapy
+updates or evaluation reports may serve as a current profile of needs.</p>
 </td>
 </tr>
 <tr>
