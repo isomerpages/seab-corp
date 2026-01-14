@@ -54,9 +54,10 @@ aggregate type and area of interest (<a href="https://www.moe.gov.sg/coursefinde
 </ul>
 <p><strong><u>Education and Career Guidance (ECG) Support</u></strong>
 </p>
-<p>6 Students are encouraged to explore the range of education and career
-pathways available to them to make informed decisions about their next
-steps. They may refer to the following websites for more information:</p>
+<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged
+to explore the range of education and career pathways available to them
+to make informed decisions about their next steps. They may refer to the
+following websites for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MOE’s CourseFinder (<a href="https://moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
@@ -65,9 +66,10 @@ steps. They may refer to the following websites for more information:</p>
 <p>MySkillsFuture Student Portal (<a href="https://www.go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
 </li>
 </ul>
-<p>7 Students may also consult their teachers or ECG Counsellors in their
-respective secondary schools about their next steps. Alternatively, they
-can make an ECG counselling appointment via the ECG Centre @ MOE (<a href="https://www.go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>).
+<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students may also
+consult their teachers or ECG Counsellors in their respective secondary
+schools about their next steps. Alternatively, they can make an ECG counselling
+appointment via the ECG Centre @ MOE (<a href="https://www.go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>).
 The ECG Centre @ MOE offers online or phone counselling services from 7
 to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <p>
