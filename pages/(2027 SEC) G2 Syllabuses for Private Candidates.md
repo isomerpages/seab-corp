@@ -371,9 +371,10 @@ format.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K237_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>
-<br>[New]</p>
-<p></p>
-<p></p>
+<br>[New]
+<br>Software:&nbsp;
+<br>• Microsoft Office (Word, Excel, PowerPoint)
+<br>• Scratch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
