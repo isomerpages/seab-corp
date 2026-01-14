@@ -67,10 +67,9 @@ steps. They may refer to the following websites for more information:</p>
 </ul>
 <p>7 Students may also consult their teachers or ECG Counsellors in their
 respective secondary schools about their next steps. Alternatively, they
-can make an ECG counselling appointment via the ECG Centre @ MOE (<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>).
-The ECG Centre @ MOE offers online or phone counselling services from</p>
-<p>7 to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
-<p></p>
+can make an ECG counselling appointment via the ECG Centre @ MOE (<a href="https://www.go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>).
+The ECG Centre @ MOE offers online or phone counselling services from 7
+to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <p>
 <br><sup> 1 </sup>The Cambridge International Education, the Ministry of Education,
 Singapore and the Singapore Examinations and Assessment Board (SEAB) are
