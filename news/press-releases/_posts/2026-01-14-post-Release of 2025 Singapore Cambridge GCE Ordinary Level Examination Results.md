@@ -9,8 +9,8 @@ variant: tiptap
 ---
 <p>Candidates who sat for the 2025 Singapore-Cambridge General Certificate
 of Education Ordinary Level (GCE O-Level) Examination<sup>1</sup> collected
-their results from their secondary schools today.&nbsp;
-<br>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A total of 22,468
+their results from their secondary schools today.&nbsp;</p>
+<p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A total of 22,468
 candidates sat for the 2025 GCE O-Level Examination. 22,430 (99.8%) of
 these candidates have achieved Grade C6 or better in at least one O-Level
 subject<sup>2</sup>. 21,740 (96.8%) and 19,522 (86.9%) of the candidates
