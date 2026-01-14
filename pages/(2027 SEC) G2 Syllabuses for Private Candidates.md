@@ -370,6 +370,27 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K237_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>
+<br>[New]</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>K237</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper 1 ~
+<br>Paper 2 ~</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K223_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Science (Physics, Chemistry)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
