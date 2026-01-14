@@ -114,7 +114,8 @@ from SEAB.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a> [New]&nbsp;</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>
+<br>[New]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
