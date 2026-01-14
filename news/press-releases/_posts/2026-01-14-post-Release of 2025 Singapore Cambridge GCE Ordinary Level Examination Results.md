@@ -53,8 +53,7 @@ aggregate type and area of interest (<a href="https://www.moe.gov.sg/coursefinde
 </li>
 </ul>
 <p><strong><u>Education and Career Guidance (ECG) Support</u></strong>
-</p>
-<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged
+<br>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged
 to explore the range of education and career pathways available to them
 to make informed decisions about their next steps. They may refer to the
 following websites for more information:</p>
