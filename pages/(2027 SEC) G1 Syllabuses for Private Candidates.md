@@ -1,7 +1,7 @@
 ---
 title: (2027 SEC) G1 Syllabuses for Private Candidates
 permalink: /secondary-education-certificate-sec/g1-syllabuses-for-private-candidates-2027/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Here are the G1 subject syllabuses under the 2027 Singapore-Cambridge
@@ -167,8 +167,49 @@ format.&nbsp;</p>
 <br>&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/G1 Lvl Syllabus Private Cddts/2027/K127_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>
+<br>[New]</p>
+<p>Software:&nbsp;
+<br>• Microsoft Office (Word, Excel, PowerPoint)
+<br>• Scratch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>K127</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper 1 ~
+<br>Paper 2 ~</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>~ This document will be made available soon.</p>
 <h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
