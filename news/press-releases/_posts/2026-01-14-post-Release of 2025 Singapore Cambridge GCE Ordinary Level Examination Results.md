@@ -41,26 +41,33 @@ using Singpass. Applicants can find more information on the following MOE
 websites:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>JAE website for more details on the JAE (<a href="http://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
+<p>JAE website for more details on the JAE (<a href="https://www.moe.gov.sg/jae" rel="noopener nofollow" target="_blank">www.moe.gov.sg/jae</a>)</p>
 </li>
 <li>
 <p>SchoolFinder for details of the offerings by JCs and MI and their previous
-year’s entry score ranges (<a href="http://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
+year’s entry score ranges (<a href="https://www.moe.gov.sg/schoolfinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>)</p>
 </li>
 <li>
 <p>CourseFinder for courses offered by the polytechnics and ITE, based on
-aggregate type and area of interest (<a href="http://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
+aggregate type and area of interest (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>)</p>
 </li>
 </ul>
-<p>Education and Career Guidance (ECG) Support</p>
+<p><strong><u>Education and Career Guidance (ECG) Support</u></strong>
+</p>
 <p>6 Students are encouraged to explore the range of education and career
 pathways available to them to make informed decisions about their next
 steps. They may refer to the following websites for more information:</p>
-<p>• MOE’s CourseFinder (<a href="http://moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
-<p>• MySkillsFuture Student Portal (<a href="http://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE’s CourseFinder (<a href="https://moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
+</li>
+<li>
+<p>MySkillsFuture Student Portal (<a href="https://www.go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+</li>
+</ul>
 <p>7 Students may also consult their teachers or ECG Counsellors in their
 respective secondary schools about their next steps. Alternatively, they
-can make an ECG counselling appointment via the ECG Centre @ MOE (<a href="http://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>).
+can make an ECG counselling appointment via the ECG Centre @ MOE (<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>).
 The ECG Centre @ MOE offers online or phone counselling services from</p>
 <p>7 to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <p></p>
