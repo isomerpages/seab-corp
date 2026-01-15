@@ -180,6 +180,232 @@ on SEAB’s website.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Grading System</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>At the subject level, the G1, G2 and G3 subjects adopt the same grading
+structure as the N(T)-, N(A)- and O-Level examinations respectively.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>G1 - Grades A, B, C, D and E</p>
+</li>
+<li>
+<p>G2 - Grades 1, 2, 3, 4, 5 and 6</p>
+</li>
+<li>
+<p>G3 – Grades A1, A2, B3, B4, C5, C6, D7, E8, 9
+<br>
+</p>
+</li>
+</ul>
+<p>Grade mapping is only used when there is a need to compute aggregate scores
+using grades of subjects taken at more demanding levels for purposes of
+post-secondary progression, e.g. ELMAB3 for admission to Year 2 of Higher
+Nitec (HN) and Polytechnic Foundation Programme (PFP), ELR2B2 for polytechnic
+admissions.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Grade for G3 subject</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mapped to G2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A1 - B3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B4 - C6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>D7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>E8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Grade for G2 subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mapped to G1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The following provides an example of how grades are being mapped for the
+purpose of computing the ELMAB3 score.
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>In situations where the grade of a G3 subject needs to be mapped to that
+of a G1 subject for progression purposes, the grade of the G3 subject will
+be first mapped to that of a G2 subject. Thereafter, the mapped grade for
+the G2 subject will be further mapped to the grade of a G1 subject.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
