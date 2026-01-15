@@ -1014,7 +1014,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a> °
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1106,4 +1106,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </table>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
 register for Mother Tongue Language Syllabus B can write to <a href="https://www.go.gov.sg/askus-seab" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
-their request.</p>
+their request.
+<br>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank"><u>e-Exam Resources for Private Candidates</u></a> for
+details.</p>
