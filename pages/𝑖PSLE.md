@@ -8,9 +8,9 @@ description: iPSLE
 the international&nbsp;version of Singapore's Primary School Leaving Examination
 (PSLE). The 𝑖PSLE was introduced with the aim of allowing overseas schools
 to benchmark their academic standards against Singapore's standard.&nbsp;</p>
-<p>A total of four subjects are offered to students taking the <em>i</em>PSLE,
-namely English Language, Mathematics, Science and Chinese Language. Students
-may register for a minimum of one subject. The formats are similar to those
+<p>A total of four subjects are offered to students taking the 𝑖PSLE, namely
+English Language, Mathematics, Science and Chinese Language. Students may
+register for a minimum of one subject. The formats are similar to those
 of the Singapore PSLE.</p>
 <p>Good performing 𝑖PSLE candidates may have the opportunity to be considered
 for the ASEAN Scholarship.</p>
@@ -38,7 +38,7 @@ for the ASEAN Scholarship.</p>
 Language, Chinese Language, Mathematics and Science.</p>
 <p>The format, standards and testing requirements of the 𝑖PSLE are similar
 to the Singapore PSLE.</p>
-<p>Here are the 𝑖PSLE examination syllabuses for the various subjects:</p>
+<p>Here are the 𝑖PSLE syllabuses for the various subjects:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
