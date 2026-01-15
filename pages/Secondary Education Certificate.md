@@ -168,5 +168,22 @@ year.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Assessment Format and Examination Standards</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The mode of assessment and overall examination standards for the SEC will
+be the same as the GCE N(A), N(T) and O-Level examinations.
+<br>The SEC <a href="https://www.seab.gov.sg/secondary-education-certificate-sec/" rel="noopener nofollow" target="_blank">examination syllabuses</a> for
+G1, G2 and G3 subjects offered for school and private candidates are available
+on SEAB’s website.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
