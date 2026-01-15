@@ -59,7 +59,7 @@ to the Singapore PSLE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0901_2023_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
+<p><a href="/files/IPSLE/Exam Subjects and Syllabus/0901_2026_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English Language</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
