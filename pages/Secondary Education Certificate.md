@@ -429,7 +429,7 @@ more information.</p>
 </div>
 <p>Find out more about the SEC examination syllabuses for G1, G2 and G3 subjects
 offered for school and private candidates below.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/secondary-education-certificate-sec/syllabus-for-school-candidates/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">🧑‍🎓School Candidates</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/secondary-education-certificate-sec/syllabus-for-school-candidates/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">🧑‍🎓School Candidates</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/secondary-education-certificate-sec/syllabus-for-private-candidates/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">🙋‍♀️ Private Candidates</div>
