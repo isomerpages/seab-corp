@@ -173,10 +173,7 @@ year.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The mode of assessment and overall examination standards for the SEC will
-be the same as the GCE N(A), N(T) and O-Level examinations.
-<br>The SEC <a href="https://www.seab.gov.sg/secondary-education-certificate-sec/" rel="noopener nofollow" target="_blank">examination syllabuses</a> for
-G1, G2 and G3 subjects offered for school and private candidates are available
-on SEAB’s website.</p>
+be the same as the GCE N(A), N(T) and O-Level examinations.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -429,5 +426,15 @@ subject.</p>
 more information.</p>
 </div>
 </details>
+</div>
+<p>Find out more about the SEC examination syllabuses for G1, G2 and G3 subjects
+offered for school and private candidates below.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/secondary-education-certificate-sec/syllabus-for-school-candidates/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">🧑‍🎓School Candidates</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/secondary-education-certificate-sec/syllabus-for-private-candidates/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">🙋‍♀️ Private Candidates</div>
+<div class="isomer-card-link"></div>
+</div>
+</a>
 </div>
 <p></p>
