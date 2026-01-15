@@ -341,58 +341,60 @@ purpose of computing the ELMAB3 score.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Subjects / Grade scored by candidate</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Subjects mapped to relevant level (G2)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>G3 English Language / B4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>G3 Mathematics / A1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G3 Science / B3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G2 Combined Humanities / 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G2 Chinese / 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>G1 Computing / A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not mapped (subject is not used for computing ELMAB3)</p>
 </td>
 </tr>
 </tbody>
@@ -406,9 +408,25 @@ the G2 subject will be further mapped to the grade of a G1 subject.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Results Release and Examination Certificate</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The SEC examination results will be released in January of the following
+year, similar to the current timeline for the release of the GCE O-Level
+examination results.</p>
+<p>Candidates will receive a single examination certificate that reflects
+all the subjects taken at the different levels (G1, G2 and G3). A certificate
+will be awarded if the candidate obtains grade E8 or better for a G3 subject,
+Grade 5 or better for a G2 subject, or Grade D or better for a G1 level
+subject.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>More information</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may also access our <a href="https://ask.gov.sg/seab" rel="noopener nofollow" target="_blank">FAQs</a> for
+more information.</p>
 </div>
 </details>
 </div>
