@@ -39,8 +39,132 @@ will be available on SEAB’s website in 2027.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Examination Timetable</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>The written examinations for English Language and Mother Tongue Languages
+(MTL) will be held in September each year.</p>
+</li>
+<li>
+<p>The written examinations for the rest of the subjects will be held from
+October to November, similar to the GCE O-Level examination timetable.</p>
+</li>
+<li>
+<p>There will only be one written examination sitting each year for all MTL
+subject levels (i.e. G1, G2, G3 MTL and G3 Higher MTL).</p>
+</li>
+<li>
+<p>Non-written examinations such as Science practical, oral, and listening
+comprehension will be scheduled before the written examinations, as per
+current practice.</p>
+<p></p>
+<p>Please refer to the table below for a comparison between the current GCE
+N(T)/N(A)- and O-Level examination timetables, and the SEC examination
+timetable:
+<br>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Current (2026 and before)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GCE N(T)/N(A)-Level Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE O-Level Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEC Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Non-written examination components, e.g. oral, listening comprehension,
+practical</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>These examinations will continue to be held before the written examinations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Other written examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Held in mid-September to mid-October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Held in mid-October to mid-November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One common period, starting in October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language written examinations</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Held together with other written examinations for N- or O-Level subjects
+respectively.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Held in September alongside MTL written examinations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MTL written examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Held in one sitting for N(A) and N(T) MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Held in two sittings: one during mid-year, one during written examinations
+period.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1/G2/G3 MTL and G3 Higher MTL examination held in <strong><u>one</u></strong> sitting
+in September alongside English Language written examinations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Results Release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Held in mid-December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Held in mid-January of the following year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>One common results release</strong>, held in January of the following
+year.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
