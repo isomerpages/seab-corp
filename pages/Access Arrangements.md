@@ -232,8 +232,8 @@ etc.</p>
 <p><strong>A current profile of need(s)*</strong> (within 3 years of the examination
 year, i.e., if examination year is 2026, then the profile of need(s) should
 be dated 2023 or later) <strong>is required <u>only for the following AA:</u></strong>
-<br>a. Modified Question Papers (QP) (only applicable to QP in 18-point bold
-print on A4)
+<br>a. Question Papers (QP) in Enlarged Print on A3 Paper / 2 sets of QP in
+Enlarged Print on A3 Paper / Modified QP
 <br>b. Exemption from Oral/Listening Comprehension/Science Practical/Written
 examinations
 <br>c.Use of Reader or Reader Pen

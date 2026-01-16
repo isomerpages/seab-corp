@@ -103,8 +103,8 @@ are as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener nofollow" target="_blank">Online Tutorial</a> for
-Mother Tongue Language e-Oral examination and <a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</a> to
+<p><a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener nofollow" target="_blank"><u>Online Tutorial</u></a> for
+Mother Tongue Language e-Oral examination and <a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank"><u>H2 Mother Tongue Language and Literature (H2 MTLL) e-written examination</u></a> to
 understand the revised examination format.</p>
 <h4><strong>Subjects Examined at A- and AO-Levels</strong></h4>
 <table style="minWidth: 100px">
@@ -921,7 +921,7 @@ understand the revised examination format.</p>
 </tr>
 </tbody>
 </table>
-<p>° Subject with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
+<p>° Subject with e-Examination components. Refer to <a href="https://www.seab.gov.sg/e-exam-resources-for-private-candidates/" rel="noopener nofollow" target="_blank">e-Exam Resources for Private Candidates</a> for
 details.
 <br>* Last year of exam in 2026.&nbsp;
 <br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Mathematics_MF27__2025__.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of Formulae and Results (MF27)</u></a> for
@@ -929,7 +929,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.
 <br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Data Booklet</u></a> for
 H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
-<h4><strong>Local Subjects</strong></h4>
+<h4><strong>Local Subjects </strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -1014,7 +1014,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>
+<p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a> 
 <br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1106,4 +1106,6 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 </table>
 <p>Singapore Citizens and Singapore Permanent Residents who would like to
 register for Mother Tongue Language Syllabus B can write to <a href="https://www.go.gov.sg/askus-seab" rel="noopener noreferrer nofollow" target="_blank"><u>SEAB</u></a> with
-their request.</p>
+their request.
+<br>
+</p>
