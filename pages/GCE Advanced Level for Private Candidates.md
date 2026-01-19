@@ -21,7 +21,7 @@ available below.</p>
 <div class="isomer-card-title">A-Level Syllabuses Examined in 2026</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2027" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2027" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2027</div><div class="isomer-card-link">  </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/a-level-syllabuses-examined-for-private-candidates-2027" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A-Level Syllabuses Examined in 2027" src="/images/psleformats.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A-Level Syllabuses Examined in 2027</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-gce-a-level" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -98,17 +98,6 @@ available below.</p>
 <div class="isomer-card-title">Examination Results and Certificates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secondary Education Certificate Examinations</div><div class="isomer-card-link"> </div></div></a>
-<a rel="noopener noreferrer nofollow" href="/gce-a-level/about-gce-a-level" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="About GCE A-Level" src="/images/aboutpsle.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">About GCE A-Level</div>
-<div class="isomer-card-link"></div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/gce-a-level/about-gce-a-level" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="About GCE A-Level" src="/images/aboutpsle.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About GCE A-Level</div><div class="isomer-card-link"> </div></div></a>
 </div>
 <p></p>
