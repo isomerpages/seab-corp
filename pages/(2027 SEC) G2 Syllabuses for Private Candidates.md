@@ -166,7 +166,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K229_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies°, Geography)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K229_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies °, Geography)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -183,7 +183,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K230_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies°, History)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K230_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies °, History)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -200,7 +200,7 @@ format.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K231_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies°, Literature in English)</u></a>&nbsp;</p>
+<p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K231_y27_sy.pdf" class="Hyperlink SCXW110320877 BCX8" rel="noreferrer noopener" target="_blank"><u>Humanities (Social Studies °, Literature in English)</u></a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English&nbsp;</p>
@@ -373,7 +373,7 @@ format.&nbsp;</p>
 <p><a href="/files/G2 Lvl Syllabus Private Cddts/2027/K237_y27_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Computing</a>
 <br>[New]
 <br>Software:&nbsp;
-<br>• Microsoft Office (Word, Excel, PowerPoint)
+<br>• Microsoft Office (Excel, PowerPoint)
 <br>• Scratch</p>
 </td>
 <td rowspan="1" colspan="1">
