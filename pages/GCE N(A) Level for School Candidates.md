@@ -76,7 +76,7 @@ is available below.</p>
 <div class="isomer-card-title">Examination Results and Certificates</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secondary Education Certificate Examinations</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/secondary-education-certificate-sec/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Secondary Education Certificate Examinations" src="/images/scribble.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secondary Education Certificate Examinations</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/gce-na-level/about-gce-na-level/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
