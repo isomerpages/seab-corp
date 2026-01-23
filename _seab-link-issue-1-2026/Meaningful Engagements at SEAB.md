@@ -4,6 +4,13 @@ permalink: /meaningful-engagements-at-seab/
 variant: tiptap
 description: ""
 ---
+<p>November 2025 marked a significant period of engagement for SEAB, as we
+welcomed both international and local partners to deepen collaborative
+relationships and share insights into Singapore's assessment landscape.
+These visits served as vital opportunities for building bridges through
+knowledge exchange, exemplifying SEAB's commitment to fostering meaningful
+partnerships that enhance examination standards and support educational
+excellence.&nbsp;</p>
 <hr>
 <h4><strong>SEAB welcomes Cambridge delegation</strong>&nbsp;</h4>
 <p>On 5 to 7 November 2025, SEAB hosted a delegation from Cambridge, comprising
