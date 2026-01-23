@@ -2,6 +2,7 @@ collections:
   seab-link-issue-1-2026:
     output: true
     order:
+      - "Learning from Ireland: Insights from a study trip to Dublin.md"
       - Meaningful Engagements at SEAB.md
       - Joy@Work.md
       - Editor's Note.md
