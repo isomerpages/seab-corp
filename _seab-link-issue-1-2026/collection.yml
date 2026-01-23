@@ -2,5 +2,6 @@ collections:
   seab-link-issue-1-2026:
     output: true
     order:
+      - Meaningful Engagements at SEAB.md
       - Joy@Work.md
       - Editor's Note.md
