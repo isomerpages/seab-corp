@@ -1214,7 +1214,7 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9575_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -1256,6 +1256,8 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9901_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language and Literature</u></a>
+<br>[Revised]
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1300,7 +1302,7 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9576_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -1321,7 +1323,7 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9921_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language and Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -1365,7 +1367,7 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9577_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
@@ -1386,7 +1388,7 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9941_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language and Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>

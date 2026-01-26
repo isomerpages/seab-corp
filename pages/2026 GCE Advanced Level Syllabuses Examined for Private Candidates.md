@@ -929,7 +929,7 @@ the H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses.
 <br><a href="/files/A Level Syllabus Private Cddts/2026/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Data Booklet</u></a> for
 H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
-<h4><strong>Local Subjects </strong></h4>
+<h4><strong>Local Subjects</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -997,7 +997,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9575_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Chinese Language &amp; Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
@@ -1051,7 +1051,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9576_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Malay Language &amp; Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malay</p>
@@ -1087,7 +1087,7 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9577_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Tamil Language &amp; Literature</u></a>
-</p>
+<br>[Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tamil</p>
