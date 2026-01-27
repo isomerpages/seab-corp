@@ -48,9 +48,11 @@ collaborative skills and good interpersonal and communication skills.</p>
 <p>Able to manage candidates effectively and with sensitivity.</p>
 </li>
 </ul>
-<p>Interested applicants should submit their application <a href="https://form.gov.sg/68edfa4a5322524545f5a047" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-This is an advertisement for fresh applicants. <strong>You need not apply again if you have applied for this position previously</strong>.
-Only shortlisted applicants will be invited for an interview by end of
-January 2026.</p>
-<p>Closing Date: 11 January 2026, 5pm.</p>
+<p>Applications to serve as examination invigilators for the 2026 examination
+year have closed. The application period opened in December 2025 and concluded
+in January 2026. If you are interested in serving as an examination invigilator
+for the 2027 examination year, please note that applications will open
+in December 2026. We encourage interested candidates to visit this page
+in December 2026 for detailed information about the requirements and application
+process for the 2027 examination year.</p>
 <p>&nbsp;</p>

@@ -1235,7 +1235,8 @@ H3 Chemistry (9813) syllabus.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a>
-<br>[Revised]</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>

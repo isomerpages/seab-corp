@@ -1015,7 +1015,8 @@ H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2026/9629_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>China Studies in Chinese</u></a> 
-<br>[Revised]</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
