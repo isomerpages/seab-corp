@@ -4,9 +4,13 @@ permalink: /seab-link-issue-1-2026/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/SEAB_link_issue1_2026.jpg">
+</div>
 <p>Dear Readers,&nbsp;</p>
 <p>From all of us in SEAB, cheers to a fresh start in 2026! This opening
-issue reflects both our notable progress in 2025.&nbsp;</p>
+issue reflects our notable progress in 2025.&nbsp;</p>
 <p>Looking back, 2025 brought significant milestones and meaningful connections.&nbsp;&nbsp;</p>
 <p>The implementation of electronic examinations for N(A)-Level Mother Tongue
 Languages marks another leap in our e-Examinations journey. Building on
