@@ -13,7 +13,9 @@ English Language, Mathematics, Science and Chinese Language. Students may
 register for a minimum of one subject. The formats are similar to those
 of the Singapore PSLE.</p>
 <p>Good performing 𝑖PSLE candidates may have the opportunity to be considered
-for the ASEAN Scholarship.</p>
+for the <a href="http://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship" rel="noopener noreferrer nofollow" target="_blank">ASEAN Scholarship</a>.
+Join the <a href="https://go.gov.sg/aseanscholarshipipsle" rel="noopener noreferrer nofollow" target="_blank">mailing list</a> to
+receive further updates.</p>
 <blockquote>
 <p><strong><a href="/files/Timetable/2026_iPSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">Examination Timetable 2026</a></strong>
 </p>
