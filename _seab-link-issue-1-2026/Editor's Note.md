@@ -4,6 +4,10 @@ permalink: /seab-link-issue-1-2026/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/SEAB_link_issue1_2026.jpg">
+</div>
 <p>Dear Readers,&nbsp;</p>
 <p>From all of us in SEAB, cheers to a fresh start in 2026! This opening
 issue reflects our notable progress in 2025.&nbsp;</p>
