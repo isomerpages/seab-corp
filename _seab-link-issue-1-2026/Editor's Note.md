@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Dear Readers,&nbsp;</p>
 <p>From all of us in SEAB, cheers to a fresh start in 2026! This opening
-issue reflects both our notable progress in 2025.&nbsp;</p>
+issue reflects our notable progress in 2025.&nbsp;</p>
 <p>Looking back, 2025 brought significant milestones and meaningful connections.&nbsp;&nbsp;</p>
 <p>The implementation of electronic examinations for N(A)-Level Mother Tongue
 Languages marks another leap in our e-Examinations journey. Building on
