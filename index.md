@@ -63,7 +63,7 @@ sections:
       title: Beyond Pen and Paper
       id: infopic
       description: Explore how real-world contexts and interactive multimedia are
-        transforming Singapore e-Examinations and prepare our students for the
+        transforming Singapore e-Examinations and preparing our students for the
         future.
       button: Watch Now
       url: https://www.youtube.com/watch?v=Fa5VpQFILxI
@@ -78,15 +78,6 @@ sections:
       alt: registration
       image: /images/notebook_registration_06.jpg
       url: /updatesforprivatecandidates/
-  - infopic:
-      title: Train Disruption Advice
-      id: infopic
-      description: Please refer to this page if you are affected by a train service
-        disruption
-      button: VIEW DETAILS
-      url: /train-disruption-advice/
-      image: /images/train_mrt.jpg
-      alt: train disruption
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
