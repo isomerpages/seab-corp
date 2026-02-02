@@ -15,6 +15,12 @@ conducted within a common window. Sharing the marking load with Cambridge
 would enable the SEC results to be processed in time for results release.&nbsp;</p>
 <hr>
 <h4>N(A)-Level Mathematics Papers 1 and 2&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="group of markers for Maths - AI generated image" src="/images/SEABlink/maths_markers.png">
+</div>
+<p><em>AI-generated image</em>
+</p>
 <p>SEAB took over the marking of the N(A)-level Mathematics examinations,
 further developing local assessment expertise in the process.&nbsp;</p>
 <p>Over five days in October 2025, 107 dedicated teachers participated as
@@ -29,6 +35,12 @@ and observe how various approaches to problems were recognised and accepted.&nbs
 a strong foundation for future Mathematics assessments.&nbsp;</p>
 <hr>
 <h4>N(T)-Level Computer Applications Practical&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="group of markers for N(T)-level Computer Applications (CPA) - AI generated image" src="/images/SEABlink/CPA_markers.png">
+</div>
+<p><em>AI-generated image</em>
+</p>
 <p>Simultaneously, we have successfully transitioned the marking of N(T)-Level
 Computer Applications (CPA) Practical Paper 3 locally. Paper 3 requires
 candidates to demonstrate diverse digital skills through video creation,
@@ -48,6 +60,12 @@ spot.&nbsp;&nbsp;</p>
 CPA colleagues were also helpful in clarifying doubts.&nbsp;&nbsp;</p>
 <hr>
 <h4>Arabic Language Examinations&nbsp;&nbsp;</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="group of markers for Arabic language - AI generated image" src="/images/SEABlink/arabic_markers.png">
+</div>
+<p><em>AI-generated image</em>
+</p>
 <p>The other milestone in 2025 was the complete ownership of test development,
 marking, and grading for the O-Level Arabic and AO-Level Arabic examinations,
 transitioning these responsibilities with strong support from MUIS.&nbsp;&nbsp;</p>
