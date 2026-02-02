@@ -37,28 +37,9 @@ the research findings and confirmed that the types of devices used in time-based
 assessments have no impact on students’ performance.&nbsp;&nbsp;</p>
 <p>Students and teachers have provided positive feedback about using their
 PLDs in such assessments during the studies:&nbsp;</p>
-<p><em>Feedback from students:</em>&nbsp;</p>
-<ul>
-<li>
-<p>It is easy for me because I know how my PLD works&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>I am very comfortable with my PLD as I have used it very often&nbsp;</p>
-</li>
-</ul>
-<p><em>Feedback from teachers:</em>&nbsp;</p>
-<ul>
-<li>
-<p>My students are confident in using PLDs for e-Examinations&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>I feel confident in managing e-Examinations using PLDs&nbsp;</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="positive feedback from students and teachers on the use of PLDs" src="/images/SEABlink/pld_feedback.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Briefing and demo for schools" src="/images/SEABlink/e_exams_pld_3_teachers.png">
