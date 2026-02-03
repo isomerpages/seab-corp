@@ -23,6 +23,9 @@ festive occasions can strengthen workplace bonds and boost morale.&nbsp;&nbsp;</
 festive foods, including pani puri, creating an authentic and inclusive
 experience for all staff.&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="appetising Deepavali spread" src="/images/SEABlink/deepa1.png">
+</div>
 <p><em>An appetising display of Deepavali favourites greeted the staff</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Besides the delightful spread of traditional delicacies including curry
@@ -30,11 +33,19 @@ puffs, vadai, and freshly prepared teh tarik, what made this celebration
 truly special was witnessing&nbsp; genuine joy and wide smiles across faces,
 with everyone embracing the festive spirit by dressing in bright, bold
 colours that transformed the workplace atmosphere during the busy period.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="vibrant attire matching vibrant spirits" src="/images/SEABlink/deepa4.png">
+</div>
 <p>&nbsp;<em>Vibrant attire matching vibrant spirits during the Deepavali festivities.</em>&nbsp;</p>
 <p>Two staff members stepped up to showcase their teh tarik pouring techniques
 in an exciting ‘Teh Tarik Challenge’. Their performances drew enthusiastic
 applause from supportive colleagues, creating an atmosphere of camaraderie
 and shared enjoyment.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="teh tarik challenge" src="/images/SEABlink/deepa2.png">
+</div>
 <p><em>Despite having no experience, the participants put their heart into the teh tarik challenge.</em>&nbsp;</p>
 <p>SEAB management participated in the symbolic lighting of oil lamps. This
 ceremonial lighting of oil lamps symbolised the leadership's dedication
@@ -44,14 +55,19 @@ path forward for the organisation's success. This meaningful ceremony,
 combined with educational segments about Deepavali traditions such as rangoli
 art and the significance of muruku, helped deepen staff’s’ appreciation
 for this important festival.&nbsp;</p>
-<p>&nbsp;<em>SEAB management participated in the timeless tradition of lighting oil lamps</em>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="oil lamp lighting" src="/images/SEABlink/deepa3.png">
+</div>
+<p><em>SEAB management participated in the timeless tradition of lighting oil lamps</em>&nbsp;</p>
 <p>The highlight was undoubtedly the energetic Bhangra performance by the
 Yaar-Panjaab Phangra (YPP) troupe, whose vibrant costumes and infectious
 enthusiasm drew staff onto the stage to learn traditional dance moves.
 This interactive element perfectly captured the spirit of Deepavali as
 a celebration that brings people together across cultural boundaries.&nbsp;</p>
-<p><strong>&nbsp;</strong>&nbsp;</p>
-<p><strong>&nbsp;</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="bhangra performance" src="/images/SEABlink/deepa5.png">
+</div>
 <p><em>Staff joined the vibrant Bhangra dancers on stage, embracing the joy and unity of Deepavali celebrations.</em>&nbsp;</p>
 <p>&nbsp;&nbsp;</p>
 <hr>
