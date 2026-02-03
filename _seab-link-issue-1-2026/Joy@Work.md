@@ -78,6 +78,9 @@ year-end "It's (Finally) Friday Season's Greetings" event on 28 November
 2025. The celebration began with a delightful high tea featuring sweet
 and savoury festive treats.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sumptuous year-end feast" src="/images/SEABlink/yec1.png">
+</div>
 <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<em> SEAB staff enjoying their sumptuous festive treats.</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>In his year-end speech, SEAB's Chief Executive, Mr Yue Lip Sin, summarised
@@ -98,9 +101,10 @@ and Development Division, for his leadership and significant contributions
 to SEAB over the past three years. His guidance has left a lasting mark
 on the organisation, and SEAB wished him the very best in his future endeavours.&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Former DAPD Tan Kuo Cheang giving his farewell speech" src="/images/SEABlink/yec2.png">
+</div>
 <p><em>Former Director of Assessment Planning and Development Division, Mr Tan Kuo Cheang giving his farewell speech during the year-end session</em>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>Energy soared as the celebration moved into a lively game of "Santa Says,
 Stand Up If...” which got everyone on their feet and buzzing with excitement.
@@ -112,11 +116,17 @@ The winning Christmas tree was decided based on voting. The friendly rivalry
 brought out the best in everyone's competitive spirit whilst fostering
 camaraderie across levels!&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Christmas tree decorations" src="/images/SEABlink/yec3.png">
+</div>
+<p>&nbsp;</p>
 <p><em>&nbsp;Creative Christmas tree decorations by Levels 7, 8, and 9 (from left to right).</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Winner is Level 8" src="/images/SEABlink/yec4.png">
+</div>
 <p><em>Mr Yue presenting the certificate of achievement to Ms Tan Jia Min, the level representative for level 8 which won the Christmas tree decoration competition.</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>After the games and competition, the crowd settled down for a heartwarming
@@ -127,9 +137,15 @@ walked away as winners. This drew much excitement from everyone as they
 eagerly drew out their lucky numbers in anticipation of their prizes.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="staff collecting prizes" src="/images/SEABlink/yec5.png">
+</div>
 <p><em>SEAB staff eagerly collecting their prizes after drawing their lucky numbers.</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="happy recipients" src="/images/SEABlink/yec6.png">
+</div>
 <p>&nbsp; &nbsp;</p>
 <p><em>SEAB staff showing their prizes after drawing their lucky numbers. Happy faces all around!</em>&nbsp;</p>
 <p>&nbsp;</p>
@@ -139,8 +155,11 @@ it was clear that this celebration achieved exactly what it set out to
 do: closing 2025 on a high note filled with joy, gratitude, and togetherness.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 SEABlings committee" src="/images/SEABlink/yec7.png">
+</div>
 <p>&nbsp;</p>
-<p><em>Members of the 2026 SEABlings’ Committee which organised the "It's (Finally) Friday Season's Greetings" event</em>&nbsp;</p>
+<p><em>Members of the 2025 SEABlings’ Committee which organised the "It's (Finally) Friday Season's Greetings" event</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <hr>
