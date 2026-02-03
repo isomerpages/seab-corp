@@ -176,12 +176,18 @@ tea. Subsequently, on 11 November 2025, a day after the end of the GCE
 O-Level Science examination, staff also got to enjoy an ice-cream treat
 where they could choose from 11 exciting flavours!&nbsp;</p>
 <p>&nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="queuing up for treats" src="/images/SEABlink/hr1.png">
+</div>
 <p><em>Staff queuing up eagerly for their choice of bubble tea and ice cream treats</em>&nbsp;</p>
 <p>These mini treats provided everyone with a well-deserved short break from
 their work, while creating an opportunity for staff from different divisions
 and departments to connect as they enjoyed the sweet treats. A big thank
 you to all staff for all the commitment and hard work once again!&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="well-deserved treats for staff" src="/images/SEABlink/hr2.png">
+</div>
 <p>&nbsp;</p>
 <p><em>SEAB staff enjoying their well-deserved treats and connecting with colleagues from across different divisions</em>&nbsp;</p>
 <p></p>
