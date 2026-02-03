@@ -13,8 +13,14 @@ private sectors received this prestigious award, which acknowledges exceptional
 support and contributions toward professional development of Ministry of
 Education officers.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="receiving award from AST" src="/images/SEABlink/partnership_development_award.png">
+</div>
 <p><em>Ms Irene Wong, Senior Assistant Director, receiving the award from Mrs Loke-Yeo Teck Yong, Executive Director of AST, on SEAB’s behalf.</em>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="close up of the award trophy and certificate" src="/images/SEABlink/partnership_development_award_and_cert.png">
+</div>
 <p><em>A close-up of the award trophy and certificate. A proud moment for SEAB!</em>&nbsp;</p>
 <p>SEAB's recognition stems from our contributions to teachers' professional
 development through work attachments and enriching learning journey programmes.
@@ -29,29 +35,16 @@ how they offered valuable insights about SEAB’s work and mission. These
 sessions have demystified SEAB’s processes, fostering greater understanding
 of our work in the education landscape.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TWA+ LJ 2025 participants" src="/images/SEABlink/TWA__2025.jpg">
+</div>
 <p><em>Happy faces of officers who attended the 2025 TWA+ Learning Journey in April 2025</em>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><em>Heritage Gallery tour for the participants of the TWA+ Learning Journey&nbsp;</em>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="heritage gallery tour for TWA+ participants" src="/images/SEABlink/twa__heritage_gallery.png">
+</div>
+<p>&nbsp;<em>Heritage Gallery tour for the participants of the TWA+ Learning Journey&nbsp;</em>&nbsp;</p>
+<p>
 <br>This recognition underscores SEAB's unwavering commitment to supporting
 the broader educational community and contributing meaningfully to the
 professional growth of our teachers. We are encouraged to expand our efforts

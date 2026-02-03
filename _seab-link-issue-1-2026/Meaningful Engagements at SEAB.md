@@ -18,7 +18,9 @@ Mr Jonathan Griffiths, Principal Assessment Advisor (Singapore), International
 Education, Mr Simon Plummer, Senior Ministry Partnership Manager, and Mr
 Darren Skates, Project Manager.&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cambridge delegation with SEAB management" src="/images/SEABlink/cambridge_1.png">
+</div>
 <p><em>Cambridge delegation with SEAB management&nbsp;</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p>The three-day visit provided Cambridge delegates with comprehensive insights
@@ -27,27 +29,28 @@ detailed demonstrations of SEAB's question paper authoring system and coursework
 management platform, which handles digital submissions from schools through
 to assessment and moderation stages. One of the demonstrations included
 how physical coursework could be digitised for Cambridge's marking processes.&nbsp;</p>
-<p>&nbsp;</p>
 <p>The Cambridge team observed SEAB's complete scripts handling workflow,
 from receiving papers from schools to scanning operations, and engaged
 in discussions about potential process improvements. They also visited
 Hwa Chong Institution to witness a live e-Examination in progress, gaining
 on-the-ground perspective of how digital examinations are conducted in
 schools.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Other highlights included a tour of SEAB's Heritage Gallery, showcasing
 the longstanding partnership between Singapore and Cambridge, and demonstrations
 of the eMarking system and live marking exercises using the Onscreen Marking
 (OSM) platform. The delegation also participated in discussions on Singapore-Cambridge
 Secondary Education Certificate (SEC) implementation, syllabus development,
 and other assessment matters.&nbsp;</p>
-<p>&nbsp;</p>
 <p>The visit strengthened the ongoing partnership between SEAB and Cambridge,
 providing both parties with opportunities to enhance their collaborative
-efforts in examination and assessment services.&nbsp;</p>
-<p>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</p>
+efforts in examination and assessment services.&nbsp;&nbsp; &nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="knowledge exchange in action" src="/images/SEABlink/cambridge_3.png">
+</div>
 <p><em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em>&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="work and fun go hand in hand" src="/images/SEABlink/cambridge_2.png">
+</div>
 <p><em>The visit from Cambridge delegates proved that work and fun go hand in hand - from formal discussions to memorable meals and visits in Singapore.</em>&nbsp;</p>
 <hr>
 <h4><strong>SEAB welcomes MOE colleagues for learning visits</strong>&nbsp;</h4>
@@ -60,8 +63,14 @@ Zone). The group comprised Cluster Superintendents and Special Assistants
 from the North, South, and West Zones. On 21 November 2025, SEAB welcomed
 a second group comprising School Leaders from the East Zone.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOE Schools Division (North, South, West)" src="/images/SEABlink/MOE_SD_1.png">
+</div>
 <p><em>MOE Schools Division (North, South, and West Zone) colleagues with SEAB management</em>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOE East Zone School Leaders" src="/images/SEABlink/MOE_SD_2.png">
+</div>
 <p><em>MOE East Zone School Leaders with SEAB management</em>&nbsp;</p>
 <p>Visitors were first taken on an engaging tour of SEAB’s Heritage Gallery,
 followed by a series of presentations and demonstrations about SEAB’s work,
@@ -72,17 +81,16 @@ assessment through a rare opportunity to observe live onscreen marking
 sessions and interact with markers.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>17 November 2025 – MOE Schools Division (North, South, West Zones)</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>21 November 2025 – East Zone School Leaders</strong>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOE Schools Division (North, South, West zones)" src="/images/SEABlink/MOE_SD_3.png">
+</div>
+<p>&nbsp;&nbsp;<strong>21 November 2025 – East Zone School Leaders</strong>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp; &nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="East Zone School Leaders" src="/images/SEABlink/MOE_SD_4.png">
+</div>
+<p>&nbsp;&nbsp;&nbsp;</p>
 <p>The visits offered opportunities for MOE colleagues to gain a deeper appreciation
 of the systems, processes and innovations that enable SEAB to uphold examination
 integrity and assessment quality at the national level. The sessions also

@@ -124,8 +124,8 @@ information such as subjects / papers, examination fees, etc.</p>
 <p><strong>For Singaporean/ Singapore Permanent Residents/ Foreign Identification Number (FIN) holders)</strong>
 </p>
 <p>If you are a Singaporean or a Singapore Permanent Resident or a FIN holder
-using FIN Identification Number, you <strong>must </strong>register for
-the examination with your Singpass credentials in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>.</p>
+using Foreign Identification Number, you <strong>must </strong>register
+for the examination with your Singpass credentials in the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>.</p>
 <p>You may refer to the <a href="https://go.gov.sg/cpaccountcreationguidesingpassusers" rel="noopener nofollow" target="_blank">guide for Singpass users</a>&nbsp;for
 the steps to register for the examinations.
 <br>
