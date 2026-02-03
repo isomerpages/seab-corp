@@ -35,13 +35,15 @@ how they offered valuable insights about SEAB’s work and mission. These
 sessions have demystified SEAB’s processes, fostering greater understanding
 of our work in the education landscape.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TWA+ LJ 2025 participants" src="/images/SEABlink/TWA__2025.jpg">
+</div>
 <p><em>Happy faces of officers who attended the 2025 TWA+ Learning Journey in April 2025</em>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="heritage gallery tour for TWA+ participants" src="/images/SEABlink/twa__heritage_gallery.png">
 </div>
-<p>&nbsp;</p>
-<p><em>Heritage Gallery tour for the participants of the TWA+ Learning Journey&nbsp;</em>&nbsp;</p>
+<p>&nbsp;<em>Heritage Gallery tour for the participants of the TWA+ Learning Journey&nbsp;</em>&nbsp;</p>
 <p>
 <br>This recognition underscores SEAB's unwavering commitment to supporting
 the broader educational community and contributing meaningfully to the
