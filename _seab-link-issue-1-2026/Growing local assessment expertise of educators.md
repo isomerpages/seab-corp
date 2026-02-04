@@ -49,7 +49,7 @@ candidates to demonstrate diverse digital skills through video creation,
 spreadsheet editing, and programming-based game creation.</p>
 <p>Following a comprehensive training in August 2025, the marking team comprising
 31 markers, 2 team leaders, and 1 Chief Examiner completed the five-day
-marking exercise in November. The feedback received was predominantly positive,
+marking exercise in November 2025. The feedback received was predominantly positive,
 with markers rating their experience highly on both satisfaction (3.6 out
 of 4 on ‘I am happy with the marking experience’) and professional growth
 (3.9 out of 4 on “Taking part in the marking exercise helps in my professional
