@@ -1,7 +1,7 @@
 ---
 title: "Learning from Ireland: Insights from a study trip to Dublin"
 permalink: /learning-from-ireland-insights-from-a-study-trip-to-dublin/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>In November 2025, Mr Yue Lip Sin, Chief Executive of SEAB and Ms Haslinda
@@ -17,9 +17,10 @@ and Science.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore delegates with Ireland's Chief Inspector and Irish MOE representatives" src="/images/SEABlink/ireland_1.png">
 </div>
-<em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em><p></p>
-<p>
-</p><h4><strong>Understanding Ireland’s education system</strong></h4>
+<p><em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
+</p>
+<p><strong>Understanding Ireland’s education system</strong>
+</p>
 <p>Ireland operates an 8-3-2 education structure: eight years of primary
 education (including Junior and Senior Infant levels), followed by three
 years of Junior cycle and two years of Senior cycle, culminating in the
@@ -27,7 +28,8 @@ Leaving Certificate examination. The delegation engaged with key Irish
 education officials, including the Chief Inspector from the Department
 of Education and Youth, and Directors from the National Council of Curriculum
 and Assessment and Educational Research Centre Ireland.&nbsp;</p>
-<h4><strong>Recent Educational Reforms in Ireland</strong></h4>
+<p><strong>Recent educational reforms in Ireland</strong>
+</p>
 <p>The Irish curriculum reforms, currently in early implementation, centre
 on preparing students for an increasingly complex world. Rather than emphasising
 rote learning, the system prioritises developing critical thinking, problem-solving,
@@ -37,23 +39,26 @@ projects that encourage students to understand knowledge interconnectedness.&nbs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="St Brigid Primary School - Ireland's first Human Values school" src="/images/SEABlink/ireland_2.png">
 </div>
-<em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;<p></p>
+<p><em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A visit to Dalkey School (Project National School)" src="/images/SEABlink/ireland_3.png">
 </div>
-<em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;<p></p>
+<p><em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;</p>
+<p></p>
 <p>A standout feature is the optional Transition Year Programme, embraced
 by 75% of students. Schools enjoy autonomy in crafting unique curricula
 aligned with their communities' needs, creating examination-free environments
 that foster personal growth. Students engage in senior cycle taster modules,
 work experience placements, and document their learning through portfolios.</p>
-<p>
-</p><div class="isomer-image-wrapper">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="King's Hospital School" src="/images/SEABlink/ireland_4.png">
 </div>
-<em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em><p></p>
-<p>
-</p><h4><strong>Balanced Assessment Approaches</strong></h4>
+<p><em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
+</p>
+<p><strong>Balanced assessment approaches</strong>
+</p>
 <p>Ireland's assessment reforms are equally noteworthy. The Junior Cycle
 Profile of Achievement incorporates classroom-based assessments alongside
 state examinations, with teachers using externally provided guidelines.
@@ -61,7 +66,8 @@ The upcoming Senior Cycle reform (2025-2029) will introduce additional
 assessment components worth at least 40% of total marks. Comprising portfolios,
 projects, and oral assessments, they are designed to assess a wider range
 of skills whilst reducing reliance on high-stakes written examinations.</p>
-<h4><strong>An Affirmation of Singapore's Direction</strong></h4>
+<p><strong>An affirmation of Singapore's direction</strong>
+</p>
 <p>The study trip validated many of Singapore's curriculum initiatives, particularly
 in well-being, values education, and 21st-century competencies development.
 Ireland's integration of key competencies like metacognition into its curriculum
@@ -70,9 +76,9 @@ curriculum approach.</p>
 <p>This exchange underscores the value of international collaboration in
 education, providing insights that can inform Singapore's continued curriculum
 evolution.&nbsp;</p>
-
 <p><strong><em>Suggested Reads</em></strong><em>&nbsp;</em>
-</p><p><strong>Insights from SEAB’s Study Trip to China</strong>&nbsp;</p>
+</p>
+<p><strong>Insights from SEAB’s Study Trip to China</strong>&nbsp;</p>
 <p>p.4&nbsp;</p>
 <p><a href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="Hyperlink SCXW36960824 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB-link Issue 2/2024</u></a>&nbsp;</p>
 <p>&nbsp;</p>
