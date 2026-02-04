@@ -47,7 +47,7 @@ efforts in examination and assessment services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="knowledge exchange in action" src="/images/SEABlink/cambridge_3.png">
 </div>
-<em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em><p></p>
+<em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="work and fun go hand in hand" src="/images/SEABlink/cambridge_2.png">
