@@ -48,8 +48,8 @@ PLDs in such assessments during the studies:&nbsp;</p>
 </div>
 <em>SEAB conducted briefing and demonstration sessions for the teachers in the pilot schools.</em><p></p>
 <br><strong>Successful implementation of e-Examinations using PLDs</strong>
-<br>Students from Crest Secondary School and Spectra Secondary School were
-the first to use their PLDs in the 2025 national e-Examinations.&nbsp;<p></p>
+<p>Students from Crest Secondary School and Spectra Secondary School were
+the first to use their PLDs in the 2025 national e-Examinations.</p><p></p>
 <p>Before the examinations, students from both schools were guided on the
 preparation of their devices and underwent practice sessions to familiarise
 themselves with using their PLDs for national examinations. Teachers from
