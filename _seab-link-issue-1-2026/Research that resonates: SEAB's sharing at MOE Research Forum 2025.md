@@ -20,14 +20,14 @@ of essential 21st-century competencies.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Presenters from SEAB for the 21CC Science task" src="/images/SEABlink/moe_forum_1.png">
 </div>
-<p><em>(From left to right) From SEAB, Dr Diana Ng, Senior Assessment Specialist (Sciences), Ms Gail Yap and Ms Rinhi Tan, Research Officers, shared how students demonstrated scientific thinking and problem-solving in meaningful contexts</em>
-</p>
+<em>(From left to right) From SEAB, Dr Diana Ng, Senior Assessment Specialist (Sciences), Ms Gail Yap and Ms Rinhi Tan, Research Officers, shared how students demonstrated scientific thinking and problem-solving in meaningful contexts</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Presenters from SEAB for Read2LearnEL tool" src="/images/SEABlink/moe_forum_2.png">
 </div>
-<p><em>Dr Rajenthiran Sellan (left), Lead Assessment Specialist (Languages and Literature) and Dr Koh Poh Wee (right), Acting Senior Research Specialist, shared insights on the SEAB's Read2Learn</em><sup> </sup><em><sup>EL</sup> tool and its impact on students’ reading comprehension and learning strategies</em>
-</p>
+<em>Dr Rajenthiran Sellan (left), Lead Assessment Specialist (Languages and Literature) and Dr Koh Poh Wee (right), Acting Senior Research Specialist, shared insights on the SEAB's Read2Learn</em><sup> </sup><em><sup>EL</sup> tool and its impact on students’ reading comprehension and learning strategies</em>
+<p></p>
 <p></p>
 <p>The enthusiastic audience response extended beyond mere attendance numbers.
 The 21CC Science Task session generated particularly thought-provoking
@@ -44,8 +44,8 @@ that students require in an increasingly complex world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Positive audience response and exhibit presentation" src="/images/SEABlink/moe_forum_3.png">
 </div>
-<p><em>Positive audience response to SEAB's innovative research findings at the MOE Forum, including an exhibit presentation from Mr Timmy Ng, Research Officer.</em>
-</p>
+<em>Positive audience response to SEAB's innovative research findings at the MOE Forum, including an exhibit presentation from Mr Timmy Ng, Research Officer.</em>
+<p></p>
 <p>The positive reception of SEAB’s research projects at the MOE Research
 Forum 2025 signaled strong support from the education community and affirmed
 SEAB's research direction and contribution to ministry-wide research goals.
