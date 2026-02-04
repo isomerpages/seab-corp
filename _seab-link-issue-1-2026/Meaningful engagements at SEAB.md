@@ -1,7 +1,7 @@
 ---
 title: Meaningful engagements at SEAB
 permalink: /seab-link-issue-1-2026/meaningful-engagements-at-seab/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>November 2025 marked a significant period of engagement for SEAB, as we
@@ -20,7 +20,9 @@ Darren Skates, Project Manager.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cambridge delegation with SEAB management" src="/images/SEABlink/cambridge_1.png">
 </div>
-<em>Cambridge delegation with SEAB management</em><p></p>
+<p><em>Cambridge delegation with SEAB management</em>
+</p>
+<p></p>
 <p>The three-day visit provided Cambridge delegates with comprehensive insights
 into SEAB's examination processes and digital systems. The delegation received
 detailed demonstrations of SEAB's question paper authoring system and coursework
@@ -45,11 +47,14 @@ efforts in examination and assessment services.&nbsp;&nbsp; &nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="knowledge exchange in action" src="/images/SEABlink/cambridge_3.png">
 </div>
-<em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em>&nbsp;<p></p>
+<p><em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="work and fun go hand in hand" src="/images/SEABlink/cambridge_2.png">
 </div>
-<em>The visit from Cambridge delegates proved that work and fun go hand in hand - from formal discussions to memorable meals and visits in Singapore.</em><p></p>
+<p><em>The visit from Cambridge delegates proved that work and fun go hand in hand - from formal discussions to memorable meals and visits in Singapore.</em>
+</p>
+<p></p>
 <hr>
 <h4><strong>SEAB welcomes MOE colleagues for learning visits</strong>&nbsp;</h4>
 <p>SEAB was pleased to host MOE colleagues across two engagement visits in
@@ -63,11 +68,15 @@ a second group comprising School Leaders from the East Zone.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE Schools Division (North, South, West)" src="/images/SEABlink/MOE_SD_1.png">
 </div>
-<em>MOE Schools Division (North, South, and West Zone) colleagues with SEAB management</em><p></p>
+<p><em>MOE Schools Division (North, South, and West Zone) colleagues with SEAB management</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE East Zone School Leaders" src="/images/SEABlink/MOE_SD_2.png">
 </div>
-<em>MOE East Zone School Leaders with SEAB management</em><p></p>
+<p><em>MOE East Zone School Leaders with SEAB management</em>
+</p>
+<p></p>
 <p>Visitors were first taken on an engaging tour of SEAB’s Heritage Gallery,
 followed by a series of presentations and demonstrations about SEAB’s work,
 from the intricate processes of onscreen marking to a deeper understanding
@@ -75,11 +84,13 @@ of e-Examinations and adaptive testing tools. Visitors from the North,
 South and West Zones also gained valuable insights into Social Studies
 assessment through a rare opportunity to observe live onscreen marking
 sessions and interact with markers.</p>
-<p><strong>17 November 2025 – MOE Schools Division (North, South, West Zones)</strong></p>
+<p><strong>17 November 2025 – MOE Schools Division (North, South, West Zones)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE Schools Division (North, South, West zones)" src="/images/SEABlink/MOE_SD_3.png">
 </div>
-<p><strong>21 November 2025 – East Zone School Leaders</strong></p>
+<p><strong>21 November 2025 – East Zone School Leaders</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="East Zone School Leaders" src="/images/SEABlink/MOE_SD_4.png">
 </div>
@@ -96,31 +107,21 @@ the students’ and teachers’ well-being in mind.</p>
 partnerships with MOE as we collectively support student assessment and
 national education goals.</p>
 <p>&nbsp;</p>
-<p><strong><em>Suggested Reads</em></strong><em>&nbsp;</em>
-</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; &nbsp;</p>
-<p><strong><a href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="Hyperlink SCXW50251179 BCX8" rel="noreferrer noopener" target="_blank">Meaningful Engagements at SEAB</a></strong>&nbsp;</p>
-<p><a href="https://www.seab.gov.sg/seab-link-issue-3-2025/meaningful-engagements-at-seab/" class="Hyperlink SCXW50251179 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB-link Issue 3/2025</u></a>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p><strong><a href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="Hyperlink SCXW50251179 BCX8" rel="noreferrer noopener" target="_blank">Meaningful Engagements and Milestones at SEAB</a></strong>&nbsp;</p>
-<p><a href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="Hyperlink SCXW50251179 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB-link Issue 2/2025</u></a>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<hr>
+<h4><strong>Suggested Reads</strong><em>&nbsp;</em></h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/2025-singapore-cambridge-consultative-committee-meeting/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cambridge CCM" src="/images/SEABlink/cambridge_2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Singapore Cambridge Consultative Committee Meeting</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/meaningful-engagements-at-seab/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Meaningful engagements" src="/images/SEABlink/BCEC_group.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Meaningful engagements at SEAB</div>
+<div class="isomer-card-link">SEAB-link Issue 3/2025</div>
+</div>
+</a>
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
