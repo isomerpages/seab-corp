@@ -34,17 +34,17 @@ on preparing students for an increasingly complex world. Rather than emphasising
 rote learning, the system prioritises developing critical thinking, problem-solving,
 and self-assessment skills. Subjects like Climate Action &amp; Sustainable
 Development exemplify this approach through interdisciplinary, solutions-focused
-projects that encourage students to understand knowledge interconnectedness.&nbsp;</p>
+projects that encourage students to understand knowledge interconnectedness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="St Brigid Primary School - Ireland's first Human Values school" src="/images/SEABlink/ireland_2.png">
 </div>
-<em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;<p></p>
-<p></p>
+<em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A visit to Dalkey School (Project National School)" src="/images/SEABlink/ireland_3.png">
 </div>
-<em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;<p></p>
+<em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>
+<p></p>
 <p></p>
 <p>A standout feature is the optional Transition Year Programme, embraced
 by 75% of students. Schools enjoy autonomy in crafting unique curricula
@@ -74,12 +74,8 @@ affirms Singapore's commitment to developing these skills through its comprehens
 curriculum approach.</p>
 <p>This exchange underscores the value of international collaboration in
 education, providing insights that can inform Singapore's continued curriculum
-evolution.&nbsp;</p>
+evolution.</p>
 <hr>
 <h4><strong>Suggested Reads&nbsp;</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="trip to China" src="/images/SEABlink/china_trip.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from SEAB’s study trip to China </div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
 </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
