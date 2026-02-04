@@ -14,7 +14,7 @@ Certificate (SEC) examinations in 2027, where G1, G2 and G3 subjects are
 conducted within a common window. Sharing the marking load with Cambridge
 would enable the SEC results to be processed in time for results release.&nbsp;</p>
 <hr>
-<h4>N(A)-Level Mathematics Papers 1 and 2&nbsp;</h4>
+<h4><strong>N(A)-Level Mathematics Papers 1 and 2&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Maths - AI generated image" src="/images/SEABlink/maths_markers.png">
@@ -35,7 +35,7 @@ and observe how various approaches to problems were recognised and accepted.&nbs
 <p>Most teachers expressed interest in returning next year, establishing
 a strong foundation for future Mathematics assessments.&nbsp;</p>
 <hr>
-<h4>N(T)-Level Computer Applications Practical&nbsp;</h4>
+<h4><strong>N(T)-Level Computer Applications Practical&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for N(T)-level Computer Applications (CPA) - AI generated image" src="/images/SEABlink/CPA_markers.png">
@@ -61,7 +61,7 @@ spot.&nbsp;&nbsp;</p>
 <p>• Team leads were helpful in clarifying doubts in the mark scheme. Fellow
 CPA colleagues were also helpful in clarifying doubts.&nbsp;&nbsp;</p>
 <hr>
-<h4>Arabic Language Examinations&nbsp;&nbsp;</h4>
+<h4><strong>Arabic Language Examinations&nbsp;&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Arabic language - AI generated image" src="/images/SEABlink/arabic_markers.png">
