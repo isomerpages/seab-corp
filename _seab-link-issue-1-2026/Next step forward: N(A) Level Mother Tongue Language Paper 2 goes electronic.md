@@ -28,14 +28,14 @@ of our Mother Tongue Languages.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chinese Language cloze passage" src="/images/SEABlink/CL_cloze.png">
 </div>
-<p><em>&nbsp;Screenshot of a Chinese Language cloze passage Multiple Choice Question</em>
-</p>
+<em>&nbsp;Screenshot of a Chinese Language cloze passage Multiple Choice Question</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Malay language comprehension" src="/images/SEABlink/ML_compre.png">
 </div>
-<p><em>Close-up of an open-ended Malay Language reading comprehension question</em>
-</p>
+<em>Close-up of an open-ended Malay Language reading comprehension question</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tamil Language drag and drop feature" src="/images/SEABlink/TL_eexam.png">
@@ -43,15 +43,14 @@ of our Mother Tongue Languages.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tamil Language fill in the blanks" src="/images/SEABlink/TL_FIB.png">
 </div>
-<p><em>Interactive items such as drag and drop (above), fill in the blank features (bottom) as shown in the Tamil Language Paper 2 enhance the test-taking experiences of students</em>
-</p>
+<em>Interactive items such as drag and drop (above), fill in the blank features (bottom) as shown in the Tamil Language Paper 2 enhance the test-taking experiences of students</em>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student answering questions on a laptop during Chinese Language e-Exam" src="/images/SEABlink/Student_taking_CL_e_Exams.jpg">
-</div>
-<p><em>A photo of a student answering questions on a laptop during a Chinese Language e-Examination</em>
-</p>
+<em>A photo of a student answering questions on a laptop during a Chinese Language e-Examination</em>
+<p></p>
 <p></p>
 <p>Suggested article:&nbsp;
 <br><strong><a href="https://www.seab.gov.sg/seab-link-issue-3-2025/h2-china-studies-in-english-and-china-studies-in-chinese/" class="Hyperlink SCXW7396287 BCX8" rel="noreferrer noopener" target="_blank"><u>H2 China Studies in English and China Studies in Chinese: 1st Hybrid eWritten exams for Humanities</u></a></strong>&nbsp;</p>
 <p>Suggested YT video feature:&nbsp;</p>
-<p><a href="https://www.youtube.com/watch?v=Fa5VpQFILxI" class="Hyperlink SCXW7396287 BCX8" rel="noreferrer noopener" target="_blank"><u>[2026 Edition] Beyond Pen and Paper: The New Era of Assessment - YouTube</u></a>&nbsp;</p>
+<p><a href="https://www.youtube.com/watch?v=Fa5VpQFILxI" class="Hyperlink SCXW7396287 BCX8" rel="noreferrer noopener" target="_blank"><u>[2026 Edition] Beyond Pen and Paper: The New Era of Assessment - YouTube</u></a>&nbsp;</p></div>
