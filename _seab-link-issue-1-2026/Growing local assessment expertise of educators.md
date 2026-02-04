@@ -19,8 +19,8 @@ would enable the SEC results to be processed in time for results release.&nbsp;<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Maths - AI generated image" src="/images/SEABlink/maths_markers.png">
 </div>
-<p><em>AI-generated image</em>
-</p>
+<em>AI-generated image</em>
+<p></p>
 <p></p>
 <p>SEAB took over the marking of the N(A)-level Mathematics examinations,
 further developing local assessment expertise in the process.&nbsp;</p>
@@ -40,8 +40,8 @@ a strong foundation for future Mathematics assessments.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for N(T)-level Computer Applications (CPA) - AI generated image" src="/images/SEABlink/CPA_markers.png">
 </div>
-<p><em>AI-generated image</em>
-</p>
+<em>AI-generated image</em>
+<p></p>
 <p></p>
 <p>Simultaneously, we have successfully transitioned the marking of N(T)-Level
 Computer Applications (CPA) Practical Paper 3 locally. Paper 3 requires
@@ -53,21 +53,21 @@ marking exercise in November. The feedback received was predominantly positive,
 with markers rating their experience highly on both satisfaction (3.6 out
 of 4 on ‘I am happy with the marking experience’) and professional growth
 (3.9 out of 4 on “Taking part in the marking exercise helps in my professional
-growth”).&nbsp;</p>
+growth”).</p>
 <p>Pertinent feedback included:&nbsp;&nbsp;</p>
 <p>• The marking of exercise was well-executed, level of support during the
 marking was also very high. We could seek help for any questions on the
-spot.&nbsp;&nbsp;</p>
+spot.</p>
 <p>• Team leads were helpful in clarifying doubts in the mark scheme. Fellow
-CPA colleagues were also helpful in clarifying doubts.&nbsp;&nbsp;</p>
+CPA colleagues were also helpful in clarifying doubts.</p>
 <hr>
 <h4><strong>Arabic Language Examinations&nbsp;&nbsp;</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Arabic language - AI generated image" src="/images/SEABlink/arabic_markers.png">
 </div>
-<p><em>AI-generated image</em>
-</p>
+<em>AI-generated image</em>
+<p></p>
 <p></p>
 <p>The other milestone in 2025 was the complete ownership of test development,
 marking, and grading for the O-Level Arabic and AO-Level Arabic examinations,
