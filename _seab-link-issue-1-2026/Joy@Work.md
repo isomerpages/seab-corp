@@ -15,7 +15,7 @@ and small, demonstrate SEAB's commitment to creating a workplace where
 staff feel valued, connected, and genuinely enjoy being part of the SEAB
 family.</p>
 <hr>
-<h4><strong>Deepavali Joy at SEAB</strong>&nbsp;</h4>
+<h4><strong>Deepavali Joy at SEAB</strong></h4>
 <p>The Deepavali celebration on 24 October 2025 at SEAB demonstrated how
 festive occasions can strengthen workplace bonds and boost morale.</p>
 <p>Officers from different ethnic backgrounds came together to prepare traditional
@@ -24,8 +24,8 @@ experience for all staff.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="appetising Deepavali spread" src="/images/SEABlink/deepa1.png">
 </div>
-<p><em>An appetising display of Deepavali favourites greeted the staff</em>
-</p>
+<em>An appetising display of Deepavali favourites greeted the staff</em>
+<p></p>
 <p></p>
 <p>Besides the delightful spread of traditional delicacies including curry
 puffs, vadai, and freshly prepared teh tarik, what made this celebration
@@ -36,8 +36,8 @@ colours that transformed the workplace atmosphere during the busy period.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="vibrant attire matching vibrant spirits" src="/images/SEABlink/deepa4.png">
 </div>
-<p><em>Vibrant attire matching vibrant spirits during the Deepavali festivities.</em>
-</p>
+<em>Vibrant attire matching vibrant spirits during the Deepavali festivities.</em>
+<p></p>
 <p></p>
 <p>Two staff members stepped up to showcase their teh tarik pouring techniques
 in an exciting ‘Teh Tarik Challenge’. Their performances drew enthusiastic
@@ -47,8 +47,7 @@ and shared enjoyment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="teh tarik challenge" src="/images/SEABlink/deepa2.png">
 </div>
-<p><em>Despite having no experience, the participants put their heart into the teh tarik challenge.</em>
-</p>
+<em>Despite having no experience, the participants put their heart into the teh tarik challenge.</em>
 <p></p>
 <p>SEAB management participated in the symbolic lighting of oil lamps. This
 ceremonial lighting of oil lamps symbolised the leadership's dedication
@@ -61,19 +60,18 @@ for this important festival.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="oil lamp lighting" src="/images/SEABlink/deepa3.png">
 </div>
-<p><em>SEAB management participated in the timeless tradition of lighting oil lamps</em>
-</p>
+<em>SEAB management participated in the timeless tradition of lighting oil lamps</em>
 <p></p>
 <p>The highlight was undoubtedly the energetic Bhangra performance by the
 Yaar-Panjaab Phangra (YPP) troupe, whose vibrant costumes and infectious
 enthusiasm drew staff onto the stage to learn traditional dance moves.
 This interactive element perfectly captured the spirit of Deepavali as
-a celebration that brings people together across cultural boundaries.&nbsp;</p>
+a celebration that brings people together across cultural boundaries.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="bhangra performance" src="/images/SEABlink/deepa5.png">
 </div>
-<p><em>Staff joined the vibrant Bhangra dancers on stage, embracing the joy and unity of Deepavali celebrations.</em>
-</p>
+<em>Staff joined the vibrant Bhangra dancers on stage, embracing the joy and unity of Deepavali celebrations.</em>
+<p></p>
 <p></p>
 <p></p>
 <hr>
@@ -85,8 +83,8 @@ and savoury festive treats.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="sumptuous year-end feast" src="/images/SEABlink/yec1.png">
 </div>
-<p><em> SEAB staff enjoying their sumptuous festive treats.</em>
-</p>
+<em> SEAB staff enjoying their sumptuous festive treats.</em>
+<p></p>
 <p></p>
 <p>In his year-end speech, SEAB's Chief Executive, Mr Yue Lip Sin, summarised
 the year through three meaningful themes: <strong>Purpose in our work, Joy at work, and Pride in our work</strong>.
@@ -107,8 +105,8 @@ on the organisation, and SEAB wished him the very best in his future endeavours.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Former DAPD Tan Kuo Cheang giving his farewell speech" src="/images/SEABlink/yec2.png">
 </div>
-<p><em>Former Director of Assessment Planning and Development Division, Mr Tan Kuo Cheang giving his farewell speech during the year-end session</em>
-</p>
+<em>Former Director of Assessment Planning and Development Division, Mr Tan Kuo Cheang giving his farewell speech during the year-end session</em>
+<p></p>
 <p></p>
 <p>Energy soared as the celebration moved into a lively game of "Santa Says,
 Stand Up If...” which got everyone on their feet and buzzing with excitement.
@@ -122,14 +120,14 @@ camaraderie across levels!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Christmas tree decorations" src="/images/SEABlink/yec3.png">
 </div>
-<p><em>Creative Christmas tree decorations by Levels 7, 8, and 9 (from left to right).</em>
-</p>
+<em>Creative Christmas tree decorations by Levels 7, 8, and 9 (from left to right).</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" alt="Winner is Level 8" src="/images/SEABlink/yec4.png">
 </div>
-<p><em>Mr Yue presenting the certificate of achievement to Ms Tan Jia Min, the level representative for level 8 which won the Christmas tree decoration competition.</em>
-</p>
+<em>Mr Yue presenting the certificate of achievement to Ms Tan Jia Min, the level representative for level 8 which won the Christmas tree decoration competition.</em>
+<p></p>
 <p></p>
 <p>After the games and competition, the crowd settled down for a heartwarming
 video presentation featuring heartfelt reflections from colleagues as they
@@ -140,14 +138,14 @@ eagerly drew out their lucky numbers in anticipation of their prizes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="staff collecting prizes" src="/images/SEABlink/yec5.png">
 </div>
-<p><em>SEAB staff eagerly collecting their prizes after drawing their lucky numbers.</em>
-</p>
+<em>SEAB staff eagerly collecting their prizes after drawing their lucky numbers.</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="happy recipients" src="/images/SEABlink/yec6.png">
 </div>
-<p><em>SEAB staff showing their prizes after drawing their lucky numbers. Happy faces all around!</em>
-</p>
+<em>SEAB staff showing their prizes after drawing their lucky numbers. Happy faces all around!</em>
+<p></p>
 <p></p>
 <p>As the "It's (Finally) Friday Season's Greetings" event drew to a close,
 it was clear that this celebration achieved exactly what it set out to
@@ -155,8 +153,8 @@ do: closing 2025 on a high note filled with joy, gratitude, and togetherness.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 SEABlings committee" src="/images/SEABlink/yec7.png">
 </div>
-<p><em>Members of the 2025 SEABlings’ Committee which organised the "It's (Finally) Friday Season's Greetings" event with SEAB's Chief Executive, Mr Yue Lip Sin.</em>
-</p>
+<em>Members of the 2025 SEABlings’ Committee which organised the "It's (Finally) Friday Season's Greetings" event with SEAB's Chief Executive, Mr Yue Lip Sin.</em>
+<p></p>
 <p></p>
 <hr>
 <h4><strong>Weathering through the exam season with sweet treats (bubble tea, ice cream)</strong></h4>
@@ -173,8 +171,8 @@ where they could choose from 11 exciting flavours!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="queuing up for treats" src="/images/SEABlink/hr1.png">
 </div>
-<p><em>Staff queuing up eagerly for their choice of bubble tea and ice cream treats</em>
-</p>
+<em>Staff queuing up eagerly for their choice of bubble tea and ice cream treats</em>
+<p></p>
 <p></p>
 <p>These mini treats provided everyone with a well-deserved short break from
 their work, while creating an opportunity for staff from different divisions
@@ -184,11 +182,10 @@ you to all staff for all the commitment and hard work once again!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="well-deserved treats for staff" src="/images/SEABlink/hr2.png">
 </div>
-<p><em>SEAB staff enjoying their well-deserved treats and connecting with colleagues from across different divisions</em>
-</p>
+<em>SEAB staff enjoying their well-deserved treats and connecting with colleagues from across different divisions</em>
+<p></p>
 <hr>
-<h4><strong>Suggested Reads</strong>&nbsp;</h4>
-<p>&nbsp;</p>
+<h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-1-2025/seab-20-joy-at-work/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SEAB@20: Joy at Work" src="/images/SEABlink/yec2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB@20: Joy at Work</div><div class="isomer-card-link">SEAB-link Issue 1/2025</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card">
 <div class="isomer-card-image">
