@@ -82,8 +82,8 @@ between SEAB, educational institutions, and our dedicated educators creates
 stronger, more responsive assessment systems that better serve our students
 and maintain the high standards Singapore's education system is known for.&nbsp;</p>
 <hr>
-<h4><strong>Suggested Reads:&nbsp;</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-hosts-moe-assessment-champions-nlc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Assessment Champions 2025" src="/images/SEABlink/CE_assessmentchampion.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB Hosts MOE Assessment Champions Networked Learning Community (NLC)</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
+<h4><strong>Suggested Reads</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-hosts-moe-assessment-champions-nlc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Assessment Champions 2025" src="/images/SEABlink/CE_assessmentchampion.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB hosts MOE Assessment Champions Networked Learning Community (NLC)</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
 </div>
 <p></p>
 <p>&nbsp;</p>
