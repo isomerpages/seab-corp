@@ -23,102 +23,34 @@ more complete responses.&nbsp;</p>
 <p>This milestone represents more than just a technological upgrade—it's
 a testament to SEAB’s commitment to evolving our assessment to prepare
 our students for the future workplace, while preserving the rich heritage
-of our Mother Tongue Languages.&nbsp;&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Photo</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Caption</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Screenshot of a Chinese Language cloze passage Multiple Choice Question&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Close-up of an open-ended Malay Language reading comprehension question&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Interactive items such as drag and drop, fill in the blank features as
-shown in the Tamil Language Paper 2 enhances the test-taking experiences
-of students.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Screenshot of a Fill in the Blank question (TL)&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language Key personnel marking team completing final checks of
-candidates’ scripts.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Markers focusing on the N(A)-Level Tamil Language Paper 2&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Great minds think alike... and dress alike! Markers for the Malay Language
-color-coordinating their outfits daily, making marking season memorable&nbsp;&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+of our Mother Tongue Languages.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chinese Language cloze passage" src="/images/SEABlink/CL_cloze.png">
+</div>
+<p><em>&nbsp;Screenshot of a Chinese Language cloze passage Multiple Choice Question</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Malay language comprehension" src="/images/SEABlink/ML_compre.png">
+</div>
+<p><em>Close-up of an open-ended Malay Language reading comprehension question</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tamil Language drag and drop feature" src="/images/SEABlink/TL_eexam.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tamil Language fill in the blanks" src="/images/SEABlink/TL_FIB.png">
+</div>
+<p><em>Interactive items such as drag and drop (above), fill in the blank features (bottom) as shown in the Tamil Language Paper 2 enhance the test-taking experiences of students</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student answering questions on a laptop during Chinese Language e-Exam" src="/images/SEABlink/Student_taking_CL_e_Exams.jpg">
+</div>
+<p><em>A photo of a student answering questions on a laptop during a Chinese Language e-Examination</em>
+</p>
+<p></p>
 <p>Suggested article:&nbsp;
 <br><strong><a href="https://www.seab.gov.sg/seab-link-issue-3-2025/h2-china-studies-in-english-and-china-studies-in-chinese/" class="Hyperlink SCXW7396287 BCX8" rel="noreferrer noopener" target="_blank"><u>H2 China Studies in English and China Studies in Chinese: 1st Hybrid eWritten exams for Humanities</u></a></strong>&nbsp;</p>
 <p>Suggested YT video feature:&nbsp;</p>
