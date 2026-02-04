@@ -54,11 +54,11 @@ with markers rating their experience highly on both satisfaction (3.6 out
 of 4 on ‘I am happy with the marking experience’) and professional growth
 (3.9 out of 4 on “Taking part in the marking exercise helps in my professional
 growth”).</p>
-<p>Pertinent feedback included:&nbsp;&nbsp;</p>
+<p>Pertinent feedback included:</p>
 <p>• The marking of exercise was well-executed, level of support during the
 marking was also very high. We could seek help for any questions on the
-spot.</p>
-<p>• Team leads were helpful in clarifying doubts in the mark scheme. Fellow
+spot.
+</p><p>• Team leads were helpful in clarifying doubts in the mark scheme. Fellow
 CPA colleagues were also helpful in clarifying doubts.</p>
 <hr>
 <h4><strong>Arabic Language Examinations&nbsp;&nbsp;</strong></h4>
@@ -67,7 +67,6 @@ CPA colleagues were also helpful in clarifying doubts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Arabic language - AI generated image" src="/images/SEABlink/arabic_markers.png">
 </div>
 <em>Ongoing collaboration between SEAB and MUIS enables effective transition in test development (AI-generated image)</em>
-<p></p>
 <p></p>
 <p>The other milestone in 2025 was the complete ownership of test development,
 marking, and grading for the O-Level Arabic and AO-Level Arabic examinations,
@@ -85,5 +84,3 @@ and maintain the high standards Singapore's education system is known for.&nbsp;
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-hosts-moe-assessment-champions-nlc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Assessment Champions 2025" src="/images/SEABlink/CE_assessmentchampion.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB hosts MOE Assessment Champions Networked Learning Community (NLC)</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
 </div>
-<p></p>
-<p>&nbsp;</p>
