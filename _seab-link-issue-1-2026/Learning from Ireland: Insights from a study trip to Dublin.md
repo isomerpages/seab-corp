@@ -17,11 +17,10 @@ and Science.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore delegates with Ireland's Chief Inspector and Irish MOE representatives" src="/images/SEABlink/ireland_1.png">
 </div>
-<p><em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
-</p>
+<em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
+<p></p>
 <p><strong>Understanding Ireland’s education system</strong>
-</p>
-<p>Ireland operates an 8-3-2 education structure: eight years of primary
+<br>Ireland operates an 8-3-2 education structure: eight years of primary
 education (including Junior and Senior Infant levels), followed by three
 years of Junior cycle and two years of Senior cycle, culminating in the
 Leaving Certificate examination. The delegation engaged with key Irish
@@ -29,8 +28,7 @@ education officials, including the Chief Inspector from the Department
 of Education and Youth, and Directors from the National Council of Curriculum
 and Assessment and Educational Research Centre Ireland.&nbsp;</p>
 <p><strong>Recent educational reforms in Ireland</strong>
-</p>
-<p>The Irish curriculum reforms, currently in early implementation, centre
+<br>The Irish curriculum reforms, currently in early implementation, centre
 on preparing students for an increasingly complex world. Rather than emphasising
 rote learning, the system prioritises developing critical thinking, problem-solving,
 and self-assessment skills. Subjects like Climate Action &amp; Sustainable
@@ -39,12 +37,12 @@ projects that encourage students to understand knowledge interconnectedness.&nbs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="St Brigid Primary School - Ireland's first Human Values school" src="/images/SEABlink/ireland_2.png">
 </div>
-<p><em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;</p>
+<em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A visit to Dalkey School (Project National School)" src="/images/SEABlink/ireland_3.png">
 </div>
-<p><em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;</p>
+<em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;<p></p>
 <p></p>
 <p>A standout feature is the optional Transition Year Programme, embraced
 by 75% of students. Schools enjoy autonomy in crafting unique curricula
@@ -55,11 +53,10 @@ work experience placements, and document their learning through portfolios.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="King's Hospital School" src="/images/SEABlink/ireland_4.png">
 </div>
-<p><em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
-</p>
+<em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
+<p></p>
 <p><strong>Balanced assessment approaches</strong>
-</p>
-<p>Ireland's assessment reforms are equally noteworthy. The Junior Cycle
+<br>Ireland's assessment reforms are equally noteworthy. The Junior Cycle
 Profile of Achievement incorporates classroom-based assessments alongside
 state examinations, with teachers using externally provided guidelines.
 The upcoming Senior Cycle reform (2025-2029) will introduce additional
@@ -67,8 +64,7 @@ assessment components worth at least 40% of total marks. Comprising portfolios,
 projects, and oral assessments, they are designed to assess a wider range
 of skills whilst reducing reliance on high-stakes written examinations.</p>
 <p><strong>An affirmation of Singapore's direction</strong>
-</p>
-<p>The study trip validated many of Singapore's curriculum initiatives, particularly
+<br>The study trip validated many of Singapore's curriculum initiatives, particularly
 in well-being, values education, and 21st-century competencies development.
 Ireland's integration of key competencies like metacognition into its curriculum
 affirms Singapore's commitment to developing these skills through its comprehensive
