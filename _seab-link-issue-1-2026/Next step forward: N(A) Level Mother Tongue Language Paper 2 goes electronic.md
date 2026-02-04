@@ -56,10 +56,10 @@ of our Mother Tongue Languages.&nbsp;</p>
 </div>
 <p><em>A photo of a student answering questions on a laptop during a Chinese Language e-Examination</em>
 </p>
-<p></p>
+<hr>
 <h4><strong>Suggested Reads</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/h2-china-studies-in-english-and-china-studies-in-chinese/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/e_exam_china_studies.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">H2 China Studies in English and China Studies in Chinese: 1st Hybrid eWritten exams for Humanities </div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/h2-china-studies-in-english-and-china-studies-in-chinese/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEABlink/e_exam_china_studies.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">H2 China Studies in English and China Studies in Chinese: 1st Hybrid eWritten exams for Humanities</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=Fa5VpQFILxI" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
