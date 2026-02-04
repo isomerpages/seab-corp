@@ -31,7 +31,7 @@ the Academy of Singapore Teachers.</p>
 throughout the marking exercise. They valued the professional development
 opportunity, particularly the chance to examine student responses firsthand
 and observe how various approaches to problems were recognised and accepted.</p>
-<p>Most teachers expressed interest in returning next year, establishing
+<p>Most teachers expressed interest in returning in the 2026 marking exercise, establishing
 a strong foundation for future Mathematics assessments.</p>
 <hr>
 <h4><strong>N(T)-Level Computer Applications Practical</strong></h4>
