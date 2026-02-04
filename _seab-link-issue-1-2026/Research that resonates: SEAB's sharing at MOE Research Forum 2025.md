@@ -1,7 +1,7 @@
 ---
 title: "Research that resonates: SEAB's sharing at MOE Research Forum 2025"
 permalink: /seab-link-issue-1-2026/research-that-resonates-seab-s-sharing-at-moe-research-forum-2025/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>SEAB was invited to showcase our research projects at the annual MOE Research
@@ -20,11 +20,15 @@ of essential 21st-century competencies.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Presenters from SEAB for the 21CC Science task" src="/images/SEABlink/moe_forum_1.png">
 </div>
-<em>(From left to right) From SEAB, Dr Diana Ng, Senior Assessment Specialist (Sciences), Ms Gail Yap and Ms Rinhi Tan, Research Officers, shared how students demonstrated scientific thinking and problem-solving in meaningful contexts</em><p></p>
+<p><em>(From left to right) From SEAB, Dr Diana Ng, Senior Assessment Specialist (Sciences), Ms Gail Yap and Ms Rinhi Tan, Research Officers, shared how students demonstrated scientific thinking and problem-solving in meaningful contexts</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Presenters from SEAB for Read2LearnEL tool" src="/images/SEABlink/moe_forum_2.png">
 </div>
-<em>Dr Rajenthiran Sellan (left), Lead Assessment Specialist (Languages and Literature) and Dr Koh Poh Wee (right), Acting Senior Research Specialist, shared insights on the SEAB's Read2Learn</em><sup> </sup><em><sup>EL</sup> tool and its impact on students’ reading comprehension and learning strategies</em><p></p>
+<p><em>Dr Rajenthiran Sellan (left), Lead Assessment Specialist (Languages and Literature) and Dr Koh Poh Wee (right), Acting Senior Research Specialist, shared insights on the SEAB's Read2Learn</em><sup> </sup><em><sup>EL</sup> tool and its impact on students’ reading comprehension and learning strategies</em>
+</p>
+<p></p>
 <p>The enthusiastic audience response extended beyond mere attendance numbers.
 The 21CC Science Task session generated particularly thought-provoking
 questions from the audience who were eager to understand how this innovative
@@ -40,40 +44,30 @@ that students require in an increasingly complex world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Positive audience response and exhibit presentation" src="/images/SEABlink/moe_forum_3.png">
 </div>
-<em>Positive audience response to SEAB's innovative research findings at the MOE Forum, including an exhibit presentation from Mr Timmy Ng, Research Officer.</em><p></p>
+<p><em>Positive audience response to SEAB's innovative research findings at the MOE Forum, including an exhibit presentation from Mr Timmy Ng, Research Officer.</em>
+</p>
 <p>The positive reception of SEAB’s research projects at the MOE Research
 Forum 2025 signaled strong support from the education community and affirmed
 SEAB's research direction and contribution to ministry-wide research goals.
 As these projects continue to develop, they offer valuable insights into
 how assessment can better serve both learning and teaching in Singapore's
 evolving educational landscape.&nbsp;</p>
-
-<p><strong><em>Suggested Reads</em></strong><em>&nbsp;</em>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p><strong>SEAB Showcases Adaptive Testing Tools to Educators</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p><a href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-showcases-adaptive-testing-tools-to-educators/" class="Hyperlink SCXW115052058 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB-link Issue 3/2025</u></a>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>SEAB’s Participation in 7<sup>th</sup> International Conference on Education Evaluation and Monitoring</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p><a href="https://www.seab.gov.sg/seab-link-issue-1-2025/7th-international-conference-on-education-evaluation-and-monitoring/" class="Hyperlink SCXW115052058 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB-link Issue 1/2025</u></a>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<hr>
+<h4><strong>Suggested Reads</strong>&nbsp;</h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-showcases-adaptive-testing-tools-to-educators/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="adaptive testing tools showcase" src="/images/SEABlink/rdd_showcase.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB showcases adaptive testing tools to educators</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-1-2025/7th-international-conference-on-education-evaluation-and-monitoring/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SEABlink/pic2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SEAB's participation in 7th International Conference on Education Evaluation
+and Monitoring</div>
+<div class="isomer-card-link">SEAB-link Issue 1/2025</div>
+</div>
+</a>
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
