@@ -10,7 +10,7 @@ these examinations using school-owned devices.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="N(T)-Level Science e-Exam leverages on rich multimedia like animations, simulations and videos" src="/images/SEABlink/e_exams_pld_1.png">
 </div>
-<p><em>The N(T)-Level Science e-Examination leverages on rich multimedia like animations, simulations and videos.</em>&nbsp;</p>
+<em>The N(T)-Level Science e-Examination leverages on rich multimedia like animations, simulations and videos.</em>&nbsp;<p></p>
 <p>As part of the Personalised Digital Learning Programme (PDLP) implemented
 in 2021, secondary school students have been using their Personal Learning
 Devices (PLDs) regularly in classroom learning and assessment.&nbsp;&nbsp;</p>
@@ -21,9 +21,8 @@ knowledge and skills using a device that they are familiar with.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students use digital answer booklets on their PLDs and refer to hardcopy question paper" src="/images/SEABlink/e_exams_pld_2.png">
-</div>
-<p><em>Students refer to a hardcopy question paper and type their responses on a Digital Answer Booklet (DAB) on their PLDs for the e-Examination component of the Social Studies subject.&nbsp;</em>&nbsp;</p>
-<h4><strong>Studies on Use of PLDs in Time-Based Assessments</strong>&nbsp;</h4>
+<em>Students refer to a hardcopy question paper and type their responses on a Digital Answer Booklet (DAB) on their PLDs for the e-Examination component of the Social Studies subject.&nbsp;</em>&nbsp;<p></p>
+<h4><strong>Studies on use of PLDs in time-based assessments</strong>&nbsp;</h4>
 <p>The use of students’ own electronic device in e-Examinations is a practice
 already adopted by various established examination boards, such as New
 Zealand, Australia and Finland. Research has shown no significant differences
@@ -44,8 +43,8 @@ PLDs in such assessments during the studies:&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Briefing and demo for schools" src="/images/SEABlink/e_exams_pld_3_teachers.png">
 </div>
-<p><em>SEAB conducted briefing and demonstration sessions for the teachers in the pilot schools.&nbsp;</em>&nbsp;</p>
-<h4>&nbsp;<br><strong>Successful Implementation of e-Examinations Using PLDs</strong>&nbsp;</h4>
+<em>SEAB conducted briefing and demonstration sessions for the teachers in the pilot schools.&nbsp;</em>&nbsp;<p></p>
+<h4>&nbsp;<br><strong>Successful implementation of e-Examinations using PLDs</strong>&nbsp;</h4>
 <p>Students from Crest Secondary School and Spectra Secondary School were
 the first to use their PLDs in the 2025 national e-Examinations.&nbsp;</p>
 <p>Before the examinations, students from both schools were guided on the
@@ -59,11 +58,11 @@ Science and Mother Tongue Languages e-Examinations with their PLDs.&nbsp;&nbsp;<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Crest and Spectra showed positive engagement during practice sessions" src="/images/SEABlink/e_exams_pld_crest_spectra.png">
 </div>
-<p><em>Students from Crest Secondary (top) and Spectra Secondary (bottom) demonstrated positive engagement during the practice sessions, effectively utilising their PLDs in preparation for the e-Examinations.&nbsp;</em>&nbsp;</p>
+<em>Students from Crest Secondary (top) and Spectra Secondary (bottom) demonstrated positive engagement during the practice sessions, effectively utilising their PLDs in preparation for the e-Examinations.&nbsp;</em>&nbsp;<p></p>
 <p>Feedback from the teachers and students in the two schools were positive.
 Overall, close to 90% of students reported that they were comfortable using
 their PLDs for national e-Examinations.&nbsp;</p>
 <p>With the positive results from the 2025 examinations, SEAB looks forward
 to working with more schools to journey on the use of students’ PLDs in
 e-Examinations!&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p></div>
