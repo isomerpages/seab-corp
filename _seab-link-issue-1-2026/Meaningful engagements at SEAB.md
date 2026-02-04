@@ -10,18 +10,18 @@ relationships and share insights into Singapore's assessment landscape.
 These visits served as vital opportunities for building bridges through
 knowledge exchange, exemplifying SEAB's commitment to fostering meaningful
 partnerships that enhance examination standards and support educational
-excellence.&nbsp;</p>
+excellence.</p>
 <hr>
-<h4><strong>SEAB welcomes Cambridge delegation</strong>&nbsp;</h4>
+<h4><strong>SEAB welcomes Cambridge delegation</strong></h4>
 <p>On 5 to 7 November 2025, SEAB hosted a delegation from Cambridge, comprising
 Mr Jonathan Griffiths, Principal Assessment Advisor (Singapore), International
 Education, Mr Simon Plummer, Senior Ministry Partnership Manager, and Mr
-Darren Skates, Project Manager.&nbsp;</p>
+Darren Skates, Project Manager.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cambridge delegation with SEAB management" src="/images/SEABlink/cambridge_1.png">
 </div>
-<p><em>Cambridge delegation with SEAB management</em>
-</p>
+<em>Cambridge delegation with SEAB management</em>
+<p></p>
 <p></p>
 <p>The three-day visit provided Cambridge delegates with comprehensive insights
 into SEAB's examination processes and digital systems. The delegation received
@@ -34,29 +34,29 @@ from receiving papers from schools to scanning operations, and engaged
 in discussions about potential process improvements. They also visited
 Hwa Chong Institution to witness a live e-Examination in progress, gaining
 on-the-ground perspective of how digital examinations are conducted in
-schools.&nbsp;</p>
+schools.</p>
 <p>Other highlights included a tour of SEAB's Heritage Gallery, showcasing
 the longstanding partnership between Singapore and Cambridge, and demonstrations
 of the eMarking system and live marking exercises using the Onscreen Marking
 (OSM) platform. The delegation also participated in discussions on Singapore-Cambridge
 Secondary Education Certificate (SEC) implementation, syllabus development,
-and other assessment matters.&nbsp;</p>
+and other assessment matters.</p>
 <p>The visit strengthened the ongoing partnership between SEAB and Cambridge,
 providing both parties with opportunities to enhance their collaborative
-efforts in examination and assessment services.&nbsp;&nbsp; &nbsp;&nbsp;</p>
+efforts in examination and assessment services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="knowledge exchange in action" src="/images/SEABlink/cambridge_3.png">
 </div>
-<p><em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em>&nbsp;</p>
+<em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em><p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="work and fun go hand in hand" src="/images/SEABlink/cambridge_2.png">
 </div>
-<p><em>The visit from Cambridge delegates proved that work and fun go hand in hand - from formal discussions to memorable meals and visits in Singapore.</em>
-</p>
+<em>The visit from Cambridge delegates proved that work and fun go hand in hand - from formal discussions to memorable meals and visits in Singapore.</em>
+<p></p>
 <p></p>
 <hr>
-<h4><strong>SEAB welcomes MOE colleagues for learning visits</strong>&nbsp;</h4>
+<h4><strong>SEAB welcomes MOE colleagues for learning visits</strong></h4>
 <p>SEAB was pleased to host MOE colleagues across two engagement visits in
 November 2025. The sessions were part of our ongoing efforts to build stronger
 partnerships with schools and enhance understanding of SEAB’s operations
@@ -64,18 +64,18 @@ and innovations. The first visit on 17 November 2025 was led by Zonal Directors
 from Schools Division, Mr Andrew Lim (South Zone) and Ms Theodora Tan (West
 Zone). The group comprised Cluster Superintendents and Special Assistants
 from the North, South, and West Zones. On 21 November 2025, SEAB welcomed
-a second group comprising School Leaders from the East Zone.&nbsp;</p>
+a second group comprising School Leaders from the East Zone.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE Schools Division (North, South, West)" src="/images/SEABlink/MOE_SD_1.png">
 </div>
-<p><em>MOE Schools Division (North, South, and West Zone) colleagues with SEAB management</em>
-</p>
+<em>MOE Schools Division (North, South, and West Zone) colleagues with SEAB management</em>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE East Zone School Leaders" src="/images/SEABlink/MOE_SD_2.png">
 </div>
-<p><em>MOE East Zone School Leaders with SEAB management</em>
-</p>
+<em>MOE East Zone School Leaders with SEAB management</em>
+<p></p>
 <p></p>
 <p>Visitors were first taken on an engaging tour of SEAB’s Heritage Gallery,
 followed by a series of presentations and demonstrations about SEAB’s work,
@@ -106,9 +106,9 @@ the students’ and teachers’ well-being in mind.</p>
 <p>SEAB looks forward to continuing these engagements and fostering closer
 partnerships with MOE as we collectively support student assessment and
 national education goals.</p>
-<p>&nbsp;</p>
+<p></p>
 <hr>
-<h4><strong>Suggested Reads</strong><em>&nbsp;</em></h4>
+<h4><strong>Suggested Reads</strong><em></em></h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/2025-singapore-cambridge-consultative-committee-meeting/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cambridge CCM" src="/images/SEABlink/cambridge_2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 Singapore Cambridge Consultative Committee Meeting</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/meaningful-engagements-at-seab/" class="isomer-card">
