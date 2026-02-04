@@ -19,7 +19,7 @@ would enable the SEC results to be processed in time for results release.&nbsp;<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Maths - AI generated image" src="/images/SEABlink/maths_markers.png">
 </div>
-<em>AI-generated image</em>
+<em>Strong teacher engagement with valuable insights gained through the hands-on marking experience (AI-generated image)</em>
 <p></p>
 <p></p>
 <p>SEAB took over the marking of the N(A)-level Mathematics examinations,
@@ -40,7 +40,7 @@ a strong foundation for future Mathematics assessments.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for N(T)-level Computer Applications (CPA) - AI generated image" src="/images/SEABlink/CPA_markers.png">
 </div>
-<em>AI-generated image</em>
+<em>Markers appreciated the marking support and timely clarification of queries (AI-generated image)</em>
 <p></p>
 <p></p>
 <p>Simultaneously, we have successfully transitioned the marking of N(T)-Level
@@ -66,7 +66,7 @@ CPA colleagues were also helpful in clarifying doubts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Arabic language - AI generated image" src="/images/SEABlink/arabic_markers.png">
 </div>
-<em>AI-generated image</em>
+<em>Ongoing collaboration between SEAB and MUIS enables effective transition in test development (AI-generated image)</em>
 <p></p>
 <p></p>
 <p>The other milestone in 2025 was the complete ownership of test development,
