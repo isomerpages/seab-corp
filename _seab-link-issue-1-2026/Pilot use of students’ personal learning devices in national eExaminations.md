@@ -23,7 +23,7 @@ knowledge and skills using a device that they are familiar with.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students use digital answer booklets on their PLDs and refer to hardcopy question paper" src="/images/SEABlink/e_exams_pld_2.png">
 </div>
-<em>Students refer to a hardcopy question paper and type their responses on a Digital Answer Booklet (DAB) on their PLDs for the e-Examination component of the Social Studies subject.</em>
+<em>Students refer to a hardcopy question paper and type their responses into a Digital Answer Booklet (DAB) on their PLDs for the e-Examination component of the Social Studies subject.</em>
 <p></p>
 <p><strong>Studies on use of PLDs in time-based assessments</strong>
 <br>The use of students’ own electronic device in e-Examinations is a practice
