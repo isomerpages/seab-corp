@@ -1,7 +1,7 @@
 ---
 title: Growing local assessment expertise of educators
 permalink: /seab-link-issue-1-2026/growing-local-assessment-expertise-of-educators/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>SEAB has made considerable strides in 2025, expanding our local assessment
@@ -19,7 +19,8 @@ would enable the SEC results to be processed in time for results release.&nbsp;<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Maths - AI generated image" src="/images/SEABlink/maths_markers.png">
 </div>
-<em>AI-generated image</em>
+<p><em>AI-generated image</em>
+</p>
 <p></p>
 <p>SEAB took over the marking of the N(A)-level Mathematics examinations,
 further developing local assessment expertise in the process.&nbsp;</p>
@@ -39,7 +40,8 @@ a strong foundation for future Mathematics assessments.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for N(T)-level Computer Applications (CPA) - AI generated image" src="/images/SEABlink/CPA_markers.png">
 </div>
-<em>AI-generated image</em>
+<p><em>AI-generated image</em>
+</p>
 <p></p>
 <p>Simultaneously, we have successfully transitioned the marking of N(T)-Level
 Computer Applications (CPA) Practical Paper 3 locally. Paper 3 requires
@@ -64,7 +66,8 @@ CPA colleagues were also helpful in clarifying doubts.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="group of markers for Arabic language - AI generated image" src="/images/SEABlink/arabic_markers.png">
 </div>
-<em>AI-generated image</em>
+<p><em>AI-generated image</em>
+</p>
 <p></p>
 <p>The other milestone in 2025 was the complete ownership of test development,
 marking, and grading for the O-Level Arabic and AO-Level Arabic examinations,
@@ -79,6 +82,8 @@ between SEAB, educational institutions, and our dedicated educators creates
 stronger, more responsive assessment systems that better serve our students
 and maintain the high standards Singapore's education system is known for.&nbsp;</p>
 <hr>
-<p>Suggested article:&nbsp;</p>
-<p><a href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-hosts-moe-assessment-champions-nlc/" class="Hyperlink BCX8 SCXW92711958" rel="noreferrer noopener" target="_blank"><u>SEAB Hosts MOE Assessment Champions Networked Learning Community (NLC)</u></a>&nbsp;</p>
+<h4><strong>Suggested Reads:&nbsp;</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-hosts-moe-assessment-champions-nlc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB Hosts MOE Assessment Champions Networked Learning Community (NLC)</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
+</div>
+<p></p>
 <p>&nbsp;</p>
