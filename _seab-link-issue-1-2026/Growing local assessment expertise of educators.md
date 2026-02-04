@@ -19,8 +19,8 @@ would enable the SEC results to be processed in time for results release.&nbsp;<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="maths markers collaborate" src="/images/SEABlink/ChatGPT_Image_Feb_4__2026__02_01_42_PM.png">
 </div>
-<p><em>Strong teacher engagement with valuable insights gained through the hands-on marking experience (AI-generated image)</em>
-</p>
+<em>Strong teacher engagement with valuable insights gained through the hands-on marking experience (AI-generated image)</em>
+<p></p>
 <p></p>
 <p>SEAB took over the marking of the N(A)-level Mathematics examinations,
 further developing local assessment expertise in the process.</p>
@@ -40,8 +40,8 @@ establishing a strong foundation for future Mathematics assessments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="markers received marking support" src="/images/SEABlink/ChatGPT_Image_Feb_4__2026__05_26_25_PM.png">
 </div>
-<p><em>Markers appreciated the marking support and timely clarification of queries (AI-generated image)</em>
-</p>
+<em>Markers appreciated the marking support and timely clarification of queries (AI-generated image)</em>
+<p></p>
 <p></p>
 <p>Simultaneously, we have successfully transitioned the marking of N(T)-Level
 Computer Applications (CPA) Practical Paper 3 locally. Paper 3 requires
@@ -66,8 +66,8 @@ CPA colleagues were also helpful in clarifying doubts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="collaboration with MUIS" src="/images/SEABlink/ChatGPT_Image_Feb_4__2026__05_30_52_PM.png">
 </div>
-<p><em>Ongoing collaboration between SEAB and MUIS enables effective transition in test development (AI-generated image)</em>
-</p>
+<em>Ongoing collaboration between SEAB and MUIS enables effective transition in test development (AI-generated image)</em>
+<p></p>
 <p></p>
 <p>The other milestone in 2025 was the complete ownership of test development,
 marking, and grading for the O-Level Arabic and AO-Level Arabic examinations,
