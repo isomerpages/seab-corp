@@ -17,8 +17,8 @@ and Science.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore delegates with Ireland's Chief Inspector and Irish MOE representatives" src="/images/SEABlink/ireland_1.png">
 </div>
-<p><em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
-</p>
+<em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
+<p></p>
 <p></p>
 <p><strong>Understanding Ireland’s education system</strong>
 <br>Ireland operates an 8-3-2 education structure: eight years of primary
@@ -38,14 +38,13 @@ projects that encourage students to understand knowledge interconnectedness.&nbs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="St Brigid Primary School - Ireland's first Human Values school" src="/images/SEABlink/ireland_2.png">
 </div>
-<p><em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;</p>
+<em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A visit to Dalkey School (Project National School)" src="/images/SEABlink/ireland_3.png">
 </div>
-<p><em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;</p>
-<p></p>
+<em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;<p></p>
 <p></p>
 <p>A standout feature is the optional Transition Year Programme, embraced
 by 75% of students. Schools enjoy autonomy in crafting unique curricula
@@ -56,8 +55,8 @@ work experience placements, and document their learning through portfolios.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="King's Hospital School" src="/images/SEABlink/ireland_4.png">
 </div>
-<p><em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
-</p>
+<em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
+<p></p>
 <p></p>
 <p><strong>Balanced assessment approaches</strong>
 <br>Ireland's assessment reforms are equally noteworthy. The Junior Cycle
