@@ -1,7 +1,7 @@
 ---
 title: "Learning from Ireland: Insights from a study trip to Dublin"
 permalink: /seab-link-issue-1-2026/learning-from-ireland-insights-from-a-study-trip-to-dublin/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>In November 2025, Mr Yue Lip Sin, Chief Executive of SEAB and Ms Haslinda
@@ -17,7 +17,8 @@ and Science.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore delegates with Ireland's Chief Inspector and Irish MOE representatives" src="/images/SEABlink/ireland_1.png">
 </div>
-<em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
+<p><em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
+</p>
 <p></p>
 <p><strong>Understanding Ireland’s education system</strong>
 <br>Ireland operates an 8-3-2 education structure: eight years of primary
@@ -37,12 +38,14 @@ projects that encourage students to understand knowledge interconnectedness.&nbs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="St Brigid Primary School - Ireland's first Human Values school" src="/images/SEABlink/ireland_2.png">
 </div>
-<em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;<p></p>
+<p><em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>&nbsp;</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A visit to Dalkey School (Project National School)" src="/images/SEABlink/ireland_3.png">
 </div>
-<em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;<p></p>
+<p><em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>&nbsp;</p>
+<p></p>
 <p></p>
 <p>A standout feature is the optional Transition Year Programme, embraced
 by 75% of students. Schools enjoy autonomy in crafting unique curricula
@@ -53,7 +56,8 @@ work experience placements, and document their learning through portfolios.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="King's Hospital School" src="/images/SEABlink/ireland_4.png">
 </div>
-<em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
+<p><em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
+</p>
 <p></p>
 <p><strong>Balanced assessment approaches</strong>
 <br>Ireland's assessment reforms are equally noteworthy. The Junior Cycle
@@ -72,11 +76,10 @@ curriculum approach.</p>
 <p>This exchange underscores the value of international collaboration in
 education, providing insights that can inform Singapore's continued curriculum
 evolution.&nbsp;</p>
-<p><strong><em>Suggested Reads</em></strong><em>&nbsp;</em>
-</p>
-<p><strong>Insights from SEAB’s Study Trip to China</strong>&nbsp;</p>
-<p>p.4&nbsp;</p>
-<p><a href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="Hyperlink SCXW36960824 BCX8" rel="noreferrer noopener" target="_blank"><u>SEAB-link Issue 2/2024</u></a>&nbsp;</p>
+<hr>
+<h4><strong>Suggested Reads&nbsp;</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="trip to China" src="/images/SEABlink/china_trip.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from SEAB’s study trip to China </div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
