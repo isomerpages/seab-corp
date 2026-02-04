@@ -47,7 +47,7 @@ professional growth of our teachers. We are encouraged to expand our efforts
 in supporting professional growth across the education sector.&nbsp;</p>
 <p>&nbsp;</p>
 <hr>
-<h4><strong>Suggested Reads:</strong></h4>
+<h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TWA+ LJ participants 2025" src="/images/SEABlink/twa2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Meaningful Engagements and Milestones at SEAB&nbsp;</div><div class="isomer-card-link">SEAB-link Issue 2/2025</div></div></a>
 </div>
 <p></p>
