@@ -10,7 +10,7 @@ these examinations using school-owned devices.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="N(T)-Level Science e-Exam leverages on rich multimedia like animations, simulations and videos" src="/images/SEABlink/e_exams_pld_1.png">
 </div>
-<em>The N(T)-Level Science e-Examination leverages on rich multimedia like animations, simulations and videos.</em>
+<em>The N(T)-Level Science e-Examination leverages rich multimedia like animations, simulations and videos.</em>
 <p></p>
 <p>As part of the Personalised Digital Learning Programme (PDLP) implemented
 in 2021, secondary school students have been using their Personal Learning
