@@ -67,5 +67,5 @@ Science and Mother Tongue Languages e-Examinations with their PLDs.</p>
 Overall, close to 90% of students reported that they were comfortable using
 their PLDs for national e-Examinations.</p>
 <p>With the positive results from the 2025 examinations, SEAB looks forward
-to working with more schools to journey on the use of students’ PLDs in
-e-Examinations!</p>
+to working with some pilot schools to journey on the use of students’ PLDs in
+e-Examinations involving N(A) subjects!</p>
