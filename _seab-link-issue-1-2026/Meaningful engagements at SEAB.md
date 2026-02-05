@@ -19,7 +19,6 @@ Education, Mr Simon Plummer, Senior Ministry Partnership Manager, and Mr
 Darren Skates, Project Manager.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cambridge delegation with SEAB management" src="/images/SEABlink/cambridge_1.png">
-</div>
 <em>Cambridge delegation with SEAB management</em>
 <p></p>
 <p></p>
@@ -46,12 +45,10 @@ providing both parties with opportunities to enhance their collaborative
 efforts in examination and assessment services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="knowledge exchange in action" src="/images/SEABlink/cambridge_3.png">
-</div>
 <em>Knowledge exchange in action - Cambridge delegates gained firsthand insights into SEAB's exam operations, assessment practices and the rich sustained partnership between Cambridge and Singapore.</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="work and fun go hand in hand" src="/images/SEABlink/cambridge_2.png">
-</div>
 <em>The visit from Cambridge delegates proved that work and fun go hand in hand - from formal discussions to memorable meals and visits in Singapore.</em>
 <p></p>
 <p></p>
@@ -67,13 +64,11 @@ from the North, South, and West Zones. On 21 November 2025, SEAB welcomed
 a second group comprising School Leaders from the East Zone.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE Schools Division (North, South, West)" src="/images/SEABlink/MOE_SD_1.png">
-</div>
 <em>MOE Schools Division (North, South, and West Zone) colleagues with SEAB management</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE East Zone School Leaders" src="/images/SEABlink/MOE_SD_2.png">
-</div>
 <em>MOE East Zone School Leaders with SEAB management</em>
 <p></p>
 <p></p>
@@ -124,4 +119,4 @@ national education goals.</p>
 </a>
 </div>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p></div></div></div></div></div>
