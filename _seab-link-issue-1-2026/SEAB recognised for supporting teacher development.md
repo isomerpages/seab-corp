@@ -1,7 +1,7 @@
 ---
 title: SEAB recognised for supporting teacher development
-permalink: /seab-recognised-for-supporting-teacher-development/
-variant: tiptap
+permalink: /seab-link-issue-1-2026/seab-recognised-for-supporting-teacher-development/
+variant: markdown
 description: ""
 ---
 <p>SEAB was honoured to receive the Partner of Academy of Singapore Teachers
@@ -11,44 +11,45 @@ HomeTeamNS Khatib, with Ms Liew Wei Li, Director-General of Education serving
 as the guest of honour. A total of 40 organisations from the public and
 private sectors received this prestigious award, which acknowledges exceptional
 support and contributions toward professional development of Ministry of
-Education officers.&nbsp;</p>
-<p>&nbsp;</p>
+Education officers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="receiving award from AST" src="/images/SEABlink/partnership_development_award.png">
 </div>
-<p><em>Ms Irene Wong, Senior Assistant Director, receiving the award from Mrs Loke-Yeo Teck Yong, Executive Director of AST, on SEAB’s behalf.</em>&nbsp;</p>
-<p>&nbsp;</p>
+<em>Ms Irene Wong, Senior Assistant Director, receiving the award from Mrs Loke-Yeo Teck Yong, Executive Director of AST, on SEAB’s behalf.</em>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="close up of the award trophy and certificate" src="/images/SEABlink/partnership_development_award_and_cert.png">
 </div>
-<p><em>A close-up of the award trophy and certificate. A proud moment for SEAB!</em>&nbsp;</p>
+<em>A close-up of the award trophy and certificate. A proud moment for SEAB!</em>
 <p>SEAB's recognition stems from our contributions to teachers' professional
 development through work attachments and enriching learning journey programmes.
 SEAB had supported AST's Teacher Work Attachment Plus (TWA+) Programme,
 which aims to provide teachers with immersive short-term work attachment
-experiences that have proven invaluable to their professional growth.&nbsp;&nbsp;</p>
+experiences that have proven invaluable to their professional growth.</p>
 <p>Beginning as a learning journey in 2024, this became a cornerstone of
 SEAB’s yearly engagement with educators from 2025 onwards, enhanced with
 more comprehensive programme elements to deepen stakeholder engagement.
 Participants have provided positive feedback about these experiences, highlighting
 how they offered valuable insights about SEAB’s work and mission. These
 sessions have demystified SEAB’s processes, fostering greater understanding
-of our work in the education landscape.&nbsp;</p>
-<p>&nbsp;</p>
+of our work in the education landscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TWA+ LJ 2025 participants" src="/images/SEABlink/TWA__2025.jpg">
 </div>
-<p><em>Happy faces of officers who attended the 2025 TWA+ Learning Journey in April 2025</em>&nbsp;</p>
+<em>Happy faces of officers who attended the 2025 TWA+ Learning Journey in April 2025</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="heritage gallery tour for TWA+ participants" src="/images/SEABlink/twa__heritage_gallery.png">
 </div>
-<p>&nbsp;<em>Heritage Gallery tour for the participants of the TWA+ Learning Journey&nbsp;</em>&nbsp;</p>
-<p>
-<br>This recognition underscores SEAB's unwavering commitment to supporting
+<em>Heritage Gallery tour for the participants of the TWA+ Learning Journey</em>
+<p></p>
+<p>This recognition underscores SEAB's unwavering commitment to supporting
 the broader educational community and contributing meaningfully to the
 professional growth of our teachers. We are encouraged to expand our efforts
-in supporting professional growth across the education sector.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Suggested article:&nbsp;</p>
-<p><a href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="Hyperlink SCXW16568166 BCX8" rel="noreferrer noopener" target="_blank"><u>Meaningful Engagements and Milestones at SEAB</u></a>&nbsp;</p>
+in supporting professional growth across the education sector.</p>
+<p></p>
+<hr>
+<h4><strong>Suggested Reads</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TWA+ LJ participants 2025" src="/images/SEABlink/twa2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Meaningful Engagements and Milestones at SEAB&nbsp;</div><div class="isomer-card-link">SEAB-link Issue 2/2025</div></div></a>
+</div>
+<p></p>
