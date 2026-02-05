@@ -16,7 +16,6 @@ for Economic Co-operation and Development (OECD) averages in Mathematics
 and Science.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore delegates with Ireland's Chief Inspector and Irish MOE representatives" src="/images/SEABlink/ireland_1.png">
-</div>
 <em>Singapore delegates with Ms Yvonne, Ireland’s Chief Inspector and Irish MOE representatives</em>
 <p></p>
 <p></p>
@@ -37,12 +36,10 @@ Development exemplify this approach through interdisciplinary, solutions-focused
 projects that encourage students to understand knowledge interconnectedness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="St Brigid Primary School - Ireland's first Human Values school" src="/images/SEABlink/ireland_2.png">
-</div>
 <em>A visit to St Brigid Primary School – Ireland's first Human Values school</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A visit to Dalkey School (Project National School)" src="/images/SEABlink/ireland_3.png">
-</div>
 <em>A visit to Dalkey School (Project National School) with its established Forest School and Sea School programmes, including weekly Forest Fridays for all pupils.</em>
 <p></p>
 <p></p>
@@ -54,7 +51,6 @@ work experience placements, and document their learning through portfolios.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="King's Hospital School" src="/images/SEABlink/ireland_4.png">
-</div>
 <em>Students from King's Hospital School shared insights on their Transition Year Programme during focused discussions.</em>
 <p></p>
 <p></p>
@@ -78,4 +74,4 @@ evolution.</p>
 <hr>
 <h4><strong>Suggested Reads&nbsp;</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://file.go.gov.sg/seab-link-issue-2-2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="trip to China" src="/images/SEABlink/china_trip.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights from SEAB’s study trip to China </div><div class="isomer-card-link">SEAB-link Issue 2/2024</div></div></a>
-</div>
+</div></div></div></div></div>

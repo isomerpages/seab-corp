@@ -27,12 +27,10 @@ of our Mother Tongue Languages.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chinese Language cloze passage" src="/images/SEABlink/CL_cloze.png">
-</div>
 <br><em>Screenshot of a Chinese Language cloze passage Multiple Choice Question</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Malay language reading compre" src="/images/SEABlink/ML_compre_reading.jpg">
-</div>
 <br><em>Close-up of an open-ended Malay Language reading comprehension question</em>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -41,13 +39,11 @@ of our Mother Tongue Languages.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tamil language e-exam" src="/images/SEABlink/TL_FIB_2.jpg">
-</div>
 <br><em>Interactive items such as drag and drop (above), fill in the blank features (bottom) as shown in the Tamil Language Paper 2 enhance the test-taking experiences of students</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%" height="auto" width="80%" alt="Student answering questions on a laptop during Chinese Language e-Exam" src="/images/SEABlink/Student_taking_CL_e_Exams.jpg">
-</div>
 <em>A photo of a student answering questions on a laptop during a Chinese Language e-Examination</em>
 <p></p>
 <hr>
@@ -66,4 +62,4 @@ of our Mother Tongue Languages.&nbsp;</p>
 </div>
 </a>
 </div>
-<p></p>
+<p></p></div></div></div></div>

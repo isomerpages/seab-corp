@@ -23,7 +23,6 @@ festive foods, including pani puri, creating an authentic and inclusive
 experience for all staff.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="appetising Deepavali spread" src="/images/SEABlink/deepa1.png">
-</div>
 <em>An appetising display of Deepavali favourites greeted the staff</em>
 <p></p>
 <p></p>
@@ -35,7 +34,6 @@ colours that transformed the workplace atmosphere during the busy period.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="vibrant attire matching vibrant spirits" src="/images/SEABlink/deepa4.png">
-</div>
 <em>Vibrant attire matching vibrant spirits during the Deepavali festivities.</em>
 <p></p>
 <p></p>
@@ -46,7 +44,6 @@ and shared enjoyment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="teh tarik challenge" src="/images/SEABlink/deepa2.png">
-</div>
 <em>Despite having no experience, the participants put their heart into the teh tarik challenge.</em>
 <p></p>
 <p>SEAB management participated in the symbolic lighting of oil lamps. This
@@ -59,7 +56,6 @@ art and the significance of muruku, helped deepen staff’s’ appreciation
 for this important festival.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="oil lamp lighting" src="/images/SEABlink/deepa3.png">
-</div>
 <em>SEAB management participated in the timeless tradition of lighting oil lamps</em>
 <p></p>
 <p>The highlight was undoubtedly the energetic Bhangra performance by the
@@ -69,7 +65,6 @@ This interactive element perfectly captured the spirit of Deepavali as
 a celebration that brings people together across cultural boundaries.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="bhangra performance" src="/images/SEABlink/deepa5.png">
-</div>
 <em>Staff joined the vibrant Bhangra dancers on stage, embracing the joy and unity of Deepavali celebrations.</em>
 <p></p>
 <p></p>
@@ -82,7 +77,6 @@ year-end "It's (Finally) Friday Season's Greetings" event on 28 November
 and savoury festive treats.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="sumptuous year-end feast" src="/images/SEABlink/yec1.png">
-</div>
 <em> SEAB staff enjoying their sumptuous festive treats.</em>
 <p></p>
 <p></p>
@@ -104,7 +98,6 @@ to SEAB over the past three years. His guidance has left a lasting mark
 on the organisation, and SEAB wished him the very best in his future endeavours.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Former DAPD Tan Kuo Cheang giving his farewell speech" src="/images/SEABlink/yec2.png">
-</div>
 <em>Former Director of Assessment Planning and Development Division, Mr Tan Kuo Cheang giving his farewell speech during the year-end session</em>
 <p></p>
 <p></p>
@@ -119,13 +112,11 @@ brought out the best in everyone's competitive spirit whilst fostering
 camaraderie across levels!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Christmas tree decorations" src="/images/SEABlink/yec3.png">
-</div>
 <em>Creative Christmas tree decorations by Levels 7, 8, and 9 (from left to right).</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" alt="Winner is Level 8" src="/images/SEABlink/yec4.png">
-</div>
 <em>Mr Yue presenting the certificate of achievement to Ms Tan Jia Min, the level representative for level 8 which won the Christmas tree decoration competition.</em>
 <p></p>
 <p></p>
@@ -137,13 +128,11 @@ walked away as winners. This drew much excitement from everyone as they
 eagerly drew out their lucky numbers in anticipation of their prizes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="staff collecting prizes" src="/images/SEABlink/yec5.png">
-</div>
 <em>SEAB staff eagerly collecting their prizes after drawing their lucky numbers.</em>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="happy recipients" src="/images/SEABlink/yec6.png">
-</div>
 <em>SEAB staff showing their prizes after drawing their lucky numbers. Happy faces all around!</em>
 <p></p>
 <p></p>
@@ -152,7 +141,6 @@ it was clear that this celebration achieved exactly what it set out to
 do: closing 2025 on a high note filled with joy, gratitude, and togetherness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 SEABlings committee" src="/images/SEABlink/yec7.png">
-</div>
 <em>Members of the 2025 SEABlings’ Committee which organised the "It's (Finally) Friday Season's Greetings" event with SEAB's Chief Executive, Mr Yue Lip Sin.</em>
 <p></p>
 <p></p>
@@ -170,7 +158,6 @@ O-Level Science examination, staff also got to enjoy an ice-cream treat
 where they could choose from 11 exciting flavours!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="queuing up for treats" src="/images/SEABlink/hr1.png">
-</div>
 <em>Staff queuing up eagerly for their choice of bubble tea and ice cream treats</em>
 <p></p>
 <p></p>
@@ -202,4 +189,4 @@ you to all staff for all the commitment and hard work once again!</p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p></div></div></div></div></div></div></div></div></div></div></div></div></div>
