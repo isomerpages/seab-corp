@@ -18,9 +18,8 @@ would enable the SEC results to be processed in time for results release.&nbsp;<
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="maths markers collaborate" src="/images/SEABlink/ChatGPT_Image_Feb_4__2026__02_01_42_PM.png">
-</div>
-<p><em>Strong teacher engagement with valuable insights gained through the hands-on marking experience (AI-generated image)</em>
-</p>
+<em>Strong teacher engagement with valuable insights gained through the hands-on marking experience (AI-generated image)</em>
+<p></p>
 <p>SEAB took over the marking of the N(A)-level Mathematics examinations,
 further developing local assessment expertise in the process.</p>
 <p>Over five days in October 2025, about one hundred dedicated teachers participated
@@ -34,9 +33,8 @@ and observe how various approaches to problems were recognised and accepted.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="markers received marking support" src="/images/SEABlink/ChatGPT_Image_Feb_4__2026__05_26_25_PM.png">
-</div>
-<p><em>Markers appreciated the marking support and timely clarification of queries (AI-generated image)</em>
-</p>
+<em>Markers appreciated the marking support and timely clarification of queries (AI-generated image)</em>
+<p></p>
 <p>Simultaneously, we have successfully transitioned the marking of N(T)-Level
 Computer Applications (CPA) Practical Paper 3 locally. Paper 3 requires
 candidates to demonstrate diverse digital skills through video creation,
@@ -58,9 +56,8 @@ CPA colleagues were also helpful in clarifying doubts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="collaboration with MUIS" src="/images/SEABlink/ChatGPT_Image_Feb_4__2026__05_30_52_PM.png">
-</div>
-<p><em>Ongoing collaboration between SEAB and MUIS enables effective transition in test development (AI-generated image)</em>
-</p>
+<em>Ongoing collaboration between SEAB and MUIS enables effective transition in test development (AI-generated image)</em>
+<p></p>
 <p>The other milestone in 2025 was the complete ownership of test development,
 marking, and grading for the O-Level Arabic and AO-Level Arabic examinations,
 transitioning these responsibilities with strong support from MUIS.</p>
@@ -74,4 +71,4 @@ and maintain the high standards Singapore's education system is known for.</p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-3-2025/seab-hosts-moe-assessment-champions-nlc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Assessment Champions 2025" src="/images/SEABlink/CE_assessmentchampion.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SEAB hosts MOE Assessment Champions Networked Learning Community (NLC)</div><div class="isomer-card-link">SEAB-link Issue 3/2025</div></div></a>
 </div>
-<p></p>
+<p></p></div></div></div>
