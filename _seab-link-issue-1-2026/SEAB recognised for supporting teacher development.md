@@ -14,12 +14,10 @@ support and contributions toward professional development of Ministry of
 Education officers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="receiving award from AST" src="/images/SEABlink/partnership_development_award.png">
-</div>
 <em>Ms Irene Wong, Senior Assistant Director, receiving the award from Mrs Loke-Yeo Teck Yong, Executive Director of AST, on SEAB’s behalf.</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="close up of the award trophy and certificate" src="/images/SEABlink/partnership_development_award_and_cert.png">
-</div>
 <em>A close-up of the award trophy and certificate. A proud moment for SEAB!</em>
 <p>SEAB's recognition stems from our contributions to teachers' professional
 development through work attachments and enriching learning journey programmes.
@@ -35,12 +33,10 @@ sessions have demystified SEAB’s processes, fostering greater understanding
 of our work in the education landscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TWA+ LJ 2025 participants" src="/images/SEABlink/TWA__2025.jpg">
-</div>
 <em>Happy faces of officers who attended the 2025 TWA+ Learning Journey in April 2025</em>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="heritage gallery tour for TWA+ participants" src="/images/SEABlink/twa__heritage_gallery.png">
-</div>
 <em>Heritage Gallery tour for the participants of the TWA+ Learning Journey</em>
 <p></p>
 <p>This recognition underscores SEAB's unwavering commitment to supporting
@@ -52,4 +48,4 @@ in supporting professional growth across the education sector.</p>
 <h4><strong>Suggested Reads</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.seab.gov.sg/seab-link-issue-2-2025/meaningful-engagements-and-milestones-at-seab/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TWA+ LJ participants 2025" src="/images/SEABlink/twa2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Meaningful Engagements and Milestones at SEAB&nbsp;</div><div class="isomer-card-link">SEAB-link Issue 2/2025</div></div></a>
 </div>
-<p></p>
+<p></p></div></div></div></div>
