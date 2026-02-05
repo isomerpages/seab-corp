@@ -9,7 +9,6 @@ national examinations by SEAB since 2013. Students have been sitting for
 these examinations using school-owned devices.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="N(T)-Level Science e-Exam leverages on rich multimedia like animations, simulations and videos" src="/images/SEABlink/e_exams_pld_1.png">
-</div>
 <em>The N(T)-Level Science e-Examination leverages rich multimedia like animations, simulations and videos.</em>
 <p></p>
 <p>As part of the Personalised Digital Learning Programme (PDLP) implemented
@@ -22,7 +21,6 @@ knowledge and skills using a device that they are familiar with.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students use digital answer booklets on their PLDs and refer to hardcopy question paper" src="/images/SEABlink/e_exams_pld_2.png">
-</div>
 <em>Students refer to a hardcopy question paper and type their responses into a Digital Answer Booklet (DAB) on their PLDs for the e-Examination component of the Social Studies subject.</em>
 <p></p>
 <p><strong>Studies on use of PLDs in time-based assessments</strong>
@@ -45,7 +43,6 @@ PLDs in such assessments during the studies:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Briefing and demo for schools" src="/images/SEABlink/e_exams_pld_3_teachers.png">
-</div>
 <em>SEAB conducted briefing and demonstration sessions for the teachers in the pilot schools.</em>
 <p><strong>Successful implementation of e-Examinations using PLDs</strong>
 </p><p>Students from Crest Secondary School and Spectra Secondary School were
@@ -60,7 +57,6 @@ Science and Mother Tongue Languages e-Examinations with their PLDs.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Crest and Spectra showed positive engagement during practice sessions" src="/images/SEABlink/e_exams_pld_crest_spectra.png">
-</div>
 <em>Students from Crest Secondary (top) and Spectra Secondary (bottom) demonstrated positive engagement during the practice sessions, effectively utilising their PLDs in preparation for the e-Examinations.</em>
 <p></p>
 <p>Feedback from the teachers and students in the two schools were positive.
@@ -68,4 +64,4 @@ Overall, close to 90% of students reported that they were comfortable using
 their PLDs for national e-Examinations.</p>
 <p>With the positive results from the 2025 examinations, SEAB looks forward
 to working with some pilot schools to journey on the use of students’ PLDs in
-e-Examinations involving N(A) subjects!</p>
+e-Examinations involving N(A) subjects!</p></div></div></div></div>
