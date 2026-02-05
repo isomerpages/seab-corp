@@ -15,8 +15,9 @@ issue reflects our notable progress in 2025.&nbsp;</p>
 <p>The implementation of electronic examinations for N(A)-Level Mother Tongue
 Languages marks another leap in our e-Examinations journey. Building on
 successful Personal Learning Device (PLD) implementation for GCE N(T)-Level
-e-Exams from pilot schools Crest Secondary and Spectra Secondary, we look
-forward to expanding PLD use in e-Examinations with more schools in 2026.&nbsp;</p>
+e-Examinations from pilot schools Crest Secondary and Spectra Secondary,
+we look forward to expanding PLD use in e-Examinations with more schools
+in 2026.&nbsp;</p>
 <p>The recognition of SEAB as Partner of the Academy of Singapore Teachers
 underscores the collaborative spirit defining our work. This spirit extends
 to our workplace culture, where we prioritise staff well-being through
