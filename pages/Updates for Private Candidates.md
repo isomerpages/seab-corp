@@ -4,10 +4,8 @@ permalink: /updatesforprivatecandidates/
 variant: tiptap
 description: Updates for Private Candidates
 ---
-<h4><strong>2025 Updates for Private Candidates</strong></h4>
-<p>The registration and subject amendments for the 2025 GCE-Level examinations
-for private candidates have ended on 28 May 2025.
-<br>If you would like to register for the 2026 GCE-Level examinations as a
+<h4><strong>2026 Updates for Private Candidates</strong></h4>
+<p>If you would like to register for the 2026 GCE-Level examinations as a
 private candidate, please visit this page in March 2026.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

@@ -577,7 +577,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>History ~</p>
+<p>History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -589,12 +589,13 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Literature in English ~</p>
+<p>Literature in English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8841, 9539</p>
@@ -603,7 +604,8 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -652,7 +654,7 @@ their formats and requirements.</p>
 </tr>
 </tbody>
 </table>
-<p>~ e-Exam resources for these subjects will be made available once ready.</p>
+<p></p>
 <p></p>
 <p><strong>O-Level</strong>
 </p>
@@ -726,7 +728,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>History ~</p>
+<p>History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2174</p>
@@ -735,7 +737,8 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -757,7 +760,6 @@ their formats and requirements.</p>
 </tr>
 </tbody>
 </table>
-<p>~ e-Exam resources for these subjects will be made available once ready.</p>
 <p></p>
 <p><strong>N(A)-Level</strong>
 </p>
@@ -855,7 +857,7 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>History ~</p>
+<p>History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2195</p>
@@ -864,7 +866,8 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -886,7 +889,6 @@ their formats and requirements.</p>
 </tr>
 </tbody>
 </table>
-<p>~ e-Exam resources for these subjects will be made available once ready.</p>
 <p></p>
 <p><strong>N(T)-Level</strong>
 </p>
