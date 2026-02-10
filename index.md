@@ -60,6 +60,15 @@ sections:
       url: /important-dates-for-candidates/
       image: /images/HomePage/important_dates.png
   - infopic:
+      title: Updates for Private Candidates
+      id: infopic
+      description: Please access this page for updates about the 2026 GCE-Level
+        examinations.
+      button: VIEW DETAILS
+      alt: registration
+      image: /images/notebook_registration_06.jpg
+      url: /updatesforprivatecandidates/
+  - infopic:
       title: Beyond Pen and Paper
       id: infopic
       description: Explore how real-world contexts and interactive multimedia are
@@ -70,14 +79,14 @@ sections:
       image: /images/HomePage/BPAP_for_website.jpg
       alt: Image alt text
   - infopic:
-      title: Updates for Private Candidates
+      title: Secondary Education Certificate (SEC)
       id: infopic
-      description: Please access this page for updates about the 2026 GCE-Level
-        examinations.
-      button: VIEW DETAILS
-      alt: registration
-      image: /images/notebook_registration_06.jpg
-      url: /updatesforprivatecandidates/
+      description: The Singapore-Cambridge Secondary Education Certificate will be
+        implemented in 2027 in line with Full Subject-Based Banding (FSBB).
+      button: Find out more
+      url: /secondary-education-certificate-sec/
+      image: /images/SEC.jpg
+      alt: secondary school students
   - resources:
       title: 📰 Highlights & News
       subtitle: LATEST
