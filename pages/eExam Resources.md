@@ -776,7 +776,7 @@ their formats and requirements.</p>
 <p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">e-Examination guide</a>
 </p>
 <p></p>
-<p><a href="https://www.youtube.com/watch?v=PrihN8e_kmA" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
