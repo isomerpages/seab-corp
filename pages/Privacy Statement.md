@@ -42,7 +42,7 @@ not responsible for the content and privacy practices of these other digital
 services and we encourage you to consult the privacy notices of those digital
 services.</p>
 <p><u>Contact Information</u>
-<br>7. Please <a href="https://form.gov.sg/#!/5dc02f345f93b5001904159d" rel="noopener noreferrer nofollow" target="_blank"><u>contact us</u></a> if
+<br>7. Please <a href="https://www.go.gov.sg/askus-seab" rel="noopener noreferrer nofollow" target="_blank"><u>contact us</u></a> if
 you:
 <br>a.&nbsp;have any enquiries or feedback on our data protection policies
 and procedures; or

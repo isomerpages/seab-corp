@@ -623,9 +623,9 @@ their formats and requirements.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+<br>
 </p>
-<p></p>
-<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
