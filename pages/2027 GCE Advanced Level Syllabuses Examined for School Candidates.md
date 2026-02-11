@@ -581,7 +581,8 @@ from SEAB.&nbsp;</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
 &nbsp;
-<br><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_2_RefG.pdf" rel="noopener noreferrer nofollow" target="_blank">Reference Guide for H2 Computing</a>&nbsp;</p>
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_2_RefG.pdf" rel="noopener noreferrer nofollow" target="_blank">Reference Guide for H2 Computing</a>&nbsp;
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
