@@ -714,8 +714,8 @@ understand the revised examination format.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Private Cddts/2027/9569_y27_sy.pdf" class="Hyperlink SCXW43348664 BCX8" rel="noreferrer noopener" target="_blank"><u>Computing</u></a>&nbsp;
-<br>[Revised]&nbsp;</p>
-<p>Software:&nbsp;
+<br>[Revised]&nbsp;
+<br>Software:&nbsp;
 <br>• Python 3.11.7
 <br>• Flask 3.12&nbsp;
 <br>• Scikit-learn 1.7.2
@@ -734,9 +734,10 @@ understand the revised examination format.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;~
-<br>Paper 2&nbsp;~
-<br>Reference Guide for H2 Computing&nbsp;~&nbsp;</p>
+<p><a href="/files/A Level Syllabus Private Cddts/2027/9569_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a>&nbsp;|
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9569_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a>&nbsp;|
+<br><a href="/files/A Level Syllabus Private Cddts/2027/9569_y27_sp_2_RefG.pdf" rel="noopener noreferrer nofollow" target="_blank">Reference Guide for H2 Computing</a>&nbsp;
+<br>[2026]&nbsp;</p>
 </td>
 </tr>
 <tr>
