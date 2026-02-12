@@ -579,7 +579,7 @@ from SEAB.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
-<br><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 2</a> |
+<br><a href="https://go.gov.sg/9569-y27-sp-2" rel="noopener nofollow" target="_blank">Paper 2</a> |
 &nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_2_RefG.pdf" rel="noopener noreferrer nofollow" target="_blank">Reference Guide for H2 Computing</a>&nbsp;
 <br>[2026]</p>
