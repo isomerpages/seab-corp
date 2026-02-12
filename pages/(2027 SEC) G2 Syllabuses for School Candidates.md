@@ -296,8 +296,8 @@ from SEAB.&nbsp;</p>
 <p>N.A.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1~
-<br>Paper 2~
+<p><a href="https://go.gov.sg/k237-y27-sp-1" rel="noopener nofollow" target="_blank">Paper 1</a> 
+<br><a href="https://go.gov.sg/k237-y27-sp-2" rel="noopener nofollow" target="_blank">Paper 2</a>
 <br>
 </p>
 </td>
