@@ -578,9 +578,11 @@ from SEAB.&nbsp;</p>
 <p>9569&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1&nbsp;~
-<br>Paper 2 ~&nbsp;
-<br>Reference Guide for H2 Computing&nbsp;~</p>
+<p><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<br><a href="https://go.gov.sg/9569-y27-sp-2" rel="noopener nofollow" target="_blank">Paper 2</a> |
+&nbsp;
+<br><a href="/files/A Level Syllabus Sch Cddts/2027/9569_y27_sp_2_RefG.pdf" rel="noopener noreferrer nofollow" target="_blank">Reference Guide for H2 Computing</a>&nbsp;
+<br>[2026]</p>
 </td>
 </tr>
 <tr>
@@ -829,7 +831,8 @@ H1 Mathematics (8865), H2 Mathematics (9758) and H2 Further Mathematics
 (9649) syllabuses&nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/SEAB_Chemistry_Data_Booklet_8873_9476_9813.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Data Booklet</u></a> for
 H1 Chemistry (8873) and H2 Chemistry (9476) syllabuses.&nbsp;&nbsp;
-<br>~ These documents will be made available soon.</p>
+<br>
+</p>
 <h4><strong>H3 Cambridge Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 100px">
 <colgroup>
