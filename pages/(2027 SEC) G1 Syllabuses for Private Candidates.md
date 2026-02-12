@@ -210,7 +210,7 @@ format.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>~ This document will be made available soon.</p>
+<p></p>
 <h4><strong>Local Subjects</strong>&nbsp;</h4>
 <table style="minWidth: 125px">
 <colgroup>
