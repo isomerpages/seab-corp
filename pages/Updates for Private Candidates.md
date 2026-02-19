@@ -5,8 +5,14 @@ variant: tiptap
 description: Updates for Private Candidates
 ---
 <h4><strong>2026 Updates for Private Candidates</strong></h4>
-<p>If you would like to register for the 2026 GCE-Level examinations as a
-private candidate, please visit this page in March 2026.</p>
+<p>The registration exercise for private candidates taking the 2026 Singapore-Cambridge
+GCE-Level examinations will commence from 7 to 20 April 2026. Registration
+will be conducted through the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a>. More
+details about the eligibility criteria, registration guidelines, procedures
+and examination fees will be updated on this page in March 2026.
+<br>
+<br>If you are eligible for Singpass, please ensure that your Singpass account
+is updated and functioning properly before registration begins.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>ELIGIBILITY CRITERIA AND REGISTRATION GUIDELINES</strong>
