@@ -1,0 +1,10 @@
+---
+title: Release of 2025 Singapore Cambridge GCE Advanced Level Examination
+  Results on 27 February 2026
+permalink: /release-of-2025-singapore-cambridge-gce-advanced-level-examination-results-on-27-february-2026/
+date: 2026-02-20
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
