@@ -1,7 +1,7 @@
 ---
 title: S AEIS Test Details
 permalink: /s-aeis/test-details/
-variant: markdown
+variant: tiptap
 description: Test Details
 ---
 <p>Please refer to <a href="https://www.moe.gov.sg/international-students/s-aeis/test-details" rel="noopener noreferrer nofollow" target="_blank"><u>MOE's website</u></a> for
@@ -65,7 +65,7 @@ final answers.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade his/her answers for the multiple-choice
-questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
+questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/api/media/512b4c41-5687-4a44-bd86-ad58c0a3ae11/Sample-OAS.png" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
 </td>
 </tr>
 </tbody>
@@ -100,9 +100,9 @@ of solutions as compared to short-answer questions.</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade their answers for the multiple-choice
-questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
+questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/api/media/512b4c41-5687-4a44-bd86-ad58c0a3ae11/Sample-OAS.png" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
 </td>
 </tr>
 </tbody>
@@ -152,9 +152,9 @@ of solutions as compared to short-answer questions.</p>
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>The applicant will need a pencil to shade their answers for the multiple-choice
-questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
+questions on the&nbsp;<strong><a href="https://www.moe.gov.sg/api/media/512b4c41-5687-4a44-bd86-ad58c0a3ae11/Sample-OAS.png" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong>&nbsp;(140KB).</p>
 </td>
 </tr>
 </tbody>
