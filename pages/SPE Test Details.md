@@ -1,7 +1,7 @@
 ---
 title: SPE Test Details
 permalink: /spe/test-details/
-variant: markdown
+variant: tiptap
 description: SPE Test Details
 ---
 <p>The dates of the Supplementary Placement Exercise (SPE) tests can be found
@@ -82,11 +82,14 @@ minutes to complete Part 1, and 1 hour and 45 minutes to complete Part
 2. They will not be allowed to use a calculator.</p>
 <h4><strong>Part 1</strong></h4>
 <p>Multiple-choice questions: 34 items</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="text-align:left;background-color:#c2e7ff;" rowspan="1" colspan="1">
-<p>The applicant will need a pencil to shade the answers on the <strong><a href="https://www.moe.gov.sg/-/media/files/others/sample-oas.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong> provided.</p>
+<td rowspan="1" colspan="1">
+<p>The applicant will need a pencil to shade the answers on the <strong><a href="https://www.moe.gov.sg/api/media/512b4c41-5687-4a44-bd86-ad58c0a3ae11/Sample-OAS.png" rel="noopener noreferrer nofollow" target="_blank"><u>Optical Answer Sheet (OAS)</u></a></strong> provided.</p>
 </td>
 </tr>
 </tbody>

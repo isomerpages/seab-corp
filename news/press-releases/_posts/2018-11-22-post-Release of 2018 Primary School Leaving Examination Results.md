@@ -29,7 +29,7 @@ Form, there will be a unique S1 Personal Identification Number (S1 PIN)
 which can be used to submit their secondary school choices online via the
 Secondary One Internet System. This will be accessible from 11.00am on
 22 November 2018 to 3.00pm on 28 November 2018 through the Ministry of
-Education’s (MOE) website at <a href="https://www.moe.gov.sg/admissions/secondary-one-posting-exercise/submit-sch-choices" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/secondary-one-posting-exercise/submit-sch-choices</a>.
+Education’s (MOE) website at https://www.moe.gov.sg/admissions/secondary-one-posting-exercise/submit-sch-choices.
 Alternatively, the option form can be submitted through the student’s primary
 school. Submission at primary schools can be made during the following
 timeslots: 11.00am to 3.00pm on 22 November 2018, and 9.00am to 3.00pm

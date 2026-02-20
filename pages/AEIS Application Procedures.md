@@ -12,12 +12,12 @@ the AEIS application periods.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Create your individual account in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer" target="_blank"><u>Candidates Portal (CP)</u></a>&nbsp;during
-the application period.&nbsp; Please refer to the <a href="https://www.moe.gov.sg/-/media/files/international-students/aeis-user-guide-for-candidates-portal.pdf" rel="noopener nofollow" target="_blank">user guide</a> on
+the application period.&nbsp; Please refer to the <a href="https://www.moe.gov.sg/api/media/73b7a6f0-1fe6-4550-9fb9-ecabf5382e9b/AEIS-User-Guide-for-Candidates-Portal.pdf" rel="noopener nofollow" target="_blank">user guide</a> on
 account creation in CP.</p>
 <p></p>
 </li>
 <li>
-<p>Read through the <a href="https://www.moe.gov.sg/-/media/files/international-students/instructions-to-candidates.pdf" rel="noopener nofollow" target="_blank">Instructions to Candidates</a>.
+<p>Read through the <a href="https://www.moe.gov.sg/api/media/78323d61-3bc5-4015-9813-dee2863ea766/Instructions-to-candidates.pdf" rel="noopener nofollow" target="_blank">Instructions to Candidates</a>.
 <br>
 </p>
 </li>
