@@ -7,40 +7,28 @@ description: ""
 image: ""
 variant: markdown
 ---
-<ol data-tight="true" class="tight">
-<li>
-<p>Candidates who sat for the 2025 Singapore-Cambridge General Certificate
+<p>1. Candidates who sat for the 2025 Singapore-Cambridge General Certificate
 of Education Advanced Level (GCE A-Level) examination received their results
-from their schools today<sup>1</sup>.</p>
-</li>
-<li>
-<p>A total of 10,977 candidates sat for the examination, with 10,393 (94.7%)
+from their schools today.</p>
+<p>2. A total of 10,977 candidates sat for the examination, with 10,393 (94.7%)
 attaining at least 3 H2 passes, with a pass in General Paper (GP)<sup>2</sup>.This
 is the first cohort to sit for the GCE A-Level examination under the revised
 computation method of the University Admission Score (UAS)<sup>3</sup>.</p>
-</li>
-<li>
-<p>Under the revised system, the fourth content-based subject is included
+<p>3. Under the revised system, the fourth content-based subject is included
 only if it improves the candidate’s final UAS. Project Work is excluded
 from this computation as it is now a Pass/Fail subject.</p>
-</li>
-<li>
-<p>These changes were introduced to give students greater agency in calibrating
+<p>4. These changes were introduced to give students greater agency in calibrating
 their learning load for better holistic development and student well-being.
 They are also meant to encourage students to pursue their learning interests,
 such as in choosing their fourth content-based subject and Project Work
 topic by interest, without being overly concerned about examination grades.</p>
-</li>
-<li>
-<p>Early indicators suggest that students have better managed their learning
+<p>5. Early indicators suggest that students have better managed their learning
 load. Feedback from students indicates reduced test anxiety over their
 fourth content-based subject. In addition, a larger proportion of students
 were able to offer H3 subjects in 2025 compared to 2024, allowing them
 to explore the subject in greater depth. More students also participated
 in Science Research Enrichment programmes. These trends indicate a shift
 towards interest-driven learning.</p>
-</li>
-</ol>
 <p><strong>Applications to Autonomous Universities</strong>
 </p>
 <p>6. Students who wish to apply for admission to the Autonomous Universities
@@ -67,15 +55,15 @@ pathways available to them to make informed decisions about their next
 steps. They may refer to the following websites for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)</p>
+<p>MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">moe.gov.sg/coursefinder</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture Student Portal (<a href="https://www.go.gov.sg/mysfpreu" rel="noopener nofollow" target="_blank">https://www.go.gov.sg/mysfpreu</a>)</p>
+<p>MySkillsFuture Student Portal (<a href="https://www.go.gov.sg/mysfpreu" rel="noopener nofollow" target="_blank">go.gov.sg/mysfpreu</a>)</p>
 </li>
 </ul>
 <p>10. Students may also consult their teachers or ECG Counsellors in their
 respective schools about their next steps. Alternatively, they can make
-an ECG counselling appointment via the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.
+an ECG counselling appointment via the ECG Centre @ MOE at <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
 The ECG Centre @ MOE offers online or phone counselling services from Monday,
 23 February 2026 to Thursday, 19 March 2026 from 9am to 5pm on weekdays,
 and from 9am to 12pm on Saturdays.</p>
