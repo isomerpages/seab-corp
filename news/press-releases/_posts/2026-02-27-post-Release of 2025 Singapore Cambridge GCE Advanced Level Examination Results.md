@@ -17,7 +17,7 @@ from their schools today<sup>1</sup>.</p>
 <p>A total of 10,977 candidates sat for the examination, with 10,393 (94.7%)
 attaining at least 3 H2 passes, with a pass in General Paper (GP)<sup>2</sup>.This
 is the first cohort to sit for the GCE A-Level examination under the revised
-computation method of the University Admission Score (UAS)</p>
+computation method of the University Admission Score (UAS)<sup>3</sup>.</p>
 </li>
 <li>
 <p>Under the revised system, the fourth content-based subject is included
