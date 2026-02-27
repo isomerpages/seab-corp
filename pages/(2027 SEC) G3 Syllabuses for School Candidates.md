@@ -49,7 +49,7 @@ from SEAB.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A<a href="/files/G3 Lvl Syllabus School Cddts/2027/K367_y27_sy.pdf" rel="noopener nofollow" target="_blank">file</a>rabic&nbsp;</p>
+<p>Arabic&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>K366</p>
@@ -1099,7 +1099,7 @@ agencies.&nbsp;</p>
 <p>6081&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
