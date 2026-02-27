@@ -1099,7 +1099,7 @@ agencies.&nbsp;</p>
 <p>6081&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
