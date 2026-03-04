@@ -21,7 +21,7 @@ safeguards, so parents need not repeatedly submit similar assessments across
 schooling stages.</p>
 <p><strong>RESPONSE</strong>
 </p>
-<ol data-tight="true" class="tight">
+<ol style="font-size: 16px;" start="1" data-tight="true" class="tight">
 <li>
 <p>The Ministry of Education (MOE) and Singapore Examinations and Assessment
 Board (SEAB) are committed to ensuring that students with special educational
@@ -29,7 +29,7 @@ needs (SEN) receive appropriate access arrangements (AA) that enable them
 to demonstrate their abilities in national examinations.</p>
 </li>
 </ol>
-<ol start="2" data-tight="true" class="tight">
+<ol style="font-size: 16px;" start="2" data-tight="true" class="tight">
 <li>
 <p>Applications for AA can be submitted one year before, and no later than
 two months before the examination date. Schools work with parents to submit
@@ -37,7 +37,7 @@ documentation to SEAB, such as diagnostic reports and observation reports
 of students' learning needs and specific challenges requiring accommodations.</p>
 </li>
 </ol>
-<ol start="3" data-tight="true" class="tight">
+<ol style="font-size: 16px;" start="3" data-tight="true" class="tight">
 <li>
 <p>Since January 2025, SEAB had briefed schools that students with previously
 approved AA for the same medical condition are no longer required to resubmit
