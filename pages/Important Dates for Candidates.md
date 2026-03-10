@@ -162,20 +162,20 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dates of 2025 Results Release^</strong>
+<p><strong>Dates of 2026 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 December 2025</p>
+<p>Thu, 17 December – Mon, 21 December2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 January 2026</p>
+<p>Wed, 13 January – Fri, 15 January 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 February 2026</p>
+<p>Fri, 19 February – Tue, 23 February 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 August 2025</p>
+<p>Thu, 20 August – Mon, 24 August 2026</p>
 </td>
 </tr>
 </tbody>
