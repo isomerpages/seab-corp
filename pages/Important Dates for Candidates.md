@@ -44,11 +44,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2025 Results Release</strong>
+<p><strong>Date of 2026 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues, 25 November 2025</p>
+<p>Tue, 24 November – Wed, 25 November 2026</p>
 </td>
 </tr>
 </tbody>
