@@ -113,6 +113,8 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <td rowspan="1" colspan="1">
 <p><strong>Deadline for Withdrawal</strong>
 </p>
+<p><strong>(Private Candidates)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>1 September 2025</p>
@@ -127,7 +129,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>23 May 2025</p>
+<p>20 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -154,7 +156,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>1 July 2025</p>
+<p>25 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -182,12 +184,12 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </table>
 <p>*<a href="https://go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">Contact SEAB</a>&nbsp;if
 you have not received the following by the dates indicated:
-<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 26
-May 2025
+<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 21
+May 2026
 <br><strong>Science Practical Examination</strong>  <strong>Schedule </strong>-
 7 days before the examination date
-<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 2 July
-2025
+<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 26
+June 2026
 <br>
 <br>
 </p>
