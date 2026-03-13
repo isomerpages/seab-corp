@@ -16,59 +16,58 @@ further information.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>RESEARCH OFFICER, ASSESSMENT RESEARCH - 2 YEAR CONTRACT</strong>
+<summary><strong>ASSISTANT MANAGER / MANAGER (MARKING AND MODERATION), EXAM OPERATIONS DIVISION - 2-YEAR CONTRACT</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Job Responsibilities</strong>
 </p>
-<p></p>
-<p>Successful applicant will play an active role in researching educational
-measurement and assessment issues, as well as developing assessment services
-and products that are fit for purpose, educationally sound, and positively
-transforming for stakeholders. The key responsibilities include:</p>
-<p></p>
+<p>Successful applicant will play an active role in providing strategic administrative
+oversight and operational excellence in post-examination activities, with
+a focus on marking and moderation processes that impact educational outcomes
+across multiple institutions. The key responsibilities include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Conduct research studies which focus on harnessing technology to assess
-complex competencies for 21st Century education</p>
+<p>Manage and deliver strategic administrative and operational oversight
+for large-scale post-examination activities</p>
 </li>
 <li>
-<p>Apply statistical techniques to support assessment-related analysis</p>
+<p>Conduct comprehensive exam system testing and business flow validation
+to identify areas of enhancement</p>
 </li>
 <li>
-<p>Provide project management and consultancy services for assessment projects</p>
+<p>Drive process improvement initiatives through data analysis, workflow
+optimisation, and automation implementation</p>
+</li>
+<li>
+<p>Support operational excellence through data management, documentation
+creation, and stakeholder and examination workflow management</p>
 </li>
 </ul>
 <p></p>
 <p><strong>Job Requirements</strong>
 </p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tertiary qualification in Statistics</p>
+<p>Preferably a bachelor’s degree with at least 2 years of relevant experience
+in education sector or public administration</p>
 </li>
 <li>
-<p>Experience in research studies, educational measurements and/or data analytics
-(e.g. machine learning &amp; data mining)</p>
+<p>Professional certification(s) in project management, process improvement,
+or quality assurance would be advantageous</p>
 </li>
 <li>
-<p>Experience in the education sector will be an advantage - Proficient in
-the use of statistical analysis software (e.g. STATA, SAS, RUMM2020, R-Programming)</p>
+<p>Experience with system testing and process improvements</p>
 </li>
 <li>
-<p>Experience in the use of coding applications (such as Visual Studio) with
-C/C#/C++, Visual Basic or Java Programming, will be useful</p>
+<p>Possess strong analytical and problem-solving skills</p>
 </li>
 <li>
-<p>Adaptable, meticulous individual with excellent analytical skills</p>
+<p>A team player with excellent communication and coordination skills</p>
 </li>
 <li>
-<p>Able to communicate complex concepts in applied and practical manner to
-get buy-in from stakeholder groups</p>
-</li>
-<li>
-<p>Enjoy working in teams in a dynamic and creative work environment</p>
+<p>Able to work under pressure, meet deadlines, and demonstrate adaptability
+in a fast-paced environment. &nbsp;</p>
 </li>
 </ul>
 </div>
