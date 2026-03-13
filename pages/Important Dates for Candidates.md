@@ -116,7 +116,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>1 September 2025</p>
+<p>1 September 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
