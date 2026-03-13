@@ -112,8 +112,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Deadline for Withdrawal</strong>
-</p>
-<p><strong>(Private Candidates)</strong>
+<br><strong>(Private Candidates)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
