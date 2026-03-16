@@ -67,7 +67,7 @@ or quality assurance would be advantageous</p>
 </li>
 <li>
 <p>Able to work under pressure, meet deadlines, and demonstrate adaptability
-in a fast-paced environment. &nbsp;</p>
+in a fast-paced environment&nbsp;</p>
 </li>
 </ul>
 </div>
