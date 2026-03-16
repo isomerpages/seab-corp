@@ -44,11 +44,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date of 2025 Results Release</strong>
+<p><strong>Date of 2026 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues, 25 November 2025</p>
+<p>Tue, 24 November – Wed, 25 November 2026</p>
 </td>
 </tr>
 </tbody>
@@ -112,10 +112,11 @@ image: /images/HomePage/SEAB_logo_topbar.png
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Deadline for Withdrawal</strong>
+<br><strong>(Private Candidates)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>1 September 2025</p>
+<p>1 September 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -127,7 +128,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>23 May 2025</p>
+<p>20 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -154,7 +155,7 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>1 July 2025</p>
+<p>25 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -162,32 +163,32 @@ image: /images/HomePage/SEAB_logo_topbar.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dates of 2025 Results Release^</strong>
+<p><strong>Dates of 2026 Results Release^</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 December 2025</p>
+<p>Thu, 17 December – Mon, 21 December2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 January 2026</p>
+<p>Wed, 13 January – Fri, 15 January 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 February 2026</p>
+<p>Fri, 19 February – Tue, 23 February 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 August 2025</p>
+<p>Thu, 20 August – Mon, 24 August 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>*<a href="https://go.gov.sg/askus-seab" rel="noopener nofollow" target="_blank">Contact SEAB</a>&nbsp;if
 you have not received the following by the dates indicated:
-<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 26
-May 2025
+<br><strong>Mid-Year Examination</strong>  <strong>Entry Proof</strong> - 21
+May 2026
 <br><strong>Science Practical Examination</strong>  <strong>Schedule </strong>-
 7 days before the examination date
-<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 2 July
-2025
+<br><strong>Year-End Examination</strong>  <strong>Entry Proof</strong> - 26
+June 2026
 <br>
 <br>
 </p>
