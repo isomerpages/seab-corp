@@ -24,7 +24,7 @@ education, in Singapore.&nbsp;
 <div class="isomer-card-title">PSLE Formats Examined in 2026</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-psle" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2025 PSLE Rules and Regulations For Candidates" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2025 PSLE Rules and Regulations For Candidates</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/seab-rulesandregulations-psle" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2026 PSLE Rules and Regulations For Candidates" src="/images/pslerulesandreg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026 PSLE Rules and Regulations For Candidates</div><div class="isomer-card-link"> </div></div></a>
 <a rel="noopener noreferrer nofollow" href="/access-arrangements" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
