@@ -4,7 +4,12 @@ permalink: /gce-o-level/about-gce-o-level/
 variant: tiptap
 description: About GCE O-Level
 ---
-<p>the Singapore-Cambridge General Certificate of Education Ordinary Level
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="test image upload for new COMET image" src="/images/test_isomer_picture_upload.png">
+</div>
+<p></p>
+<p>The Singapore-Cambridge General Certificate of Education Ordinary Level
 (GCE O-Level) examination is an annual national examination that is taken
 by school and private candidates in Singapore.</p>
 <p>More information about the GCE O-Level examination is available below.</p>
