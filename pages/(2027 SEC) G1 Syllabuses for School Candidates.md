@@ -109,7 +109,9 @@ from SEAB.&nbsp;</p>
 <p>6128&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1~ | Insert~</p>
+<p><a href="/files/G1 Lvl Syllabus School Cddts/2027/K126_y27_sp_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/G1 Lvl Syllabus School Cddts/2027/K126_y27_si_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +175,8 @@ from SEAB.&nbsp;</p>
 </tbody>
 </table>
 <p>* Changes in syllabus content only. No change to scheme of assessment.
-<br>~ This document will be made available soon.</p>
+<br>
+</p>
 <h4><strong>MOE-ITE Applied Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 100px">
 <colgroup>

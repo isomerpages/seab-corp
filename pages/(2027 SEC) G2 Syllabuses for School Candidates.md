@@ -386,7 +386,9 @@ from SEAB.&nbsp;</p>
 <p>6127&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1~ | Insert~</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_sp_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_si_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -449,7 +451,8 @@ from SEAB.&nbsp;</p>
 <p>° Subject/Paper with e-Examination. Refer to <a href="https://www.seab.gov.sg/e-exam-resources/" class="Hyperlink SCXW179592892 BCX8" rel="noreferrer noopener" target="_blank"><u>e-Exam Resources for School Candidates</u></a> for
 details.
 <br>* Changes in syllabus content only. No change to scheme of assessment.
-<br>~ This document will be made available soon.</p>
+<br>
+</p>
 <h4><strong>Local Subjects</strong><em>&nbsp;</em></h4>
 <table style="minWidth: 125px">
 <colgroup>

@@ -649,7 +649,9 @@ from SEAB.&nbsp;</p>
 <p>6114&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1 ~ | Insert ~</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K347_y27_sp_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/G3 Lvl Syllabus School Cddts/2027/K347_y27_si_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -667,8 +669,10 @@ from SEAB.&nbsp;</p>
 <p>6124&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1 ~ | Insert ~
-<br>Paper 3 ~</p>
+<p><a href="/files/G3 Lvl Syllabus School Cddts/2027/K348_y27_sp_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/G3 Lvl Syllabus School Cddts/2027/K348_y27_si_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br><a href="/files/G3 Lvl Syllabus School Cddts/2027/K348_y27_sp_3_v0_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 3</a> 
+</p>
 </td>
 </tr>
 <tr>
