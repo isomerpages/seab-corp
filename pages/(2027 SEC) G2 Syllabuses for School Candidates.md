@@ -386,9 +386,9 @@ from SEAB.&nbsp;</p>
 <p>6127&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_sp_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
-<a href="/files/G2 Lvl Syllabus School Cddts/2027/K236_y27_si_1_v0_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
-</p>
+<p><a href="/files/G2 Lvl Syllabus School Cddts/2027/k236_y27_sp_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Paper 1</a> |
+<a href="/files/G2 Lvl Syllabus School Cddts/2027/k236_y27_si_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Insert</a>
+<br>[2025]</p>
 </td>
 </tr>
 <tr>
