@@ -169,7 +169,7 @@ the registration fees if incorrect information is provided.</p>
 </p>
 <p>You should pay your examination fees via a credit/debit card or PayNow
 in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>&nbsp;before
-the registration deadline of <strong>20 April 2026, 11:00 pm</strong>. You
+the registration deadline of <strong>20 April 2026, 11.00 pm</strong>. You
 will not be registered for the examinations if payment is made after this
 deadline.</p>
 <p></p>
