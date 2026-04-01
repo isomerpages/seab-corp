@@ -41,7 +41,7 @@ process and will be flagged as being tampered with.</p>
 <p>PSLE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From 1976 onwards to 2024</p>
+<p>From 1976 onwards to 2025</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ process and will be flagged as being tampered with.</p>
 <p>GCE N(T)- and N(A)-Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From 1984 onwards to 2024</p>
+<p>From 1984 onwards to 2025</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ process and will be flagged as being tampered with.</p>
 <p>GCE O-Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From 1975 onwards to 2024</p>
+<p>From 1975 onwards to 2025</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ process and will be flagged as being tampered with.</p>
 <p>GCE A-Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From 1975 onwards to 2024</p>
+<p>From 1975 onwards to 2025</p>
 </td>
 </tr>
 </tbody>

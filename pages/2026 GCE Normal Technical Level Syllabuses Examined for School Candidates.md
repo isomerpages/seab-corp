@@ -146,7 +146,7 @@ from SEAB.</p>
 </table>
 <p>* Last year of exam in 2026.
 <br>N(T) candidates can offer up to three subjects at the GCE N(A)-Level examinations
-if NTIL is included. The list of NTILs can be found under the <a href="/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2025/" rel="noopener noreferrer nofollow" target="_blank"><u>2025 GCE N(A)-Level syllabuses</u></a> for
+if NTIL is included. The list of NTILs can be found under the <a href="https://www.seab.gov.sg/gce-na-level/na-level-syllabuses-examined-for-school-candidates-2026/" rel="noopener nofollow" target="_blank">2026 GCE N(A)-Level syllabuses</a> for
 school candidates.</p>
 <h4><strong>MOE-ITE Applied Subjects</strong></h4>
 <table style="minWidth: 75px">
