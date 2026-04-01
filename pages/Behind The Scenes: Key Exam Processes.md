@@ -14,8 +14,7 @@ description: "Behind The Scenes: Key Exam Processes"
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Behind The Scene PSLE" src="/images/Examinations Images/PSLE/psle_behind_the_scene.png">
 </div>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/psle/pslemarkingprocess.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to view in PDF</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
