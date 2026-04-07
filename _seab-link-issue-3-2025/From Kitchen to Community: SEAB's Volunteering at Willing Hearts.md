@@ -11,7 +11,7 @@ serving beneficiaries such as the elderly, persons with disabilities, low-income
 families, and migrant workers. Through their meal provision service, they
 strive to improve lives with dignity and care.&nbsp;</p>
 <p>To mark SG60, our goal was to have 60 SEAB staff join the event—but we
-were delighted when even more signed up, achieving 65 volunteers. Over
+were delighted when even more signed up, achieving 63 volunteers. Over
 six sessions, held between 24 June and 4 August 2025, SEAB staff rolled
 up their sleeves and contributed to a variety of tasks, including food
 preparation, washing utensils, meal packing, and food delivery.&nbsp;</p>
