@@ -4,8 +4,9 @@ permalink: /secondary-education-certificate-sec/g3-syllabuses-for-private-candid
 variant: tiptap
 description: ""
 ---
-<p>Here are the 2027 Singapore-Cambridge Secondary Education Certificate
-(SEC) Level G3 examination syllabuses that are offered to private candidates.&nbsp;</p>
+<p>Here are the G3 subject syllabuses under the 2027 Singapore-Cambridge
+Secondary Education Certificate (SEC) examinations that are offered to
+private candidates.</p>
 <p>For syllabuses that have been revised, the specimen papers are available
 on the website for three years, including the year of posting. We seek
 your understanding that some items / images / resources may not be available
