@@ -115,7 +115,7 @@ that are located near the various MRT stations.</p>
 <p>Secondary Schools for <strong>GCE N(A)-/N(T)-/O-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Train Disruption/Northeast_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
+<p><a href="/files/Train Disruption/North_South_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
