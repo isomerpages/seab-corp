@@ -13,7 +13,7 @@ description: train disruption advice
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inform your school, and continue to make your way to your school.</p>
+<p>Inform your school and continue to make your way to your school.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please be assured that you will be given the full duration to sit for
