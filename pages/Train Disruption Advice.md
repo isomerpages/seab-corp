@@ -13,7 +13,7 @@ description: train disruption advice
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inform your school, and continue to make your way to your school.</p>
+<p>Inform your school and continue to make your way to your school.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please be assured that you will be given the full duration to sit for
@@ -94,8 +94,14 @@ end of the paper.</p>
 your arrival. You will be given the full duration of your paper.</p>
 </li>
 <li>
-<p>You can refer to the <a href="/files/Train Disruption/2025_train_disruption_listing_cec___23_June_2025_updated.pdf" rel="noopener nofollow" target="_blank">list of papers held at centralised examination centres</a>.
-For these papers, you should report to the designated exam centre indicated
+<p>You can refer to the list of papers held at centralised examination centres:
+<br>• <a href="/files/Train Disruption/GCE_N_Level_CEC_List.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N(A)/N(T)-Level subjects </a>
+<br>• <a href="/files/Train Disruption/GCE_O_Level_CEC_List.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O-Level subjects</a> 
+<br>• <a href="/files/Train Disruption/GCE_A_Level_CEC_List.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE A-Level subjects</a>
+</p>
+</li>
+<li>
+<p>For these papers, you should report to the designated exam centre indicated
 in your entry proof even if you are unable to reach before the end of the
 paper.</p>
 </li>
@@ -109,78 +115,78 @@ that are located near the various MRT stations.</p>
 <p>Secondary Schools for <strong>GCE N(A)-/N(T)-/O-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Train Disruption/Sec__North_South_Line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
+<p><a href="/files/Train Disruption/Northeast_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__East_West_Line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
+<p><a href="/files/Train Disruption/East_West_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__Northeast_Line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
+<p><a href="/files/Train Disruption/Northeast_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__Circle_Line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
+<p><a href="/files/Train Disruption/Circle_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__Downtown_Line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
+<p><a href="/files/Train Disruption/Downtown_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__Thomson_East_Coast_Line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
+<p><a href="/files/Train Disruption/Thomson_East_Coast_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__Bukit_Panjang_LRT.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
+<p><a href="/files/Train Disruption/Bukit_Panjang_LRT_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__Puggol_LRT.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
+<p><a href="/files/Train Disruption/Punggol_LRT_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/Sec__Seng_Kang_LRT.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
+<p><a href="/files/Train Disruption/Sengkang_LRT_Line__Sec_.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
 </p>
 </li>
 </ul>
 <p>Junior Colleges/Centralised Institutes for <strong>GCE A-Level</strong> candidates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Train Disruption/JC__North_South_Line.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
+<p><a href="/files/Train Disruption/North_South_Line__JC_.pdf" rel="noopener nofollow" target="_blank">North-South Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__East_West_Line.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
+<p><a href="/files/Train Disruption/East_West_Line__JC_.pdf" rel="noopener nofollow" target="_blank">East-West Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__Northeast_Line.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
+<p><a href="/files/Train Disruption/Northeast_Line__JC_.pdf" rel="noopener nofollow" target="_blank">North-East Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__Circle_Line.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
+<p><a href="/files/Train Disruption/Circle_Line__JC_.pdf" rel="noopener nofollow" target="_blank">Circle Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__Downtown_Line.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
+<p><a href="/files/Train Disruption/Downtown_Line__JC_.pdf" rel="noopener nofollow" target="_blank">Downtown Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__Thomson_East_Coast_Line.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
+<p><a href="/files/Train Disruption/Thomson_East_Coast_Line__JC_.pdf" rel="noopener nofollow" target="_blank">Thomson-East Coast Line</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__Bukit_Panjang_LRT.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
+<p><a href="/files/Train Disruption/Bukit_Panjang_LRT_Line__JC_.pdf" rel="noopener nofollow" target="_blank">Bukit Panjang LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__Puggol_LRT.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
+<p><a href="/files/Train Disruption/Punggol_LRT_Line__JC_.pdf" rel="noopener nofollow" target="_blank">Punggol LRT</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Train Disruption/JC__Seng_Kang_LRT.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
+<p><a href="/files/Train Disruption/Sengkang_LRT_Line__JC_.pdf" rel="noopener nofollow" target="_blank">Sengkang LRT</a>
 </p>
 </li>
 </ul>
