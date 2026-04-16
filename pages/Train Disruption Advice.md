@@ -95,9 +95,9 @@ your arrival. You will be given the full duration of your paper.</p>
 </li>
 <li>
 <p>You can refer to the list of papers held at centralised examination centres:
-<br>• GCE N(A)/N(T)-Level subjects</p>
-<p>• GCE O-Level subjects</p>
-<p>• GCE A-Level subjects</p>
+<br>• GCE N(A)/N(T)-Level subjects
+<br>• GCE O-Level subjects
+<br>• GCE A-Level subjects</p>
 </li>
 <li>
 <p>For these papers, you should report to the designated exam centre indicated
