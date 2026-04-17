@@ -511,6 +511,9 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
 </p>
+<p></p>
+<p><a href="https://youtu.be/dHjYYn12uRc" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -607,7 +610,7 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/s3faeu_cZaw" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
@@ -622,7 +625,7 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/s3faeu_cZaw" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
@@ -643,7 +646,7 @@ their formats and requirements.</p>
 <p><a href="https://go.gov.sg/chinastudiesinenglishguide" rel="noopener nofollow" target="_blank">e-Examination guide</a>
 <br>
 </p>
-<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/s3faeu_cZaw" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
@@ -658,7 +661,7 @@ their formats and requirements.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/tEcApAKiT8U" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/yRY2XRUvL2Y" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
@@ -755,7 +758,7 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/s3faeu_cZaw" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
@@ -821,7 +824,7 @@ their formats and requirements.</p>
 <p><a href="https://go.gov.sg/nahumantiesrevisedssp1guide" rel="noopener nofollow" target="_blank">e-examination guide</a>
 </p>
 <p></p>
-<p><a href="https://youtu.be/Ax6T_B2J0fg" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/s3faeu_cZaw" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
@@ -884,7 +887,7 @@ their formats and requirements.</p>
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/EpCniIOakmk" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/s3faeu_cZaw" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
@@ -974,7 +977,7 @@ their formats and requirements.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/OCwWl1HpUlU" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+<p><a href="https://youtu.be/g8-676jIJqo" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
