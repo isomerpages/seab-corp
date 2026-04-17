@@ -593,8 +593,19 @@ their formats and requirements.</p>
 <p>9478</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=_2hkf9u2AyU" rel="noopener noreferrer nofollow" target="_blank">e-Examination guide</a>
+<p><a href="https://www.youtube.com/watch?v=_2hkf9u2AyU" rel="noopener noreferrer nofollow" target="_blank">e-Examination video guide</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9749</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>e-Examination video guide</p>
 </td>
 </tr>
 </tbody>
