@@ -605,7 +605,8 @@ their formats and requirements.</p>
 <p>9749</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>e-Examination video guide</p>
+<p><a href="https://youtu.be/s3faeu_cZaw" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 </tbody>
