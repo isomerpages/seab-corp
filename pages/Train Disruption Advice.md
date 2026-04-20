@@ -97,7 +97,7 @@ your arrival. You will be given the full duration of your paper.</p>
 <p>You can refer to the list of papers held at centralised examination centres:
 <br>• <a href="/files/Train Disruption/GCE_N_Level_CEC_List.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N(A)/N(T)-Level subjects </a>
 <br>• <a href="/files/Train Disruption/GCE_O_Level_CEC_List.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O-Level subjects</a> 
-<br>• <a href="/files/Train Disruption/GCE_A_Level_CEC_List.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE A-Level subjects</a>
+<br>• <a href="/files/Train Disruption/GCE_A_Level_CEC_List_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE A-Level subjects</a>
 </p>
 </li>
 <li>
