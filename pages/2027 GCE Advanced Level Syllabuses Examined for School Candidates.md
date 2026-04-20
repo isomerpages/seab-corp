@@ -739,8 +739,8 @@ from SEAB.&nbsp;</p>
 <p><a href="/files/A Level Syllabus Sch Cddts/2027/9736_y27_sp_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 1</u></a> |
 <a href="/files/A Level Syllabus Sch Cddts/2027/9736_y27_st_1.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Transcript</u>
 </a>&nbsp;
-<br><a href="/files/A Level Syllabus Sch Cddts/2027/9736_y27_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
-<a href="/files/A Level Syllabus Sch Cddts/2027/9736_y27_si_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
+<br><a href="/files/A Level Syllabus Sch Cddts/2026/9736_y26_sp_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 2</u></a> |
+<a href="/files/A Level Syllabus Sch Cddts/2026/9736_y26_si_2.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Insert</u>
 </a>&nbsp;
 <br><a href="/files/A Level Syllabus Sch Cddts/2027/9736_y27_sp_3.pdf" class="Hyperlink SCXW88249485 BCX8" rel="noreferrer noopener" target="_blank"><u>Paper 3</u></a>&nbsp;
 <br>[2025]&nbsp;</p>
