@@ -171,12 +171,16 @@ registration.
 <p>Please ensure that you provide correct citizenship information during
 registration. Candidates will be required to pay for the differences in
 the registration fees if incorrect information is provided.</p>
+<p></p>
+<p>A late registration fee of $75.00 (inclusive of GST) per examination level
+will be charged for all registrations made during this supplementary registration
+exercise</p>
 <p>
 <br><strong>Mode of payment</strong>
 </p>
 <p>You should pay your examination fees via a credit/debit card or PayNow
 in the&nbsp;<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener nofollow" target="_blank">Candidates Portal</a>&nbsp;before
-the registration deadline of <strong>20 April 2026, 11.00 pm</strong>. You
+the registration deadline of <strong>26 May 2026, 11.00 pm</strong>. You
 will not be registered for the examinations if payment is made after this
 deadline.</p>
 <p></p>
