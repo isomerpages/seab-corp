@@ -4,12 +4,19 @@ permalink: /updatesforprivatecandidates/
 variant: tiptap
 description: Updates for Private Candidates
 ---
-<h4><strong>2026 Updates for Private Candidates</strong></h4>
-<p>The registration exercise for private candidates taking the 2026 Singapore-Cambridge
-GCE-Level examinations will be held from 7 April 2026, 9.00am to 20 April
-2026, 11.00pm. Registration will be conducted through the <a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a>.</p>
-<p>If you are eligible for Singpass, please ensure that your Singpass account
-is updated and functioning properly before registration begins.</p>
+<h4><strong>2026 Updates for Private Candidates - Supplementary Registration</strong></h4>
+<p>If you missed the main private candidates' registration exercise for the
+2026 Singapore-Cambridge GCE-Level examinations earlier, you can register
+during the supplementary registration exercise from 20 May 2026 (Wednesday)
+to 26 May 2026 (Tuesday), 11.00pm. Registration should be done via the
+<a href="https://myexams.seab.gov.sg/auth/login" rel="noopener noreferrer nofollow" target="_blank">Candidates Portal</a>.</p>
+<p>You can only register for subjects examined in the Year-End examinations
+via the Candidates Portal. Please note that registration for the Mid-Year
+Mother Tongue Language examinations has closed.</p>
+<p>Key information regarding eligibility criteria, registration guidelines,
+procedures and examination fees are presented below. You should read the
+<a href="https://go.gov.sg/registration-information-for-private-candidates" rel="noopener noreferrer nofollow" target="_blank">Registration Information e-booklet</a>for the details before proceeding
+with your registration.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>ELIGIBILITY CRITERIA AND REGISTRATION GUIDELINES</strong>
