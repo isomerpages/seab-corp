@@ -15,7 +15,7 @@ refer to <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow
 further information.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Research Officer, Assessment Research - 2 Year Contract                               </strong>
+<summary><strong>Research Officer, Assessment Research - 2 Year Contract</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
