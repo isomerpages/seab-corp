@@ -8,7 +8,7 @@ description: eExam Resources
 <details class="isomer-details">
 <summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Check out the online guides<sup>~</sup> or <a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a> for
+<p>Check out the <a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a> for
 the following examinations to better understand their format and requirements.
 You will need to download the online guide before you can play the file.</p>
 <p></p>
@@ -451,7 +451,6 @@ You will need to download the online guide before you can play the file.</p>
 </tr>
 </tbody>
 </table>
-<p>~ Online guides will be made available at a later date.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -654,13 +653,17 @@ their formats and requirements.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Chinese Language and Literature [Revised]
-<br>Malay Language and Literature [Revised]
-<br>Tamil Language and Literature [Revised]</p>
+<br>
+</p>
+<p>Malay Language and Literature [Revised]
+<br>
+</p>
+<p>Tamil Language and Literature [Revised]</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9575
-<br>9576
+<p>9575,
+<br>9576,
 <br>9577</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -989,7 +992,8 @@ their formats and requirements.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2125, 2126, 2127</p>
+<p>2125, 2126,
+<br>2127</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>

@@ -9,7 +9,7 @@ description: eExam Resources for Private Candidates
 <summary>E-ORAL EXAMINATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Check out the online guides<sup>~</sup> or <a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a> for
+<p>Check out the <a href="https://myexams.seab.gov.sg/eoral/eoral.html" rel="noopener noreferrer nofollow" target="_blank">interactive guides</a> for
 the following examinations to better understand their format and requirements.
 You will need to download the online guide before you can play the file.</p>
 <p></p>
@@ -335,7 +335,6 @@ You will need to download the online guide before you can play the file.</p>
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<p>~ Online guides will be made available at a later date.</p>
 </td>
 </tr>
 </tbody>
@@ -503,14 +502,18 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Chinese Language and Literature [Revised]</p>
-<p>Malay Language and Literature [Revised]</p>
-<p>Tamil Language and Literature [Revised]</p>
+<p>Chinese Language and Literature [Revised]
+<br>
+<br>Malay Language and Literature [Revised]
+<br>
+<br>Tamil Language and Literature [Revised]</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9575</p>
+<p></p>
 <p>9576</p>
+<p></p>
 <p>9577</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -619,7 +622,7 @@ their formats and requirements.</p>
 <p>China Studies in English
 <br>
 </p>
-<p>Digital Answer Booklet Video Guide</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9628</p>
@@ -715,6 +718,9 @@ their formats and requirements.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsolevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
 </p>
+<p></p>
+<p><a href="https://youtu.be/ydkRmpwBpQQ" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -797,10 +803,11 @@ their formats and requirements.</p>
 <p>Humanities Paper 1
 <br>Social Studies</p>
 <p></p>
-<p>Digital Answer Booklet Video Guide</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2125, 2126, 2127</p>
+<p>2125, 2126,
+<br>2127</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>

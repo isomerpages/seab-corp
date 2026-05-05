@@ -7,10 +7,17 @@ description: careers
 <p>Singapore Examinations and Assessment Board (SEAB) is a statutory board
 with the mission to provide quality educational assessment and research
 services to our customers in Singapore, and other parts of the world. We
-invite you to join our team for a rewarding and challenging career.
-<br>
-</p>
-<p>Please see the career opportunities available at SEAB below. You may also
+invite you to join our team for a rewarding and challenging career.</p>
+<p>In 2026, we have been recognised among Singapore's Top 300 Employers in
+the inaugural 2025 Singapore Opportunity Index (SOI) – reflecting SEAB’s
+ongoing commitment to creating meaningful career pathways, fostering inclusive
+growth, and investing in our people's potential. Find out more on the
+<a href="https://www.singaporeopportunityindex.sg/company/singapore-examinations-assessment-board" rel="noopener noreferrer nofollow" target="_blank">SOI website</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Singapore Opportunity Index SOI" src="/images/SOI_.jpg">
+</div>
+<p>We invite you to join our team for a rewarding and challenging career.
+<br>Please see the career opportunities available at SEAB below. You may also
 refer to <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov </a>for
 further information.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
