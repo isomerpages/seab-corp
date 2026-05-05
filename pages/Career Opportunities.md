@@ -14,7 +14,7 @@ ongoing commitment to creating meaningful career pathways, fostering inclusive
 growth, and investing in our people's potential. Find out more on the
 <a href="https://www.singaporeopportunityindex.sg/company/singapore-examinations-assessment-board" rel="noopener noreferrer nofollow" target="_blank">SOI website</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Singapore Opportunity Index" src="/images/SOI.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Singapore Opportunity Index SOI" src="/images/SOI_.jpg">
 </div>
 <p>We invite you to join our team for a rewarding and challenging career.
 <br>Please see the career opportunities available at SEAB below. You may also
