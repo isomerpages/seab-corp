@@ -653,13 +653,17 @@ their formats and requirements.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Chinese Language and Literature [Revised]
-<br>Malay Language and Literature [Revised]
-<br>Tamil Language and Literature [Revised]</p>
+<br>
+</p>
+<p>Malay Language and Literature [Revised]
+<br>
+</p>
+<p>Tamil Language and Literature [Revised]</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9575
-<br>9576
+<p>9575,
+<br>9576,
 <br>9577</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -988,7 +992,8 @@ their formats and requirements.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2125, 2126, 2127</p>
+<p>2125, 2126,
+<br>2127</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
