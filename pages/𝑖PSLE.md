@@ -275,9 +275,9 @@ appointed overseas 𝑖PSLE centres:&nbsp;</p>
 <p>Jakarta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Junaida Binte Abdul Aziz
-<br>+62 215883835
-<br><a href="mailto:junaida.aziz@sis-pik.com" rel="noopener nofollow" target="_blank">junaida.aziz@sis-pik.com</a>
+<p>Ms Deby Leman
+<br>+62 87809511770
+<br><a href="mailto:Deby.leman@sis-pik.com" rel="noopener noreferrer nofollow" target="_blank">deby.leman@sis-pik.com</a>
 </p>
 </td>
 </tr>
