@@ -148,15 +148,13 @@ and delivery of national examinations. The key responsibilities include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Managing the planning of schedules and resourcing for examination activities.</p>
+<p>Managing in-house IT systems (i.e. exam systems) and perform User Acceptance
+Tests.</p>
 </li>
-<li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Managing in-house IT systems (i.e.
-exam systems) and perform User Acceptance Tests.</p>
+</ul>
 <p>&nbsp; Being involved in the administration and the conduct of pre-examination
 and examination activities, including the nomination and management of
 Examination Personnel, as well as the conduct of practice and actual examinations.</p>
-</li>
-</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liaising and engaging with schools
 and the public on national examination matters.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting briefings and/or training
