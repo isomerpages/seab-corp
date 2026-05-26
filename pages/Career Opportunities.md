@@ -171,7 +171,7 @@ matters.</p>
 <p>Ensuring security in the delivery of national examinations.</p>
 </li>
 <li>
-<p>Supporting e-examination matters</p>
+<p>Supporting e-examination matters.</p>
 </li>
 <li>
 <p>Ensure accuracy and timeliness in the arrangement and conduct of pre-examination
