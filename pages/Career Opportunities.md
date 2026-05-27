@@ -134,6 +134,72 @@ usage, etc.</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Assistant Manager / Manager (Exam Admin), Exam Operations Division – 2 Year Contract</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Job Responsibilities</strong>
+</p>
+<p>The successful applicant will play an active role in the planning, administration
+and delivery of national examinations. The key responsibilities include:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Managing the planning of schedules and resourcing for examination activities.</p>
+</li>
+<li>
+<p>Managing in-house IT systems (i.e. exam systems) and perform User Acceptance
+Tests.</p>
+</li>
+<li>
+<p>Being involved in the administration and the conduct of pre-examination
+and examination activities, including the nomination and management of
+Examination Personnel, as well as the conduct of practice and actual examinations.</p>
+</li>
+<li>
+<p>Liaising and engaging with schools and the public on national examination
+matters.</p>
+</li>
+<li>
+<p>Conducting briefings and/or training for schools and examination personnel.</p>
+</li>
+<li>
+<p>Handling irregularities and emergency situations during the examinations.</p>
+</li>
+<li>
+<p>Ensuring security in the delivery of national examinations.</p>
+</li>
+<li>
+<p>Supporting e-examination matters.</p>
+</li>
+<li>
+<p>Ensure accuracy and timeliness in the arrangement and conduct of pre-examination
+and examination activities, as well as the processing of examination data.</p>
+</li>
+<li>
+<p>Reviewing work processes, guidelines, and procedures to enhance operational
+security and efficiency.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<p>• At least 1 year of working experience in administrative and/or operations-related
+work.</p>
+<p>• Candidate with experience in managing, enhancing and testing IT systems
+will have an added advantage.</p>
+<p>• Possess strong analytical, proficient problem-solving and good stakeholder
+management skills</p>
+<p>• Possess an innovative mindset and a positive working attitude.</p>
+<p>• Possess a high degree of integrity.</p>
+<p>• Able to multi-task effectively, and is result-driven and meticulous.</p>
+<p>• Able to lead a team of support staff effectively to achieve targets.</p>
+<p>• Possess good verbal and written communication skills.</p>
+<p>• Possess good knowledge in IT applications (e.g., MS Word, Excel, PowerPoint)
+and handling of system-based work.</p>
+</div>
+</details>
 </div>
 <p></p>
 <p><strong>APPLICATION PROCEDURE</strong>
