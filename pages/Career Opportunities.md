@@ -200,6 +200,101 @@ management skills</p>
 and handling of system-based work.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Assistant Manager / Manager (Corporate Communications and Partnership), Corporate Cluster – 2 Year Contract</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Job Responsibilities</strong>:</p>
+<p>&nbsp;</p>
+<p>The key responsibilities include</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Processing and handling public queries and escalated cases (such as cases
+escalated to Political Office Holders and the management of Ministry of
+Education).</p>
+</li>
+<li>
+<p>Ensuring the delivery of high quality and effective services to stakeholders.</p>
+</li>
+<li>
+<p>Conducting analysis of customers’ feedback, identifying customer needs
+and translating them into service journey goals, opportunities, experiences
+and measures of success.</p>
+</li>
+<li>
+<p>Using service tools and technologies to enable end-to-end service delivery
+for improved service experience and productivity.</p>
+</li>
+<li>
+<p>Working with stakeholders to map current processes and identify pain-points,
+redundancies and bottlenecks using continuous improvement frameworks such
+as Service Design Mapping.</p>
+</li>
+<li>
+<p>Developing ground strategies to engage stakeholders in a coordinated and
+sustained manner to educate and seek buy-in of SEAB’s policies and processes.</p>
+</li>
+<li>
+<p>Planning and executing plans to facilitate corporate visits and engagement
+sessions conducted by SEAB for external organisations or educators.</p>
+<p>Working with internal stakeholders to identify and deliver suitable digital
+collaterals that drive external engagement across different digital platforms
+(e.g. website, videos, publications).</p>
+</li>
+<li>
+<p>Conceptualising and proposing engagement strategies and new narratives
+for SEAB’s Heritage Gallery to engage external stakeholders.</p>
+</li>
+<li>
+<p>Working with internal stakeholders to create multimedia content, including
+but not limited to infographics and videos for social media channels.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p><strong>Job Requirements</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>At least 2 years of experience in a customer service environment, preferably
+in the public service.</p>
+</li>
+<li>
+<p>Familiar with the Customer Relation Management Systems such as Call Management
+Systems, Case Management Systems, and with the use of Microsoft applications
+e.g., Microsoft Excel.</p>
+</li>
+<li>
+<p>Experience in event management, social media content mangement and/or
+design work with a strong aesthetic sense in design and creativity would
+be advantageous.</p>
+</li>
+<li>
+<p>Knowledge of Service Design Mapping would be advantageous.</p>
+</li>
+</ul>
+<p>Possess strong communication, stakeholder engagement and project management
+skills.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Proficient in data analytics to generate insights to drive operational
+improvements.</p>
+</li>
+<li>
+<p>Ability to take on challenges with thoughtfulness, drive and appropriate
+urgency.</p>
+</li>
+<li>
+<p>Resilient, meticulous and able to handle competing demands and tight deadlines.</p>
+</li>
+<li>
+<p>Possess a positive working attitude and high level of pro-activeness.</p>
+</li>
+</ul>
+</div>
+</details>
 </div>
 <p></p>
 <p><strong>APPLICATION PROCEDURE</strong>
