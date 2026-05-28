@@ -204,10 +204,12 @@ and handling of system-based work.</p>
 <summary><strong>Assistant Manager / Manager (Corporate Communications and Partnership), Corporate Cluster – 2 Year Contract</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The successful applicant will play an active role in managing and maintaining
+SEAB’s image as a trusted authority in the examinations and assessment,
+and as an organisation that is customer-focused to better engage SEAB’s
+stakeholders through appropriate platforms and channels.</p>
 <p></p>
-<p><strong>Job Responsibilities</strong>:</p>
-<p>&nbsp;</p>
-<p>The key responsibilities include</p>
+<p><strong>Job Responsibilities</strong>:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Processing and handling public queries and escalated cases (such as cases
@@ -238,6 +240,8 @@ sustained manner to educate and seek buy-in of SEAB’s policies and processes.<
 <li>
 <p>Planning and executing plans to facilitate corporate visits and engagement
 sessions conducted by SEAB for external organisations or educators.</p>
+</li>
+<li>
 <p>Working with internal stakeholders to identify and deliver suitable digital
 collaterals that drive external engagement across different digital platforms
 (e.g. website, videos, publications).</p>
@@ -253,9 +257,8 @@ but not limited to infographics and videos for social media channels.</p>
 </ul>
 <p></p>
 <p></p>
-<p><strong>Job Requirements</strong>
+<p><strong>Job Requirements:</strong>
 </p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>At least 2 years of experience in a customer service environment, preferably
@@ -274,10 +277,10 @@ be advantageous.</p>
 <li>
 <p>Knowledge of Service Design Mapping would be advantageous.</p>
 </li>
-</ul>
+<li>
 <p>Possess strong communication, stakeholder engagement and project management
 skills.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Proficient in data analytics to generate insights to drive operational
 improvements.</p>
