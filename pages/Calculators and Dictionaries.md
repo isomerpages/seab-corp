@@ -16,6 +16,17 @@ description: Calculators and Dictionaries
 <div class="isomer-card-title">Approved Dictionary List</div>
 <div class="isomer-card-link"></div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/applicationforapprovalofcalculators" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="calculator" src="/images/cal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application for Approval of Calculators</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/applicationforapprovalofdictionaries" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="dictionary" src="/images/dictionary_image.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Application for Approval of Dictionaries</div>
+<div class="isomer-card-link"></div>
+</div>
 </a>
 </div>
 <p></p>

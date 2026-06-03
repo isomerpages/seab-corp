@@ -502,25 +502,55 @@ their formats and requirements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Chinese Language and Literature [Revised]
-<br>
-<br>Malay Language and Literature [Revised]
-<br>
-<br>Tamil Language and Literature [Revised]</p>
-<p></p>
+<p>Chinese Language and Literature [Revised]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9575</p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank"><u>e-Examination guide</u></a>
+</p>
+<p><a href="https://youtu.be/yU1jfYBKH98" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Malay Language and Literature
+<br>[Revised]</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>9576</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank"><u>e-Examination guide</u></a>
+</p>
+<p><a href="https://youtu.be/koLvPutAFu0" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Tamil Language and Literature
+<br>[Revised]</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>9577</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" rel="noopener nofollow" target="_blank">e-Examination guide</a>
+<p><a href="https://go.gov.sg/eexam2experienceguidewrittensubjectsalevel" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank"><u>e-Examination guide</u></a>
+</p>
+<p><a href="https://youtu.be/AmsgSBvFgiM" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">e-Examination video guide</a>
 </p>
 </td>
 </tr>
