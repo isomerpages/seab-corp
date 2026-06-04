@@ -4,7 +4,7 @@ permalink: /updatesforprivatecandidates/
 variant: tiptap
 description: Updates for Private Candidates
 ---
-<h4><strong>2026 Updates for Private Candidates </strong></h4>
+<h4><strong>2026 Updates for Private Candidates</strong></h4>
 <p>The registration for the 2026 GCE-Level examinations has closed. Please
 visit this page in March 2027 for the details of 2027 registration exercise.</p>
 <p>Key information regarding eligibility criteria, registration guidelines,
