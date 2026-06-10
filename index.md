@@ -4,11 +4,11 @@ title: SEAB - Singapore Examinations and Assessment Board
 description: An Isomer site of Singapore Examinations and Assessment Board
 image: /images/favicon-isomer.ico
 permalink: /
-notification: Our website is migrating to a new look and you might not be able
-  access it from 8:00 PM to midnight on 11 June 2026. We apologise for any
-  inconveniences caused. Private candidates may download their entry proofs for
-  the GCE-Level Year-End examinations from the Candidates Portal from Thursday,
-  25 June 2026.
+notification: 1) Our website is migrating to a new look and you might not be
+  able access it from 8:00 PM to midnight on 11 June 2026. We apologise for any
+  inconvenience caused.  2) Private candidates may download their entry proofs
+  for the GCE-Level Year-End examinations from the Candidates Portal from
+  Thursday, 25 June 2026.
 sections:
   - hero:
       background: /images/HomePage/FINAL_collage_approved.jpg
