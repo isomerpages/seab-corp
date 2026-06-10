@@ -6,7 +6,7 @@ image: /images/favicon-isomer.ico
 permalink: /
 notification: Our website is migrating to a new look and you might not be able
   access it from 8:00 PM to midnight on 11 June 2026. We apologise for any
-  inconvenience in your user experience.
+  inconvenience.
 sections:
   - hero:
       background: /images/HomePage/FINAL_collage_approved.jpg
